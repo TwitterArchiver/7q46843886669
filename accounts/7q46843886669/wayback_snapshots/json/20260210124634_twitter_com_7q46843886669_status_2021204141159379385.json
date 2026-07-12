@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1924817446109876284",
+    "created_at": "2026-02-10T12:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T13:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021204141159379385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831719872612724736",
+          "start": 0,
+          "username": "CC_shenzhen15"
+        },
+        {
+          "end": 26,
+          "id": "1526018966707179520",
+          "start": 15,
+          "username": "SexytoBaby"
+        },
+        {
+          "end": 38,
+          "id": "1692492982187114497",
+          "start": 27,
+          "username": "SexytoDoll"
+        },
+        {
+          "end": 50,
+          "id": "1757780025032802304",
+          "start": 39,
+          "username": "SexytoGirl"
+        },
+        {
+          "end": 62,
+          "id": "1651581863851610112",
+          "start": 51,
+          "username": "SexytoLady"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021204141159379385",
+    "in_reply_to_user_id": "1831719872612724736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924817446109876284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CC_shenzhen15 @SexytoBaby @SexytoDoll @SexytoGirl @SexytoLady 我去卡思嘉"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [SexytoBaby].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "SexytoBaby",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "SexytoBaby"
+    },
+    {
+      "detail": "User has been suspended: [SexytoDoll].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "SexytoDoll",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "SexytoDoll"
+    },
+    {
+      "detail": "User has been suspended: [SexytoGirl].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "SexytoGirl",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "SexytoGirl"
+    },
+    {
+      "detail": "User has been suspended: [SexytoLady].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "SexytoLady",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "SexytoLady"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924817423804596228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZTP7NbAAQ3fr0.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1924817446109876284",
+        "created_at": "2026-02-10T12:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T13:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021204141159379385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831719872612724736",
+              "start": 0,
+              "username": "CC_shenzhen15"
+            },
+            {
+              "end": 26,
+              "id": "1526018966707179520",
+              "start": 15,
+              "username": "SexytoBaby"
+            },
+            {
+              "end": 38,
+              "id": "1692492982187114497",
+              "start": 27,
+              "username": "SexytoDoll"
+            },
+            {
+              "end": 50,
+              "id": "1757780025032802304",
+              "start": 39,
+              "username": "SexytoGirl"
+            },
+            {
+              "end": 62,
+              "id": "1651581863851610112",
+              "start": 51,
+              "username": "SexytoLady"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021204141159379385",
+        "in_reply_to_user_id": "1831719872612724736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924817446109876284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CC_shenzhen15 @SexytoBaby @SexytoDoll @SexytoGirl @SexytoLady 我去卡思嘉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924817423804596228"
+          ]
+        },
+        "author_id": "1831719872612724736",
+        "conversation_id": "1924817446109876284",
+        "created_at": "2025-05-20T13:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924817446109876284"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "肌肉女"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "cos"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "腹肌"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "奶子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1526018966707179520",
+              "start": 21,
+              "username": "SexytoBaby"
+            },
+            {
+              "end": 44,
+              "id": "1692492982187114497",
+              "start": 33,
+              "username": "SexytoDoll"
+            },
+            {
+              "end": 56,
+              "id": "1757780025032802304",
+              "start": 45,
+              "username": "SexytoGirl"
+            },
+            {
+              "end": 68,
+              "id": "1651581863851610112",
+              "start": 57,
+              "username": "SexytoLady"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lK9xVyKAwq",
+              "end": 92,
+              "expanded_url": "https://x.com/CC_shenzhen15/status/1924817446109876284/photo/1",
+              "media_key": "3_1924817423804596228",
+              "start": 69,
+              "url": "https://t.co/lK9xVyKAwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924817446109876284",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 58103,
+          "like_count": 425,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#肌肉女 #cos  #腹肌 #奶子\n📬：@SexytoBaby\n@SexytoDoll\n@SexytoGirl\n@SexytoLady https://t.co/lK9xVyKAwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1646,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 190
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:43:51.000Z",
+        "description": "原创博主女 美国运动委员会ACE-CPT\n健美运动员 没过🚪的口嗨不回复  不互勉 不过门槛一律不回复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ccshenzhen12",
+                "end": 23,
+                "expanded_url": "http://t.me/ccshenzhen12",
+                "start": 0,
+                "url": "https://t.co/UEHZjfo5Jf"
+              }
+            ]
+          }
+        },
+        "id": "1831719872612724736",
+        "location": "🚪398 门 全国✈️",
+        "name": "cValeriecccshenzhen15",
+        "pinned_tweet_id": "1915592235909079531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831720889953505280/6cQk7mEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18543,
+          "following_count": 266,
+          "like_count": 15,
+          "listed_count": 68,
+          "media_count": 1248,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/UEHZjfo5Jf",
+        "username": "CC_shenzhen15",
+        "verified": false
+      }
+    ]
+  }
+}

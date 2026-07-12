@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047521583099744411",
+    "created_at": "2026-04-24T03:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047521583099744411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947800363752386560",
+          "start": 3,
+          "username": "xiao_zhibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047521583099744411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047237251139330384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiao_zhibei: 这个摇杆怎么这么好玩每次躺在床上和吃了炫迈一样根本停不下来的拨弄这个摇杆然后流出白色液体然后过一会继续就这么玩到液体变成无色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047521583099744411",
+        "created_at": "2026-04-24T03:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047521583099744411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947800363752386560",
+              "start": 3,
+              "username": "xiao_zhibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047521583099744411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047237251139330384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiao_zhibei: 这个摇杆怎么这么好玩每次躺在床上和吃了炫迈一样根本停不下来的拨弄这个摇杆然后流出白色液体然后过一会继续就这么玩到液体变成无色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947800363752386560",
+        "conversation_id": "2047237251139330384",
+        "created_at": "2026-04-23T08:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047237251139330384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047237251139330384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个摇杆怎么这么好玩每次躺在床上和吃了炫迈一样根本停不下来的拨弄这个摇杆然后流出白色液体然后过一会继续就这么玩到液体变成无色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2708,
+          "like_count": 5819,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 916
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T23:26:23.000Z",
+        "description": "",
+        "id": "1947800363752386560",
+        "location": "🚪188/288/388/520",
+        "name": "南条",
+        "pinned_tweet_id": "2015352490930417671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046507513777172480/1R7hV61D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 73,
+          "like_count": 1546,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 181
+        },
+        "username": "xiao_zhibei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2064515591067902315",
+    "created_at": "2026-06-10T01:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064515591067902315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1714894056986460160",
+          "start": 3,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064515591067902315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064266558613200979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @89JinPing64: 红脖毁民主，MAGA满人间。\n文件惊天地，退党得平安。\n左轮转乾坤，真相救苍生。\n解体共和党，复兴在眼前。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2064515591067902315",
+        "created_at": "2026-06-10T01:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064515591067902315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1714894056986460160",
+              "start": 3,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064515591067902315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064266558613200979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @89JinPing64: 红脖毁民主，MAGA满人间。\n文件惊天地，退党得平安。\n左轮转乾坤，真相救苍生。\n解体共和党，复兴在眼前。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714894056986460160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2064266558613200979",
+        "created_at": "2026-06-09T08:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064266558613200979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edkrassen/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/edkrassen/status/2063935396598177909",
+              "start": 54,
+              "url": "https://t.co/odk5ire8hv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064266558613200979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 20210,
+          "like_count": 360,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063935396598177909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "红脖毁民主，MAGA满人间。\n文件惊天地，退党得平安。\n左轮转乾坤，真相救苍生。\n解体共和党，复兴在眼前。 https://t.co/odk5ire8hv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 3382,
+          "like_count": 18055,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4942
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7214,
+          "following_count": 1800,
+          "like_count": 131825,
+          "listed_count": 69,
+          "media_count": 1318,
+          "tweet_count": 27551
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

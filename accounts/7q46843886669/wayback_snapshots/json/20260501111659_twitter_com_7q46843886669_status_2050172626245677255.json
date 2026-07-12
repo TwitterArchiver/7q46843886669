@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049840632672174080"
+      ],
+      "media_source_tweet_id": [
+        "2049840790252257522"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050172626245677255",
+    "created_at": "2026-05-01T11:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050172626245677255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1654015674082275328",
+          "start": 3,
+          "username": "liudameier"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LxrsV1NdXw",
+          "end": 66,
+          "expanded_url": "https://x.com/liudameier/status/2049840790252257522/video/1",
+          "media_key": "7_2049840632672174080",
+          "start": 43,
+          "url": "https://t.co/LxrsV1NdXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050172626245677255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049840790252257522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liudameier: 女同被自己妈逼去相亲，结果他妈竟然给他介绍了个男娘🤣 https://t.co/LxrsV1NdXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29117,
+        "height": 1280,
+        "media_key": "7_2049840632672174080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049840632672174080/pu/img/NBhdOLUMUF3t0-WK.jpg",
+        "public_metrics": {
+          "view_count": 542788
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049840632672174080/pu/vid/avc1/320x568/Pwe_13AJe4YKHo4M.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049840632672174080/pu/vid/avc1/480x852/OlxO1ZL7pDTjDYoy.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049840632672174080/pu/vid/avc1/720x1280/uiuzhaEGl4CIHyXw.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049840632672174080/pu/pl/BOBT_mcac_NGck5f.m3u8?tag=25&v=bd2"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049840632672174080"
+          ],
+          "media_source_tweet_id": [
+            "2049840790252257522"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050172626245677255",
+        "created_at": "2026-05-01T11:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050172626245677255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1654015674082275328",
+              "start": 3,
+              "username": "liudameier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxrsV1NdXw",
+              "end": 66,
+              "expanded_url": "https://x.com/liudameier/status/2049840790252257522/video/1",
+              "media_key": "7_2049840632672174080",
+              "start": 43,
+              "url": "https://t.co/LxrsV1NdXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050172626245677255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049840790252257522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liudameier: 女同被自己妈逼去相亲，结果他妈竟然给他介绍了个男娘🤣 https://t.co/LxrsV1NdXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049840632672174080"
+          ]
+        },
+        "author_id": "1654015674082275328",
+        "conversation_id": "2049840790252257522",
+        "created_at": "2026-04-30T13:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049840790252257522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxrsV1NdXw",
+              "end": 50,
+              "expanded_url": "https://x.com/liudameier/status/2049840790252257522/video/1",
+              "media_key": "7_2049840632672174080",
+              "start": 27,
+              "url": "https://t.co/LxrsV1NdXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049840790252257522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1570,
+          "impression_count": 1020828,
+          "like_count": 7830,
+          "quote_count": 50,
+          "reply_count": 391,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "女同被自己妈逼去相亲，结果他妈竟然给他介绍了个男娘🤣 https://t.co/LxrsV1NdXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2841,
+          "like_count": 8240,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2145
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T06:50:57.000Z",
+        "description": "没事儿网上瞎溜达，有事儿📱溜达妹儿 🐾\n废话神待少女，亢奋精神小妹儿，崩老头爱好者\n闲逛全网，奇葩趣事，沙雕视频👀",
+        "id": "1654015674082275328",
+        "name": "溜达妹儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033266586425933824/K6O0vzeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 1789,
+          "like_count": 16558,
+          "listed_count": 5,
+          "media_count": 297,
+          "tweet_count": 1762
+        },
+        "username": "liudameier",
+        "verified": true
+      }
+    ]
+  }
+}

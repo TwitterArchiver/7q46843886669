@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047184697890099281",
+    "created_at": "2026-04-23T07:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047211425257628062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542108779302760449",
+          "start": 0,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047211425257628062",
+    "in_reply_to_user_id": "1542108779302760449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047184697890099281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C10n3_F 我也要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047184690030010368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkPoQ7bYAA7qMj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047184697890099281",
+        "created_at": "2026-04-23T07:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047211425257628062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542108779302760449",
+              "start": 0,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047211425257628062",
+        "in_reply_to_user_id": "1542108779302760449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047184697890099281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C10n3_F 我也要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047184690030010368"
+          ]
+        },
+        "author_id": "1542108779302760449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047184697890099281",
+        "created_at": "2026-04-23T05:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047184697890099281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2Rq6P1iIw",
+              "end": 26,
+              "expanded_url": "https://x.com/C10n3_F/status/2047184697890099281/photo/1",
+              "media_key": "3_2047184690030010368",
+              "start": 3,
+              "url": "https://t.co/O2Rq6P1iIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047184697890099281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美味 https://t.co/O2Rq6P1iIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2690,
+          "like_count": 5369,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 834
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Cut, cut, cut me up, and fuck, fuck, fuck me up",
+        "id": "1542108779302760449",
+        "name": "Clone",
+        "pinned_tweet_id": "2037986045099450852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037515995548614656/fSl-1BqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 175,
+          "like_count": 5783,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1145
+        },
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

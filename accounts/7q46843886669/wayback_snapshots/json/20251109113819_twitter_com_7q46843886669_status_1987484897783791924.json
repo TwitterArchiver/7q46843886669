@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1986795630032003135",
+    "created_at": "2025-11-09T11:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987484897783791924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757248578920333312",
+          "start": 0,
+          "username": "HCSvgHEiWg93758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987484897783791924",
+    "in_reply_to_user_id": "1757248578920333312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986795630032003135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HCSvgHEiWg93758 肚子痛是什么感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1986795625921531904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KEGGRaUAAIjlC.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1986795630032003135",
+        "created_at": "2025-11-09T11:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987484897783791924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757248578920333312",
+              "start": 0,
+              "username": "HCSvgHEiWg93758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987484897783791924",
+        "in_reply_to_user_id": "1757248578920333312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986795630032003135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HCSvgHEiWg93758 肚子痛是什么感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986795625921531904"
+          ]
+        },
+        "author_id": "1757248578920333312",
+        "conversation_id": "1986795630032003135",
+        "created_at": "2025-11-07T13:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986795630032003135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEgfynjw8J",
+              "end": 36,
+              "expanded_url": "https://x.com/HCSvgHEiWg93758/status/1986795630032003135/photo/1",
+              "media_key": "3_1986795625921531904",
+              "start": 13,
+              "url": "https://t.co/pEgfynjw8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986795630032003135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 242300,
+          "like_count": 1119,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我的肚子好痛，我还要上班 https://t.co/pEgfynjw8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 802,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:41:36.000Z",
+        "description": "成分复杂,可互fo",
+        "id": "1757248578920333312",
+        "name": "士白8",
+        "pinned_tweet_id": "1978549274892775566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984199103585337344/JV8SHiQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 87,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 234
+        },
+        "username": "HCSvgHEiWg93758",
+        "verified": false
+      }
+    ]
+  }
+}

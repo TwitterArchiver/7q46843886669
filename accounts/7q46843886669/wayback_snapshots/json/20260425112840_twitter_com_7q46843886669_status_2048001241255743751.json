@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047591578630582272"
+      ],
+      "media_source_tweet_id": [
+        "2047591581021348195"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048001241255743751",
+    "created_at": "2026-04-25T11:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048001241255743751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1109079644",
+          "start": 3,
+          "username": "techdroider"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/efYwOYjIKD",
+          "end": 40,
+          "expanded_url": "https://x.com/techdroider/status/2047591581021348195/photo/1",
+          "media_key": "3_2047591578630582272",
+          "start": 17,
+          "url": "https://t.co/efYwOYjIKD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048001241255743751",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7274
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047591581021348195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @techdroider: https://t.co/efYwOYjIKD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2047591578630582272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBsTFbcAAITs9.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047591578630582272"
+          ],
+          "media_source_tweet_id": [
+            "2047591581021348195"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048001241255743751",
+        "created_at": "2026-04-25T11:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048001241255743751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1109079644",
+              "start": 3,
+              "username": "techdroider"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/efYwOYjIKD",
+              "end": 40,
+              "expanded_url": "https://x.com/techdroider/status/2047591581021348195/photo/1",
+              "media_key": "3_2047591578630582272",
+              "start": 17,
+              "url": "https://t.co/efYwOYjIKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048001241255743751",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7274
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047591581021348195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @techdroider: https://t.co/efYwOYjIKD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047591578630582272"
+          ]
+        },
+        "author_id": "1109079644",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047591581021348195",
+        "created_at": "2026-04-24T08:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047591581021348195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/efYwOYjIKD",
+              "end": 23,
+              "expanded_url": "https://x.com/techdroider/status/2047591581021348195/photo/1",
+              "media_key": "3_2047591578630582272",
+              "start": 0,
+              "url": "https://t.co/efYwOYjIKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047591581021348195",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4075,
+          "impression_count": 1530422,
+          "like_count": 66974,
+          "quote_count": 324,
+          "reply_count": 408,
+          "retweet_count": 7274
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/efYwOYjIKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2716,
+          "like_count": 5954,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1045
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-21T13:48:55.000Z",
+        "description": "Mail - vaibhav@techdroider.com | DM for Collab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "techdroider.com",
+                "end": 23,
+                "expanded_url": "https://www.techdroider.com",
+                "start": 0,
+                "url": "https://t.co/mh2zcSPj14"
+              }
+            ]
+          }
+        },
+        "id": "1109079644",
+        "location": "India",
+        "name": "TechDroider",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1633894738423336960/BJ7YUvZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124045,
+          "following_count": 57,
+          "like_count": 11426,
+          "listed_count": 459,
+          "media_count": 6707,
+          "tweet_count": 10809
+        },
+        "url": "https://t.co/mh2zcSPj14",
+        "username": "techdroider",
+        "verified": true
+      }
+    ]
+  }
+}

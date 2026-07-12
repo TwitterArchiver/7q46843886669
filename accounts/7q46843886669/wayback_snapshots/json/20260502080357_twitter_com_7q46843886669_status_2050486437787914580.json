@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050196623817625600"
+      ],
+      "media_source_tweet_id": [
+        "2050196652997349795"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050486437787914580",
+    "created_at": "2026-05-02T08:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050486437787914580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1677226211314118656",
+          "start": 3,
+          "username": "TheeDarkCircle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J73kBUR9el",
+          "end": 66,
+          "expanded_url": "https://x.com/TheeDarkCircle/status/2050196652997349795/video/1",
+          "media_key": "7_2050196623817625600",
+          "start": 43,
+          "url": "https://t.co/J73kBUR9el"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050486437787914580",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 648
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050196652997349795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheeDarkCircle: It suits him so well 🤠 https://t.co/J73kBUR9el"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16302,
+        "height": 624,
+        "media_key": "7_2050196623817625600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050196623817625600/pu/img/iRtHhtjtZh7-qyXj.jpg",
+        "public_metrics": {
+          "view_count": 29669
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050196623817625600/pu/vid/avc1/320x402/9rVtghNHY4HtjmfG.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050196623817625600/pu/vid/avc1/496x624/dXQNM1tJNyGKe_0O.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050196623817625600/pu/pl/6yNWPIVMr8rkD0br.m3u8?tag=25&v=20f"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050196623817625600"
+          ],
+          "media_source_tweet_id": [
+            "2050196652997349795"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050486437787914580",
+        "created_at": "2026-05-02T08:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050486437787914580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1677226211314118656",
+              "start": 3,
+              "username": "TheeDarkCircle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J73kBUR9el",
+              "end": 66,
+              "expanded_url": "https://x.com/TheeDarkCircle/status/2050196652997349795/video/1",
+              "media_key": "7_2050196623817625600",
+              "start": 43,
+              "url": "https://t.co/J73kBUR9el"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050486437787914580",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050196652997349795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheeDarkCircle: It suits him so well 🤠 https://t.co/J73kBUR9el"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050196623817625600"
+          ]
+        },
+        "author_id": "1677226211314118656",
+        "conversation_id": "2050196652997349795",
+        "created_at": "2026-05-01T12:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050196652997349795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J73kBUR9el",
+              "end": 46,
+              "expanded_url": "https://x.com/TheeDarkCircle/status/2050196652997349795/video/1",
+              "media_key": "7_2050196623817625600",
+              "start": 23,
+              "url": "https://t.co/J73kBUR9el"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050196652997349795",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 816,
+          "impression_count": 101749,
+          "like_count": 6713,
+          "quote_count": 37,
+          "reply_count": 39,
+          "retweet_count": 648
+        },
+        "reply_settings": "everyone",
+        "text": "It suits him so well 🤠 https://t.co/J73kBUR9el"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8673,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2337
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T08:01:28.000Z",
+        "description": "Follow to see The not so cute and cuddly side of nature | DM for credit-removal |",
+        "id": "1677226211314118656",
+        "name": "Wildlife Uncensored",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864393249361649664/7xnXf0lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686996,
+          "following_count": 40,
+          "like_count": 3569,
+          "listed_count": 728,
+          "media_count": 2966,
+          "tweet_count": 3415
+        },
+        "username": "TheeDarkCircle",
+        "verified": true
+      }
+    ]
+  }
+}

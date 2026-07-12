@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052984055076188160"
+      ],
+      "media_source_tweet_id": [
+        "2052984060973318331"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053390728999674331",
+    "created_at": "2026-05-10T08:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053390728999674331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "877865922966429696",
+          "start": 3,
+          "username": "101Neg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WQUubkOxtr",
+          "end": 39,
+          "expanded_url": "https://x.com/101Neg/status/2052984060973318331/photo/1",
+          "media_key": "3_2052984055076188160",
+          "start": 16,
+          "url": "https://t.co/WQUubkOxtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053390728999674331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052984060973318331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @101Neg: 青と黒 https://t.co/WQUubkOxtr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052984055076188160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2qHvRbcAA1nnM.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052984055076188160"
+          ],
+          "media_source_tweet_id": [
+            "2052984060973318331"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053390728999674331",
+        "created_at": "2026-05-10T08:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053390728999674331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "877865922966429696",
+              "start": 3,
+              "username": "101Neg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQUubkOxtr",
+              "end": 39,
+              "expanded_url": "https://x.com/101Neg/status/2052984060973318331/photo/1",
+              "media_key": "3_2052984055076188160",
+              "start": 16,
+              "url": "https://t.co/WQUubkOxtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053390728999674331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052984060973318331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @101Neg: 青と黒 https://t.co/WQUubkOxtr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052984055076188160"
+          ]
+        },
+        "author_id": "877865922966429696",
+        "conversation_id": "2052984060973318331",
+        "created_at": "2026-05-09T05:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052984060973318331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQUubkOxtr",
+              "end": 27,
+              "expanded_url": "https://x.com/101Neg/status/2052984060973318331/photo/1",
+              "media_key": "3_2052984055076188160",
+              "start": 4,
+              "url": "https://t.co/WQUubkOxtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052984060973318331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3391,
+          "impression_count": 428747,
+          "like_count": 34786,
+          "quote_count": 12,
+          "reply_count": 29,
+          "retweet_count": 2228
+        },
+        "reply_settings": "everyone",
+        "text": "青と黒 https://t.co/WQUubkOxtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2966,
+          "like_count": 11890,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3474
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-22T12:28:40.000Z",
+        "description": "【Fanbox(PSD＆メイキング)】https://t.co/Xma6YAu03D 【お絵描き配信】https://t.co/9sOHQVjON9 【Skeb】https://t.co/OfOvMaSixq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "neg.fanbox.cc",
+                "end": 42,
+                "expanded_url": "https://neg.fanbox.cc/",
+                "start": 19,
+                "url": "https://t.co/Xma6YAu03D"
+              },
+              {
+                "display_url": "twitch.tv/neg_illustrati…",
+                "end": 74,
+                "expanded_url": "https://www.twitch.tv/neg_illustration",
+                "start": 51,
+                "url": "https://t.co/9sOHQVjON9"
+              },
+              {
+                "display_url": "skeb.jp/@101Neg",
+                "end": 104,
+                "expanded_url": "https://skeb.jp/@101Neg",
+                "start": 81,
+                "url": "https://t.co/OfOvMaSixq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=1566023",
+                "start": 0,
+                "url": "https://t.co/bODu1C98DS"
+              }
+            ]
+          }
+        },
+        "id": "877865922966429696",
+        "location": "お仕事の相談→💌negsan101@gmail.com",
+        "name": "Neg",
+        "pinned_tweet_id": "1813032455680762284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1252170202634022912/w2Ao4xL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296905,
+          "following_count": 850,
+          "like_count": 18207,
+          "listed_count": 2072,
+          "media_count": 1320,
+          "tweet_count": 5897
+        },
+        "url": "https://t.co/bODu1C98DS",
+        "username": "101Neg",
+        "verified": true
+      }
+    ]
+  }
+}

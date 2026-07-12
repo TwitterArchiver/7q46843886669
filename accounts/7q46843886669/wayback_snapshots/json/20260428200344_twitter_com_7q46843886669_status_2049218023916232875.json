@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049218023916232875",
+    "created_at": "2026-04-28T20:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T21:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049218023916232875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973430266124541952",
+          "start": 3,
+          "username": "Minako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049218023916232875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049080819130703995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minako8964: 冷知识我卧蚕上的下至不是我画出来的，是我的黑眼圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049218023916232875",
+        "created_at": "2026-04-28T20:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T21:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049218023916232875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973430266124541952",
+              "start": 3,
+              "username": "Minako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049218023916232875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049080819130703995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minako8964: 冷知识我卧蚕上的下至不是我画出来的，是我的黑眼圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973430266124541952",
+        "conversation_id": "2049080819130703995",
+        "created_at": "2026-04-28T10:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049080819130703995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minako8964/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/minako8964/status/2048382715016462756",
+              "start": 25,
+              "url": "https://t.co/AJNUYUcMlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049080819130703995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1194,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048382715016462756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识我卧蚕上的下至不是我画出来的，是我的黑眼圈 https://t.co/AJNUYUcMlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2774,
+          "like_count": 6932,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1679
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，此号起到一个墓碑的作用，骂我的默认家破人亡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "芝士二明治🥪",
+        "pinned_tweet_id": "2023841559578587537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035482807825481728/I3RBmrCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 189,
+          "like_count": 26211,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 3601
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

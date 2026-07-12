@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054971424918695936"
+      ],
+      "media_source_tweet_id": [
+        "2054971434058072398"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055308070662930862",
+    "created_at": "2026-05-15T15:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055308070662930862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "789513689548271621",
+          "start": 3,
+          "username": "gudok_23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOW4ZlTrDD",
+          "end": 37,
+          "expanded_url": "https://x.com/gudok_23/status/2054971434058072398/photo/1",
+          "media_key": "3_2054971424918695936",
+          "start": 14,
+          "url": "https://t.co/FOW4ZlTrDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055308070662930862",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2852
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054971434058072398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gudok_23: https://t.co/FOW4ZlTrDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2054971424918695936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIS5n43bcAAwD57.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054971424918695936"
+          ],
+          "media_source_tweet_id": [
+            "2054971434058072398"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055308070662930862",
+        "created_at": "2026-05-15T15:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055308070662930862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "789513689548271621",
+              "start": 3,
+              "username": "gudok_23"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOW4ZlTrDD",
+              "end": 37,
+              "expanded_url": "https://x.com/gudok_23/status/2054971434058072398/photo/1",
+              "media_key": "3_2054971424918695936",
+              "start": 14,
+              "url": "https://t.co/FOW4ZlTrDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055308070662930862",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2852
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054971434058072398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gudok_23: https://t.co/FOW4ZlTrDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054971424918695936"
+          ]
+        },
+        "author_id": "789513689548271621",
+        "conversation_id": "2054971434058072398",
+        "created_at": "2026-05-14T17:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054971434058072398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOW4ZlTrDD",
+              "end": 23,
+              "expanded_url": "https://x.com/gudok_23/status/2054971434058072398/photo/1",
+              "media_key": "3_2054971424918695936",
+              "start": 0,
+              "url": "https://t.co/FOW4ZlTrDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054971434058072398",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4058,
+          "impression_count": 254724,
+          "like_count": 47769,
+          "quote_count": 56,
+          "reply_count": 6,
+          "retweet_count": 2852
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FOW4ZlTrDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 2981,
+          "like_count": 12756,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3833
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-21T17:08:26.000Z",
+        "description": "💙유원불변, 이모션 팬아트 계정입니다. 🤎작가님 계정 : @jakpil_ooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "jakpil_ooo"
+              }
+            ]
+          }
+        },
+        "id": "789513689548271621",
+        "name": "수달🦦",
+        "pinned_tweet_id": "1974774506372899300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972643968686096384/YteKPjYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28205,
+          "following_count": 33,
+          "like_count": 6732,
+          "listed_count": 20,
+          "media_count": 485,
+          "tweet_count": 2902
+        },
+        "username": "gudok_23",
+        "verified": false
+      }
+    ]
+  }
+}

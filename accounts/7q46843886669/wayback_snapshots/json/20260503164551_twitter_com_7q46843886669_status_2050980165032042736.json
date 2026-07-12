@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050928569937952768"
+      ],
+      "media_source_tweet_id": [
+        "2050928580100837757"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050980165032042736",
+    "created_at": "2026-05-03T16:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050980165032042736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911628907842818049",
+          "start": 3,
+          "username": "codyhunk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ICZUo83RJp",
+          "end": 44,
+          "expanded_url": "https://x.com/codyhunk/status/2050928580100837757/photo/1",
+          "media_key": "3_2050928569937952768",
+          "start": 21,
+          "url": "https://t.co/ICZUo83RJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050980165032042736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050928580100837757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @codyhunk: 可以躲避丧尸 https://t.co/ICZUo83RJp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2050928569937952768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZcqwbaAAA87xa.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050928569937952768"
+          ],
+          "media_source_tweet_id": [
+            "2050928580100837757"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050980165032042736",
+        "created_at": "2026-05-03T16:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050980165032042736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911628907842818049",
+              "start": 3,
+              "username": "codyhunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICZUo83RJp",
+              "end": 44,
+              "expanded_url": "https://x.com/codyhunk/status/2050928580100837757/photo/1",
+              "media_key": "3_2050928569937952768",
+              "start": 21,
+              "url": "https://t.co/ICZUo83RJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050980165032042736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050928580100837757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @codyhunk: 可以躲避丧尸 https://t.co/ICZUo83RJp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050928569937952768"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2050928580100837757",
+        "created_at": "2026-05-03T13:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050928580100837757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICZUo83RJp",
+              "end": 30,
+              "expanded_url": "https://x.com/codyhunk/status/2050928580100837757/photo/1",
+              "media_key": "3_2050928569937952768",
+              "start": 7,
+              "url": "https://t.co/ICZUo83RJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050928580100837757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2186,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "可以躲避丧尸 https://t.co/ICZUo83RJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 2850,
+          "like_count": 9485,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2647
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13529,
+          "following_count": 1202,
+          "like_count": 24022,
+          "listed_count": 37,
+          "media_count": 5983,
+          "tweet_count": 9075
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

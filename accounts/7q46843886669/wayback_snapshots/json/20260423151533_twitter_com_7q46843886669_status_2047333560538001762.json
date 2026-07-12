@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047333559019696128"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047331550543691855",
+    "created_at": "2026-04-23T15:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047333560538001762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3TCQVy6cDy",
+          "end": 36,
+          "expanded_url": "https://x.com/7q46843886669/status/2047333560538001762/photo/1",
+          "media_key": "3_2047333559019696128",
+          "start": 13,
+          "url": "https://t.co/3TCQVy6cDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047333560538001762",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047331550543691855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa https://t.co/3TCQVy6cDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 225,
+        "media_key": "3_2047333559019696128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmXBlIa8AAD48-.jpg",
+        "width": 225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047333559019696128"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047331550543691855",
+        "created_at": "2026-04-23T15:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047333560538001762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TCQVy6cDy",
+              "end": 36,
+              "expanded_url": "https://x.com/7q46843886669/status/2047333560538001762/photo/1",
+              "media_key": "3_2047333559019696128",
+              "start": 13,
+              "url": "https://t.co/3TCQVy6cDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047333560538001762",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047331550543691855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa https://t.co/3TCQVy6cDy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047331550543691855",
+        "created_at": "2026-04-23T15:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047331550543691855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047331550543691855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们的关系可以像毛绒玩具一样简单吗 你戳一下我我就会对你说话 你抱住我我也会抱住你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2701,
+          "like_count": 5736,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 899
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "怨是用希\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 189,
+          "like_count": 5629,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 2032
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

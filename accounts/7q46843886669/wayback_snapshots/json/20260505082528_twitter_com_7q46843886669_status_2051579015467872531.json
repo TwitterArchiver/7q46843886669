@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051296098455818240"
+      ],
+      "media_source_tweet_id": [
+        "2051297386526552522"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      }
+    ],
+    "conversation_id": "2051579015467872531",
+    "created_at": "2026-05-05T08:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051579015467872531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "943493819718238209",
+          "start": 3,
+          "username": "yaoi_dream7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cyvs9RTPM0",
+          "end": 81,
+          "expanded_url": "https://x.com/yaoi_dream7/status/2051297386526552522/video/1",
+          "media_key": "13_2051296098455818240",
+          "start": 58,
+          "url": "https://t.co/Cyvs9RTPM0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051579015467872531",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051297386526552522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaoi_dream7: A cute kabedon yaoi story in 12 seconds💕 https://t.co/Cyvs9RTPM0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12333,
+        "height": 720,
+        "media_key": "13_2051296098455818240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051296098455818240/img/Gi2ci0_wvKn4cvvN.jpg",
+        "public_metrics": {
+          "view_count": 714942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051296098455818240/vid/avc1/432x270/ihvM6UYQRLO9BAoU.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051296098455818240/vid/avc1/576x360/P0s__ISyj2EvNHXz.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051296098455818240/vid/avc1/1152x720/wzK0qgISWhyel7ec.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051296098455818240/pl/dzLc5SIMo34E5X8V.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051296098455818240"
+          ],
+          "media_source_tweet_id": [
+            "2051297386526552522"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2051579015467872531",
+        "created_at": "2026-05-05T08:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051579015467872531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "943493819718238209",
+              "start": 3,
+              "username": "yaoi_dream7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cyvs9RTPM0",
+              "end": 81,
+              "expanded_url": "https://x.com/yaoi_dream7/status/2051297386526552522/video/1",
+              "media_key": "13_2051296098455818240",
+              "start": 58,
+              "url": "https://t.co/Cyvs9RTPM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051579015467872531",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051297386526552522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaoi_dream7: A cute kabedon yaoi story in 12 seconds💕 https://t.co/Cyvs9RTPM0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051296098455818240"
+          ]
+        },
+        "author_id": "943493819718238209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2051297386526552522",
+        "created_at": "2026-05-04T13:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051297386526552522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cyvs9RTPM0",
+              "end": 64,
+              "expanded_url": "https://x.com/yaoi_dream7/status/2051297386526552522/video/1",
+              "media_key": "13_2051296098455818240",
+              "start": 41,
+              "url": "https://t.co/Cyvs9RTPM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051297386526552522",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9984,
+          "impression_count": 1284716,
+          "like_count": 39044,
+          "quote_count": 637,
+          "reply_count": 58,
+          "retweet_count": 2198
+        },
+        "reply_settings": "everyone",
+        "text": "A cute kabedon yaoi story in 12 seconds💕 https://t.co/Cyvs9RTPM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 2877,
+          "like_count": 9927,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2797
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T14:50:30.000Z",
+        "description": "🦋 Daily BL & Yaoi 🦋\n\n.☘︎ ݁˖In a world full of chaos, finding you was my only solace .☘︎ ݁˖",
+        "id": "943493819718238209",
+        "location": "💕 Between your whispers 💕 ",
+        "name": "BL ᥫ᭡.ִֶָ Chronicles",
+        "pinned_tweet_id": "2037858272049553535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037847051724271616/4cu_eFB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12743,
+          "following_count": 1781,
+          "like_count": 29528,
+          "listed_count": 17,
+          "media_count": 5121,
+          "tweet_count": 13760
+        },
+        "username": "yaoi_dream7",
+        "verified": true
+      }
+    ]
+  }
+}

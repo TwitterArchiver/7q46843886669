@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047861609544990720"
+      ],
+      "media_source_tweet_id": [
+        "2048042595721597119"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048275722419270055",
+    "created_at": "2026-04-26T05:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048275722419270055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637563562",
+          "start": 3,
+          "username": "blackvibe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QGVauxPGXm",
+          "end": 60,
+          "expanded_url": "https://x.com/blackvibe/status/2048042595721597119/photo/1",
+          "media_key": "3_2047861609544990720",
+          "start": 37,
+          "url": "https://t.co/QGVauxPGXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048275722419270055",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048042595721597119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackvibe: Crystal-covered kitty https://t.co/QGVauxPGXm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2047861609544990720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGt3SKoWwAAVOdm.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047861609544990720"
+          ],
+          "media_source_tweet_id": [
+            "2048042595721597119"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048275722419270055",
+        "created_at": "2026-04-26T05:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048275722419270055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637563562",
+              "start": 3,
+              "username": "blackvibe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGVauxPGXm",
+              "end": 60,
+              "expanded_url": "https://x.com/blackvibe/status/2048042595721597119/photo/1",
+              "media_key": "3_2047861609544990720",
+              "start": 37,
+              "url": "https://t.co/QGVauxPGXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048275722419270055",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048042595721597119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackvibe: Crystal-covered kitty https://t.co/QGVauxPGXm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047861609544990720"
+          ]
+        },
+        "author_id": "1637563562",
+        "conversation_id": "2048042595721597119",
+        "created_at": "2026-04-25T14:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048042595721597119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGVauxPGXm",
+              "end": 45,
+              "expanded_url": "https://x.com/blackvibe/status/2048042595721597119/photo/1",
+              "media_key": "3_2047861609544990720",
+              "start": 22,
+              "url": "https://t.co/QGVauxPGXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048042595721597119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 19489,
+          "like_count": 2177,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "Crystal-covered kitty https://t.co/QGVauxPGXm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2721,
+          "like_count": 6077,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1143
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-01T09:20:19.000Z",
+        "description": "Dark art | Black aesthetics",
+        "id": "1637563562",
+        "location": "utopihia",
+        "name": "Black.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891218670988255232/2KiweTCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255700,
+          "following_count": 22,
+          "like_count": 63799,
+          "listed_count": 593,
+          "media_count": 15845,
+          "tweet_count": 16859
+        },
+        "username": "blackvibe",
+        "verified": true
+      }
+    ]
+  }
+}

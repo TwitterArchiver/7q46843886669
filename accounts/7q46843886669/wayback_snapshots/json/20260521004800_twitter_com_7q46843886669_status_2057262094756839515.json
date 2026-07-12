@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057262094756839515",
+    "created_at": "2026-05-21T00:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057262094756839515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koubaoyanshe/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/koubaoyanshe/status/2056749866219692519",
+          "start": 7,
+          "url": "https://t.co/mEHd2MwJDG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057262094756839515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056749866219692519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦哦這個騷 https://t.co/mEHd2MwJDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 218592,
+        "height": 720,
+        "media_key": "13_2056749666696605696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056749666696605696/img/g8aDVRTwOGDExOp8.jpg",
+        "public_metrics": {
+          "view_count": 235519
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056749666696605696/vid/avc1/480x270/my-bo_F93Q0sR1_1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056749666696605696/vid/avc1/640x360/2GIe3JPyglDTiCZj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056749666696605696/vid/avc1/1280x720/Nver-M5MYPpBH3Xd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056749666696605696/pl/EbCZo_ZnyIb5y42k.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057262094756839515",
+        "created_at": "2026-05-21T00:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057262094756839515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koubaoyanshe/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/koubaoyanshe/status/2056749866219692519",
+              "start": 7,
+              "url": "https://t.co/mEHd2MwJDG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057262094756839515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749866219692519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦哦這個騷 https://t.co/mEHd2MwJDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056749666696605696"
+          ]
+        },
+        "author_id": "1962516566546993152",
+        "conversation_id": "2056749866219692519",
+        "created_at": "2026-05-19T14:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056749866219692519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdPFQMPgBT",
+              "end": 56,
+              "expanded_url": "https://x.com/koubaoyanshe/status/2056749866219692519/video/1",
+              "media_key": "13_2056749666696605696",
+              "start": 33,
+              "url": "https://t.co/YdPFQMPgBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056749866219692519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6871,
+          "impression_count": 283909,
+          "like_count": 14791,
+          "quote_count": 16,
+          "reply_count": 25,
+          "retweet_count": 1410
+        },
+        "reply_settings": "everyone",
+        "text": "男同志们学起来！被哥哥舔到水花四溅，水流不止高潮叠起爽到翻白眼！ https://t.co/YdPFQMPgBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 3009,
+          "like_count": 13959,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 4313
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T14:03:07.000Z",
+        "description": "",
+        "id": "1962516566546993152",
+        "name": "口爆颜🐍",
+        "pinned_tweet_id": "2055128511766298776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054210203680481280/R0yOnsQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15803,
+          "following_count": 56,
+          "like_count": 49,
+          "listed_count": 21,
+          "media_count": 13,
+          "tweet_count": 35
+        },
+        "username": "koubaoyanshe",
+        "verified": false
+      }
+    ]
+  }
+}

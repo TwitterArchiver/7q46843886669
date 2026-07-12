@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053054862217425217",
+    "created_at": "2026-05-09T10:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053054862217425217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053054862217425217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053049342106431661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 第一个发现生殖器可以放在嘴里的一定很信任对方吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053054862217425217",
+        "created_at": "2026-05-09T10:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053054862217425217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053054862217425217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053049342106431661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 第一个发现生殖器可以放在嘴里的一定很信任对方吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2053049342106431661",
+        "created_at": "2026-05-09T09:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053049342106431661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053049342106431661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一个发现生殖器可以放在嘴里的一定很信任对方吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2971,
+          "like_count": 11684,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3366
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n只有一个号",
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9705,
+          "following_count": 0,
+          "like_count": 844,
+          "listed_count": 6,
+          "media_count": 91,
+          "tweet_count": 790
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

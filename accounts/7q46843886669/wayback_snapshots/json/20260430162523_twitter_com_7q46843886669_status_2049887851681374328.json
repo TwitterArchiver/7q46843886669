@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046828817528786944"
+      ],
+      "media_source_tweet_id": [
+        "2049558081575473278"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049887851681374328",
+    "created_at": "2026-04-30T16:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049887851681374328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1498347138937495558",
+          "start": 3,
+          "username": "redditbutfunny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bzb8fHK5hf",
+          "end": 43,
+          "expanded_url": "https://x.com/redditbutfunny/status/2049558081575473278/photo/1",
+          "media_key": "3_2046828817528786944",
+          "start": 20,
+          "url": "https://t.co/bzb8fHK5hf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049887851681374328",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049558081575473278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @redditbutfunny: https://t.co/bzb8fHK5hf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2046828817528786944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfL9wjWEAAXt7R.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046828817528786944"
+          ],
+          "media_source_tweet_id": [
+            "2049558081575473278"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049887851681374328",
+        "created_at": "2026-04-30T16:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049887851681374328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1498347138937495558",
+              "start": 3,
+              "username": "redditbutfunny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzb8fHK5hf",
+              "end": 43,
+              "expanded_url": "https://x.com/redditbutfunny/status/2049558081575473278/photo/1",
+              "media_key": "3_2046828817528786944",
+              "start": 20,
+              "url": "https://t.co/bzb8fHK5hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049887851681374328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049558081575473278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @redditbutfunny: https://t.co/bzb8fHK5hf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046828817528786944"
+          ]
+        },
+        "author_id": "1498347138937495558",
+        "conversation_id": "2049558081575473278",
+        "created_at": "2026-04-29T18:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049558081575473278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzb8fHK5hf",
+              "end": 23,
+              "expanded_url": "https://x.com/redditbutfunny/status/2049558081575473278/photo/1",
+              "media_key": "3_2046828817528786944",
+              "start": 0,
+              "url": "https://t.co/bzb8fHK5hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049558081575473278",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 41642,
+          "like_count": 5212,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bzb8fHK5hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2817,
+          "like_count": 7942,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2018
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T17:19:37.000Z",
+        "description": "no promos!!! | dm submissions / credit | pfp by @felinephobia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "felinephobia"
+              }
+            ]
+          }
+        },
+        "id": "1498347138937495558",
+        "name": "Reddit But Funny",
+        "pinned_tweet_id": "2025400020820701337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038475768393826304/9Hmuw1LY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100832,
+          "following_count": 0,
+          "like_count": 16,
+          "listed_count": 67,
+          "media_count": 638,
+          "tweet_count": 642
+        },
+        "username": "redditbutfunny",
+        "verified": true
+      }
+    ]
+  }
+}

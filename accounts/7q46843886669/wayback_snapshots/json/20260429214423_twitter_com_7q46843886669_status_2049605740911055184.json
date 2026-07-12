@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049275542164357120"
+      ],
+      "media_source_tweet_id": [
+        "2049275548069974233"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      }
+    ],
+    "conversation_id": "2049605740911055184",
+    "created_at": "2026-04-29T21:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T22:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049605740911055184"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 45,
+          "tag": "furry"
+        },
+        {
+          "end": 63,
+          "start": 53,
+          "tag": "furrypaws"
+        },
+        {
+          "end": 76,
+          "start": 65,
+          "tag": "furrycomic"
+        },
+        {
+          "end": 87,
+          "start": 78,
+          "tag": "furryart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1520400374464598019",
+          "start": 3,
+          "username": "szangsedezhua01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CQQD9lYZsB",
+          "end": 111,
+          "expanded_url": "https://x.com/szangsedezhua01/status/2049275548069974233/photo/1",
+          "media_key": "3_2049275542164357120",
+          "start": 88,
+          "url": "https://t.co/CQQD9lYZsB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049605740911055184",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049275548069974233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @szangsedezhua01: If I were a director😋😋😋 #furry  #furrypaws  #furrycomic  #furryart https://t.co/CQQD9lYZsB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_2049275542164357120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB9P4GaQAAJwHE.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049275542164357120"
+          ],
+          "media_source_tweet_id": [
+            "2049275548069974233"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2049605740911055184",
+        "created_at": "2026-04-29T21:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T22:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049605740911055184"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "furry"
+            },
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "furrypaws"
+            },
+            {
+              "end": 76,
+              "start": 65,
+              "tag": "furrycomic"
+            },
+            {
+              "end": 87,
+              "start": 78,
+              "tag": "furryart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1520400374464598019",
+              "start": 3,
+              "username": "szangsedezhua01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQQD9lYZsB",
+              "end": 111,
+              "expanded_url": "https://x.com/szangsedezhua01/status/2049275548069974233/photo/1",
+              "media_key": "3_2049275542164357120",
+              "start": 88,
+              "url": "https://t.co/CQQD9lYZsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049605740911055184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049275548069974233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @szangsedezhua01: If I were a director😋😋😋 #furry  #furrypaws  #furrycomic  #furryart https://t.co/CQQD9lYZsB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049275542164357120"
+          ]
+        },
+        "author_id": "1520400374464598019",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2049275548069974233",
+        "created_at": "2026-04-28T23:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049275548069974233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "furry"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "furrypaws"
+            },
+            {
+              "end": 55,
+              "start": 44,
+              "tag": "furrycomic"
+            },
+            {
+              "end": 66,
+              "start": 57,
+              "tag": "furryart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQQD9lYZsB",
+              "end": 90,
+              "expanded_url": "https://x.com/szangsedezhua01/status/2049275548069974233/photo/1",
+              "media_key": "3_2049275542164357120",
+              "start": 67,
+              "url": "https://t.co/CQQD9lYZsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049275548069974233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 18003,
+          "like_count": 769,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "If I were a director😋😋😋 #furry  #furrypaws  #furrycomic  #furryart https://t.co/CQQD9lYZsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2791,
+          "like_count": 7277,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1835
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T13:51:23.000Z",
+        "description": "这里是脏爪唯一指定的plus/Max/S/ultra 蓝鸟号哦～～来扩列玩呀（委托也此对外开放哦～欢迎来约）【Hi! Here’s zangzhua.Welcome to play with me! Contact me at 1505411481@qq.com for entrustment needs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/zsdzz",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/zsdzz",
+                "start": 0,
+                "url": "https://t.co/65WUKnawMD"
+              }
+            ]
+          }
+        },
+        "id": "1520400374464598019",
+        "location": "寝室",
+        "name": "脏爪DPAWS",
+        "pinned_tweet_id": "2041322593882611746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644242341383872513/KhJ-YJqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40712,
+          "following_count": 110,
+          "like_count": 2366,
+          "listed_count": 68,
+          "media_count": 798,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/65WUKnawMD",
+        "username": "szangsedezhua01",
+        "verified": false
+      }
+    ]
+  }
+}

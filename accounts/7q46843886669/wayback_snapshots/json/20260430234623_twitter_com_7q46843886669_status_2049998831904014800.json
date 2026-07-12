@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049986174329163776"
+      ],
+      "media_source_tweet_id": [
+        "2049986176745160740"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049998831904014800",
+    "created_at": "2026-04-30T23:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049998831904014800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1490744102979260418",
+          "start": 3,
+          "username": "fenyoulei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/98LwP9kRPw",
+          "end": 38,
+          "expanded_url": "https://x.com/fenyoulei/status/2049986176745160740/photo/1",
+          "media_key": "3_2049986174329163776",
+          "start": 15,
+          "url": "https://t.co/98LwP9kRPw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049998831904014800",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049986176745160740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fenyoulei: https://t.co/98LwP9kRPw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049998831904014800].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049998831904014800",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049998831904014800"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2049986174329163776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMDkHNaEAAZWca.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049986174329163776"
+          ]
+        },
+        "author_id": "1490744102979260418",
+        "conversation_id": "2049986176745160740",
+        "created_at": "2026-04-30T22:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049986176745160740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/98LwP9kRPw",
+              "end": 23,
+              "expanded_url": "https://x.com/fenyoulei/status/2049986176745160740/photo/1",
+              "media_key": "3_2049986174329163776",
+              "start": 0,
+              "url": "https://t.co/98LwP9kRPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049986176745160740",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/98LwP9kRPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2830,
+          "like_count": 8129,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2104
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T17:47:51.000Z",
+        "description": "性别：ftx酷儿/假性双性🐾\n嘴贱身更贱，什么重口都敢玩\r🥵\n想看改造进度、听狗叫、或被我反杀？爆米才有资格解锁😈\n暂不线下 | 千粉互推💎 |接寄拍推广\n小号@y4QWQ1\n匿名提问→https://t.co/EwnGBXSyuU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 80,
+                "username": "y4QWQ1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fenyoulei2",
+                "end": 116,
+                "expanded_url": "https://ngl.link/fenyoulei2",
+                "start": 93,
+                "url": "https://t.co/EwnGBXSyuU"
+              }
+            ]
+          }
+        },
+        "id": "1490744102979260418",
+        "location": "好友位150可入福利群看我主页置顶图 ",
+        "name": "🔞坏狗y4（阴蒂正慢慢变大屌 ）",
+        "pinned_tweet_id": "2034840271947788737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028417629548077056/WAUyJyE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32446,
+          "following_count": 883,
+          "like_count": 10677,
+          "listed_count": 99,
+          "media_count": 1296,
+          "tweet_count": 4591
+        },
+        "username": "fenyoulei",
+        "verified": false
+      }
+    ]
+  }
+}

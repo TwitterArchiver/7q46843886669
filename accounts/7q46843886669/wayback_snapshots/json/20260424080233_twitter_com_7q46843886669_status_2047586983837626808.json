@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047400115049263104"
+      ],
+      "media_source_tweet_id": [
+        "2047505808460849492"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047586983837626808",
+    "created_at": "2026-04-24T08:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047586983837626808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1574300405026017280",
+          "start": 3,
+          "username": "yantanzhang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AxisGRInEt",
+          "end": 65,
+          "expanded_url": "https://x.com/yantanzhang/status/2047505808460849492/photo/1",
+          "media_key": "3_2047400115049263104",
+          "start": 42,
+          "url": "https://t.co/AxisGRInEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047586983837626808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047505808460849492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yantanzhang: 现在的词汇越来越难懂了，但能感觉到都是很脏的词。 https://t.co/AxisGRInEt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2047400115049263104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnTjpqa8AAJ4G2.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047400115049263104"
+          ],
+          "media_source_tweet_id": [
+            "2047505808460849492"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047586983837626808",
+        "created_at": "2026-04-24T08:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047586983837626808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1574300405026017280",
+              "start": 3,
+              "username": "yantanzhang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxisGRInEt",
+              "end": 65,
+              "expanded_url": "https://x.com/yantanzhang/status/2047505808460849492/photo/1",
+              "media_key": "3_2047400115049263104",
+              "start": 42,
+              "url": "https://t.co/AxisGRInEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047586983837626808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047505808460849492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yantanzhang: 现在的词汇越来越难懂了，但能感觉到都是很脏的词。 https://t.co/AxisGRInEt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047400115049263104"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2047505808460849492",
+        "created_at": "2026-04-24T02:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047505808460849492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxisGRInEt",
+              "end": 48,
+              "expanded_url": "https://x.com/yantanzhang/status/2047505808460849492/photo/1",
+              "media_key": "3_2047400115049263104",
+              "start": 25,
+              "url": "https://t.co/AxisGRInEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047505808460849492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 20765,
+          "like_count": 392,
+          "quote_count": 0,
+          "reply_count": 126,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "现在的词汇越来越难懂了，但能感觉到都是很脏的词。 https://t.co/AxisGRInEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2708,
+          "like_count": 5835,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 923
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47015,
+          "following_count": 259,
+          "like_count": 3153,
+          "listed_count": 131,
+          "media_count": 4530,
+          "tweet_count": 5526
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

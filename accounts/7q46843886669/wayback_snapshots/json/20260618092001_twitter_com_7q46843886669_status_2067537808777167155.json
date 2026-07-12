@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2067505595863961648",
+    "created_at": "2026-06-18T09:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067537808777167155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1161507682458767365",
+          "start": 0,
+          "username": "ochanokyo7"
+        },
+        {
+          "end": 27,
+          "id": "1638959586140098560",
+          "start": 12,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067537808777167155",
+    "in_reply_to_user_id": "1922574083348414464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067519011122971124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ochanokyo7 @jiuyouforwhite 喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2067505595863961648",
+        "created_at": "2026-06-18T09:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067537808777167155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1161507682458767365",
+              "start": 0,
+              "username": "ochanokyo7"
+            },
+            {
+              "end": 27,
+              "id": "1638959586140098560",
+              "start": 12,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067537808777167155",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067519011122971124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ochanokyo7 @jiuyouforwhite 喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2067505595863961648",
+        "created_at": "2026-06-18T08:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067519011122971124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1161507682458767365",
+              "start": 0,
+              "username": "ochanokyo7"
+            },
+            {
+              "end": 27,
+              "id": "1638959586140098560",
+              "start": 12,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067519011122971124",
+        "in_reply_to_user_id": "1161507682458767365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067517000255934505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ochanokyo7 @jiuyouforwhite 號主有對象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 3389,
+          "like_count": 19304,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 5189
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-14T05:19:46.000Z",
+        "description": "anzu|19|her/she| 中文or ENG | INTP | 🎨🎮📚| 🏳️‍🌈| Just make some fun🫨💜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/anzu",
+                "end": 23,
+                "expanded_url": "https://vgen.co/anzu",
+                "start": 0,
+                "url": "https://t.co/GMbnthDJ4e"
+              }
+            ]
+          }
+        },
+        "id": "1161507682458767365",
+        "name": "🍟ANZU!!!🍟",
+        "pinned_tweet_id": "2042958445553332664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702114908295561216/dvbVe_H1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 161,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/GMbnthDJ4e",
+        "username": "ochanokyo7",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1541,
+          "like_count": 5426,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 2437
+        },
+        "url": "",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

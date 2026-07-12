@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2028395606344192047",
+    "created_at": "2026-03-03T03:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028669517594013727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022438221590990848",
+          "start": 0,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028669517594013727",
+    "in_reply_to_user_id": "2022438221590990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028395606344192047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_96 保持斯格玛😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2028395606344192047",
+        "created_at": "2026-03-03T03:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028669517594013727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022438221590990848",
+              "start": 0,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028669517594013727",
+        "in_reply_to_user_id": "2022438221590990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028395606344192047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_96 保持斯格玛😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022438221590990848",
+        "conversation_id": "2028395606344192047",
+        "created_at": "2026-03-02T09:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028395606344192047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028395606344192047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5769,
+          "like_count": 190,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "你的社交能力不足以支撑你无处安放过于强烈的表达欲 以至于你开始渴望亲密关系。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 2015,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 276
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/0vZb5MCwUM"
+              }
+            ]
+          }
+        },
+        "id": "2022438221590990848",
+        "location": "旁边的网址是留言板",
+        "name": "遥",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024494731917758464/aqquvn8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 121,
+          "like_count": 3339,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/0vZb5MCwUM",
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

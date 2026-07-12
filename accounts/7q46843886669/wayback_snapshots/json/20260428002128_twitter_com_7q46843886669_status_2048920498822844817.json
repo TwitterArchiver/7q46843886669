@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2048920498822844817",
+    "created_at": "2026-04-28T00:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048920498822844817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1505596113813876736",
+          "start": 3,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048920498822844817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048664479496622542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chrorine_17: 在公共场合吸烟是被禁止的，因为烟草烟雾对您和我的身体健康均具有危害。  \n\n然而，在屋顶穿着飘逸的服装吸烟是被推荐的，这并非由于它能降低危害，而是因为看起来很酷。  \n\n此外，请注意风向。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048920498822844817",
+        "created_at": "2026-04-28T00:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048920498822844817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1505596113813876736",
+              "start": 3,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048920498822844817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048664479496622542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chrorine_17: 在公共场合吸烟是被禁止的，因为烟草烟雾对您和我的身体健康均具有危害。  \n\n然而，在屋顶穿着飘逸的服装吸烟是被推荐的，这并非由于它能降低危害，而是因为看起来很酷。  \n\n此外，请注意风向。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505596113813876736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048664479496622542",
+        "created_at": "2026-04-27T07:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048664479496622542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048664479496622542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 540,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在公共场合吸烟是被禁止的，因为烟草烟雾对您和我的身体健康均具有危害。  \n\n然而，在屋顶穿着飘逸的服装吸烟是被推荐的，这并非由于它能降低危害，而是因为看起来很酷。  \n\n此外，请注意风向。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2766,
+          "like_count": 6448,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1452
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984829376392044544/-Bz5LJl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 240,
+          "like_count": 17582,
+          "listed_count": 7,
+          "media_count": 247,
+          "tweet_count": 6276
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

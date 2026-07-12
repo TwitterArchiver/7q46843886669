@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047667691931176962"
+      ],
+      "media_source_tweet_id": [
+        "2047667698826707184"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395440209873887237",
+          "name": "Niconico Chokaigi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2047997617892884608",
+    "created_at": "2026-04-25T11:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047997617892884608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1094430993182670848",
+          "start": 3,
+          "username": "I_LOVE_Clown"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DQuVIIxkDv",
+          "end": 59,
+          "expanded_url": "https://x.com/I_LOVE_Clown/status/2047667698826707184/photo/1",
+          "media_key": "3_2047667691931176962",
+          "start": 36,
+          "url": "https://t.co/DQuVIIxkDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047997617892884608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047667698826707184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @I_LOVE_Clown: 明日のニコニコ超会議、楽しみだね！ https://t.co/DQuVIIxkDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047667691931176962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrG6rOaEAIJ3fB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047667691931176962"
+          ],
+          "media_source_tweet_id": [
+            "2047667698826707184"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395440209873887237",
+              "name": "Niconico Chokaigi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2047997617892884608",
+        "created_at": "2026-04-25T11:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047997617892884608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1094430993182670848",
+              "start": 3,
+              "username": "I_LOVE_Clown"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQuVIIxkDv",
+              "end": 59,
+              "expanded_url": "https://x.com/I_LOVE_Clown/status/2047667698826707184/photo/1",
+              "media_key": "3_2047667691931176962",
+              "start": 36,
+              "url": "https://t.co/DQuVIIxkDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047997617892884608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047667698826707184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @I_LOVE_Clown: 明日のニコニコ超会議、楽しみだね！ https://t.co/DQuVIIxkDv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047667691931176962"
+          ]
+        },
+        "author_id": "1094430993182670848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395440209873887237",
+              "name": "Niconico Chokaigi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2047667698826707184",
+        "created_at": "2026-04-24T13:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047667698826707184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQuVIIxkDv",
+              "end": 41,
+              "expanded_url": "https://x.com/I_LOVE_Clown/status/2047667698826707184/photo/1",
+              "media_key": "3_2047667691931176962",
+              "start": 18,
+              "url": "https://t.co/DQuVIIxkDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047667698826707184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 52883,
+          "like_count": 3429,
+          "quote_count": 40,
+          "reply_count": 24,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "明日のニコニコ超会議、楽しみだね！ https://t.co/DQuVIIxkDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2715,
+          "like_count": 5928,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1006
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T03:00:57.000Z",
+        "description": "東京造形大学 彫刻 / 小学館Steenz / 粘土でホラーな作品を造形したりイラスト描いてる美大生です👍 お仕事の依頼はDMにお願いします！！ #art #artwork #horror #handmade #芸術 #彫刻 メルカリで作品販売しています👇🏻👇🏻👇🏻",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "art"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "artwork"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "horror"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "tag": "handmade"
+              },
+              {
+                "end": 108,
+                "start": 105,
+                "tag": "芸術"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "彫刻"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.mercari.com/user/profile/5…",
+                "end": 23,
+                "expanded_url": "https://jp.mercari.com/user/profile/585535284?utm_medium=share&utm_source=ios",
+                "start": 0,
+                "url": "https://t.co/5vnKHQ8hEI"
+              }
+            ]
+          }
+        },
+        "id": "1094430993182670848",
+        "location": "東京造形大学",
+        "name": "ピエロ大好き人間︎︎︎︎",
+        "pinned_tweet_id": "1641764786160664578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1178797704450719744/5-8ptg21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64764,
+          "following_count": 41554,
+          "like_count": 67547,
+          "listed_count": 160,
+          "media_count": 3396,
+          "tweet_count": 10497
+        },
+        "url": "https://t.co/5vnKHQ8hEI",
+        "username": "I_LOVE_Clown",
+        "verified": false
+      }
+    ]
+  }
+}

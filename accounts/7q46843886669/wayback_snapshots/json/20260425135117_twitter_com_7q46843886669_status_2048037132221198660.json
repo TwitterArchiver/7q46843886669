@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048023505606754304"
+      ],
+      "media_source_tweet_id": [
+        "2048023508723147096"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048037132221198660",
+    "created_at": "2026-04-25T13:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048037132221198660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Ut6NvWeBd",
+          "end": 50,
+          "expanded_url": "https://x.com/amber_toffee/status/2048023508723147096/photo/1",
+          "media_key": "3_2048023505606754304",
+          "start": 27,
+          "url": "https://t.co/2Ut6NvWeBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048037132221198660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048023508723147096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 印象很深的一句话 https://t.co/2Ut6NvWeBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2048023505606754304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwKhwdXQAAsv84.jpg",
+        "width": 1113
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048023505606754304"
+          ],
+          "media_source_tweet_id": [
+            "2048023508723147096"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048037132221198660",
+        "created_at": "2026-04-25T13:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048037132221198660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ut6NvWeBd",
+              "end": 50,
+              "expanded_url": "https://x.com/amber_toffee/status/2048023508723147096/photo/1",
+              "media_key": "3_2048023505606754304",
+              "start": 27,
+              "url": "https://t.co/2Ut6NvWeBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048037132221198660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048023508723147096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 印象很深的一句话 https://t.co/2Ut6NvWeBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048023505606754304"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2048023508723147096",
+        "created_at": "2026-04-25T12:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048023508723147096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ut6NvWeBd",
+              "end": 32,
+              "expanded_url": "https://x.com/amber_toffee/status/2048023508723147096/photo/1",
+              "media_key": "3_2048023505606754304",
+              "start": 9,
+              "url": "https://t.co/2Ut6NvWeBd"
+            },
+            {
+              "display_url": "x.com/xjj5201314_/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xjj5201314_/status/2047724038982910171",
+              "start": 33,
+              "url": "https://t.co/gXHCVofLDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048023508723147096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047724038982910171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "印象很深的一句话 https://t.co/2Ut6NvWeBd https://t.co/gXHCVofLDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2720,
+          "like_count": 6058,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1125
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "#蓝V互关 / 接性心理咨询服务，有意者私聊 \n☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ\n❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "蓝V互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZonB0"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2047145196681302433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26467,
+          "following_count": 2832,
+          "like_count": 41745,
+          "listed_count": 14,
+          "media_count": 661,
+          "tweet_count": 22260
+        },
+        "url": "https://t.co/P9msNZonB0",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053150386790518784"
+      ],
+      "media_source_tweet_id": [
+        "2053174158801142189"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053379721673765339",
+    "created_at": "2026-05-10T07:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053379721673765339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789599446881513472",
+          "start": 3,
+          "username": "xchase173294"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aINxjaSx8T",
+          "end": 59,
+          "expanded_url": "https://x.com/xchase173294/status/2053174158801142189/photo/1",
+          "media_key": "3_2053150386790518784",
+          "start": 36,
+          "url": "https://t.co/aINxjaSx8T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053379721673765339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053174158801142189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xchase173294: “灵活的走位可以避免大部分的伤害” https://t.co/aINxjaSx8T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "3_2053150386790518784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5BZhMa0AAicIP.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053150386790518784"
+          ],
+          "media_source_tweet_id": [
+            "2053174158801142189"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053379721673765339",
+        "created_at": "2026-05-10T07:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053379721673765339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789599446881513472",
+              "start": 3,
+              "username": "xchase173294"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aINxjaSx8T",
+              "end": 59,
+              "expanded_url": "https://x.com/xchase173294/status/2053174158801142189/photo/1",
+              "media_key": "3_2053150386790518784",
+              "start": 36,
+              "url": "https://t.co/aINxjaSx8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053379721673765339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053174158801142189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xchase173294: “灵活的走位可以避免大部分的伤害” https://t.co/aINxjaSx8T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053150386790518784"
+          ]
+        },
+        "author_id": "1789599446881513472",
+        "conversation_id": "2053174158801142189",
+        "created_at": "2026-05-09T18:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053174158801142189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aINxjaSx8T",
+              "end": 41,
+              "expanded_url": "https://x.com/xchase173294/status/2053174158801142189/photo/1",
+              "media_key": "3_2053150386790518784",
+              "start": 18,
+              "url": "https://t.co/aINxjaSx8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053174158801142189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 4875,
+          "like_count": 286,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "“灵活的走位可以避免大部分的伤害” https://t.co/aINxjaSx8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2962,
+          "like_count": 11807,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3430
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 297,
+          "like_count": 3750,
+          "listed_count": 8,
+          "media_count": 446,
+          "tweet_count": 3376
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

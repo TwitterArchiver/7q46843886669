@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047666784904331264"
+      ],
+      "media_source_tweet_id": [
+        "2047666787685110070"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047999267558789597",
+    "created_at": "2026-04-25T11:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047999267558789597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741480096727195648",
+          "start": 3,
+          "username": "purelivn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mIyieU6BcV",
+          "end": 37,
+          "expanded_url": "https://x.com/purelivn/status/2047666787685110070/photo/1",
+          "media_key": "3_2047666784904331264",
+          "start": 14,
+          "url": "https://t.co/mIyieU6BcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047999267558789597",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047666787685110070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @purelivn: https://t.co/mIyieU6BcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2047666784904331264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrGF4SWwAAKxza.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047666784904331264"
+          ],
+          "media_source_tweet_id": [
+            "2047666787685110070"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047999267558789597",
+        "created_at": "2026-04-25T11:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047999267558789597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741480096727195648",
+              "start": 3,
+              "username": "purelivn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIyieU6BcV",
+              "end": 37,
+              "expanded_url": "https://x.com/purelivn/status/2047666787685110070/photo/1",
+              "media_key": "3_2047666784904331264",
+              "start": 14,
+              "url": "https://t.co/mIyieU6BcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047999267558789597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047666787685110070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @purelivn: https://t.co/mIyieU6BcV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047666784904331264"
+          ]
+        },
+        "author_id": "1741480096727195648",
+        "conversation_id": "2047666787685110070",
+        "created_at": "2026-04-24T13:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047666787685110070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIyieU6BcV",
+              "end": 23,
+              "expanded_url": "https://x.com/purelivn/status/2047666787685110070/photo/1",
+              "media_key": "3_2047666784904331264",
+              "start": 0,
+              "url": "https://t.co/mIyieU6BcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047666787685110070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 71477,
+          "like_count": 6050,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mIyieU6BcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2715,
+          "like_count": 5936,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1015
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T15:23:16.000Z",
+        "description": "peace in simplicity, life in nature 🍃",
+        "id": "1741480096727195648",
+        "name": "𝑝𝑢𝑟𝑒",
+        "pinned_tweet_id": "2044905545165869475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941937713910775808/6lJmq8Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120247,
+          "following_count": 34,
+          "like_count": 13435,
+          "listed_count": 284,
+          "media_count": 3310,
+          "tweet_count": 3396
+        },
+        "username": "purelivn",
+        "verified": true
+      }
+    ]
+  }
+}

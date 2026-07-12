@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050486647993880673",
+    "created_at": "2026-05-02T08:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050490149256224788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044392328966680576",
+          "start": 0,
+          "username": "OE3IIGFQRQ9473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050490149256224788",
+    "in_reply_to_user_id": "2044392328966680576",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050486647993880673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OE3IIGFQRQ9473 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050486647993880673",
+        "created_at": "2026-05-02T08:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050490149256224788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044392328966680576",
+              "start": 0,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050490149256224788",
+        "in_reply_to_user_id": "2044392328966680576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050486647993880673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OE3IIGFQRQ9473 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044392328966680576",
+        "conversation_id": "2050486647993880673",
+        "created_at": "2026-05-02T08:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050486647993880673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050486647993880673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做愛其實就是純挨操 只會像條死魚一樣癱在那 姿勢你幫我擺 別太過分就行 錢你看著給 別射裏面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2844,
+          "like_count": 8698,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2343
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "",
+        "id": "2044392328966680576",
+        "name": "Bloodlover8964",
+        "pinned_tweet_id": "2049473521794044125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044393437995356160/yh7YtJqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 46,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 173
+        },
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      }
+    ]
+  }
+}

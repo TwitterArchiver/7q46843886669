@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053883170320478664",
+    "created_at": "2026-05-11T21:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T22:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053951077603766431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053951077603766431",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053883170320478664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053883170320478664",
+        "created_at": "2026-05-11T21:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T22:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053951077603766431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053951077603766431",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053883170320478664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2053883170320478664",
+        "created_at": "2026-05-11T17:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053883170320478664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053883170320478664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3216,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "经研究发现\n如果主人对其他狗表现出关注时\n狗狗会出现嫉妒行为\n比如凝视、强行打断、吸引注意、回避生闷气....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 2977,
+          "like_count": 12290,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3634
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 215,
+          "like_count": 7199,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 2805
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052620306934575108"
+      ],
+      "media_source_tweet_id": [
+        "2052620317827211296"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052937798555246946",
+    "created_at": "2026-05-09T02:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052937798555246946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1860497581270331392",
+          "start": 3,
+          "username": "JapanOfcontext"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rZ0KrFWe0P",
+          "end": 43,
+          "expanded_url": "https://x.com/JapanOfcontext/status/2052620317827211296/photo/1",
+          "media_key": "3_2052620306934575108",
+          "start": 20,
+          "url": "https://t.co/rZ0KrFWe0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052937798555246946",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052620317827211296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JapanOfcontext: https://t.co/rZ0KrFWe0P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2052620306934575108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxfSz2WsAQhzJL.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052620306934575108"
+          ],
+          "media_source_tweet_id": [
+            "2052620317827211296"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052937798555246946",
+        "created_at": "2026-05-09T02:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052937798555246946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1860497581270331392",
+              "start": 3,
+              "username": "JapanOfcontext"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZ0KrFWe0P",
+              "end": 43,
+              "expanded_url": "https://x.com/JapanOfcontext/status/2052620317827211296/photo/1",
+              "media_key": "3_2052620306934575108",
+              "start": 20,
+              "url": "https://t.co/rZ0KrFWe0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052937798555246946",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052620317827211296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JapanOfcontext: https://t.co/rZ0KrFWe0P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052620306934575108"
+          ]
+        },
+        "author_id": "1860497581270331392",
+        "conversation_id": "2052620317827211296",
+        "created_at": "2026-05-08T05:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052620317827211296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZ0KrFWe0P",
+              "end": 23,
+              "expanded_url": "https://x.com/JapanOfcontext/status/2052620317827211296/photo/1",
+              "media_key": "3_2052620306934575108",
+              "start": 0,
+              "url": "https://t.co/rZ0KrFWe0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052620317827211296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 23430,
+          "like_count": 1583,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rZ0KrFWe0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2966,
+          "like_count": 11545,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3304
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T01:36:32.000Z",
+        "description": "˗ˏˋ 🌸 ˎˊ˗",
+        "id": "1860497581270331392",
+        "name": "Out Of Context Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861239611411841024/9FKRzBbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135464,
+          "following_count": 3,
+          "like_count": 3477,
+          "listed_count": 259,
+          "media_count": 1893,
+          "tweet_count": 3369
+        },
+        "username": "JapanOfcontext",
+        "verified": true
+      }
+    ]
+  }
+}

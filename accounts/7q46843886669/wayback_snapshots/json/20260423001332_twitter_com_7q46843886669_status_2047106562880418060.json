@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046971681210867712",
+    "created_at": "2026-04-23T00:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047106562880418060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944994854637068288",
+          "start": 0,
+          "username": "milkkkstra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047106562880418060",
+    "in_reply_to_user_id": "1944994854637068288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047105738556989482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milkkkstra 泥要跟我讨论一下子吗 既然是刀下留人的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046971681210867712",
+        "created_at": "2026-04-23T00:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047106562880418060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944994854637068288",
+              "start": 0,
+              "username": "milkkkstra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047106562880418060",
+        "in_reply_to_user_id": "1944994854637068288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047105738556989482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milkkkstra 泥要跟我讨论一下子吗 既然是刀下留人的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944994854637068288",
+        "conversation_id": "2046971681210867712",
+        "created_at": "2026-04-23T00:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047105738556989482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047105738556989482",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047105523976482851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 慢着，刀下留人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 2688,
+          "like_count": 5306,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 813
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:38:27.000Z",
+        "description": "疯子来的",
+        "id": "1944994854637068288",
+        "location": "地球",
+        "name": "milkkk",
+        "pinned_tweet_id": "2034620342417907825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011089208216367104/XB4Y1zL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 44,
+          "like_count": 1252,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 512
+        },
+        "username": "milkkkstra",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063851101074698240"
+      ],
+      "media_source_tweet_id": [
+        "2063851103289229445"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063934055813706084",
+    "created_at": "2026-06-08T10:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063934055813706084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811384610749874176",
+          "start": 3,
+          "username": "wgddking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e0DaScYFQo",
+          "end": 50,
+          "expanded_url": "https://x.com/wgddking/status/2063851103289229445/photo/1",
+          "media_key": "3_2063851101074698240",
+          "start": 27,
+          "url": "https://t.co/e0DaScYFQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063934055813706084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063851103289229445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wgddking: 终于看到正常的情侣关系了 https://t.co/e0DaScYFQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063851101074698240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRFpETbMAAaAtF.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063851101074698240"
+          ],
+          "media_source_tweet_id": [
+            "2063851103289229445"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063934055813706084",
+        "created_at": "2026-06-08T10:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063934055813706084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811384610749874176",
+              "start": 3,
+              "username": "wgddking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0DaScYFQo",
+              "end": 50,
+              "expanded_url": "https://x.com/wgddking/status/2063851103289229445/photo/1",
+              "media_key": "3_2063851101074698240",
+              "start": 27,
+              "url": "https://t.co/e0DaScYFQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063934055813706084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063851103289229445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wgddking: 终于看到正常的情侣关系了 https://t.co/e0DaScYFQo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063851101074698240"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063851103289229445",
+        "created_at": "2026-06-08T05:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063851103289229445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0DaScYFQo",
+              "end": 36,
+              "expanded_url": "https://x.com/wgddking/status/2063851103289229445/photo/1",
+              "media_key": "3_2063851101074698240",
+              "start": 13,
+              "url": "https://t.co/e0DaScYFQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063851103289229445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 64321,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 117,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "终于看到正常的情侣关系了 https://t.co/e0DaScYFQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 3377,
+          "like_count": 17651,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4874
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n（求警哥别抓我😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（温指导）",
+        "pinned_tweet_id": "2061023590150254815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 87,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 2662
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045516547213688832"
+      ],
+      "media_source_tweet_id": [
+        "2046423683040772591"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046453703444705719",
+    "created_at": "2026-04-21T04:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046453703444705719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1465701247021838341",
+          "start": 3,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C2mcpb7PSN",
+          "end": 40,
+          "expanded_url": "https://x.com/show5560/status/2046423683040772591/photo/1",
+          "media_key": "3_2045516547213688832",
+          "start": 17,
+          "url": "https://t.co/C2mcpb7PSN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046453703444705719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046423683040772591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @show5560: 啊？ https://t.co/C2mcpb7PSN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2045516547213688832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMidkrbAAAQHuW.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045516547213688832"
+          ],
+          "media_source_tweet_id": [
+            "2046423683040772591"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046453703444705719",
+        "created_at": "2026-04-21T04:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046453703444705719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1465701247021838341",
+              "start": 3,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2mcpb7PSN",
+              "end": 40,
+              "expanded_url": "https://x.com/show5560/status/2046423683040772591/photo/1",
+              "media_key": "3_2045516547213688832",
+              "start": 17,
+              "url": "https://t.co/C2mcpb7PSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046453703444705719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046423683040772591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @show5560: 啊？ https://t.co/C2mcpb7PSN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045516547213688832"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2046423683040772591",
+        "created_at": "2026-04-21T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046423683040772591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2mcpb7PSN",
+              "end": 26,
+              "expanded_url": "https://x.com/show5560/status/2046423683040772591/photo/1",
+              "media_key": "3_2045516547213688832",
+              "start": 3,
+              "url": "https://t.co/C2mcpb7PSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046423683040772591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 321,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊？ https://t.co/C2mcpb7PSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2651,
+          "like_count": 4472,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 661
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 断糖 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2046200192874271099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 1504,
+          "like_count": 25834,
+          "listed_count": 6,
+          "media_count": 568,
+          "tweet_count": 5926
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

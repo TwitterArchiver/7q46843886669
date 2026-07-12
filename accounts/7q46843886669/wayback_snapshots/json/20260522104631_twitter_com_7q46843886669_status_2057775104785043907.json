@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057775102759211008"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057775104785043907",
+    "created_at": "2026-05-22T10:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057775104785043907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P9YcWPogQt",
+          "end": 35,
+          "expanded_url": "https://x.com/7q46843886669/status/2057775104785043907/photo/1",
+          "media_key": "3_2057775102759211008",
+          "start": 12,
+          "url": "https://t.co/P9YcWPogQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057775104785043907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特好难看，，，， https://t.co/P9YcWPogQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057775102759211008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6vjaubEAAIgKt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057775102759211008"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057775104785043907",
+        "created_at": "2026-05-22T10:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057775104785043907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9YcWPogQt",
+              "end": 35,
+              "expanded_url": "https://x.com/7q46843886669/status/2057775104785043907/photo/1",
+              "media_key": "3_2057775102759211008",
+              "start": 12,
+              "url": "https://t.co/P9YcWPogQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057775104785043907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特好难看，，，， https://t.co/P9YcWPogQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 3052,
+          "like_count": 14483,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 4384
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

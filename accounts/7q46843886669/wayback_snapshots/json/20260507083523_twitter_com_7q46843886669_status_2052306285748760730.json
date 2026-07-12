@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2044067600464798005",
+    "created_at": "2026-05-07T08:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052306285748760730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939330946358210560",
+          "start": 0,
+          "username": "SukiXiaozhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052306285748760730",
+    "in_reply_to_user_id": "1939330946358210560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044067600464798005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SukiXiaozhi 我以前初中的时候去很好的朋友家打王者他一直放这首歌 我现在一听到就会想起来 很开心的时光呃啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99674,
+        "height": 1280,
+        "media_key": "13_2044067254074003456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044067254074003456/img/NinF1wiOlixDij-8.jpg",
+        "public_metrics": {
+          "view_count": 107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044067254074003456/vid/avc1/320x568/3ra6rKvOhf445z1d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044067254074003456/vid/avc1/480x852/hcUsWf6p09YFo22f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044067254074003456/vid/avc1/720x1280/KNZ_T4mzIqbOGMV4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044067254074003456/pl/VAe3l8Bpbe97BrDg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2044067600464798005",
+        "created_at": "2026-05-07T08:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052306285748760730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939330946358210560",
+              "start": 0,
+              "username": "SukiXiaozhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052306285748760730",
+        "in_reply_to_user_id": "1939330946358210560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044067600464798005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SukiXiaozhi 我以前初中的时候去很好的朋友家打王者他一直放这首歌 我现在一听到就会想起来 很开心的时光呃啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044067254074003456"
+          ]
+        },
+        "author_id": "1939330946358210560",
+        "conversation_id": "2044067600464798005",
+        "created_at": "2026-04-14T14:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044067600464798005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRh1gMrQNT",
+              "end": 41,
+              "expanded_url": "https://x.com/SukiXiaozhi/status/2044067600464798005/video/1",
+              "media_key": "13_2044067254074003456",
+              "start": 18,
+              "url": "https://t.co/FRh1gMrQNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044067600464798005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客官客官我想你 &gt;ㅈ&lt; https://t.co/FRh1gMrQNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2899,
+          "like_count": 10853,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3093
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T14:31:54.000Z",
+        "description": "伟大 渺小 中庸 可怜 好色 善良 博爱 诡辩 忍让 气愤 复杂 讨厌",
+        "id": "1939330946358210560",
+        "location": "西湖｜ 欢迎投喂｜Pan sexual",
+        "name": "小智の日记薄",
+        "pinned_tweet_id": "2051109300194451472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016585807306641410/_5C-G274_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 109,
+          "like_count": 3509,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1763
+        },
+        "username": "SukiXiaozhi",
+        "verified": false
+      }
+    ]
+  }
+}

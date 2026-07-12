@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1969439374736834776",
+    "created_at": "2025-09-20T23:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T00:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969547606109143291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634793712302604289",
+          "start": 0,
+          "username": "10onatic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969547606109143291",
+    "in_reply_to_user_id": "1634793712302604289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969439374736834776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10onatic 求bgm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134300,
+        "height": 848,
+        "media_key": "13_1966863569972326407",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966863569972326407/img/BFMi5_3fkRj4jtLz.jpg",
+        "public_metrics": {
+          "view_count": 6417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966863569972326407/vid/avc1/320x584/7vrYcPKDXWROzSXF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966863569972326407/vid/avc1/464x848/OT3nBvAVOrBuaqpa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966863569972326407/pl/Lg7MnJG1MQfIdnmL.m3u8?tag=14"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1969439374736834776",
+        "created_at": "2025-09-20T23:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T00:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969547606109143291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634793712302604289",
+              "start": 0,
+              "username": "10onatic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969547606109143291",
+        "in_reply_to_user_id": "1634793712302604289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969439374736834776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10onatic 求bgm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966863569972326407"
+          ],
+          "media_source_tweet_id": [
+            "1966863766236332339"
+          ]
+        },
+        "author_id": "1634793712302604289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1969439374736834776",
+        "created_at": "2025-09-20T16:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T17:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969439374736834776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujkTDhu8uz",
+              "end": 41,
+              "expanded_url": "https://x.com/yime782/status/1966863766236332339/video/1",
+              "media_key": "13_1966863569972326407",
+              "start": 18,
+              "url": "https://t.co/ujkTDhu8uz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969439374736834776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3855,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到男的给我发私信我就这个心情 https://t.co/ujkTDhu8uz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 508,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T05:49:44.000Z",
+        "description": "@1oonatism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "1oonatism"
+              }
+            ]
+          }
+        },
+        "id": "1634793712302604289",
+        "name": "່",
+        "pinned_tweet_id": "1969326658785030512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964662123575021568/LUa11yGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8976,
+          "following_count": 88,
+          "like_count": 1079,
+          "listed_count": 14,
+          "media_count": 219,
+          "tweet_count": 684
+        },
+        "username": "10onatic",
+        "verified": false
+      }
+    ]
+  }
+}

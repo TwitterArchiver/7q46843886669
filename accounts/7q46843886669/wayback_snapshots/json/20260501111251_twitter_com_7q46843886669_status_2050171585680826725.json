@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049994052301365248"
+      ],
+      "media_source_tweet_id": [
+        "2049994058202783905"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050171585680826725",
+    "created_at": "2026-05-01T11:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050171585680826725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037305781377273856",
+          "start": 3,
+          "username": "stardustvxl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3OdMkpinWn",
+          "end": 58,
+          "expanded_url": "https://x.com/stardustvxl/status/2049994058202783905/photo/1",
+          "media_key": "3_2049994052301365248",
+          "start": 35,
+          "url": "https://t.co/3OdMkpinWn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050171585680826725",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049994058202783905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stardustvxl: amores de mi vida https://t.co/3OdMkpinWn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049994052301365248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMKuq8WIAAYuOl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049994052301365248"
+          ],
+          "media_source_tweet_id": [
+            "2049994058202783905"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050171585680826725",
+        "created_at": "2026-05-01T11:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050171585680826725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037305781377273856",
+              "start": 3,
+              "username": "stardustvxl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OdMkpinWn",
+              "end": 58,
+              "expanded_url": "https://x.com/stardustvxl/status/2049994058202783905/photo/1",
+              "media_key": "3_2049994052301365248",
+              "start": 35,
+              "url": "https://t.co/3OdMkpinWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050171585680826725",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049994058202783905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stardustvxl: amores de mi vida https://t.co/3OdMkpinWn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049994052301365248"
+          ]
+        },
+        "author_id": "2037305781377273856",
+        "conversation_id": "2049994058202783905",
+        "created_at": "2026-04-30T23:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049994058202783905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OdMkpinWn",
+              "end": 41,
+              "expanded_url": "https://x.com/stardustvxl/status/2049994058202783905/photo/1",
+              "media_key": "3_2049994052301365248",
+              "start": 18,
+              "url": "https://t.co/3OdMkpinWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049994058202783905",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 28095,
+          "like_count": 3795,
+          "quote_count": 20,
+          "reply_count": 21,
+          "retweet_count": 620
+        },
+        "reply_settings": "everyone",
+        "text": "amores de mi vida https://t.co/3OdMkpinWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2840,
+          "like_count": 8225,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2144
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T23:08:44.000Z",
+        "description": "#shedtwt :3\nside @vaalllurfatfav\nminor !",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "vaalllurfatfav"
+              }
+            ]
+          }
+        },
+        "id": "2037305781377273856",
+        "name": "(づ￣ ³￣)づ ♡",
+        "pinned_tweet_id": "2037313792208507140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044334367850573824/Jue77YkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 311,
+          "like_count": 2614,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 1438
+        },
+        "username": "stardustvxl",
+        "verified": false
+      }
+    ]
+  }
+}

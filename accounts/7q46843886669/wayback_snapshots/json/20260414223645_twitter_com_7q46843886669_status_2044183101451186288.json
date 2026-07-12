@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2043969470419611688",
+    "created_at": "2026-04-14T22:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T23:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044183101451186288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885962788113416192",
+          "start": 0,
+          "username": "stjkttkx365"
+        },
+        {
+          "end": 21,
+          "id": "1574594591612968970",
+          "start": 13,
+          "username": "Eien_HB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044183101451186288",
+    "in_reply_to_user_id": "1885962788113416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043969709390082078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stjkttkx365 @Eien_HB 我操还有贴心学习资料老大你人好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2043969470419611688",
+        "created_at": "2026-04-14T22:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044183101451186288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885962788113416192",
+              "start": 0,
+              "username": "stjkttkx365"
+            },
+            {
+              "end": 21,
+              "id": "1574594591612968970",
+              "start": 13,
+              "username": "Eien_HB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044183101451186288",
+        "in_reply_to_user_id": "1885962788113416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043969709390082078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stjkttkx365 @Eien_HB 我操还有贴心学习资料老大你人好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885962788113416192",
+        "conversation_id": "2043969470419611688",
+        "created_at": "2026-04-14T08:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043969709390082078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1574594591612968970",
+              "start": 5,
+              "username": "Eien_HB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043969709390082078",
+        "in_reply_to_user_id": "1885962788113416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2097,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043969470419611688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推荐学习 @Eien_HB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 2578,
+          "like_count": 3822,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 554
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T08:05:56.000Z",
+        "description": "Cortis马丁是我的理想型\nDom",
+        "id": "1885962788113416192",
+        "name": "浆果",
+        "pinned_tweet_id": "2043521602806247613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041022166133768192/UiJPhJtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 10,
+          "like_count": 509,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 603
+        },
+        "username": "stjkttkx365",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T02:59:50.000Z",
+        "description": "",
+        "id": "1574594591612968970",
+        "location": "总以为迷一般难懂的我✧",
+        "name": "HB子",
+        "pinned_tweet_id": "1678219551824134144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627060564064374784/PiZuIwdZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83312,
+          "following_count": 60,
+          "like_count": 7614,
+          "listed_count": 358,
+          "media_count": 11,
+          "tweet_count": 3169
+        },
+        "username": "Eien_HB",
+        "verified": true
+      }
+    ]
+  }
+}

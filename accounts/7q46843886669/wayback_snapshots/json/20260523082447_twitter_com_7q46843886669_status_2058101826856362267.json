@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058039299082457088"
+      ],
+      "media_source_tweet_id": [
+        "2058039339091894766"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058101826856362267",
+    "created_at": "2026-05-23T08:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058101826856362267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1536879871694999553",
+          "start": 3,
+          "username": "Summerkanna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QIpgxvAnxi",
+          "end": 40,
+          "expanded_url": "https://x.com/Summerkanna/status/2058039339091894766/photo/1",
+          "media_key": "3_2058039299082457088",
+          "start": 17,
+          "url": "https://t.co/QIpgxvAnxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058101826856362267",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058039339091894766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Summerkanna: https://t.co/QIpgxvAnxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2058039299082457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-f1quakAAgz6g.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058039299082457088"
+          ],
+          "media_source_tweet_id": [
+            "2058039339091894766"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058101826856362267",
+        "created_at": "2026-05-23T08:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058101826856362267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1536879871694999553",
+              "start": 3,
+              "username": "Summerkanna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIpgxvAnxi",
+              "end": 40,
+              "expanded_url": "https://x.com/Summerkanna/status/2058039339091894766/photo/1",
+              "media_key": "3_2058039299082457088",
+              "start": 17,
+              "url": "https://t.co/QIpgxvAnxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058101826856362267",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058039339091894766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Summerkanna: https://t.co/QIpgxvAnxi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058039299082457088"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058039339091894766",
+        "created_at": "2026-05-23T04:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058039339091894766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIpgxvAnxi",
+              "end": 23,
+              "expanded_url": "https://x.com/Summerkanna/status/2058039339091894766/photo/1",
+              "media_key": "3_2058039299082457088",
+              "start": 0,
+              "url": "https://t.co/QIpgxvAnxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058039339091894766",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1195,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QIpgxvAnxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 3102,
+          "like_count": 14801,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4460
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/YkKOU5z2az"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天カンナ@轉貼迷因Vtuber",
+        "pinned_tweet_id": "2057001329034412123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055941908778909696/RLsrOHnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9435,
+          "following_count": 908,
+          "like_count": 21878,
+          "listed_count": 46,
+          "media_count": 4519,
+          "tweet_count": 15667
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "Summerkanna",
+        "verified": true
+      }
+    ]
+  }
+}

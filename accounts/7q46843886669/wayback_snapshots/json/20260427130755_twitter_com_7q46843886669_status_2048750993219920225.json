@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048459185726357504"
+      ],
+      "media_source_tweet_id": [
+        "2048459202654306379"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048750993219920225",
+    "created_at": "2026-04-27T13:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048750993219920225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1702321676489482240",
+          "start": 3,
+          "username": "ancilladominii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uG0Dcodq6s",
+          "end": 43,
+          "expanded_url": "https://x.com/ancilladominii/status/2048459202654306379/photo/1",
+          "media_key": "3_2048459185726357504",
+          "start": 20,
+          "url": "https://t.co/uG0Dcodq6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048750993219920225",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048459202654306379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ancilladominii: https://t.co/uG0Dcodq6s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2048459185726357504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2WxrYbAAA7laH.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048459185726357504"
+          ],
+          "media_source_tweet_id": [
+            "2048459202654306379"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048750993219920225",
+        "created_at": "2026-04-27T13:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048750993219920225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1702321676489482240",
+              "start": 3,
+              "username": "ancilladominii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG0Dcodq6s",
+              "end": 43,
+              "expanded_url": "https://x.com/ancilladominii/status/2048459202654306379/photo/1",
+              "media_key": "3_2048459185726357504",
+              "start": 20,
+              "url": "https://t.co/uG0Dcodq6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048750993219920225",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048459202654306379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ancilladominii: https://t.co/uG0Dcodq6s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048459185726357504"
+          ]
+        },
+        "author_id": "1702321676489482240",
+        "conversation_id": "2048459202654306379",
+        "created_at": "2026-04-26T17:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048459202654306379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG0Dcodq6s",
+              "end": 23,
+              "expanded_url": "https://x.com/ancilladominii/status/2048459202654306379/photo/1",
+              "media_key": "3_2048459185726357504",
+              "start": 0,
+              "url": "https://t.co/uG0Dcodq6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048459202654306379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 12247,
+          "like_count": 1299,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uG0Dcodq6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2749,
+          "like_count": 6406,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1428
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T14:01:51.000Z",
+        "description": "Lux Ex Tenebris",
+        "id": "1702321676489482240",
+        "name": "salt",
+        "pinned_tweet_id": "2038638366774685889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917595948684804096/vSbKlPsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57034,
+          "following_count": 71,
+          "like_count": 7052,
+          "listed_count": 310,
+          "media_count": 4990,
+          "tweet_count": 5692
+        },
+        "username": "ancilladominii",
+        "verified": true
+      }
+    ]
+  }
+}

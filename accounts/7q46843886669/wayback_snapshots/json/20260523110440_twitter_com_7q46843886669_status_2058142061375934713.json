@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058134621603414017"
+      ],
+      "media_source_tweet_id": [
+        "2058134636019294568"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2058142061375934713",
+    "created_at": "2026-05-23T11:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058142061375934713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578395243891855362",
+          "start": 3,
+          "username": "hate_0811"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QjynGPJvgq",
+          "end": 38,
+          "expanded_url": "https://x.com/hate_0811/status/2058134636019294568/photo/1",
+          "media_key": "3_2058134621603414017",
+          "start": 15,
+          "url": "https://t.co/QjynGPJvgq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058142061375934713",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058134636019294568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hate_0811: https://t.co/QjynGPJvgq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2058134621603414017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_2iKyawAEoKoh.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058134621603414017"
+          ],
+          "media_source_tweet_id": [
+            "2058134636019294568"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2058142061375934713",
+        "created_at": "2026-05-23T11:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058142061375934713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578395243891855362",
+              "start": 3,
+              "username": "hate_0811"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjynGPJvgq",
+              "end": 38,
+              "expanded_url": "https://x.com/hate_0811/status/2058134636019294568/photo/1",
+              "media_key": "3_2058134621603414017",
+              "start": 15,
+              "url": "https://t.co/QjynGPJvgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058142061375934713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058134636019294568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hate_0811: https://t.co/QjynGPJvgq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058134621603414017"
+          ]
+        },
+        "author_id": "1578395243891855362",
+        "conversation_id": "2058134636019294568",
+        "created_at": "2026-05-23T10:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058134636019294568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjynGPJvgq",
+              "end": 23,
+              "expanded_url": "https://x.com/hate_0811/status/2058134636019294568/photo/1",
+              "media_key": "3_2058134621603414017",
+              "start": 0,
+              "url": "https://t.co/QjynGPJvgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058134636019294568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QjynGPJvgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 3106,
+          "like_count": 14816,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4442
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "防失联小号喵@Tiesa1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Tiesa1234"
+              }
+            ]
+          }
+        },
+        "id": "1578395243891855362",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048724780837150720/pNdCkBZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3459,
+          "following_count": 257,
+          "like_count": 9439,
+          "listed_count": 5,
+          "media_count": 947,
+          "tweet_count": 8303
+        },
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

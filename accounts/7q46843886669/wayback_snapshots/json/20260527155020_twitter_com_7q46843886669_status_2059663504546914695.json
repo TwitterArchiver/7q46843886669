@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059264949785092096"
+      ],
+      "media_source_tweet_id": [
+        "2059264956353409068"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2059663504546914695",
+    "created_at": "2026-05-27T15:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059663504546914695"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 13,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013237543110955008",
+          "start": 3,
+          "username": "sayxka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HljvjYoYJI",
+          "end": 57,
+          "expanded_url": "https://x.com/sayxka_/status/2059264956353409068/photo/1",
+          "media_key": "3_2059264949785092096",
+          "start": 34,
+          "url": "https://t.co/HljvjYoYJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059663504546914695",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059264956353409068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayxka_: #NEEDY_GIRL_OVERDOSE https://t.co/HljvjYoYJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059264949785092096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP6j7ZaYAARQDY.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059264949785092096"
+          ],
+          "media_source_tweet_id": [
+            "2059264956353409068"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2059663504546914695",
+        "created_at": "2026-05-27T15:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059663504546914695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 13,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013237543110955008",
+              "start": 3,
+              "username": "sayxka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HljvjYoYJI",
+              "end": 57,
+              "expanded_url": "https://x.com/sayxka_/status/2059264956353409068/photo/1",
+              "media_key": "3_2059264949785092096",
+              "start": 34,
+              "url": "https://t.co/HljvjYoYJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059663504546914695",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264956353409068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayxka_: #NEEDY_GIRL_OVERDOSE https://t.co/HljvjYoYJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059264949785092096"
+          ]
+        },
+        "author_id": "2013237543110955008",
+        "conversation_id": "2059264956353409068",
+        "created_at": "2026-05-26T13:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059264956353409068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HljvjYoYJI",
+              "end": 44,
+              "expanded_url": "https://x.com/sayxka_/status/2059264956353409068/photo/1",
+              "media_key": "3_2059264949785092096",
+              "start": 21,
+              "url": "https://t.co/HljvjYoYJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059264956353409068",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 700,
+          "impression_count": 55583,
+          "like_count": 10396,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 1497
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE https://t.co/HljvjYoYJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 3165,
+          "like_count": 15532,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 4493
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T13:10:16.000Z",
+        "description": "Main @i_loxe_u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "i_loxe_u"
+              }
+            ]
+          }
+        },
+        "id": "2013237543110955008",
+        "location": "さやか",
+        "name": "໊",
+        "pinned_tweet_id": "2059264956353409068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058926544857526272/sgLLrCuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "sayxka_",
+        "verified": false
+      }
+    ]
+  }
+}

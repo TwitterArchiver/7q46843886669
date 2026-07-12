@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049324072857927680"
+      ],
+      "media_source_tweet_id": [
+        "2049324080399360053"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049625751549628794",
+    "created_at": "2026-04-29T23:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049625751549628794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664742004423794688",
+          "start": 3,
+          "username": "rwayne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8hYxvW2Cgs",
+          "end": 48,
+          "expanded_url": "https://x.com/rwayne/status/2049324080399360053/photo/1",
+          "media_key": "3_2049324072857927680",
+          "start": 25,
+          "url": "https://t.co/8hYxvW2Cgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049625751549628794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049324080399360053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rwayne: 下班买刮刮乐刮出来个欠条 https://t.co/8hYxvW2Cgs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2049324072857927680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCpYvBagAAvmzQ.jpg",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049324072857927680"
+          ],
+          "media_source_tweet_id": [
+            "2049324080399360053"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049625751549628794",
+        "created_at": "2026-04-29T23:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049625751549628794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664742004423794688",
+              "start": 3,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hYxvW2Cgs",
+              "end": 48,
+              "expanded_url": "https://x.com/rwayne/status/2049324080399360053/photo/1",
+              "media_key": "3_2049324072857927680",
+              "start": 25,
+              "url": "https://t.co/8hYxvW2Cgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049625751549628794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049324080399360053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rwayne: 下班买刮刮乐刮出来个欠条 https://t.co/8hYxvW2Cgs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049324072857927680"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2049324080399360053",
+        "created_at": "2026-04-29T03:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049324080399360053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hYxvW2Cgs",
+              "end": 36,
+              "expanded_url": "https://x.com/rwayne/status/2049324080399360053/photo/1",
+              "media_key": "3_2049324072857927680",
+              "start": 13,
+              "url": "https://t.co/8hYxvW2Cgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049324080399360053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 25197,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下班买刮刮乐刮出来个欠条 https://t.co/8hYxvW2Cgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2795,
+          "like_count": 7411,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1881
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2049081526814757338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43364,
+          "following_count": 758,
+          "like_count": 25355,
+          "listed_count": 232,
+          "media_count": 1588,
+          "tweet_count": 11307
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

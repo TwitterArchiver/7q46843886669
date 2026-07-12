@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2038669513865261440",
+    "created_at": "2026-03-30T22:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T23:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038750226593513810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538247350438617088",
+          "start": 0,
+          "username": "ThingsGoAthwart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038750226593513810",
+    "in_reply_to_user_id": "1538247350438617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038669513865261440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThingsGoAthwart 南征北战来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2038669513865261440",
+        "created_at": "2026-03-30T22:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T23:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038750226593513810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538247350438617088",
+              "start": 0,
+              "username": "ThingsGoAthwart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038750226593513810",
+        "in_reply_to_user_id": "1538247350438617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038669513865261440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThingsGoAthwart 南征北战来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538247350438617088",
+        "conversation_id": "2038669513865261440",
+        "created_at": "2026-03-30T17:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038669513865261440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038669513865261440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15608,
+          "like_count": 139,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最他吗讨厌的就是东北人   天天觉得自己牛逼还爱装逼  做生意不行做人更是不行   东北部分男的就是很他妈傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 2547,
+          "like_count": 3404,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 476
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T19:48:50.000Z",
+        "description": "无论发生什么 请不要后悔与我相遇",
+        "id": "1538247350438617088",
+        "location": "Guangzhou",
+        "name": "诗画樱稻",
+        "pinned_tweet_id": "1855831459422155246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942276664173682688/JVkdbQQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28801,
+          "following_count": 27,
+          "like_count": 29,
+          "listed_count": 63,
+          "media_count": 133,
+          "tweet_count": 371
+        },
+        "username": "ThingsGoAthwart",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2014913878795420076",
+    "created_at": "2026-01-24T06:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T07:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014950895956722003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014950895956722003",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014913878795420076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 联系下面那个了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2014913871660912640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZpfaVbEAATDbC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2014913878795420076",
+        "created_at": "2026-01-24T06:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014950895956722003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014950895956722003",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014913878795420076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 联系下面那个了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014913871660912640"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014913878795420076",
+        "created_at": "2026-01-24T04:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014913878795420076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOoLrhXnqd",
+              "end": 32,
+              "expanded_url": "https://x.com/Miaooo_47/status/2014913878795420076/photo/1",
+              "media_key": "3_2014913871660912640",
+              "start": 9,
+              "url": "https://t.co/xOoLrhXnqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014913878795420076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2264,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡醒私信又刷怪。 https://t.co/xOoLrhXnqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1397,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 125
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp 双 | ❗️会互fo（但是会查成分）想和妹宝互fo | 当朋友圈发 碎碎念 会存一些自己很有感触的话 | 喜欢我就请我吃小蛋糕 | 匿名📮 https://t.co/K4cJAy1QYM ┆·✦ʚ♡ɞ✦·┆需要互fo请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cooliya96",
+                "end": 116,
+                "expanded_url": "https://ngl.link/cooliya96",
+                "start": 93,
+                "url": "https://t.co/K4cJAy1QYM"
+              }
+            ]
+          }
+        },
+        "id": "2000126709375623168",
+        "name": "十五遥",
+        "pinned_tweet_id": "2012052045885551049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010363420365979648/Err54w1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 102,
+          "like_count": 1338,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 460
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

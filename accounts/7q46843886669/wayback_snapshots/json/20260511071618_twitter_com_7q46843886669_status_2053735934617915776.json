@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053735934617915776",
+    "created_at": "2026-05-11T07:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053735934617915776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053735934617915776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053428674985369839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 你老母亲费劲巴拉给你整一桌子菜，你说加入光荣的进化吧，我开个罐头两秒钟就吃上了，在罐头面前你整一桌子菜质量再高有啥用，我罐头也很好吃香辣口味的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053735934617915776",
+        "created_at": "2026-05-11T07:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053735934617915776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053735934617915776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053428674985369839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 你老母亲费劲巴拉给你整一桌子菜，你说加入光荣的进化吧，我开个罐头两秒钟就吃上了，在罐头面前你整一桌子菜质量再高有啥用，我罐头也很好吃香辣口味的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2053428674985369839",
+        "created_at": "2026-05-10T10:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053428674985369839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053428674985369839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你老母亲费劲巴拉给你整一桌子菜，你说加入光荣的进化吧，我开个罐头两秒钟就吃上了，在罐头面前你整一桌子菜质量再高有啥用，我罐头也很好吃香辣口味的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2960,
+          "like_count": 12082,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3576
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 409,
+          "like_count": 715,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 1938
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1995815455748231482",
+    "created_at": "2025-12-03T13:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996214182279274685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954369706909159424",
+          "start": 0,
+          "username": "mmmmm118352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996214182279274685",
+    "in_reply_to_user_id": "1954369706909159424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995815455748231482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmmm118352 发不出信息了草可恶的x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1995815455748231482",
+        "created_at": "2025-12-03T13:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996214182279274685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954369706909159424",
+              "start": 0,
+              "username": "mmmmm118352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996214182279274685",
+        "in_reply_to_user_id": "1954369706909159424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995815455748231482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmmm118352 发不出信息了草可恶的x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954369706909159424",
+        "conversation_id": "1995815455748231482",
+        "created_at": "2025-12-02T11:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995815455748231482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995815455748231482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能给女初过门好缺钱!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 950,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T02:30:32.000Z",
+        "description": "🚪52纯绿色\n131.4另说\n女初",
+        "id": "1954369706909159424",
+        "name": "小椰懵懵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954542393006686208/pvcbLD6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 111,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "username": "mmmmm118352",
+        "verified": false
+      }
+    ]
+  }
+}

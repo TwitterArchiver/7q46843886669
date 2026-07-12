@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055849167172587520"
+      ],
+      "media_source_tweet_id": [
+        "2055849175657631880"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056106353375260764",
+    "created_at": "2026-05-17T20:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T21:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056106353375260764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2452092193",
+          "start": 3,
+          "username": "zxchahahaha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VRqxhHZslD",
+          "end": 56,
+          "expanded_url": "https://x.com/zxchahahaha/status/2055849175657631880/photo/1",
+          "media_key": "3_2055849167172587520",
+          "start": 33,
+          "url": "https://t.co/VRqxhHZslD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056106353375260764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055849175657631880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zxchahahaha: 店內有低消Faker才站在外面 https://t.co/VRqxhHZslD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2055849167172587520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfX7Nka0AAnqG-.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055849167172587520"
+          ],
+          "media_source_tweet_id": [
+            "2055849175657631880"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056106353375260764",
+        "created_at": "2026-05-17T20:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056106353375260764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2452092193",
+              "start": 3,
+              "username": "zxchahahaha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRqxhHZslD",
+              "end": 56,
+              "expanded_url": "https://x.com/zxchahahaha/status/2055849175657631880/photo/1",
+              "media_key": "3_2055849167172587520",
+              "start": 33,
+              "url": "https://t.co/VRqxhHZslD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056106353375260764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055849175657631880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zxchahahaha: 店內有低消Faker才站在外面 https://t.co/VRqxhHZslD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055849167172587520"
+          ]
+        },
+        "author_id": "2452092193",
+        "conversation_id": "2055849175657631880",
+        "created_at": "2026-05-17T03:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055849175657631880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRqxhHZslD",
+              "end": 39,
+              "expanded_url": "https://x.com/zxchahahaha/status/2055849175657631880/photo/1",
+              "media_key": "3_2055849167172587520",
+              "start": 16,
+              "url": "https://t.co/VRqxhHZslD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055849175657631880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 20738,
+          "like_count": 695,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "店內有低消Faker才站在外面 https://t.co/VRqxhHZslD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2978,
+          "like_count": 13075,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3983
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-18T23:50:50.000Z",
+        "description": "我好帥==",
+        "id": "2452092193",
+        "location": "There",
+        "name": "Yee",
+        "pinned_tweet_id": "1691522213005209600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675706326532640770/buCFYei7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15286,
+          "following_count": 751,
+          "like_count": 9161,
+          "listed_count": 41,
+          "media_count": 594,
+          "tweet_count": 9604
+        },
+        "username": "zxchahahaha",
+        "verified": true
+      }
+    ]
+  }
+}

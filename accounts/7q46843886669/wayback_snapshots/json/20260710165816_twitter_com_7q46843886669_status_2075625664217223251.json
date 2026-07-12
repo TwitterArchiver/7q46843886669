@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2075088088385327205",
+    "created_at": "2026-07-10T16:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075625664217223251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        },
+        {
+          "end": 26,
+          "id": "1974862287761817600",
+          "start": 14,
+          "username": "berberber_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075625664217223251",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075170663514661025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT @berberber_1 👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2075088088385327205",
+        "created_at": "2026-07-10T16:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075625664217223251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 26,
+              "id": "1974862287761817600",
+              "start": 14,
+              "username": "berberber_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075625664217223251",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075170663514661025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @berberber_1 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075088088385327205",
+        "created_at": "2026-07-09T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075170663514661025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974862287761817600",
+              "start": 0,
+              "username": "berberber_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075170663514661025",
+        "in_reply_to_user_id": "1974862287761817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075088088385327205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berberber_1 姐姐 談不談。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n@QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 3399,
+          "like_count": 20603,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 5417
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 51,
+          "like_count": 753,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T15:40:47.000Z",
+        "description": "🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/liyuyuyuber?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/liyuyuyuber?igsh=MWI4cGk3a3FmOGZpeA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/a2iVZX23MP"
+              }
+            ]
+          }
+        },
+        "id": "1974862287761817600",
+        "location": "🌍",
+        "name": "BerNoct",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074890110320230400/fYl77pG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 5,
+          "like_count": 274,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/a2iVZX23MP",
+        "username": "berberber_1",
+        "verified": false
+      }
+    ]
+  }
+}

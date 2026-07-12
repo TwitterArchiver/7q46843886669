@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052723255362850816"
+      ],
+      "media_source_tweet_id": [
+        "2052723257451663849"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053039344592793770",
+    "created_at": "2026-05-09T09:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053039344592793770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1600368080152133632",
+          "start": 3,
+          "username": "Pup_Fever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fc6vSTSull",
+          "end": 38,
+          "expanded_url": "https://x.com/Pup_Fever/status/2052723257451663849/photo/1",
+          "media_key": "3_2052723255362850816",
+          "start": 15,
+          "url": "https://t.co/fc6vSTSull"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053039344592793770",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052723257451663849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pup_Fever: https://t.co/fc6vSTSull"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2052723255362850816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy87MoWEAArj9y.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052723255362850816"
+          ],
+          "media_source_tweet_id": [
+            "2052723257451663849"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053039344592793770",
+        "created_at": "2026-05-09T09:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053039344592793770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1600368080152133632",
+              "start": 3,
+              "username": "Pup_Fever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fc6vSTSull",
+              "end": 38,
+              "expanded_url": "https://x.com/Pup_Fever/status/2052723257451663849/photo/1",
+              "media_key": "3_2052723255362850816",
+              "start": 15,
+              "url": "https://t.co/fc6vSTSull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053039344592793770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052723257451663849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pup_Fever: https://t.co/fc6vSTSull"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052723255362850816"
+          ]
+        },
+        "author_id": "1600368080152133632",
+        "conversation_id": "2052723257451663849",
+        "created_at": "2026-05-08T12:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052723257451663849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fc6vSTSull",
+              "end": 23,
+              "expanded_url": "https://x.com/Pup_Fever/status/2052723257451663849/photo/1",
+              "media_key": "3_2052723255362850816",
+              "start": 0,
+              "url": "https://t.co/fc6vSTSull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052723257451663849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 81005,
+          "like_count": 5831,
+          "quote_count": 39,
+          "reply_count": 23,
+          "retweet_count": 1137
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fc6vSTSull"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 2970,
+          "like_count": 11642,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3347
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T05:55:43.000Z",
+        "description": "My name is Jesse! I am 18 years old and love chatting with people! (Deffo other puppies!)\nI DO NOT SEND!!!\nIM FTM\nNSFW ACCOUNT 🔞",
+        "id": "1600368080152133632",
+        "name": "🐾Puppy boy 🐾",
+        "pinned_tweet_id": "2032483890179277083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030998133006577665/2ZsYxSib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 6,
+          "like_count": 1393,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 414
+        },
+        "username": "Pup_Fever",
+        "verified": false
+      }
+    ]
+  }
+}

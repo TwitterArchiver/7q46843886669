@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049407674241146880"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "2049390695241470460",
+    "created_at": "2026-04-29T08:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049407676212543703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952612167343374336",
+          "start": 0,
+          "username": "bobigugugu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IiJW63LKOm",
+          "end": 40,
+          "expanded_url": "https://x.com/7q46843886669/status/2049407676212543703/photo/1",
+          "media_key": "3_2049407674241146880",
+          "start": 17,
+          "url": "https://t.co/IiJW63LKOm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049407676212543703",
+    "in_reply_to_user_id": "1952612167343374336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049390695241470460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobigugugu 笑点解析 https://t.co/IiJW63LKOm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2049407674241146880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD1a-caYAABE9R.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049407674241146880"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2049390695241470460",
+        "created_at": "2026-04-29T08:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049407676212543703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952612167343374336",
+              "start": 0,
+              "username": "bobigugugu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiJW63LKOm",
+              "end": 40,
+              "expanded_url": "https://x.com/7q46843886669/status/2049407676212543703/photo/1",
+              "media_key": "3_2049407674241146880",
+              "start": 17,
+              "url": "https://t.co/IiJW63LKOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049407676212543703",
+        "in_reply_to_user_id": "1952612167343374336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049390695241470460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobigugugu 笑点解析 https://t.co/IiJW63LKOm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952612167343374336",
+        "conversation_id": "2049390695241470460",
+        "created_at": "2026-04-29T07:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049390695241470460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049390695241470460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发裸照很有理是不\n觉得自己在展示身体美\n那你咋不发在朋友圈给大家都看看到底美不美\n说到底还是怕身边人知道潜意识里觉得发裸照不好呗\n那人家骂你你就受着\n没人🈶义务看你的裸照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2783,
+          "like_count": 7102,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1762
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T06:06:49.000Z",
+        "description": "我想说什么就说什么",
+        "id": "1952612167343374336",
+        "name": "弱智大王",
+        "pinned_tweet_id": "2049257160425791928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952615390724628480/8sBaOw0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9129,
+          "following_count": 283,
+          "like_count": 2257,
+          "listed_count": 18,
+          "media_count": 154,
+          "tweet_count": 6176
+        },
+        "username": "bobigugugu",
+        "verified": false
+      }
+    ]
+  }
+}

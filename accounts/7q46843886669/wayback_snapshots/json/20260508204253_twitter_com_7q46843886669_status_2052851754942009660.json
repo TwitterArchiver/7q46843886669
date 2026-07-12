@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052789841621078016",
+        "3_2052789841608495106"
+      ],
+      "media_source_tweet_id": [
+        "2052789855655190966",
+        "2052789855655190966"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052851754942009660",
+    "created_at": "2026-05-08T20:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T21:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052851754942009660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1749983175559028736",
+          "start": 3,
+          "username": "Hzzz0800"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xTSp7PBMXv",
+          "end": 44,
+          "expanded_url": "https://x.com/Hzzz0800/status/2052789855655190966/photo/1",
+          "media_key": "3_2052789841621078016",
+          "start": 21,
+          "url": "https://t.co/xTSp7PBMXv"
+        },
+        {
+          "display_url": "pic.x.com/xTSp7PBMXv",
+          "end": 44,
+          "expanded_url": "https://x.com/Hzzz0800/status/2052789855655190966/photo/1",
+          "media_key": "3_2052789841608495106",
+          "start": 21,
+          "url": "https://t.co/xTSp7PBMXv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052851754942009660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052789855655190966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hzzz0800: 喜欢拍点烟灰 https://t.co/xTSp7PBMXv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052789841621078016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz5fBxa0AAGJ67.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052789841608495106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz5fBua0AIq4pR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052789841621078016",
+            "3_2052789841608495106"
+          ],
+          "media_source_tweet_id": [
+            "2052789855655190966",
+            "2052789855655190966"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052851754942009660",
+        "created_at": "2026-05-08T20:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052851754942009660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1749983175559028736",
+              "start": 3,
+              "username": "Hzzz0800"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTSp7PBMXv",
+              "end": 44,
+              "expanded_url": "https://x.com/Hzzz0800/status/2052789855655190966/photo/1",
+              "media_key": "3_2052789841621078016",
+              "start": 21,
+              "url": "https://t.co/xTSp7PBMXv"
+            },
+            {
+              "display_url": "pic.x.com/xTSp7PBMXv",
+              "end": 44,
+              "expanded_url": "https://x.com/Hzzz0800/status/2052789855655190966/photo/1",
+              "media_key": "3_2052789841608495106",
+              "start": 21,
+              "url": "https://t.co/xTSp7PBMXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052851754942009660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052789855655190966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hzzz0800: 喜欢拍点烟灰 https://t.co/xTSp7PBMXv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052789841621078016",
+            "3_2052789841608495106"
+          ]
+        },
+        "author_id": "1749983175559028736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052789855655190966",
+        "created_at": "2026-05-08T16:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052789855655190966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTSp7PBMXv",
+              "end": 30,
+              "expanded_url": "https://x.com/Hzzz0800/status/2052789855655190966/photo/1",
+              "media_key": "3_2052789841621078016",
+              "start": 7,
+              "url": "https://t.co/xTSp7PBMXv"
+            },
+            {
+              "display_url": "pic.x.com/xTSp7PBMXv",
+              "end": 30,
+              "expanded_url": "https://x.com/Hzzz0800/status/2052789855655190966/photo/1",
+              "media_key": "3_2052789841608495106",
+              "start": 7,
+              "url": "https://t.co/xTSp7PBMXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052789855655190966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢拍点烟灰 https://t.co/xTSp7PBMXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2952,
+          "like_count": 11435,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3258
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T02:32:08.000Z",
+        "description": "",
+        "id": "1749983175559028736",
+        "location": "188/520/888",
+        "name": "H.",
+        "pinned_tweet_id": "1938805027549937876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038529703867527168/lv61ksnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3566,
+          "following_count": 617,
+          "like_count": 4711,
+          "listed_count": 7,
+          "media_count": 59,
+          "tweet_count": 430
+        },
+        "username": "Hzzz0800",
+        "verified": false
+      }
+    ]
+  }
+}

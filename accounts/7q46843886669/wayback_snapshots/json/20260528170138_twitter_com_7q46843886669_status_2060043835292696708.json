@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2060025371572248827",
+    "created_at": "2026-05-28T17:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060043835292696708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060043835292696708",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060025371572248827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060025352970526720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJauJOAbYAAgtM5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2060025371572248827",
+        "created_at": "2026-05-28T17:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060043835292696708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060043835292696708",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060025371572248827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060025352970526720"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060025371572248827",
+        "created_at": "2026-05-28T15:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060025371572248827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4bHhFQQbE",
+              "end": 41,
+              "expanded_url": "https://x.com/Sui_aini/status/2060025371572248827/photo/1",
+              "media_key": "3_2060025352970526720",
+              "start": 18,
+              "url": "https://t.co/G4bHhFQQbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060025371572248827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还以为我会蠢到连第一步都开启不了 https://t.co/G4bHhFQQbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 3220,
+          "like_count": 15948,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4549
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 759,
+          "like_count": 5362,
+          "listed_count": 5,
+          "media_count": 594,
+          "tweet_count": 4849
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

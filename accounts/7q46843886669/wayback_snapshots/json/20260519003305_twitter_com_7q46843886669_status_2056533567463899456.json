@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056313989689491904",
+    "created_at": "2026-05-19T00:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056533567463899456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056533567463899456",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056313989689491904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xEcuUp3Sf61887 想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056313989689491904",
+        "created_at": "2026-05-19T00:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056533567463899456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056533567463899456",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056313989689491904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039986041218592768",
+        "conversation_id": "2056313989689491904",
+        "created_at": "2026-05-18T10:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056313989689491904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056313989689491904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以後不會再發展露身材的照片了。我長的太難看，相信也沒有人願意看一坨豬肉落在你們面前。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 2982,
+          "like_count": 13359,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4089
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜因為我是消腫逼所以才用正體字 人在江浙滬｜直fo就是感覺你有意思 請別害怕｜DM○｜我們當一輩子小朋友吧（中文/日本語/English）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2050051962616627690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 77,
+          "like_count": 3136,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

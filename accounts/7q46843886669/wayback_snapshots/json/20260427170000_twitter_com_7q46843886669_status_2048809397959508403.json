@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009218157136031744"
+      ],
+      "media_source_tweet_id": [
+        "2009218208889512395"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048809397959508403",
+    "created_at": "2026-04-27T17:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048809397959508403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516887237224386560",
+          "start": 3,
+          "username": "dystrauught"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H2FbgeiDL8",
+          "end": 45,
+          "expanded_url": "https://x.com/pillbottlez/status/2009218208889512395/video/1",
+          "media_key": "13_2009218157136031744",
+          "start": 22,
+          "url": "https://t.co/H2FbgeiDL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048809397959508403",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 903
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048633497418707441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dystrauught: need https://t.co/H2FbgeiDL8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048809397959508403].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048809397959508403",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048809397959508403"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10099,
+        "height": 720,
+        "media_key": "13_2009218157136031744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009218157136031744/img/wIIEVtaxFQv0m1TE.jpg",
+        "public_metrics": {
+          "view_count": 569329
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009218157136031744/vid/avc1/480x270/0J7EBNXpR8MuwQGM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009218157136031744/vid/avc1/640x360/z9NjfbeBbInmI2j3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009218157136031744/vid/avc1/1280x720/c6thTSer_FgcDu1K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009218157136031744/pl/4kD_VJhMe1KLfi6c.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009218157136031744"
+          ],
+          "media_source_tweet_id": [
+            "2009218208889512395"
+          ]
+        },
+        "author_id": "1516887237224386560",
+        "conversation_id": "2048633497418707441",
+        "created_at": "2026-04-27T05:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048633497418707441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2FbgeiDL8",
+              "end": 28,
+              "expanded_url": "https://x.com/pillbottlez/status/2009218208889512395/video/1",
+              "media_key": "13_2009218157136031744",
+              "start": 5,
+              "url": "https://t.co/H2FbgeiDL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048633497418707441",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 790,
+          "impression_count": 140784,
+          "like_count": 4530,
+          "quote_count": 81,
+          "reply_count": 3,
+          "retweet_count": 903
+        },
+        "reply_settings": "everyone",
+        "text": "need https://t.co/H2FbgeiDL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2750,
+          "like_count": 6413,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1430
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T21:11:24.000Z",
+        "description": "🪽7teen , edtwt , kleptwt , writer, poet, adorkable ^_^ no dni !!!",
+        "id": "1516887237224386560",
+        "location": "cw: 54kg   gw: 45kg",
+        "name": "alaska / roxy 🐾",
+        "pinned_tweet_id": "2041753470928339090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037884552379817984/xDNfJBwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1900,
+          "like_count": 36590,
+          "listed_count": 4,
+          "media_count": 180,
+          "tweet_count": 4428
+        },
+        "username": "dystrauught",
+        "verified": false
+      }
+    ]
+  }
+}

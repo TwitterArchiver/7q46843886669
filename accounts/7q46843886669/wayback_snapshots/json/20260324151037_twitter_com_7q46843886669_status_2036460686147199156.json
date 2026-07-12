@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2036246992142352596",
+    "created_at": "2026-03-24T15:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036460686147199156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036460686147199156",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036246992142352596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild hyw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2036246992142352596",
+        "created_at": "2026-03-24T15:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036460686147199156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036460686147199156",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036246992142352596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild hyw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2036246992142352596",
+        "created_at": "2026-03-24T01:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036246992142352596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036246992142352596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 28713,
+          "like_count": 732,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我在去年就发过“兄弟，如果你真的关心劳动妇女的话，就不应该反对高铁和绿皮车卖卫生巾，因为劳动妇女也要坐火车。”\n评论区一堆：“我们什么时候反对过高铁售卖卫生巾了？”\n挺有意思的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 2301,
+          "like_count": 3017,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 426
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 191,
+          "like_count": 35927,
+          "listed_count": 17,
+          "media_count": 378,
+          "tweet_count": 7857
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

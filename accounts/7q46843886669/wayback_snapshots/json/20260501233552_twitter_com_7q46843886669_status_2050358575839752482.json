@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050226263340490752"
+      ],
+      "media_source_tweet_id": [
+        "2050226335155437652"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050358575839752482",
+    "created_at": "2026-05-01T23:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050358575839752482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1452965732422197251",
+          "start": 3,
+          "username": "ULTRAKILLMedia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HiXEUFdrnL",
+          "end": 43,
+          "expanded_url": "https://x.com/ULTRAKILLMedia/status/2050226335155437652/video/1",
+          "media_key": "7_2050226263340490752",
+          "start": 20,
+          "url": "https://t.co/HiXEUFdrnL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050358575839752482",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050226335155437652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ULTRAKILLMedia: https://t.co/HiXEUFdrnL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12515,
+        "height": 862,
+        "media_key": "7_2050226263340490752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050226263340490752/pu/img/fnwAMGI0zeayMOcu.jpg",
+        "public_metrics": {
+          "view_count": 315189
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050226263340490752/pu/vid/avc1/320x574/YfPZjrgWDh09F8L1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050226263340490752/pu/vid/avc1/480x862/WuTZ2Si4GNjGqE-M.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050226263340490752/pu/pl/1gMLewI4brm8Fj_V.m3u8?tag=12&v=c06"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050226263340490752"
+          ],
+          "media_source_tweet_id": [
+            "2050226335155437652"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050358575839752482",
+        "created_at": "2026-05-01T23:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050358575839752482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1452965732422197251",
+              "start": 3,
+              "username": "ULTRAKILLMedia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiXEUFdrnL",
+              "end": 43,
+              "expanded_url": "https://x.com/ULTRAKILLMedia/status/2050226335155437652/video/1",
+              "media_key": "7_2050226263340490752",
+              "start": 20,
+              "url": "https://t.co/HiXEUFdrnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050358575839752482",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3225
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050226335155437652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ULTRAKILLMedia: https://t.co/HiXEUFdrnL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050226263340490752"
+          ]
+        },
+        "author_id": "1452965732422197251",
+        "conversation_id": "2050226335155437652",
+        "created_at": "2026-05-01T14:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050226335155437652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiXEUFdrnL",
+              "end": 23,
+              "expanded_url": "https://x.com/ULTRAKILLMedia/status/2050226335155437652/video/1",
+              "media_key": "7_2050226263340490752",
+              "start": 0,
+              "url": "https://t.co/HiXEUFdrnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050226335155437652",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3955,
+          "impression_count": 690794,
+          "like_count": 26882,
+          "quote_count": 151,
+          "reply_count": 73,
+          "retweet_count": 3225
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HiXEUFdrnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8401,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2216
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T11:50:10.000Z",
+        "description": "ultrakill 𝚂𝚂𝚂hitpost central | ran by @Donutoi1-🐩 and @hornetnotvoid-💔 follow @mediaultrakill | submit in our discord server | banner by @jynu_hangsal 🇵🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Donutoi1"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "hornetnotvoid"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "mediaultrakill"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "jynu_hangsal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/qpbzqsYPX8",
+                "end": 23,
+                "expanded_url": "https://discord.gg/qpbzqsYPX8",
+                "start": 0,
+                "url": "https://t.co/NCFGqxiMis"
+              }
+            ]
+          }
+        },
+        "id": "1452965732422197251",
+        "location": "7-4: ..LIKE ANTENNAS TO HEAVEN",
+        "name": "Media With ULTRAKILL Music 🇸🇩🇵🇸🇨🇩",
+        "pinned_tweet_id": "1907460715448762799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039341873190387713/Z6_h_eJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54723,
+          "following_count": 290,
+          "like_count": 10319,
+          "listed_count": 31,
+          "media_count": 1954,
+          "tweet_count": 5372
+        },
+        "url": "https://t.co/NCFGqxiMis",
+        "username": "ULTRAKILLMedia",
+        "verified": false
+      }
+    ]
+  }
+}

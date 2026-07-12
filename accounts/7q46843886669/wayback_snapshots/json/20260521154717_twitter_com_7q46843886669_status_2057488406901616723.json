@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057472645780926882",
+    "created_at": "2026-05-21T15:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057488406901616723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057488406901616723",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057472645780926882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 促智 请"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057472637845258240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2cdpHaQAAZjy9.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057472637857902593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2cdpKbMAEiFHg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057472645780926882",
+        "created_at": "2026-05-21T15:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057488406901616723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057488406901616723",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057472645780926882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 促智 请"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057472637845258240",
+            "3_2057472637857902593"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057472645780926882",
+        "created_at": "2026-05-21T14:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057472645780926882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1D3KWxSPIc",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2057472645780926882/photo/1",
+              "media_key": "3_2057472637845258240",
+              "start": 13,
+              "url": "https://t.co/1D3KWxSPIc"
+            },
+            {
+              "display_url": "pic.x.com/1D3KWxSPIc",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2057472645780926882/photo/1",
+              "media_key": "3_2057472637857902593",
+              "start": 13,
+              "url": "https://t.co/1D3KWxSPIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057472645780926882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再好的脑子也看不懂这段话 https://t.co/1D3KWxSPIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 3036,
+          "like_count": 14313,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 4352
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 417,
+          "like_count": 5420,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 3130
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

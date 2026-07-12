@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053127641595527171"
+      ],
+      "media_source_tweet_id": [
+        "2053127644011532662"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053376597340885304",
+    "created_at": "2026-05-10T07:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053376597340885304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998859361670803456",
+          "start": 3,
+          "username": "mamibondi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hL4q9iAqo2",
+          "end": 39,
+          "expanded_url": "https://x.com/mamibondi_/status/2053127644011532662/photo/1",
+          "media_key": "3_2053127641595527171",
+          "start": 16,
+          "url": "https://t.co/hL4q9iAqo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053376597340885304",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053127644011532662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mamibondi_: https://t.co/hL4q9iAqo2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2053127641595527171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4stkvWQAMH7IY.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053127641595527171"
+          ],
+          "media_source_tweet_id": [
+            "2053127644011532662"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053376597340885304",
+        "created_at": "2026-05-10T07:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053376597340885304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998859361670803456",
+              "start": 3,
+              "username": "mamibondi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hL4q9iAqo2",
+              "end": 39,
+              "expanded_url": "https://x.com/mamibondi_/status/2053127644011532662/photo/1",
+              "media_key": "3_2053127641595527171",
+              "start": 16,
+              "url": "https://t.co/hL4q9iAqo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053376597340885304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053127644011532662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mamibondi_: https://t.co/hL4q9iAqo2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053127641595527171"
+          ]
+        },
+        "author_id": "1998859361670803456",
+        "conversation_id": "2053127644011532662",
+        "created_at": "2026-05-09T14:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053127644011532662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hL4q9iAqo2",
+              "end": 23,
+              "expanded_url": "https://x.com/mamibondi_/status/2053127644011532662/photo/1",
+              "media_key": "3_2053127641595527171",
+              "start": 0,
+              "url": "https://t.co/hL4q9iAqo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053127644011532662",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4637,
+          "impression_count": 1590176,
+          "like_count": 195144,
+          "quote_count": 607,
+          "reply_count": 181,
+          "retweet_count": 26302
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hL4q9iAqo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2962,
+          "like_count": 11776,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3411
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T20:56:38.000Z",
+        "description": "por el macho todo",
+        "id": "1998859361670803456",
+        "location": "Narnia ",
+        "name": "Quilombola",
+        "pinned_tweet_id": "2053127644011532662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998860072806494208/pIgBOeqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 11,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 427
+        },
+        "username": "mamibondi_",
+        "verified": false
+      }
+    ]
+  }
+}

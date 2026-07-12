@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1999823720077008978",
+    "created_at": "2026-03-25T06:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036685523058909639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944176088667893760",
+          "start": 0,
+          "username": "xiao_yang080826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036685523058909639",
+    "in_reply_to_user_id": "1944176088667893760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999823720077008978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_yang080826 懂你意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15050,
+        "height": 992,
+        "media_key": "13_1999823616096276481",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999823616096276481/img/MhTZF_v36KHVvxKC.jpg",
+        "public_metrics": {
+          "view_count": 1256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999823616096276481/vid/avc1/320x440/sgAtYcl6Y832U7ll.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999823616096276481/vid/avc1/480x660/Yg8LI_K4ilWejYCa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999823616096276481/vid/avc1/720x992/pnUr486RQGDgEMsK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999823616096276481/pl/LeE-1TIIV3hDQTG_.m3u8?tag=14&v=c63"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1999823720077008978",
+        "created_at": "2026-03-25T06:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036685523058909639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944176088667893760",
+              "start": 0,
+              "username": "xiao_yang080826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036685523058909639",
+        "in_reply_to_user_id": "1944176088667893760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999823720077008978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_yang080826 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999823616096276481"
+          ]
+        },
+        "author_id": "1944176088667893760",
+        "conversation_id": "1999823720077008978",
+        "created_at": "2025-12-13T12:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999823720077008978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "女高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkDze1PVyt",
+              "end": 29,
+              "expanded_url": "https://x.com/xiao_yang080826/status/1999823720077008978/video/1",
+              "media_key": "13_1999823616096276481",
+              "start": 6,
+              "url": "https://t.co/xkDze1PVyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999823720077008978",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11434,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#女高中生 https://t.co/xkDze1PVyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 2343,
+          "like_count": 3087,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 431
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T23:24:52.000Z",
+        "description": "某市二中的学生",
+        "id": "1944176088667893760",
+        "name": "编纂小羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023397598237995008/VDaEq7hC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 31,
+          "like_count": 131,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 81
+        },
+        "username": "xiao_yang080826",
+        "verified": false
+      }
+    ]
+  }
+}

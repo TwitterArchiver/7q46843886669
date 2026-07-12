@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048340751617323008"
+      ],
+      "media_source_tweet_id": [
+        "2048340754742051203"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048416677852033156",
+    "created_at": "2026-04-26T14:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048416677852033156"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "ねこのティーチくん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1649029904862957568",
+          "start": 3,
+          "username": "dadashouduan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6CD86yLf7",
+          "end": 62,
+          "expanded_url": "https://x.com/dadashouduan/status/2048340754742051203/photo/1",
+          "media_key": "3_2048340751617323008",
+          "start": 39,
+          "url": "https://t.co/P6CD86yLf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048416677852033156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048340754742051203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dadashouduan: どっちが一番痛い？\n#ねこのティーチくん https://t.co/P6CD86yLf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048340751617323008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0rD58bcAARc9w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048340751617323008"
+          ],
+          "media_source_tweet_id": [
+            "2048340754742051203"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048416677852033156",
+        "created_at": "2026-04-26T14:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048416677852033156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "ねこのティーチくん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1649029904862957568",
+              "start": 3,
+              "username": "dadashouduan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6CD86yLf7",
+              "end": 62,
+              "expanded_url": "https://x.com/dadashouduan/status/2048340754742051203/photo/1",
+              "media_key": "3_2048340751617323008",
+              "start": 39,
+              "url": "https://t.co/P6CD86yLf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048416677852033156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048340754742051203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dadashouduan: どっちが一番痛い？\n#ねこのティーチくん https://t.co/P6CD86yLf7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048340751617323008"
+          ]
+        },
+        "author_id": "1649029904862957568",
+        "conversation_id": "2048340754742051203",
+        "created_at": "2026-04-26T09:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048340754742051203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "ねこのティーチくん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6CD86yLf7",
+              "end": 44,
+              "expanded_url": "https://x.com/dadashouduan/status/2048340754742051203/photo/1",
+              "media_key": "3_2048340751617323008",
+              "start": 21,
+              "url": "https://t.co/P6CD86yLf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048340754742051203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 87701,
+          "like_count": 4636,
+          "quote_count": 97,
+          "reply_count": 15,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "どっちが一番痛い？\n#ねこのティーチくん https://t.co/P6CD86yLf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2729,
+          "like_count": 6137,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1209
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T12:39:30.000Z",
+        "description": "ただシンプルな生活を送っています、\n画風が非常に不安定ででででです🥺変なことを言うかもしれないから、気をつけてね......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/92111475",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/92111475",
+                "start": 0,
+                "url": "https://t.co/iRzwdVJbJM"
+              }
+            ]
+          }
+        },
+        "id": "1649029904862957568",
+        "location": "🚫offline",
+        "name": "DADASHOUDUAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044103554462560256/ihk9MOoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 222,
+          "like_count": 5453,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/iRzwdVJbJM",
+        "username": "dadashouduan",
+        "verified": false
+      }
+    ]
+  }
+}

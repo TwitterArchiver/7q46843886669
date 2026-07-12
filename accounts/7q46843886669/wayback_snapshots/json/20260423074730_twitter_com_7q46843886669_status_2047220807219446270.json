@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047220807219446270",
+    "created_at": "2026-04-23T07:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047220807219446270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2038805323994345472",
+          "start": 3,
+          "username": "yakifordinner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047220807219446270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047012693350191388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yakifordinner: 其实今天和推友面基最失败的一件事是，我们两个一直在推特联系没有加v或者q，之前一直很丝滑，但是到了约定时间和地点，两个人准备碰头了，我突然连不上梯子了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047220807219446270",
+        "created_at": "2026-04-23T07:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047220807219446270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2038805323994345472",
+              "start": 3,
+              "username": "yakifordinner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047220807219446270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047012693350191388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yakifordinner: 其实今天和推友面基最失败的一件事是，我们两个一直在推特联系没有加v或者q，之前一直很丝滑，但是到了约定时间和地点，两个人准备碰头了，我突然连不上梯子了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038805323994345472",
+        "conversation_id": "2047012693350191388",
+        "created_at": "2026-04-22T18:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047012693350191388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047012693350191388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 41952,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实今天和推友面基最失败的一件事是，我们两个一直在推特联系没有加v或者q，之前一直很丝滑，但是到了约定时间和地点，两个人准备碰头了，我突然连不上梯子了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2690,
+          "like_count": 5473,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 846
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T02:28:15.000Z",
+        "description": "03｜♍️｜infp｜1ior4i｜酒鬼｜财迷\n一个炫压抑又话唠的社畜 想发什么发什么 强迫不了我做任何事 我上网就是当皇帝来的\n但是色情信息秒回👌提问箱https://t.co/EhjOTVTwd5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yakifordinner",
+                "end": 100,
+                "expanded_url": "https://ngl.link/yakifordinner",
+                "start": 77,
+                "url": "https://t.co/EhjOTVTwd5"
+              }
+            ]
+          }
+        },
+        "id": "2038805323994345472",
+        "location": "0.9km",
+        "name": "我喺铜锣烧（皇帝版）",
+        "pinned_tweet_id": "2042066669338816939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044973099423281153/KYfgTh3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 221,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 364
+        },
+        "username": "yakifordinner",
+        "verified": false
+      }
+    ]
+  }
+}

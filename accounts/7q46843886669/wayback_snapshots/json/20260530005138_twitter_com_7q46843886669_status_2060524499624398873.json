@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060361802299695104"
+      ],
+      "media_source_tweet_id": [
+        "2060361960961769762"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2060524499624398873",
+    "created_at": "2026-05-30T00:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060524499624398873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726808702387449856",
+          "start": 3,
+          "username": "Nargiti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnMenZYoDv",
+          "end": 39,
+          "expanded_url": "https://x.com/Nargiti/status/2060361960961769762/photo/1",
+          "media_key": "3_2060361802299695104",
+          "start": 16,
+          "url": "https://t.co/AnMenZYoDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060524499624398873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060361960961769762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nargiti: 操！ https://t.co/AnMenZYoDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2060361802299695104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfgJJbbYAAtuj0.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060361802299695104"
+          ],
+          "media_source_tweet_id": [
+            "2060361960961769762"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2060524499624398873",
+        "created_at": "2026-05-30T00:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060524499624398873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726808702387449856",
+              "start": 3,
+              "username": "Nargiti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnMenZYoDv",
+              "end": 39,
+              "expanded_url": "https://x.com/Nargiti/status/2060361960961769762/photo/1",
+              "media_key": "3_2060361802299695104",
+              "start": 16,
+              "url": "https://t.co/AnMenZYoDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060524499624398873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060361960961769762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nargiti: 操！ https://t.co/AnMenZYoDv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060361802299695104"
+          ]
+        },
+        "author_id": "1726808702387449856",
+        "conversation_id": "2060361960961769762",
+        "created_at": "2026-05-29T14:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060361960961769762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnMenZYoDv",
+              "end": 26,
+              "expanded_url": "https://x.com/Nargiti/status/2060361960961769762/photo/1",
+              "media_key": "3_2060361802299695104",
+              "start": 3,
+              "url": "https://t.co/AnMenZYoDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060361960961769762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 47505,
+          "like_count": 1095,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "操！ https://t.co/AnMenZYoDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 3243,
+          "like_count": 16087,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4559
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允，人随身死，精神永存\n\n全名：神之authority东风61珠峰使者\nQPR/友跨/无明显政治倾向\n发点段子杂谈或碎碎念\n需要互fo私我喵，互fo默认交朋友喵\n🚪塔克夫白边账号＋PVE/蓝边/战雷豹2A6\n纯绿。（其实大概率不用门，欢迎大家来找我玩）\n关注丌乐 关注丌乐 关注丌乐谢谢喵！",
+        "id": "1726808702387449856",
+        "location": "都看到这了，点个follow呗(●'◡'●)",
+        "name": "丌乐",
+        "pinned_tweet_id": "2060202922970059238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058239181382664192/7xUoIQT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 20,
+          "like_count": 10192,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 434
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

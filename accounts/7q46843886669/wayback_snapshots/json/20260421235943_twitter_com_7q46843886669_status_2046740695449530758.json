@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046509965033242624"
+      ],
+      "media_source_tweet_id": [
+        "2046509969479246013"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046740695449530758",
+    "created_at": "2026-04-21T23:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T00:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046740695449530758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1816145919055912961",
+          "start": 3,
+          "username": "Pastel_Illust_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQSYb7M9q2",
+          "end": 50,
+          "expanded_url": "https://x.com/Pastel_Illust_/status/2046509969479246013/photo/1",
+          "media_key": "3_2046509965033242624",
+          "start": 27,
+          "url": "https://t.co/PQSYb7M9q2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046740695449530758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046509969479246013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pastel_Illust_: つまり剣か… https://t.co/PQSYb7M9q2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2046509965033242624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGap-GcagAAtWAa.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046509965033242624"
+          ],
+          "media_source_tweet_id": [
+            "2046509969479246013"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046740695449530758",
+        "created_at": "2026-04-21T23:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046740695449530758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1816145919055912961",
+              "start": 3,
+              "username": "Pastel_Illust_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQSYb7M9q2",
+              "end": 50,
+              "expanded_url": "https://x.com/Pastel_Illust_/status/2046509969479246013/photo/1",
+              "media_key": "3_2046509965033242624",
+              "start": 27,
+              "url": "https://t.co/PQSYb7M9q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046740695449530758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046509969479246013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pastel_Illust_: つまり剣か… https://t.co/PQSYb7M9q2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046509965033242624"
+          ]
+        },
+        "author_id": "1816145919055912961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046509969479246013",
+        "created_at": "2026-04-21T08:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046509969479246013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQSYb7M9q2",
+              "end": 30,
+              "expanded_url": "https://x.com/Pastel_Illust_/status/2046509969479246013/photo/1",
+              "media_key": "3_2046509965033242624",
+              "start": 7,
+              "url": "https://t.co/PQSYb7M9q2"
+            },
+            {
+              "display_url": "x.com/pastel_illust_…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/pastel_illust_/status/2046355985762230773",
+              "start": 31,
+              "url": "https://t.co/himXlThZhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046509969479246013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 21424,
+          "like_count": 1494,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046355985762230773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "つまり剣か… https://t.co/PQSYb7M9q2 https://t.co/himXlThZhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 2674,
+          "like_count": 5139,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 784
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:18:30.000Z",
+        "description": "Pastel Creative AI Atelier．AIを使ってイラストを生成しています。ポスター販売中。眩しいくらいの私の世界をみてください✨️/ご依頼はDMから受け付けております！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pastelshirono",
+                "end": 23,
+                "expanded_url": "https://lit.link/pastelshirono",
+                "start": 0,
+                "url": "https://t.co/dDqOGkvbua"
+              }
+            ]
+          }
+        },
+        "id": "1816145919055912961",
+        "location": "AI Atelier",
+        "name": "城野ぱすてる",
+        "pinned_tweet_id": "2046509969479246013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008312051584884736/Fd_tcTx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78111,
+          "following_count": 2505,
+          "like_count": 66248,
+          "listed_count": 464,
+          "media_count": 3074,
+          "tweet_count": 49950
+        },
+        "url": "https://t.co/dDqOGkvbua",
+        "username": "Pastel_Illust_",
+        "verified": true
+      }
+    ]
+  }
+}

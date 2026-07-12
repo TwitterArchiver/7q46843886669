@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064511487767678976"
+      ],
+      "media_source_tweet_id": [
+        "2064511490116428138"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2064574079177478276",
+    "created_at": "2026-06-10T05:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064574079177478276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2022676659900682242",
+          "start": 3,
+          "username": "yuzhang02smile"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IxHjMDF6F2",
+          "end": 43,
+          "expanded_url": "https://x.com/yuzhang02smile/status/2064511490116428138/photo/1",
+          "media_key": "3_2064511487767678976",
+          "start": 20,
+          "url": "https://t.co/IxHjMDF6F2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064574079177478276",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064511490116428138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzhang02smile: https://t.co/IxHjMDF6F2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2064511487767678976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaeQocbEAA58pG.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064511487767678976"
+          ],
+          "media_source_tweet_id": [
+            "2064511490116428138"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2064574079177478276",
+        "created_at": "2026-06-10T05:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064574079177478276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2022676659900682242",
+              "start": 3,
+              "username": "yuzhang02smile"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxHjMDF6F2",
+              "end": 43,
+              "expanded_url": "https://x.com/yuzhang02smile/status/2064511490116428138/photo/1",
+              "media_key": "3_2064511487767678976",
+              "start": 20,
+              "url": "https://t.co/IxHjMDF6F2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064574079177478276",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064511490116428138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzhang02smile: https://t.co/IxHjMDF6F2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064511487767678976"
+          ]
+        },
+        "author_id": "2022676659900682242",
+        "conversation_id": "2064511490116428138",
+        "created_at": "2026-06-10T00:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064511490116428138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxHjMDF6F2",
+              "end": 23,
+              "expanded_url": "https://x.com/yuzhang02smile/status/2064511490116428138/photo/1",
+              "media_key": "3_2064511487767678976",
+              "start": 0,
+              "url": "https://t.co/IxHjMDF6F2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064511490116428138",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 19856,
+          "like_count": 3789,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IxHjMDF6F2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 3386,
+          "like_count": 18157,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4956
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T14:18:01.000Z",
+        "description": "Loving my art——：）\nI love leaving a smiley face on my paintings to use as my signature, haha",
+        "id": "2022676659900682242",
+        "name": "smile",
+        "pinned_tweet_id": "2032384670965641678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022678382132199424/WVZsdX5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7014,
+          "following_count": 40,
+          "like_count": 1267,
+          "listed_count": 22,
+          "media_count": 84,
+          "tweet_count": 179
+        },
+        "username": "yuzhang02smile",
+        "verified": false
+      }
+    ]
+  }
+}

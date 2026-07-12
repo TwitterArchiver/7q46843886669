@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049257369495093248"
+      ],
+      "media_source_tweet_id": [
+        "2049292581985476894"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049321273931747516",
+    "created_at": "2026-04-29T02:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049321273931747516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uTxypl18OF",
+          "end": 47,
+          "expanded_url": "https://x.com/youy1qwq/status/2049292581985476894/photo/1",
+          "media_key": "3_2049257369495093248",
+          "start": 24,
+          "url": "https://t.co/uTxypl18OF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049321273931747516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049292581985476894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 对面明显招架不住了 https://t.co/uTxypl18OF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_2049257369495093248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHBsuFobQAAC9jH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049257369495093248"
+          ],
+          "media_source_tweet_id": [
+            "2049292581985476894"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049321273931747516",
+        "created_at": "2026-04-29T02:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049321273931747516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTxypl18OF",
+              "end": 47,
+              "expanded_url": "https://x.com/youy1qwq/status/2049292581985476894/photo/1",
+              "media_key": "3_2049257369495093248",
+              "start": 24,
+              "url": "https://t.co/uTxypl18OF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049321273931747516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049292581985476894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 对面明显招架不住了 https://t.co/uTxypl18OF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049257369495093248"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049292581985476894",
+        "created_at": "2026-04-29T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049292581985476894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTxypl18OF",
+              "end": 33,
+              "expanded_url": "https://x.com/youy1qwq/status/2049292581985476894/photo/1",
+              "media_key": "3_2049257369495093248",
+              "start": 10,
+              "url": "https://t.co/uTxypl18OF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049292581985476894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1441,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对面明显招架不住了 https://t.co/uTxypl18OF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2774,
+          "like_count": 6973,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1697
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11725,
+          "following_count": 1706,
+          "like_count": 3936,
+          "listed_count": 18,
+          "media_count": 1558,
+          "tweet_count": 2062
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

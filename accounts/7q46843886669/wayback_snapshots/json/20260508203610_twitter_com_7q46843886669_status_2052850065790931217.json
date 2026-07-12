@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052733046395424768"
+      ],
+      "media_source_tweet_id": [
+        "2052733056189186279"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052850065790931217",
+    "created_at": "2026-05-08T20:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T21:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052850065790931217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfkn0Dl6DZ",
+          "end": 50,
+          "expanded_url": "https://x.com/smiroyama/status/2052733056189186279/photo/1",
+          "media_key": "3_2052733046395424768",
+          "start": 27,
+          "url": "https://t.co/vfkn0Dl6DZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052850065790931217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052733056189186279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 我大学水课备考就这样： https://t.co/vfkn0Dl6DZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052733046395424768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzF1HEa0AAwqZa.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052733046395424768"
+          ],
+          "media_source_tweet_id": [
+            "2052733056189186279"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052850065790931217",
+        "created_at": "2026-05-08T20:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052850065790931217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfkn0Dl6DZ",
+              "end": 50,
+              "expanded_url": "https://x.com/smiroyama/status/2052733056189186279/photo/1",
+              "media_key": "3_2052733046395424768",
+              "start": 27,
+              "url": "https://t.co/vfkn0Dl6DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052850065790931217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052733056189186279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 我大学水课备考就这样： https://t.co/vfkn0Dl6DZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052733046395424768"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052733056189186279",
+        "created_at": "2026-05-08T12:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052733056189186279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfkn0Dl6DZ",
+              "end": 35,
+              "expanded_url": "https://x.com/smiroyama/status/2052733056189186279/photo/1",
+              "media_key": "3_2052733046395424768",
+              "start": 12,
+              "url": "https://t.co/vfkn0Dl6DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052733056189186279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2264,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我大学水课备考就这样： https://t.co/vfkn0Dl6DZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2948,
+          "like_count": 11410,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3244
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 2189,
+          "like_count": 10496,
+          "listed_count": 13,
+          "media_count": 1535,
+          "tweet_count": 6198
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

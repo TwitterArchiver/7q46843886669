@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055314572769427456"
+      ],
+      "media_source_tweet_id": [
+        "2055315610498920701"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055760181804621850",
+    "created_at": "2026-05-16T21:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055760181804621850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1173259891286392832",
+          "start": 3,
+          "username": "seanwei001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rHHHEf8l9X",
+          "end": 71,
+          "expanded_url": "https://x.com/seanwei001/status/2055315610498920701/photo/1",
+          "media_key": "3_2055314572769427456",
+          "start": 48,
+          "url": "https://t.co/rHHHEf8l9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055760181804621850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055315610498920701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seanwei001: “棋局结束时，国王与卒子归入同一盒中。”  \n\n（意大利谚语） https://t.co/rHHHEf8l9X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2055314572769427456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXxtuObAAA_M0T.png",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055314572769427456"
+          ],
+          "media_source_tweet_id": [
+            "2055315610498920701"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055760181804621850",
+        "created_at": "2026-05-16T21:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055760181804621850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1173259891286392832",
+              "start": 3,
+              "username": "seanwei001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHHHEf8l9X",
+              "end": 71,
+              "expanded_url": "https://x.com/seanwei001/status/2055315610498920701/photo/1",
+              "media_key": "3_2055314572769427456",
+              "start": 48,
+              "url": "https://t.co/rHHHEf8l9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055760181804621850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055315610498920701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seanwei001: “棋局结束时，国王与卒子归入同一盒中。”  \n\n（意大利谚语） https://t.co/rHHHEf8l9X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055314572769427456"
+          ]
+        },
+        "author_id": "1173259891286392832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055315610498920701",
+        "created_at": "2026-05-15T15:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055315610498920701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHHHEf8l9X",
+              "end": 55,
+              "expanded_url": "https://x.com/seanwei001/status/2055315610498920701/photo/1",
+              "media_key": "3_2055314572769427456",
+              "start": 32,
+              "url": "https://t.co/rHHHEf8l9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055315610498920701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 78430,
+          "like_count": 1878,
+          "quote_count": 4,
+          "reply_count": 89,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "“棋局结束时，国王与卒子归入同一盒中。”  \n\n（意大利谚语） https://t.co/rHHHEf8l9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2979,
+          "like_count": 12883,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3902
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-15T15:39:38.000Z",
+        "description": "来看有趣的事。。。",
+        "id": "1173259891286392832",
+        "name": "大变活人",
+        "pinned_tweet_id": "1454115070686887938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376681920461905922/obKbf3oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147784,
+          "following_count": 784,
+          "like_count": 27477,
+          "listed_count": 470,
+          "media_count": 28682,
+          "tweet_count": 34795
+        },
+        "username": "seanwei001",
+        "verified": true
+      }
+    ]
+  }
+}

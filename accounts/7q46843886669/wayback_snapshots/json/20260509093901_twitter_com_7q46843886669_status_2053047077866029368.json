@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052765331555549184"
+      ],
+      "media_source_tweet_id": [
+        "2052765334927794194"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053047077866029368",
+    "created_at": "2026-05-09T09:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053047077866029368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1689250062852141056",
+          "start": 3,
+          "username": "Ishita_Sharma42"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ekKPbCD7NY",
+          "end": 47,
+          "expanded_url": "https://x.com/Ishita_Sharma42/status/2052765334927794194/photo/1",
+          "media_key": "3_2052765331555549184",
+          "start": 24,
+          "url": "https://t.co/ekKPbCD7NY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053047077866029368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 949
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052765334927794194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ishita_Sharma42: 🤡🙌 https://t.co/ekKPbCD7NY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2052765331555549184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzjMWqbAAAjHA-.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052765331555549184"
+          ],
+          "media_source_tweet_id": [
+            "2052765334927794194"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053047077866029368",
+        "created_at": "2026-05-09T09:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053047077866029368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1689250062852141056",
+              "start": 3,
+              "username": "Ishita_Sharma42"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekKPbCD7NY",
+              "end": 47,
+              "expanded_url": "https://x.com/Ishita_Sharma42/status/2052765334927794194/photo/1",
+              "media_key": "3_2052765331555549184",
+              "start": 24,
+              "url": "https://t.co/ekKPbCD7NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053047077866029368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 949
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052765334927794194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ishita_Sharma42: 🤡🙌 https://t.co/ekKPbCD7NY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052765331555549184"
+          ]
+        },
+        "author_id": "1689250062852141056",
+        "conversation_id": "2052765334927794194",
+        "created_at": "2026-05-08T14:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052765334927794194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekKPbCD7NY",
+              "end": 26,
+              "expanded_url": "https://x.com/Ishita_Sharma42/status/2052765334927794194/photo/1",
+              "media_key": "3_2052765331555549184",
+              "start": 3,
+              "url": "https://t.co/ekKPbCD7NY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052765334927794194",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 618,
+          "impression_count": 234859,
+          "like_count": 24553,
+          "quote_count": 23,
+          "reply_count": 65,
+          "retweet_count": 949
+        },
+        "reply_settings": "everyone",
+        "text": "🤡🙌 https://t.co/ekKPbCD7NY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2970,
+          "like_count": 11674,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3363
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T12:19:55.000Z",
+        "description": "DM for paid promotions & brand deals....",
+        "id": "1689250062852141056",
+        "location": "Saturn🪐",
+        "name": "Fun At All X",
+        "pinned_tweet_id": "2052982149918441665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941949264860704768/Qg5tqT7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23506,
+          "following_count": 14432,
+          "like_count": 8389,
+          "listed_count": 30,
+          "media_count": 4005,
+          "tweet_count": 24624
+        },
+        "username": "Ishita_Sharma42",
+        "verified": true
+      }
+    ]
+  }
+}

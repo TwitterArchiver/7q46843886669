@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049536402770026815",
+    "created_at": "2026-04-29T21:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T22:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049606748873560491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049606748873560491",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049536402770026815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 何理由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049536402770026815",
+        "created_at": "2026-04-29T21:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T22:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049606748873560491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049606748873560491",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049536402770026815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 何理由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2049536402770026815",
+        "created_at": "2026-04-29T17:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049536402770026815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/aoim33/status/2049104017738047897",
+              "start": 11,
+              "url": "https://t.co/Wv4pyfIJmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049536402770026815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 741,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049104017738047897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种图看得我想图顺直 https://t.co/Wv4pyfIJmf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2792,
+          "like_count": 7300,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1847
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "Queer\n人称代词：他(中性)/ta\n所有观点皆来自本人，思考能力不需要绑定AI\nLGBTQ+互关",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(乙女激女顺直男转推即死)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 1789,
+          "like_count": 5774,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 4821
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

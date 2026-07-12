@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047710145375780864"
+      ],
+      "media_source_tweet_id": [
+        "2047710161070932213"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048033399634546965",
+    "created_at": "2026-04-25T13:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048033399634546965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1698338340381020161",
+          "start": 3,
+          "username": "pmamtraveller"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BURIptS9RM",
+          "end": 66,
+          "expanded_url": "https://x.com/pmamtraveller/status/2047710161070932213/photo/1",
+          "media_key": "3_2047710145375780864",
+          "start": 43,
+          "url": "https://t.co/BURIptS9RM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048033399634546965",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047710161070932213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pmamtraveller: Everyone in their world https://t.co/BURIptS9RM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2047710145375780864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrthyoWQAAe_5Q.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047710145375780864"
+          ],
+          "media_source_tweet_id": [
+            "2047710161070932213"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048033399634546965",
+        "created_at": "2026-04-25T13:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048033399634546965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1698338340381020161",
+              "start": 3,
+              "username": "pmamtraveller"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BURIptS9RM",
+              "end": 66,
+              "expanded_url": "https://x.com/pmamtraveller/status/2047710161070932213/photo/1",
+              "media_key": "3_2047710145375780864",
+              "start": 43,
+              "url": "https://t.co/BURIptS9RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048033399634546965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047710161070932213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pmamtraveller: Everyone in their world https://t.co/BURIptS9RM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047710145375780864"
+          ]
+        },
+        "author_id": "1698338340381020161",
+        "conversation_id": "2047710161070932213",
+        "created_at": "2026-04-24T16:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047710161070932213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BURIptS9RM",
+              "end": 47,
+              "expanded_url": "https://x.com/pmamtraveller/status/2047710161070932213/photo/1",
+              "media_key": "3_2047710145375780864",
+              "start": 24,
+              "url": "https://t.co/BURIptS9RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047710161070932213",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 11290,
+          "like_count": 899,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "Everyone in their world https://t.co/BURIptS9RM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2719,
+          "like_count": 6030,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1106
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:13:32.000Z",
+        "description": "Ecce Mulier",
+        "id": "1698338340381020161",
+        "name": "PmAmTraveller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698381116388868096/mNqD6ClK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74261,
+          "following_count": 303,
+          "like_count": 18508,
+          "listed_count": 407,
+          "media_count": 8056,
+          "tweet_count": 8203
+        },
+        "username": "pmamtraveller",
+        "verified": true
+      }
+    ]
+  }
+}

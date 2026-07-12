@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051950226575900677"
+      ],
+      "media_source_tweet_id": [
+        "2051950229427982520"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052002098523578828",
+    "created_at": "2026-05-06T12:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052002098523578828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1523117882045087744",
+          "start": 3,
+          "username": "kinkytasks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7iefvhPgHp",
+          "end": 39,
+          "expanded_url": "https://x.com/kinkytasks/status/2051950229427982520/photo/1",
+          "media_key": "3_2051950226575900677",
+          "start": 16,
+          "url": "https://t.co/7iefvhPgHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052002098523578828",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051950229427982520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kinkytasks: https://t.co/7iefvhPgHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2051950226575900677",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn92__WwAUPk0a.png",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051950226575900677"
+          ],
+          "media_source_tweet_id": [
+            "2051950229427982520"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052002098523578828",
+        "created_at": "2026-05-06T12:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052002098523578828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1523117882045087744",
+              "start": 3,
+              "username": "kinkytasks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iefvhPgHp",
+              "end": 39,
+              "expanded_url": "https://x.com/kinkytasks/status/2051950229427982520/photo/1",
+              "media_key": "3_2051950226575900677",
+              "start": 16,
+              "url": "https://t.co/7iefvhPgHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052002098523578828",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051950229427982520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kinkytasks: https://t.co/7iefvhPgHp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051950226575900677"
+          ]
+        },
+        "author_id": "1523117882045087744",
+        "conversation_id": "2051950229427982520",
+        "created_at": "2026-05-06T09:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051950229427982520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iefvhPgHp",
+              "end": 23,
+              "expanded_url": "https://x.com/kinkytasks/status/2051950229427982520/photo/1",
+              "media_key": "3_2051950226575900677",
+              "start": 0,
+              "url": "https://t.co/7iefvhPgHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051950229427982520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 20489,
+          "like_count": 1304,
+          "quote_count": 21,
+          "reply_count": 5,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7iefvhPgHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 2893,
+          "like_count": 10665,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3028
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T01:49:44.000Z",
+        "description": "",
+        "id": "1523117882045087744",
+        "name": "memes 💜",
+        "pinned_tweet_id": "2050429459782635524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557238031790358529/JjEerQVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247389,
+          "following_count": 34,
+          "like_count": 441,
+          "listed_count": 360,
+          "media_count": 175,
+          "tweet_count": 177
+        },
+        "username": "kinkytasks",
+        "verified": true
+      }
+    ]
+  }
+}

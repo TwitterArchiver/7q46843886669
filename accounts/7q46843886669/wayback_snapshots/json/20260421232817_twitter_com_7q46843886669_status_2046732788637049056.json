@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046484378134695936"
+      ],
+      "media_source_tweet_id": [
+        "2046484653918359821"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046732788637049056",
+    "created_at": "2026-04-21T23:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T00:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046732788637049056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1827009315913273344",
+          "start": 3,
+          "username": "TrEnding_0_HuB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xbKhROTq7",
+          "end": 70,
+          "expanded_url": "https://x.com/TrEnding_0_HuB/status/2046484653918359821/video/1",
+          "media_key": "7_2046484378134695936",
+          "start": 47,
+          "url": "https://t.co/1xbKhROTq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046732788637049056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046484653918359821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TrEnding_0_HuB: They attacked Gilgamesh 🥶🔥 https://t.co/1xbKhROTq7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61673,
+        "height": 720,
+        "media_key": "7_2046484378134695936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046484378134695936/pu/img/LzkkNbKUgTFh5X9t.jpg",
+        "public_metrics": {
+          "view_count": 814281
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046484378134695936/pu/vid/avc1/320x320/PZiw1D486o9Z2J45.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046484378134695936/pu/vid/avc1/540x540/cEyOqZN6ITkr9m64.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046484378134695936/pu/vid/avc1/720x720/j81g1POfNhtqu7wl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046484378134695936/pu/pl/ymasL-sC0AlBjlBP.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046484378134695936"
+          ],
+          "media_source_tweet_id": [
+            "2046484653918359821"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046732788637049056",
+        "created_at": "2026-04-21T23:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046732788637049056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1827009315913273344",
+              "start": 3,
+              "username": "TrEnding_0_HuB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xbKhROTq7",
+              "end": 70,
+              "expanded_url": "https://x.com/TrEnding_0_HuB/status/2046484653918359821/video/1",
+              "media_key": "7_2046484378134695936",
+              "start": 47,
+              "url": "https://t.co/1xbKhROTq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046732788637049056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046484653918359821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TrEnding_0_HuB: They attacked Gilgamesh 🥶🔥 https://t.co/1xbKhROTq7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046484378134695936"
+          ]
+        },
+        "author_id": "1827009315913273344",
+        "conversation_id": "2046484653918359821",
+        "created_at": "2026-04-21T07:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046484653918359821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xbKhROTq7",
+              "end": 50,
+              "expanded_url": "https://x.com/TrEnding_0_HuB/status/2046484653918359821/video/1",
+              "media_key": "7_2046484378134695936",
+              "start": 27,
+              "url": "https://t.co/1xbKhROTq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046484653918359821",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2095,
+          "impression_count": 1327453,
+          "like_count": 6199,
+          "quote_count": 12,
+          "reply_count": 108,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "They attacked Gilgamesh 🥶🔥 https://t.co/1xbKhROTq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 2674,
+          "like_count": 5121,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 782
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T15:46:11.000Z",
+        "description": "",
+        "id": "1827009315913273344",
+        "name": "DaddyTrendy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827011290113441793/2Dh--UzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13094,
+          "following_count": 1770,
+          "like_count": 1911,
+          "listed_count": 6,
+          "media_count": 952,
+          "tweet_count": 4024
+        },
+        "username": "TrEnding_0_HuB",
+        "verified": true
+      }
+    ]
+  }
+}

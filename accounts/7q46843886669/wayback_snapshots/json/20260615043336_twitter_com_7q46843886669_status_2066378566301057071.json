@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2065790293577027896",
+    "created_at": "2026-06-15T04:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066378566301057071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1638486704712749057",
+          "start": 0,
+          "username": "suyusen190325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066378566301057071",
+    "in_reply_to_user_id": "1638486704712749057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066374916426125372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suyusen190325 我可以約你媽媽嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2065790293577027896",
+        "created_at": "2026-06-15T04:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066378566301057071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1638486704712749057",
+              "start": 0,
+              "username": "suyusen190325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066378566301057071",
+        "in_reply_to_user_id": "1638486704712749057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066374916426125372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyusen190325 我可以約你媽媽嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638486704712749057",
+        "conversation_id": "2065790293577027896",
+        "created_at": "2026-06-15T04:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066374916426125372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066374916426125372",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065790293577027896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 約嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 3379,
+          "like_count": 18807,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 5114
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T10:24:26.000Z",
+        "description": "我想打炮有人可以跟我打炮嗎我住北部喲",
+        "id": "1638486704712749057",
+        "location": "新莊",
+        "name": "我要女朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958960770152374272/0WXTsiOP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 754,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 145
+        },
+        "username": "suyusen190325",
+        "verified": false
+      }
+    ]
+  }
+}

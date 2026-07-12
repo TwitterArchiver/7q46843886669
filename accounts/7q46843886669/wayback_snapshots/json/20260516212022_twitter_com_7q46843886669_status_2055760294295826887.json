@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055435287879360512"
+      ],
+      "media_source_tweet_id": [
+        "2055435297509552206"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055760294295826887",
+    "created_at": "2026-05-16T21:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055760294295826887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1217328989775134720",
+          "start": 3,
+          "username": "kyoruyeye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6juu2dVyAE",
+          "end": 50,
+          "expanded_url": "https://x.com/kyoruyeye/status/2055435297509552206/photo/1",
+          "media_key": "3_2055435287879360512",
+          "start": 27,
+          "url": "https://t.co/6juu2dVyAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055760294295826887",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1042
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055435297509552206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyoruyeye: when they.. https://t.co/6juu2dVyAE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1770,
+        "media_key": "3_2055435287879360512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZfgRDaIAAD849.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055435287879360512"
+          ],
+          "media_source_tweet_id": [
+            "2055435297509552206"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055760294295826887",
+        "created_at": "2026-05-16T21:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055760294295826887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1217328989775134720",
+              "start": 3,
+              "username": "kyoruyeye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6juu2dVyAE",
+              "end": 50,
+              "expanded_url": "https://x.com/kyoruyeye/status/2055435297509552206/photo/1",
+              "media_key": "3_2055435287879360512",
+              "start": 27,
+              "url": "https://t.co/6juu2dVyAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055760294295826887",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1042
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055435297509552206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyoruyeye: when they.. https://t.co/6juu2dVyAE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055435287879360512"
+          ]
+        },
+        "author_id": "1217328989775134720",
+        "conversation_id": "2055435297509552206",
+        "created_at": "2026-05-15T23:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055435297509552206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6juu2dVyAE",
+              "end": 35,
+              "expanded_url": "https://x.com/kyoruyeye/status/2055435297509552206/photo/1",
+              "media_key": "3_2055435287879360512",
+              "start": 12,
+              "url": "https://t.co/6juu2dVyAE"
+            },
+            {
+              "display_url": "x.com/vampplle/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/vampplle/status/2055297185353195819",
+              "start": 36,
+              "url": "https://t.co/Bnl3nDyKdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055435297509552206",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1765,
+          "impression_count": 216302,
+          "like_count": 17470,
+          "quote_count": 45,
+          "reply_count": 12,
+          "retweet_count": 1042
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055297185353195819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "when they.. https://t.co/6juu2dVyAE https://t.co/Bnl3nDyKdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2979,
+          "like_count": 12886,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3904
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-15T06:13:50.000Z",
+        "description": "green lesbian manga enthusiast ~ shoujosei ~ furuba ~ nana~ @ the pink pony club ~ yuri dealer ~ in my su era",
+        "id": "1217328989775134720",
+        "location": "she/her ~ 23 ~ lesbian",
+        "name": "avary 🩷",
+        "pinned_tweet_id": "1738515036631621810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053954769941942272/DDlp7nm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179519,
+          "following_count": 998,
+          "like_count": 250173,
+          "listed_count": 384,
+          "media_count": 48581,
+          "tweet_count": 157202
+        },
+        "username": "kyoruyeye",
+        "verified": false
+      }
+    ]
+  }
+}

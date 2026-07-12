@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2058199181618241580",
+    "created_at": "2026-05-23T14:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058199181618241580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748064252521545731",
+          "start": 3,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058199181618241580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058196753531441506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mihuanhuanhuan: 古希腊剧作家索福克勒斯在《俄狄浦斯在科洛诺斯》中写道：“最好的事是不要出生；次好的事是出生后尽快死去。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2058199181618241580",
+        "created_at": "2026-05-23T14:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058199181618241580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748064252521545731",
+              "start": 3,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058199181618241580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058196753531441506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mihuanhuanhuan: 古希腊剧作家索福克勒斯在《俄狄浦斯在科洛诺斯》中写道：“最好的事是不要出生；次好的事是出生后尽快死去。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2058196753531441506",
+        "created_at": "2026-05-23T14:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058196753531441506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058196753531441506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "古希腊剧作家索福克勒斯在《俄狄浦斯在科洛诺斯》中写道：“最好的事是不要出生；次好的事是出生后尽快死去。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 3116,
+          "like_count": 15000,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4460
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "……………………………………………………",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2055364824901841049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 3238,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 3419
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

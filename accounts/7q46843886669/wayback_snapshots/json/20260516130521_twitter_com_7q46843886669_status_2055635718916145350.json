@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055481372186140673"
+      ],
+      "media_source_tweet_id": [
+        "2055481380222439523"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055635718916145350",
+    "created_at": "2026-05-16T13:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055635718916145350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047156388380487680",
+          "start": 3,
+          "username": "kietapina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FTtfawiLTc",
+          "end": 78,
+          "expanded_url": "https://x.com/kietapina/status/2055481380222439523/photo/1",
+          "media_key": "3_2055481372186140673",
+          "start": 55,
+          "url": "https://t.co/FTtfawiLTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055635718916145350",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 295
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055481380222439523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kietapina: ᅠ       ᅠ       ᅠᅠ       ᅠ       ᅠ and? https://t.co/FTtfawiLTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2055481372186140673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaJaueWYAEYgGg.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055481372186140673"
+          ],
+          "media_source_tweet_id": [
+            "2055481380222439523"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055635718916145350",
+        "created_at": "2026-05-16T13:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055635718916145350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047156388380487680",
+              "start": 3,
+              "username": "kietapina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTtfawiLTc",
+              "end": 78,
+              "expanded_url": "https://x.com/kietapina/status/2055481380222439523/photo/1",
+              "media_key": "3_2055481372186140673",
+              "start": 55,
+              "url": "https://t.co/FTtfawiLTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055635718916145350",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055481380222439523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kietapina: ᅠ       ᅠ       ᅠᅠ       ᅠ       ᅠ and? https://t.co/FTtfawiLTc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055481372186140673"
+          ]
+        },
+        "author_id": "2047156388380487680",
+        "conversation_id": "2055481380222439523",
+        "created_at": "2026-05-16T02:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055481380222439523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTtfawiLTc",
+              "end": 63,
+              "expanded_url": "https://x.com/kietapina/status/2055481380222439523/photo/1",
+              "media_key": "3_2055481372186140673",
+              "start": 40,
+              "url": "https://t.co/FTtfawiLTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055481380222439523",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 28067,
+          "like_count": 2504,
+          "quote_count": 54,
+          "reply_count": 22,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "ᅠ       ᅠ       ᅠᅠ       ᅠ       ᅠ and? https://t.co/FTtfawiLTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2980,
+          "like_count": 12854,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3878
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T03:31:41.000Z",
+        "description": "#subtwt DNI -15",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "subtwt"
+              }
+            ]
+          }
+        },
+        "id": "2047156388380487680",
+        "location": "him \\",
+        "name": "𝐞𝐧𝐠𝐞𝐥 ☭",
+        "pinned_tweet_id": "2055118006645105090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048634879848706049/zpHY4Qkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 385,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 628
+        },
+        "username": "kietapina",
+        "verified": false
+      }
+    ]
+  }
+}

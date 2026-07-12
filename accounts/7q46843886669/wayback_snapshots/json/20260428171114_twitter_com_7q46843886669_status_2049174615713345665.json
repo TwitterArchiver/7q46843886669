@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048639007207440384"
+      ],
+      "media_source_tweet_id": [
+        "2048639013788262592"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049174615713345665",
+    "created_at": "2026-04-28T17:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049174615713345665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825905418159235072",
+          "start": 3,
+          "username": "disappear30"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wIEeWrzapn",
+          "end": 40,
+          "expanded_url": "https://x.com/disappear30/status/2048639013788262592/photo/1",
+          "media_key": "3_2048639007207440384",
+          "start": 17,
+          "url": "https://t.co/wIEeWrzapn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049174615713345665",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3911
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048639013788262592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @disappear30: https://t.co/wIEeWrzapn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2048639007207440384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG46UqmbwAAZ96Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048639007207440384"
+          ],
+          "media_source_tweet_id": [
+            "2048639013788262592"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049174615713345665",
+        "created_at": "2026-04-28T17:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049174615713345665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825905418159235072",
+              "start": 3,
+              "username": "disappear30"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wIEeWrzapn",
+              "end": 40,
+              "expanded_url": "https://x.com/disappear30/status/2048639013788262592/photo/1",
+              "media_key": "3_2048639007207440384",
+              "start": 17,
+              "url": "https://t.co/wIEeWrzapn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049174615713345665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3911
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048639013788262592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @disappear30: https://t.co/wIEeWrzapn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048639007207440384"
+          ]
+        },
+        "author_id": "1825905418159235072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048639013788262592",
+        "created_at": "2026-04-27T05:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048639013788262592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wIEeWrzapn",
+              "end": 23,
+              "expanded_url": "https://x.com/disappear30/status/2048639013788262592/photo/1",
+              "media_key": "3_2048639007207440384",
+              "start": 0,
+              "url": "https://t.co/wIEeWrzapn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048639013788262592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 185093,
+          "like_count": 10977,
+          "quote_count": 114,
+          "reply_count": 18,
+          "retweet_count": 3911
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wIEeWrzapn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2768,
+          "like_count": 6792,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1629
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T14:39:20.000Z",
+        "description": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐨 𝐝𝐢𝐬𝐚𝐩𝐩𝐞𝐚𝐫 𝐰𝐨𝐫𝐥𝐝 🌎",
+        "id": "1825905418159235072",
+        "name": "Disappear",
+        "pinned_tweet_id": "2049171832066949194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939903708550090752/oaf1IhmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57283,
+          "following_count": 5134,
+          "like_count": 115322,
+          "listed_count": 54,
+          "media_count": 6324,
+          "tweet_count": 79378
+        },
+        "username": "disappear30",
+        "verified": true
+      }
+    ]
+  }
+}

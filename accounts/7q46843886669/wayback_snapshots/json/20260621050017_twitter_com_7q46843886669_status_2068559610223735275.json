@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068343504716386304"
+      ],
+      "media_source_tweet_id": [
+        "2068343512026988962"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2068559610223735275",
+    "created_at": "2026-06-21T05:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068559610223735275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802754536710262784",
+          "start": 3,
+          "username": "Dan0115qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/foGWxrGjd0",
+          "end": 39,
+          "expanded_url": "https://x.com/Dan0115qwq/status/2068343512026988962/photo/1",
+          "media_key": "3_2068343504716386304",
+          "start": 16,
+          "url": "https://t.co/foGWxrGjd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068559610223735275",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068343512026988962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dan0115qwq: https://t.co/foGWxrGjd0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2068343504716386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ7dYAbUAAhoww.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068343504716386304"
+          ],
+          "media_source_tweet_id": [
+            "2068343512026988962"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2068559610223735275",
+        "created_at": "2026-06-21T05:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068559610223735275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802754536710262784",
+              "start": 3,
+              "username": "Dan0115qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/foGWxrGjd0",
+              "end": 39,
+              "expanded_url": "https://x.com/Dan0115qwq/status/2068343512026988962/photo/1",
+              "media_key": "3_2068343504716386304",
+              "start": 16,
+              "url": "https://t.co/foGWxrGjd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068559610223735275",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068343512026988962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dan0115qwq: https://t.co/foGWxrGjd0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068343504716386304"
+          ]
+        },
+        "author_id": "1802754536710262784",
+        "conversation_id": "2068343512026988962",
+        "created_at": "2026-06-20T14:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068343512026988962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/foGWxrGjd0",
+              "end": 23,
+              "expanded_url": "https://x.com/Dan0115qwq/status/2068343512026988962/photo/1",
+              "media_key": "3_2068343504716386304",
+              "start": 0,
+              "url": "https://t.co/foGWxrGjd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068343512026988962",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 15297,
+          "like_count": 541,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/foGWxrGjd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 3395,
+          "like_count": 19942,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 5295
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T17:25:59.000Z",
+        "description": "不会眨眼睛",
+        "id": "1802754536710262784",
+        "name": "Dan",
+        "pinned_tweet_id": "1888663296250961954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903651201214029824/uOGkCZTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 317,
+          "like_count": 1874,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 3399
+        },
+        "url": "",
+        "username": "Dan0115qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052784996335640576"
+      ],
+      "media_source_tweet_id": [
+        "2052785000399966360"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053043881256898641",
+    "created_at": "2026-05-09T09:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053043881256898641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1270079156466958341",
+          "start": 3,
+          "username": "gunfanatics1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JiySF8R6dm",
+          "end": 41,
+          "expanded_url": "https://x.com/gunfanatics1/status/2052785000399966360/photo/1",
+          "media_key": "3_2052784996335640576",
+          "start": 18,
+          "url": "https://t.co/JiySF8R6dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053043881256898641",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052785000399966360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gunfanatics1: https://t.co/JiySF8R6dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2052784996335640576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz1E_rWYAAgqrS.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052784996335640576"
+          ],
+          "media_source_tweet_id": [
+            "2052785000399966360"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053043881256898641",
+        "created_at": "2026-05-09T09:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053043881256898641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1270079156466958341",
+              "start": 3,
+              "username": "gunfanatics1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JiySF8R6dm",
+              "end": 41,
+              "expanded_url": "https://x.com/gunfanatics1/status/2052785000399966360/photo/1",
+              "media_key": "3_2052784996335640576",
+              "start": 18,
+              "url": "https://t.co/JiySF8R6dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053043881256898641",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052785000399966360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gunfanatics1: https://t.co/JiySF8R6dm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052784996335640576"
+          ]
+        },
+        "author_id": "1270079156466958341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052785000399966360",
+        "created_at": "2026-05-08T16:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052785000399966360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JiySF8R6dm",
+              "end": 23,
+              "expanded_url": "https://x.com/gunfanatics1/status/2052785000399966360/photo/1",
+              "media_key": "3_2052784996335640576",
+              "start": 0,
+              "url": "https://t.co/JiySF8R6dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052785000399966360",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 15470,
+          "like_count": 1507,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JiySF8R6dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2970,
+          "like_count": 11662,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3353
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T19:44:21.000Z",
+        "description": "Shooter @GunsFanatics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "GunsFanatics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3oLGoRv",
+                "end": 23,
+                "expanded_url": "https://bit.ly/3oLGoRv",
+                "start": 0,
+                "url": "https://t.co/H9gUXrlVzP"
+              }
+            ]
+          }
+        },
+        "id": "1270079156466958341",
+        "name": "Gun Fanatics",
+        "pinned_tweet_id": "2052818365706641858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923684513470636032/8U5zOkxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67106,
+          "following_count": 16245,
+          "like_count": 15963,
+          "listed_count": 64,
+          "media_count": 5387,
+          "tweet_count": 10555
+        },
+        "url": "https://t.co/H9gUXrlVzP",
+        "username": "gunfanatics1",
+        "verified": true
+      }
+    ]
+  }
+}

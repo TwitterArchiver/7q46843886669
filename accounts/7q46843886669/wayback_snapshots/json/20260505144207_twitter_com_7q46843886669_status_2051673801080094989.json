@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051515165905129472"
+      ],
+      "media_source_tweet_id": [
+        "2051515178790043718"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051673801080094989",
+    "created_at": "2026-05-05T14:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051673801080094989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1454011300854460420",
+          "start": 3,
+          "username": "rara_0615xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PpIVXVzlM4",
+          "end": 40,
+          "expanded_url": "https://x.com/rara_0615xx/status/2051515178790043718/photo/1",
+          "media_key": "3_2051515165905129472",
+          "start": 17,
+          "url": "https://t.co/PpIVXVzlM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051673801080094989",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051515178790043718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rara_0615xx: https://t.co/PpIVXVzlM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2051515165905129472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhyLIsaEAAly5S.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051515165905129472"
+          ],
+          "media_source_tweet_id": [
+            "2051515178790043718"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051673801080094989",
+        "created_at": "2026-05-05T14:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051673801080094989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1454011300854460420",
+              "start": 3,
+              "username": "rara_0615xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpIVXVzlM4",
+              "end": 40,
+              "expanded_url": "https://x.com/rara_0615xx/status/2051515178790043718/photo/1",
+              "media_key": "3_2051515165905129472",
+              "start": 17,
+              "url": "https://t.co/PpIVXVzlM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051673801080094989",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051515178790043718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rara_0615xx: https://t.co/PpIVXVzlM4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051515165905129472"
+          ]
+        },
+        "author_id": "1454011300854460420",
+        "conversation_id": "2051515178790043718",
+        "created_at": "2026-05-05T04:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051515178790043718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpIVXVzlM4",
+              "end": 23,
+              "expanded_url": "https://x.com/rara_0615xx/status/2051515178790043718/photo/1",
+              "media_key": "3_2051515165905129472",
+              "start": 0,
+              "url": "https://t.co/PpIVXVzlM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051515178790043718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PpIVXVzlM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2883,
+          "like_count": 10335,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2920
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T09:04:56.000Z",
+        "description": "cn蛋撻/日本語ok/自伤/重焦重鬱/同类互fo好嗎/歡迎提問/🚪私https://t.co/kufx27bBkH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rarahkakoakq",
+                "end": 57,
+                "expanded_url": "https://ngl.link/rarahkakoakq",
+                "start": 34,
+                "url": "https://t.co/kufx27bBkH"
+              }
+            ]
+          }
+        },
+        "id": "1454011300854460420",
+        "location": "天國",
+        "name": "♡純白色罪業",
+        "pinned_tweet_id": "2049531393504612790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041065743043932161/pNiYUnGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 227,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 348
+        },
+        "username": "rara_0615xx",
+        "verified": false
+      }
+    ]
+  }
+}

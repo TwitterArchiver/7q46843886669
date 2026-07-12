@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056199715080081408"
+      ],
+      "media_source_tweet_id": [
+        "2056199724387238323"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056261760550912176",
+    "created_at": "2026-05-18T06:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056261760550912176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOc3AMxFa6",
+          "end": 49,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2056199724387238323/photo/1",
+          "media_key": "3_2056199715080081408",
+          "start": 26,
+          "url": "https://t.co/eOc3AMxFa6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056261760550912176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056199724387238323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 安全型指南 https://t.co/eOc3AMxFa6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1793,
+        "media_key": "3_2056199715080081408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkWvySbkAATV64.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056199715080081408"
+          ],
+          "media_source_tweet_id": [
+            "2056199724387238323"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056261760550912176",
+        "created_at": "2026-05-18T06:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056261760550912176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOc3AMxFa6",
+              "end": 49,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2056199724387238323/photo/1",
+              "media_key": "3_2056199715080081408",
+              "start": 26,
+              "url": "https://t.co/eOc3AMxFa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056261760550912176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056199724387238323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 安全型指南 https://t.co/eOc3AMxFa6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056199715080081408"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2056199724387238323",
+        "created_at": "2026-05-18T02:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056199724387238323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOc3AMxFa6",
+              "end": 29,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2056199724387238323/photo/1",
+              "media_key": "3_2056199715080081408",
+              "start": 6,
+              "url": "https://t.co/eOc3AMxFa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056199724387238323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3667,
+          "like_count": 113,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "安全型指南 https://t.co/eOc3AMxFa6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2979,
+          "like_count": 13181,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4030
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7748,
+          "following_count": 68,
+          "like_count": 7257,
+          "listed_count": 7,
+          "media_count": 160,
+          "tweet_count": 1752
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

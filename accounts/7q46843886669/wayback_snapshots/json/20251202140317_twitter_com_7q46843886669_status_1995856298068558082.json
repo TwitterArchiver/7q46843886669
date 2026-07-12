@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1989321518623723947",
+    "created_at": "2025-12-02T14:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995856298068558082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1953223010061828096",
+          "start": 0,
+          "username": "naysu_OVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995856298068558082",
+    "in_reply_to_user_id": "1953223010061828096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989337740379586849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naysu_OVO 并非 私信不会被看到😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1989321518623723947",
+        "created_at": "2025-12-02T14:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995856298068558082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1953223010061828096",
+              "start": 0,
+              "username": "naysu_OVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995856298068558082",
+        "in_reply_to_user_id": "1953223010061828096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989337740379586849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naysu_OVO 并非 私信不会被看到😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953223010061828096",
+        "conversation_id": "1989321518623723947",
+        "created_at": "2025-11-14T14:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989337740379586849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989337740379586849",
+        "in_reply_to_user_id": "1953223010061828096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4722,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989321518623723947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开过一段时间发现，和评论区一样……！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 898,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 72
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T22:34:01.000Z",
+        "description": "幼母猪夏酱/女初，喜欢可爱的女孩子欢迎宝宝互关，精力问题随机开私信૮´• •`ა",
+        "id": "1953223010061828096",
+        "name": "幼夏酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994082130247471109/cHhl7jj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 5,
+          "like_count": 75,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "naysu_OVO",
+        "verified": false
+      }
+    ]
+  }
+}

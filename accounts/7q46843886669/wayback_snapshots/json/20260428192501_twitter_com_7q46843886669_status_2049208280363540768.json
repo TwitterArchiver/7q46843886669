@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049031781417205760"
+      ],
+      "media_source_tweet_id": [
+        "2049031784097329469"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049208280363540768",
+    "created_at": "2026-04-28T19:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049208280363540768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919363955929362432",
+          "start": 3,
+          "username": "xiaomingmumu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CAIrDIWD5r",
+          "end": 68,
+          "expanded_url": "https://x.com/xiaomingmumu/status/2049031784097329469/photo/1",
+          "media_key": "3_2049031781417205760",
+          "start": 45,
+          "url": "https://t.co/CAIrDIWD5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049208280363540768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049031784097329469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaomingmumu: 我曾经给我的每一条领带都拍过公式照，想它们了就看看。 https://t.co/CAIrDIWD5r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049031781417205760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-fjIjbwAAhVtU.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049031781417205760"
+          ],
+          "media_source_tweet_id": [
+            "2049031784097329469"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049208280363540768",
+        "created_at": "2026-04-28T19:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049208280363540768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919363955929362432",
+              "start": 3,
+              "username": "xiaomingmumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAIrDIWD5r",
+              "end": 68,
+              "expanded_url": "https://x.com/xiaomingmumu/status/2049031784097329469/photo/1",
+              "media_key": "3_2049031781417205760",
+              "start": 45,
+              "url": "https://t.co/CAIrDIWD5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049208280363540768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049031784097329469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaomingmumu: 我曾经给我的每一条领带都拍过公式照，想它们了就看看。 https://t.co/CAIrDIWD5r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049031781417205760"
+          ]
+        },
+        "author_id": "1919363955929362432",
+        "conversation_id": "2049031784097329469",
+        "created_at": "2026-04-28T07:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049031784097329469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAIrDIWD5r",
+              "end": 50,
+              "expanded_url": "https://x.com/xiaomingmumu/status/2049031784097329469/photo/1",
+              "media_key": "3_2049031781417205760",
+              "start": 27,
+              "url": "https://t.co/CAIrDIWD5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049031784097329469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11395,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经给我的每一条领带都拍过公式照，想它们了就看看。 https://t.co/CAIrDIWD5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2773,
+          "like_count": 6884,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1662
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T12:10:10.000Z",
+        "description": "操死全世界\n｜匿名https://t.co/NXKVyy5G1i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inridscent",
+                "end": 32,
+                "expanded_url": "https://ngl.link/inridscent",
+                "start": 9,
+                "url": "https://t.co/NXKVyy5G1i"
+              }
+            ]
+          }
+        },
+        "id": "1919363955929362432",
+        "name": "一根烂棉签",
+        "pinned_tweet_id": "2007795599199142093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490886444429315/VErpiYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 446,
+          "like_count": 18708,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 10275
+        },
+        "username": "xiaomingmumu",
+        "verified": false
+      }
+    ]
+  }
+}

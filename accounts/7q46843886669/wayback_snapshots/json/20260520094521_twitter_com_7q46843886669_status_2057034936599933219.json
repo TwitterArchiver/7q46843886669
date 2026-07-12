@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056943832080793600"
+      ],
+      "media_source_tweet_id": [
+        "2056943834354082297"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057034936599933219",
+    "created_at": "2026-05-20T09:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057034936599933219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715269179563991040",
+          "start": 3,
+          "username": "huhanliu1368"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyKsu1X7qu",
+          "end": 46,
+          "expanded_url": "https://x.com/huhanliu1368/status/2056943834354082297/photo/1",
+          "media_key": "3_2056943832080793600",
+          "start": 23,
+          "url": "https://t.co/SyKsu1X7qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057034936599933219",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056943834354082297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huhanliu1368: 赛博考古 https://t.co/SyKsu1X7qu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_2056943832080793600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIu7hGIbQAA49bD.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056943832080793600"
+          ],
+          "media_source_tweet_id": [
+            "2056943834354082297"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057034936599933219",
+        "created_at": "2026-05-20T09:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057034936599933219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715269179563991040",
+              "start": 3,
+              "username": "huhanliu1368"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyKsu1X7qu",
+              "end": 46,
+              "expanded_url": "https://x.com/huhanliu1368/status/2056943834354082297/photo/1",
+              "media_key": "3_2056943832080793600",
+              "start": 23,
+              "url": "https://t.co/SyKsu1X7qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057034936599933219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056943834354082297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huhanliu1368: 赛博考古 https://t.co/SyKsu1X7qu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056943832080793600"
+          ]
+        },
+        "author_id": "1715269179563991040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056943834354082297",
+        "created_at": "2026-05-20T03:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056943834354082297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyKsu1X7qu",
+              "end": 28,
+              "expanded_url": "https://x.com/huhanliu1368/status/2056943834354082297/photo/1",
+              "media_key": "3_2056943832080793600",
+              "start": 5,
+              "url": "https://t.co/SyKsu1X7qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056943834354082297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2454,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赛博考古 https://t.co/SyKsu1X7qu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 2997,
+          "like_count": 13696,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 4249
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T07:30:34.000Z",
+        "description": "不过度涉政🔊\n 文/史/哲\n齿科学生/\n中V/明日方舟/舰B/邦邦/日V/炒股小白💹\n东亚文化爱好者 \n   日本語を勉強中です🇯🇵\n   한국어 공부 해요.🇰🇷",
+        "id": "1715269179563991040",
+        "location": "万华镜",
+        "name": "𝔎𝔬さん",
+        "pinned_tweet_id": "1813953182747521318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006398053390094336/JagZmIvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1767,
+          "like_count": 22446,
+          "listed_count": 3,
+          "media_count": 1086,
+          "tweet_count": 7839
+        },
+        "username": "huhanliu1368",
+        "verified": false
+      }
+    ]
+  }
+}

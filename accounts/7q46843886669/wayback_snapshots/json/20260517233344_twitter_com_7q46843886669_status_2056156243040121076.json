@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055998909160587265"
+      ],
+      "media_source_tweet_id": [
+        "2055998916865474591"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056156243040121076",
+    "created_at": "2026-05-17T23:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056156243040121076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ci8Td0ImJg",
+          "end": 53,
+          "expanded_url": "https://x.com/aoim33/status/2055998916865474591/photo/1",
+          "media_key": "3_2055998909160587265",
+          "start": 30,
+          "url": "https://t.co/Ci8Td0ImJg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056156243040121076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055998916865474591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoim33: 520只能证明我被5月折磨了20天 https://t.co/Ci8Td0ImJg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2055998909160587265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhgHV8bgAE0hVH.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055998909160587265"
+          ],
+          "media_source_tweet_id": [
+            "2055998916865474591"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056156243040121076",
+        "created_at": "2026-05-17T23:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056156243040121076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci8Td0ImJg",
+              "end": 53,
+              "expanded_url": "https://x.com/aoim33/status/2055998916865474591/photo/1",
+              "media_key": "3_2055998909160587265",
+              "start": 30,
+              "url": "https://t.co/Ci8Td0ImJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056156243040121076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055998916865474591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoim33: 520只能证明我被5月折磨了20天 https://t.co/Ci8Td0ImJg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055998909160587265"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055998916865474591",
+        "created_at": "2026-05-17T13:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055998916865474591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci8Td0ImJg",
+              "end": 41,
+              "expanded_url": "https://x.com/aoim33/status/2055998916865474591/photo/1",
+              "media_key": "3_2055998909160587265",
+              "start": 18,
+              "url": "https://t.co/Ci8Td0ImJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998916865474591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "520只能证明我被5月折磨了20天 https://t.co/Ci8Td0ImJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2980,
+          "like_count": 13163,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4019
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5428,
+          "following_count": 2937,
+          "like_count": 49033,
+          "listed_count": 19,
+          "media_count": 2857,
+          "tweet_count": 12311
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

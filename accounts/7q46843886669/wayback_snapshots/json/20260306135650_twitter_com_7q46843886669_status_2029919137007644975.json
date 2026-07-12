@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2029634806150287678",
+    "created_at": "2026-03-06T13:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029919137007644975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699685199863316480",
+          "start": 0,
+          "username": "caomeix04231621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029919137007644975",
+    "in_reply_to_user_id": "1699685199863316480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029634806150287678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeix04231621 逃跑吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2029634806150287678",
+        "created_at": "2026-03-06T13:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029919137007644975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699685199863316480",
+              "start": 0,
+              "username": "caomeix04231621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029919137007644975",
+        "in_reply_to_user_id": "1699685199863316480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029634806150287678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeix04231621 逃跑吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699685199863316480",
+        "conversation_id": "2029634806150287678",
+        "created_at": "2026-03-05T19:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T20:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029634806150287678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029634806150287678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3025,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从我需要主动问前主要钱，去见面做爱才能有钱维持生活和交考试报名费的时候，那种亲情的道德约束，就成为废纸。我听话，我服从，却得不到回应，她不是我的母亲，更是一个剥削者，我更希望我们是清楚的交易，她大可以说“十八岁之后不管你了”，但她一边控制我的一切，一边舍不得花钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 2178,
+          "like_count": 2463,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 301
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:25:18.000Z",
+        "description": "你爱文字里的我，其实是爱你自己｜🚪88纯绿｜不接推广置顶｜接稿",
+        "id": "1699685199863316480",
+        "name": "椰椰椰椰奶小羊",
+        "pinned_tweet_id": "1986448254595441064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014335575164416000/XrvAEtX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63465,
+          "following_count": 335,
+          "like_count": 9378,
+          "listed_count": 115,
+          "media_count": 507,
+          "tweet_count": 9530
+        },
+        "username": "caomeix04231621",
+        "verified": false
+      }
+    ]
+  }
+}

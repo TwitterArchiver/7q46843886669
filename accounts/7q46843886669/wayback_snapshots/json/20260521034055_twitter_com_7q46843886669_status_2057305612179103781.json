@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057151578659037633",
+    "created_at": "2026-05-21T03:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057305612179103781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787325385484496896",
+          "start": 0,
+          "username": "loy1124677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057305612179103781",
+    "in_reply_to_user_id": "1787325385484496896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057285585824362613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loy1124677 我就想操逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057151578659037633",
+        "created_at": "2026-05-21T03:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057305612179103781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787325385484496896",
+              "start": 0,
+              "username": "loy1124677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057305612179103781",
+        "in_reply_to_user_id": "1787325385484496896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057285585824362613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loy1124677 我就想操逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787325385484496896",
+        "conversation_id": "2057151578659037633",
+        "created_at": "2026-05-21T02:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057285585824362613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057285585824362613",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057151578659037633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 话糙理不糙，但是有点太糙了兄弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 3014,
+          "like_count": 14012,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 4330
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T03:36:06.000Z",
+        "description": "",
+        "id": "1787325385484496896",
+        "name": "老鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057146436953726977/Epjzvsak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "loy1124677",
+        "verified": false
+      }
+    ]
+  }
+}

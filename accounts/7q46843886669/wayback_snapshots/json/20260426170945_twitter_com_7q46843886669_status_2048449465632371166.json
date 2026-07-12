@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048246480520237056"
+      ],
+      "media_source_tweet_id": [
+        "2048246494164369616"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2048449465632371166",
+    "created_at": "2026-04-26T17:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048449465632371166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1974360722080714753",
+          "start": 3,
+          "username": "Kurainikiyade"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfCGhxub8W",
+          "end": 42,
+          "expanded_url": "https://x.com/Kurainikiyade/status/2048246494164369616/photo/1",
+          "media_key": "3_2048246480520237056",
+          "start": 19,
+          "url": "https://t.co/pfCGhxub8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048449465632371166",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2499
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048246494164369616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kurainikiyade: https://t.co/pfCGhxub8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2048246480520237056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzVUmvaUAALOCj.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048246480520237056"
+          ],
+          "media_source_tweet_id": [
+            "2048246494164369616"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048449465632371166",
+        "created_at": "2026-04-26T17:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048449465632371166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1974360722080714753",
+              "start": 3,
+              "username": "Kurainikiyade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfCGhxub8W",
+              "end": 42,
+              "expanded_url": "https://x.com/Kurainikiyade/status/2048246494164369616/photo/1",
+              "media_key": "3_2048246480520237056",
+              "start": 19,
+              "url": "https://t.co/pfCGhxub8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048449465632371166",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2499
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048246494164369616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kurainikiyade: https://t.co/pfCGhxub8W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048246480520237056"
+          ]
+        },
+        "author_id": "1974360722080714753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048246494164369616",
+        "created_at": "2026-04-26T03:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048246494164369616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfCGhxub8W",
+              "end": 23,
+              "expanded_url": "https://x.com/Kurainikiyade/status/2048246494164369616/photo/1",
+              "media_key": "3_2048246480520237056",
+              "start": 0,
+              "url": "https://t.co/pfCGhxub8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048246494164369616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 931,
+          "impression_count": 415264,
+          "like_count": 20182,
+          "quote_count": 148,
+          "reply_count": 21,
+          "retweet_count": 2499
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pfCGhxub8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2732,
+          "like_count": 6166,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1229
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T06:28:03.000Z",
+        "description": "高校卒業済みの成人女性\n無言フォローすみません(;_;)\n鍵垢→@kuroimori0825\nジョジョやポケモンなどなんでも好きです〜\nアイコン！！➝@Yoshiharu_NOW！！\nありがとう！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "kuroimori0825"
+              },
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Yoshiharu_NOW"
+              }
+            ]
+          }
+        },
+        "id": "1974360722080714753",
+        "name": "ラリア(라리아)",
+        "pinned_tweet_id": "2046861081151508792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041322790088024064/a5Y-QuqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 5009,
+          "like_count": 25326,
+          "listed_count": 9,
+          "media_count": 170,
+          "tweet_count": 8423
+        },
+        "username": "Kurainikiyade",
+        "verified": false
+      }
+    ]
+  }
+}

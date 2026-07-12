@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055759573127229859",
+    "created_at": "2026-05-16T21:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055759573127229859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1334787883664859139",
+          "start": 3,
+          "username": "ArtorOtherThing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/rK",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/rK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055759573127229859",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2439
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055396552865444337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArtorOtherThing: Apollo e Dafne (Apollo and Daphne) — Roberto Ferri, 2020, Oil and tempera on linen, Private Collection https://t.co/rK…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055389913923653634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIY2PJ5XEAIPAih.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055759573127229859",
+        "created_at": "2026-05-16T21:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055759573127229859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1334787883664859139",
+              "start": 3,
+              "username": "ArtorOtherThing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/rK",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/rK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055759573127229859",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055396552865444337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArtorOtherThing: Apollo e Dafne (Apollo and Daphne) — Roberto Ferri, 2020, Oil and tempera on linen, Private Collection https://t.co/rK…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055389913923653634"
+          ]
+        },
+        "author_id": "1334787883664859139",
+        "conversation_id": "2055396552865444337",
+        "created_at": "2026-05-15T21:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T22:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055396552865444337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKxqG6NrN7",
+              "end": 126,
+              "expanded_url": "https://x.com/ArtorOtherThing/status/2055396552865444337/photo/1",
+              "media_key": "3_2055389913923653634",
+              "start": 103,
+              "url": "https://t.co/rKxqG6NrN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055396552865444337",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5895,
+          "impression_count": 2880868,
+          "like_count": 27019,
+          "quote_count": 201,
+          "reply_count": 44,
+          "retweet_count": 2439
+        },
+        "reply_settings": "everyone",
+        "text": "Apollo e Dafne (Apollo and Daphne) — Roberto Ferri, 2020, Oil and tempera on linen, Private Collection https://t.co/rKxqG6NrN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2979,
+          "like_count": 12875,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3893
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-04T09:13:33.000Z",
+        "description": "don't found by searching but those who can find it are those who seek",
+        "id": "1334787883664859139",
+        "name": "Art or Other Things",
+        "pinned_tweet_id": "1887878987793273077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1334797708436058112/plYV74k-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112734,
+          "following_count": 4422,
+          "like_count": 950,
+          "listed_count": 794,
+          "media_count": 11420,
+          "tweet_count": 11781
+        },
+        "username": "ArtorOtherThing",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2062093243588935680",
+    "created_at": "2026-06-03T08:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062093243588935680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062093243588935680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我趣会画画的互关能不能都随手涂点什么信物给我 好喜欢🤤🤤 就像番茄给我画的狗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2062093243588935680",
+        "created_at": "2026-06-03T08:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062093243588935680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062093243588935680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我趣会画画的互关能不能都随手涂点什么信物给我 好喜欢🤤🤤 就像番茄给我画的狗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 3320,
+          "like_count": 16589,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 4654
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

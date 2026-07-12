@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046954209959121213",
+    "created_at": "2026-04-23T00:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047111203370279342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1924045063199633408",
+          "start": 0,
+          "username": "itsyahere"
+        },
+        {
+          "end": 25,
+          "id": "1723020514946686976",
+          "start": 11,
+          "username": "Tracyou291502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047111203370279342",
+    "in_reply_to_user_id": "1924045063199633408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046974314868768953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsyahere @Tracyou291502 鲜花 by回春丹， 好听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046954209959121213",
+        "created_at": "2026-04-23T00:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047111203370279342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1924045063199633408",
+              "start": 0,
+              "username": "itsyahere"
+            },
+            {
+              "end": 25,
+              "id": "1723020514946686976",
+              "start": 11,
+              "username": "Tracyou291502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047111203370279342",
+        "in_reply_to_user_id": "1924045063199633408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046974314868768953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsyahere @Tracyou291502 鲜花 by回春丹， 好听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924045063199633408",
+        "conversation_id": "2046954209959121213",
+        "created_at": "2026-04-22T15:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046974314868768953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723020514946686976",
+              "start": 0,
+              "username": "Tracyou291502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046974314868768953",
+        "in_reply_to_user_id": "1723020514946686976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046973074160197698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tracyou291502 ！（这个  有什么隐喻吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 2689,
+          "like_count": 5334,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 820
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T10:11:31.000Z",
+        "description": "我的碗碎了",
+        "id": "1924045063199633408",
+        "name": "Ya的閃光玻璃杯-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986085515863691265/SIOErqMM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 248,
+          "like_count": 10847,
+          "listed_count": 3,
+          "media_count": 499,
+          "tweet_count": 2050
+        },
+        "username": "itsyahere",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T16:51:41.000Z",
+        "description": "Switch 1i/4i  最近很馋",
+        "id": "1723020514946686976",
+        "location": "⬆️🌊",
+        "name": "满杯椰奶",
+        "pinned_tweet_id": "2036847332495601919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867851340426489858/NHhgxDoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8746,
+          "following_count": 170,
+          "like_count": 2138,
+          "listed_count": 18,
+          "media_count": 34,
+          "tweet_count": 1521
+        },
+        "username": "Tracyou291502",
+        "verified": false
+      }
+    ]
+  }
+}

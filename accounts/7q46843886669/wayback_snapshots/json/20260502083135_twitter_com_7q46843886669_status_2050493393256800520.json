@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049112078296981504"
+      ],
+      "media_source_tweet_id": [
+        "2050296699307131251"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050493393256800520",
+    "created_at": "2026-05-02T08:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050493393256800520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966130736689459214",
+          "start": 3,
+          "username": "Animex_Tweet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KcIpATpM0Y",
+          "end": 41,
+          "expanded_url": "https://x.com/Animex_Tweet/status/2050296699307131251/video/1",
+          "media_key": "13_2049112078296981504",
+          "start": 18,
+          "url": "https://t.co/KcIpATpM0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050493393256800520",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050296699307131251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Animex_Tweet: https://t.co/KcIpATpM0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14396,
+        "height": 718,
+        "media_key": "13_2049112078296981504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049112078296981504/img/D_EywxJe1aRI1KTL.jpg",
+        "public_metrics": {
+          "view_count": 471195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049112078296981504/vid/avc1/320x320/EgJbaGEYdwZ7eWup.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049112078296981504/vid/avc1/540x540/9-VLfMm0K6FgKATC.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049112078296981504/vid/avc1/718x718/gNMf72_-abHGIrlL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049112078296981504/pl/WdMfg0Ky62PQAeSU.m3u8?v=c7a"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049112078296981504"
+          ],
+          "media_source_tweet_id": [
+            "2050296699307131251"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050493393256800520",
+        "created_at": "2026-05-02T08:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050493393256800520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966130736689459214",
+              "start": 3,
+              "username": "Animex_Tweet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcIpATpM0Y",
+              "end": 41,
+              "expanded_url": "https://x.com/Animex_Tweet/status/2050296699307131251/video/1",
+              "media_key": "13_2049112078296981504",
+              "start": 18,
+              "url": "https://t.co/KcIpATpM0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050493393256800520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050296699307131251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Animex_Tweet: https://t.co/KcIpATpM0Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049112078296981504"
+          ]
+        },
+        "author_id": "1966130736689459214",
+        "conversation_id": "2050296699307131251",
+        "created_at": "2026-05-01T19:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050296699307131251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcIpATpM0Y",
+              "end": 23,
+              "expanded_url": "https://x.com/Animex_Tweet/status/2050296699307131251/video/1",
+              "media_key": "13_2049112078296981504",
+              "start": 0,
+              "url": "https://t.co/KcIpATpM0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050296699307131251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1683,
+          "impression_count": 847085,
+          "like_count": 5580,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KcIpATpM0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2846,
+          "like_count": 8732,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2358
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T13:24:44.000Z",
+        "description": "I just shitpost and retweet My Dress-up Darling stuff 😺",
+        "id": "1966130736689459214",
+        "name": "Marin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033480878748487680/sah5h0bm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6587,
+          "following_count": 5,
+          "like_count": 1070,
+          "listed_count": 11,
+          "media_count": 193,
+          "tweet_count": 195
+        },
+        "username": "Animex_Tweet",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053688031987515839",
+    "created_at": "2026-05-11T09:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053775900211335597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893114795911720960",
+          "start": 0,
+          "username": "dontgiva_fvck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053775900211335597",
+    "in_reply_to_user_id": "1893114795911720960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053688031987515839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontgiva_fvck 做不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053688031987515839",
+        "created_at": "2026-05-11T09:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053775900211335597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893114795911720960",
+              "start": 0,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053775900211335597",
+        "in_reply_to_user_id": "1893114795911720960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053688031987515839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontgiva_fvck 做不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893114795911720960",
+        "conversation_id": "2053688031987515839",
+        "created_at": "2026-05-11T04:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053688031987515839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053688031987515839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4886,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请对高学历/高收入/高颜值 统统祛魅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2969,
+          "like_count": 12167,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3595
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T01:48:55.000Z",
+        "description": "死人微活 07\nhttps://t.co/eNvejoaN3K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idgafdoyou",
+                "end": 31,
+                "expanded_url": "https://ngl.link/idgafdoyou",
+                "start": 8,
+                "url": "https://t.co/eNvejoaN3K"
+              }
+            ]
+          }
+        },
+        "id": "1893114795911720960",
+        "location": "80%咖啡",
+        "name": "wtf",
+        "pinned_tweet_id": "2042105986924544102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893115863513157632/aOnX11_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 895,
+          "like_count": 7780,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2569
+        },
+        "username": "dontgiva_fvck",
+        "verified": false
+      }
+    ]
+  }
+}

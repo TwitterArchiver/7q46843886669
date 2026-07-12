@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048941706624872448"
+      ],
+      "media_source_tweet_id": [
+        "2048941708743000186"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049211822545543244",
+    "created_at": "2026-04-28T19:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049211822545543244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1146258183695978497",
+          "start": 3,
+          "username": "SugarFreeWitch"
+        },
+        {
+          "end": 30,
+          "id": "1982449259774656512",
+          "start": 20,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3bsEfLeCz",
+          "end": 76,
+          "expanded_url": "https://x.com/SugarFreeWitch/status/2048941708743000186/photo/1",
+          "media_key": "3_2048941706624872448",
+          "start": 53,
+          "url": "https://t.co/u3bsEfLeCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049211822545543244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048941708743000186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SugarFreeWitch: @smiroyama 论不说人话，我个人认为至今还没有超越这个的 https://t.co/u3bsEfLeCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2048941706624872448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9NoFzbsAAxZio.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048941706624872448"
+          ],
+          "media_source_tweet_id": [
+            "2048941708743000186"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049211822545543244",
+        "created_at": "2026-04-28T19:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049211822545543244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1146258183695978497",
+              "start": 3,
+              "username": "SugarFreeWitch"
+            },
+            {
+              "end": 30,
+              "id": "1982449259774656512",
+              "start": 20,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3bsEfLeCz",
+              "end": 76,
+              "expanded_url": "https://x.com/SugarFreeWitch/status/2048941708743000186/photo/1",
+              "media_key": "3_2048941706624872448",
+              "start": 53,
+              "url": "https://t.co/u3bsEfLeCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049211822545543244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048941708743000186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SugarFreeWitch: @smiroyama 论不说人话，我个人认为至今还没有超越这个的 https://t.co/u3bsEfLeCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048941706624872448"
+          ]
+        },
+        "author_id": "1146258183695978497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048905891420979691",
+        "created_at": "2026-04-28T01:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048941708743000186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3bsEfLeCz",
+              "end": 56,
+              "expanded_url": "https://x.com/SugarFreeWitch/status/2048941708743000186/photo/1",
+              "media_key": "3_2048941706624872448",
+              "start": 33,
+              "url": "https://t.co/u3bsEfLeCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048941708743000186",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 24839,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048905891420979691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 论不说人话，我个人认为至今还没有超越这个的 https://t.co/u3bsEfLeCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2773,
+          "like_count": 6900,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1667
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-03T03:23:42.000Z",
+        "description": "",
+        "id": "1146258183695978497",
+        "name": "無糖魔女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815064291164491776/TCzw_7TW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 184,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 301
+        },
+        "username": "SugarFreeWitch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4008,
+          "following_count": 2083,
+          "like_count": 9240,
+          "listed_count": 11,
+          "media_count": 1378,
+          "tweet_count": 5608
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

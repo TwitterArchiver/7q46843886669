@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2067980186503749991",
+    "created_at": "2026-06-19T14:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067980186503749991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1356620972338503681",
+          "start": 3,
+          "username": "ovo_wann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067980186503749991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067706574009978959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovo_wann: 人和人真是奇怪 明明那么多个夜晚聊到清晨 彼此坦然心迹 但是在某一个很普通的一天突然变成已读不回的消息 空白的聊天框 没有下文的聊天记录 不再分享的生活 平淡如水的情绪 感情就是不联系就会没有的东西 \n人与人之间的缘分本就薄如蝉翼 似乎总能成为生命中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2067980186503749991",
+        "created_at": "2026-06-19T14:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067980186503749991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1356620972338503681",
+              "start": 3,
+              "username": "ovo_wann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067980186503749991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067706574009978959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovo_wann: 人和人真是奇怪 明明那么多个夜晚聊到清晨 彼此坦然心迹 但是在某一个很普通的一天突然变成已读不回的消息 空白的聊天框 没有下文的聊天记录 不再分享的生活 平淡如水的情绪 感情就是不联系就会没有的东西 \n人与人之间的缘分本就薄如蝉翼 似乎总能成为生命中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356620972338503681",
+        "conversation_id": "2067706574009978959",
+        "created_at": "2026-06-18T20:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067706574009978959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067706574009978959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1743,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "人和人真是奇怪 明明那么多个夜晚聊到清晨 彼此坦然心迹 但是在某一个很普通的一天突然变成已读不回的消息 空白的聊天框 没有下文的聊天记录 不再分享的生活 平淡如水的情绪 感情就是不联系就会没有的东西 \n人与人之间的缘分本就薄如蝉翼 似乎总能成为生命中隐隐作痛的淤青"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 3400,
+          "like_count": 19798,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 5237
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-02T15:10:37.000Z",
+        "description": "我没有恋丑癖",
+        "id": "1356620972338503681",
+        "location": "除互关🚪88888",
+        "name": "想睡28天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964268266907717633/C2DzlPDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 193,
+          "like_count": 7343,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 6276
+        },
+        "url": "",
+        "username": "ovo_wann",
+        "verified": false
+      }
+    ]
+  }
+}

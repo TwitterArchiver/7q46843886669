@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048253925372116992"
+      ],
+      "media_source_tweet_id": [
+        "2048273367124541519"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+          "id": "917863840343191552",
+          "name": "Dietary Supplements"
+        }
+      }
+    ],
+    "conversation_id": "2048442684038435255",
+    "created_at": "2026-04-26T16:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048442684038435255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1474091860025122817",
+          "start": 3,
+          "username": "ShitpostGate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WohOJc66Uk",
+          "end": 60,
+          "expanded_url": "https://x.com/ShitpostGate/status/2048273367124541519/video/1",
+          "media_key": "13_2048253925372116992",
+          "start": 37,
+          "url": "https://t.co/WohOJc66Uk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048442684038435255",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 547
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048273367124541519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostGate: Taking my vitamins https://t.co/WohOJc66Uk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5920,
+        "height": 210,
+        "media_key": "13_2048253925372116992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048253925372116992/img/uCSPod9nbze-9x0b.jpg",
+        "public_metrics": {
+          "view_count": 19795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048253925372116992/vid/avc1/486x210/g-b3hfA-Jt5mzNp2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048253925372116992/pl/YFrWJLR3MkrnZ-OU.m3u8"
+          }
+        ],
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048253925372116992"
+          ],
+          "media_source_tweet_id": [
+            "2048273367124541519"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+              "id": "917863840343191552",
+              "name": "Dietary Supplements"
+            }
+          }
+        ],
+        "conversation_id": "2048442684038435255",
+        "created_at": "2026-04-26T16:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048442684038435255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1474091860025122817",
+              "start": 3,
+              "username": "ShitpostGate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WohOJc66Uk",
+              "end": 60,
+              "expanded_url": "https://x.com/ShitpostGate/status/2048273367124541519/video/1",
+              "media_key": "13_2048253925372116992",
+              "start": 37,
+              "url": "https://t.co/WohOJc66Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048442684038435255",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 547
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048273367124541519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostGate: Taking my vitamins https://t.co/WohOJc66Uk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048253925372116992"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+              "id": "917863840343191552",
+              "name": "Dietary Supplements"
+            }
+          }
+        ],
+        "conversation_id": "2048273367124541519",
+        "created_at": "2026-04-26T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048273367124541519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WohOJc66Uk",
+              "end": 42,
+              "expanded_url": "https://x.com/ShitpostGate/status/2048273367124541519/video/1",
+              "media_key": "13_2048253925372116992",
+              "start": 19,
+              "url": "https://t.co/WohOJc66Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048273367124541519",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 47163,
+          "like_count": 3553,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 547
+        },
+        "reply_settings": "everyone",
+        "text": "Taking my vitamins https://t.co/WohOJc66Uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2732,
+          "like_count": 6153,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1223
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love Shitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "pinned_tweet_id": "1989805597244756334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604073,
+          "following_count": 2543,
+          "like_count": 3977,
+          "listed_count": 3208,
+          "media_count": 41057,
+          "tweet_count": 55703
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

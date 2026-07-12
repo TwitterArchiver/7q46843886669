@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1999268091759591854",
+    "created_at": "2025-12-16T03:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T04:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000777869681697227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1460429454719676416",
+          "start": 0,
+          "username": "oOoOo0o0oOoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000777869681697227",
+    "in_reply_to_user_id": "1460429454719676416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999268091759591854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOoOo0o0oOoO 不要.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1999268091759591854",
+        "created_at": "2025-12-16T03:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T04:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000777869681697227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1460429454719676416",
+              "start": 0,
+              "username": "oOoOo0o0oOoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000777869681697227",
+        "in_reply_to_user_id": "1460429454719676416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999268091759591854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOoOo0o0oOoO 不要.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460429454719676416",
+        "conversation_id": "1999268091759591854",
+        "created_at": "2025-12-12T00:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999268091759591854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999268091759591854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 763642,
+          "like_count": 1510,
+          "quote_count": 8,
+          "reply_count": 97,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "vx内测了一个很爽的功能，你删掉的好友不能从验证消息、以前群聊里的聊天记录和朋友圈历史点赞里面加你🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1145,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T02:08:22.000Z",
+        "description": "",
+        "id": "1460429454719676416",
+        "name": "小骨",
+        "pinned_tweet_id": "1999098278772982006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999278313790144512/C724Aa_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 59,
+          "like_count": 842,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 675
+        },
+        "username": "oOoOo0o0oOoO",
+        "verified": false
+      }
+    ]
+  }
+}

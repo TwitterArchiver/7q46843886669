@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053626961143181312"
+      ],
+      "media_source_tweet_id": [
+        "2053626963718480098"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053725424958771485",
+    "created_at": "2026-05-11T06:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053725424958771485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799331977205796864",
+          "start": 3,
+          "username": "Xxxxx62778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dD6skWKixk",
+          "end": 39,
+          "expanded_url": "https://x.com/Xxxxx62778/status/2053626963718480098/photo/1",
+          "media_key": "3_2053626961143181312",
+          "start": 16,
+          "url": "https://t.co/dD6skWKixk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053725424958771485",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053626963718480098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxxxx62778: https://t.co/dD6skWKixk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2053626961143181312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_y1zAasAAYBl8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053626961143181312"
+          ],
+          "media_source_tweet_id": [
+            "2053626963718480098"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053725424958771485",
+        "created_at": "2026-05-11T06:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053725424958771485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799331977205796864",
+              "start": 3,
+              "username": "Xxxxx62778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dD6skWKixk",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2053626963718480098/photo/1",
+              "media_key": "3_2053626961143181312",
+              "start": 16,
+              "url": "https://t.co/dD6skWKixk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053725424958771485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053626963718480098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxxxx62778: https://t.co/dD6skWKixk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053626961143181312"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2053626963718480098",
+        "created_at": "2026-05-11T00:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053626963718480098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dD6skWKixk",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2053626963718480098/photo/1",
+              "media_key": "3_2053626961143181312",
+              "start": 0,
+              "url": "https://t.co/dD6skWKixk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053626963718480098",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1197,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dD6skWKixk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2958,
+          "like_count": 11997,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3537
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2050411327420850687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3308,
+          "following_count": 38,
+          "like_count": 44536,
+          "listed_count": 4,
+          "media_count": 4740,
+          "tweet_count": 18469
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

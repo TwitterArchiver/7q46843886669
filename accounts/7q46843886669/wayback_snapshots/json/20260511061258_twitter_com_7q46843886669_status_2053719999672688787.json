@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053440199238242304"
+      ],
+      "media_source_tweet_id": [
+        "2053440205429047611"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053719999672688787",
+    "created_at": "2026-05-11T06:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053719999672688787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6s9ru1BI8Q",
+          "end": 62,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2053440205429047611/photo/1",
+          "media_key": "3_2053440199238242304",
+          "start": 39,
+          "url": "https://t.co/6s9ru1BI8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053719999672688787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053440205429047611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 对她来说并非宠物死去，只是玩具被弄坏了 https://t.co/6s9ru1BI8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2053440199238242304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9I-0saUAA7MWk.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053440199238242304"
+          ],
+          "media_source_tweet_id": [
+            "2053440205429047611"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053719999672688787",
+        "created_at": "2026-05-11T06:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053719999672688787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6s9ru1BI8Q",
+              "end": 62,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2053440205429047611/photo/1",
+              "media_key": "3_2053440199238242304",
+              "start": 39,
+              "url": "https://t.co/6s9ru1BI8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053719999672688787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053440205429047611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 对她来说并非宠物死去，只是玩具被弄坏了 https://t.co/6s9ru1BI8Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053440199238242304"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2053440205429047611",
+        "created_at": "2026-05-10T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053440205429047611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6s9ru1BI8Q",
+              "end": 43,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2053440205429047611/photo/1",
+              "media_key": "3_2053440199238242304",
+              "start": 20,
+              "url": "https://t.co/6s9ru1BI8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053440205429047611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 34867,
+          "like_count": 554,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "对她来说并非宠物死去，只是玩具被弄坏了 https://t.co/6s9ru1BI8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2958,
+          "like_count": 11955,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3510
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4633,
+          "following_count": 673,
+          "like_count": 16425,
+          "listed_count": 11,
+          "media_count": 1328,
+          "tweet_count": 4375
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

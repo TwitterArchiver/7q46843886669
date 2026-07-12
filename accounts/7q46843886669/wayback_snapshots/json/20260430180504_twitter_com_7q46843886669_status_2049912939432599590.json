@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029863735859539968"
+      ],
+      "media_source_tweet_id": [
+        "2029864529522479398"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049912939432599590",
+    "created_at": "2026-04-30T18:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T19:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049912939432599590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713894877992235008",
+          "start": 3,
+          "username": "BJones28848"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oVklFELmjY",
+          "end": 58,
+          "expanded_url": "https://x.com/BJones28848/status/2029864529522479398/video/1",
+          "media_key": "13_2029863735859539968",
+          "start": 35,
+          "url": "https://t.co/oVklFELmjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049912939432599590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1690
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029864529522479398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @BJones28848: 小圆：不行了……身体不听使唤了…… https://t.co/oVklFELmjY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049912939432599590].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049912939432599590",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049912939432599590"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54450,
+        "height": 1920,
+        "media_key": "13_2029863735859539968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029863735859539968/img/7Q5-v8oUoVqYNzbe.jpg",
+        "public_metrics": {
+          "view_count": 363925
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029863735859539968/vid/avc1/320x568/3MJ_NBmQ0yTSourN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029863735859539968/vid/avc1/480x852/x8aW5qU_o74KywUJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029863735859539968/vid/avc1/720x1280/IA-Xt9XOqgk9X68p.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029863735859539968/pl/BNcYFz2L9vieBAZI.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029863735859539968"
+          ]
+        },
+        "author_id": "1713894877992235008",
+        "conversation_id": "2029864529522479398",
+        "created_at": "2026-03-06T10:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029864529522479398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oVklFELmjY",
+              "end": 41,
+              "expanded_url": "https://x.com/BJones28848/status/2029864529522479398/video/1",
+              "media_key": "13_2029863735859539968",
+              "start": 18,
+              "url": "https://t.co/oVklFELmjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029864529522479398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6528,
+          "impression_count": 993044,
+          "like_count": 19064,
+          "quote_count": 6,
+          "reply_count": 55,
+          "retweet_count": 1690
+        },
+        "reply_settings": "following",
+        "text": "小圆：不行了……身体不听使唤了…… https://t.co/oVklFELmjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2821,
+          "like_count": 8104,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2093
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T12:29:34.000Z",
+        "description": "#男娘\n丨传奇拖更王丨皮下是工作很忙的社畜丨高龄coser丨高P线下查无此人丨已婚不约❌丨私信都会看，没回就是有事没上线丨\n喜欢足控和调教的朋友可以关注我的小号：@MeierVen",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "MeierVen"
+              }
+            ]
+          }
+        },
+        "id": "1713894877992235008",
+        "name": "宏宇sama",
+        "pinned_tweet_id": "2040820893199577119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012781438966398976/PJs22hgZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63363,
+          "following_count": 85,
+          "like_count": 897,
+          "listed_count": 255,
+          "media_count": 29,
+          "tweet_count": 281
+        },
+        "username": "BJones28848",
+        "verified": false
+      }
+    ]
+  }
+}

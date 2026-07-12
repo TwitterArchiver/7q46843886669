@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047512695751274496"
+      ],
+      "media_source_tweet_id": [
+        "2047512697739301224"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047550356151013750",
+    "created_at": "2026-04-24T05:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047550356151013750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R56f2vXlDb",
+          "end": 43,
+          "expanded_url": "https://x.com/anblk984/status/2047512697739301224/photo/1",
+          "media_key": "3_2047512695751274496",
+          "start": 20,
+          "url": "https://t.co/R56f2vXlDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047550356151013750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047512697739301224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 谁的妈妈😁 https://t.co/R56f2vXlDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2047512695751274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo58tdbcAADVve.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047512695751274496"
+          ],
+          "media_source_tweet_id": [
+            "2047512697739301224"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047550356151013750",
+        "created_at": "2026-04-24T05:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047550356151013750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R56f2vXlDb",
+              "end": 43,
+              "expanded_url": "https://x.com/anblk984/status/2047512697739301224/photo/1",
+              "media_key": "3_2047512695751274496",
+              "start": 20,
+              "url": "https://t.co/R56f2vXlDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047550356151013750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047512697739301224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 谁的妈妈😁 https://t.co/R56f2vXlDb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047512695751274496"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2047512697739301224",
+        "created_at": "2026-04-24T03:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047512697739301224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R56f2vXlDb",
+              "end": 29,
+              "expanded_url": "https://x.com/anblk984/status/2047512697739301224/photo/1",
+              "media_key": "3_2047512695751274496",
+              "start": 6,
+              "url": "https://t.co/R56f2vXlDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047512697739301224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 13858,
+          "like_count": 214,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "谁的妈妈😁 https://t.co/R56f2vXlDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2708,
+          "like_count": 5824,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 919
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12714,
+          "following_count": 986,
+          "like_count": 114240,
+          "listed_count": 66,
+          "media_count": 2571,
+          "tweet_count": 27887
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

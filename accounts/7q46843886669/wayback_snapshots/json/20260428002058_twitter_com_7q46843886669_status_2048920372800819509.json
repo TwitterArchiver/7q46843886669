@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048920372800819509",
+    "created_at": "2026-04-28T00:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048920372800819509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1722890300757291008",
+          "start": 3,
+          "username": "baisechenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048920372800819509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048774308097671457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baisechenyi: 突然想起我有个朋友和我说四爱的女孩子zw是不是戴着假屌操假逼 我操笑死我了有病吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048920372800819509",
+        "created_at": "2026-04-28T00:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048920372800819509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1722890300757291008",
+              "start": 3,
+              "username": "baisechenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048920372800819509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048774308097671457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baisechenyi: 突然想起我有个朋友和我说四爱的女孩子zw是不是戴着假屌操假逼 我操笑死我了有病吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722890300757291008",
+        "conversation_id": "2048774308097671457",
+        "created_at": "2026-04-27T14:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048774308097671457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048774308097671457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 56973,
+          "like_count": 479,
+          "quote_count": 7,
+          "reply_count": 146,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起我有个朋友和我说四爱的女孩子zw是不是戴着假屌操假逼 我操笑死我了有病吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2766,
+          "like_count": 6447,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1449
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水| 06 |177 | enfp | 喜欢发碎碎念和自拍| 私信只回礼貌的 | 不礼貌回关 只关注喜欢的 | 有🚪纯绿 不搞暧昧我真知错了🙏🏻🙏🏻",
+        "id": "1722890300757291008",
+        "location": "不是4i/s 不聊骚",
+        "name": "Nn",
+        "pinned_tweet_id": "1985721628446375960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042955556135276547/5pp_ss3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12993,
+          "following_count": 505,
+          "like_count": 25339,
+          "listed_count": 18,
+          "media_count": 230,
+          "tweet_count": 7737
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

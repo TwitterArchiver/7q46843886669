@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050339423473020928"
+      ],
+      "media_source_tweet_id": [
+        "2050339426304196887"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050481109625151751",
+    "created_at": "2026-05-02T07:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050481109625151751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1099504052",
+          "start": 3,
+          "username": "travisa850"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFEfUPgbG0",
+          "end": 50,
+          "expanded_url": "https://x.com/travisa850/status/2050339426304196887/photo/1",
+          "media_key": "3_2050339423473020928",
+          "start": 27,
+          "url": "https://t.co/DFEfUPgbG0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050481109625151751",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050339426304196887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @travisa850: Meanwhile: https://t.co/DFEfUPgbG0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 696,
+        "media_key": "3_2050339423473020928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRE160WsAAJ5fc.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050339423473020928"
+          ],
+          "media_source_tweet_id": [
+            "2050339426304196887"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050481109625151751",
+        "created_at": "2026-05-02T07:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050481109625151751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1099504052",
+              "start": 3,
+              "username": "travisa850"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFEfUPgbG0",
+              "end": 50,
+              "expanded_url": "https://x.com/travisa850/status/2050339426304196887/photo/1",
+              "media_key": "3_2050339423473020928",
+              "start": 27,
+              "url": "https://t.co/DFEfUPgbG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050481109625151751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050339426304196887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @travisa850: Meanwhile: https://t.co/DFEfUPgbG0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050339423473020928"
+          ]
+        },
+        "author_id": "1099504052",
+        "conversation_id": "2050339426304196887",
+        "created_at": "2026-05-01T22:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T23:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050339426304196887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFEfUPgbG0",
+              "end": 34,
+              "expanded_url": "https://x.com/travisa850/status/2050339426304196887/photo/1",
+              "media_key": "3_2050339423473020928",
+              "start": 11,
+              "url": "https://t.co/DFEfUPgbG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050339426304196887",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 9492,
+          "like_count": 805,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "Meanwhile: https://t.co/DFEfUPgbG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8610,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2321
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-17T23:11:18.000Z",
+        "description": "Music, Memes & Mary Jane! #GreenLove #CannabisCommunity #MMJPatient 💚💛❤️ #LTLYL #ChiefsKingdom",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 26,
+                "tag": "GreenLove"
+              },
+              {
+                "end": 55,
+                "start": 37,
+                "tag": "CannabisCommunity"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "tag": "MMJPatient"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "LTLYL"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "tag": "ChiefsKingdom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dieseldispensary.com",
+                "end": 23,
+                "expanded_url": "https://dieseldispensary.com",
+                "start": 0,
+                "url": "https://t.co/cJoUlargmQ"
+              }
+            ]
+          }
+        },
+        "id": "1099504052",
+        "location": "Missouri Born & Raised - 🇺🇸",
+        "name": "iFlyHigh™ 🎄",
+        "pinned_tweet_id": "1680778712009039872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529656597353574400/6y-a25tz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219617,
+          "following_count": 230994,
+          "like_count": 145718,
+          "listed_count": 234,
+          "media_count": 28806,
+          "tweet_count": 81985
+        },
+        "url": "https://t.co/cJoUlargmQ",
+        "username": "travisa850",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      }
+    ]
+  }
+}

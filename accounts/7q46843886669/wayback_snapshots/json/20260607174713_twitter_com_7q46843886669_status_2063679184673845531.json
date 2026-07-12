@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063679184673845531",
+    "created_at": "2026-06-07T17:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063679184673845531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917047326990094336",
+          "start": 3,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063679184673845531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063612311370432982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0TwT012: “我们现在是什么关系。”一般会从两种人嘴裡说出来，一种是恃宠而骄，一种是即将败犬。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063679184673845531",
+        "created_at": "2026-06-07T17:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063679184673845531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917047326990094336",
+              "start": 3,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063679184673845531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063612311370432982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0TwT012: “我们现在是什么关系。”一般会从两种人嘴裡说出来，一种是恃宠而骄，一种是即将败犬。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2063612311370432982",
+        "created_at": "2026-06-07T13:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063612311370432982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063612311370432982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11318,
+          "like_count": 288,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "“我们现在是什么关系。”一般会从两种人嘴裡说出来，一种是恃宠而骄，一种是即将败犬。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 3368,
+          "like_count": 17464,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 4818
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3348,
+          "following_count": 208,
+          "like_count": 1221,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

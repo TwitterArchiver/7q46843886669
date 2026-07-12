@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2012537065255366971",
+    "created_at": "2026-01-17T16:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012557308694241311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012557308694241311",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012537065255366971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 这不是我们跨性别的游戏吗 下次记得标明出处"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_2012537056506036224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-33yj5aQAAX3xA.jpg",
+        "width": 1003
+      },
+      {
+        "height": 1415,
+        "media_key": "3_2012537056522579968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-33yj9WsAAQ49z.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2012537065255366971",
+        "created_at": "2026-01-17T16:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012557308694241311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012557308694241311",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012537065255366971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 这不是我们跨性别的游戏吗 下次记得标明出处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012537056506036224",
+            "3_2012537056522579968"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012537065255366971",
+        "created_at": "2026-01-17T14:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012537065255366971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKsPda6eho",
+              "end": 28,
+              "expanded_url": "https://x.com/Miaooo_47/status/2012537065255366971/photo/1",
+              "media_key": "3_2012537056506036224",
+              "start": 5,
+              "url": "https://t.co/DKsPda6eho"
+            },
+            {
+              "display_url": "pic.x.com/DKsPda6eho",
+              "end": 28,
+              "expanded_url": "https://x.com/Miaooo_47/status/2012537065255366971/photo/1",
+              "media_key": "3_2012537056522579968",
+              "start": 5,
+              "url": "https://t.co/DKsPda6eho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012537065255366971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了！ https://t.co/DKsPda6eho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1369,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 120
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "某人专发阴暗碎碎念的小号。| 神秘數據：163cm/65kg 105/82/95 | ❗️会互fo（但是会查成分）| 不會給任何賤人好臉色。| 負能量含量極高。慎入。| 和大號人設切割了。",
+        "id": "2000126709375623168",
+        "name": "喵喵",
+        "pinned_tweet_id": "2012052045885551049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010363420365979648/Err54w1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 45,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 81
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

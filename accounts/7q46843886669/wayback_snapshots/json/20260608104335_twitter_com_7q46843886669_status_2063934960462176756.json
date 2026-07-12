@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063296886233337857"
+      ],
+      "media_source_tweet_id": [
+        "2063629048652222754"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063934960462176756",
+    "created_at": "2026-06-08T10:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063934960462176756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1504090019971010562",
+          "start": 3,
+          "username": "Deepfeeling777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oJgeBtm65h",
+          "end": 43,
+          "expanded_url": "https://x.com/Deepfeeling777/status/2063629048652222754/photo/1",
+          "media_key": "3_2063296886233337857",
+          "start": 20,
+          "url": "https://t.co/oJgeBtm65h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063934960462176756",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063629048652222754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Deepfeeling777: https://t.co/oJgeBtm65h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 263,
+        "media_key": "3_2063296886233337857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJNlhIbkAEjnJT.png",
+        "width": 477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063296886233337857"
+          ],
+          "media_source_tweet_id": [
+            "2063629048652222754"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063934960462176756",
+        "created_at": "2026-06-08T10:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063934960462176756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1504090019971010562",
+              "start": 3,
+              "username": "Deepfeeling777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJgeBtm65h",
+              "end": 43,
+              "expanded_url": "https://x.com/Deepfeeling777/status/2063629048652222754/photo/1",
+              "media_key": "3_2063296886233337857",
+              "start": 20,
+              "url": "https://t.co/oJgeBtm65h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063934960462176756",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063629048652222754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Deepfeeling777: https://t.co/oJgeBtm65h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063296886233337857"
+          ]
+        },
+        "author_id": "1504090019971010562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063629048652222754",
+        "created_at": "2026-06-07T14:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063629048652222754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJgeBtm65h",
+              "end": 23,
+              "expanded_url": "https://x.com/Deepfeeling777/status/2063629048652222754/photo/1",
+              "media_key": "3_2063296886233337857",
+              "start": 0,
+              "url": "https://t.co/oJgeBtm65h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063629048652222754",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 212710,
+          "like_count": 797,
+          "quote_count": 0,
+          "reply_count": 170,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oJgeBtm65h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 3377,
+          "like_count": 17661,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4881
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T13:39:52.000Z",
+        "description": "希望大家能在X上开心快乐冲浪，晚上一定要大脑控制住小脑！不要上当受骗哟~  啵啵🫶  交友投稿：@HUPU888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "HUPU888"
+              }
+            ]
+          }
+        },
+        "id": "1504090019971010562",
+        "location": "AU",
+        "name": "第一深情",
+        "pinned_tweet_id": "2046264873190031649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252985665249280/9GawZfA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245667,
+          "following_count": 4,
+          "like_count": 42,
+          "listed_count": 258,
+          "media_count": 319,
+          "tweet_count": 1342
+        },
+        "username": "Deepfeeling777",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051455453474045952"
+      ],
+      "media_source_tweet_id": [
+        "2051455458884640908"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051630773934182815",
+    "created_at": "2026-05-05T11:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051630773934182815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1316813982",
+          "start": 3,
+          "username": "As_theNia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUpWl9oTtA",
+          "end": 75,
+          "expanded_url": "https://x.com/As_theNia/status/2051455458884640908/photo/1",
+          "media_key": "3_2051455453474045952",
+          "start": 52,
+          "url": "https://t.co/GUpWl9oTtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051630773934182815",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051455458884640908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @As_theNia: いつももっと肌出してるくせにこの写真は如何なものかと思って載せるか悩んだ https://t.co/GUpWl9oTtA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051455453474045952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg73ajbwAAIRMQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051455453474045952"
+          ],
+          "media_source_tweet_id": [
+            "2051455458884640908"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051630773934182815",
+        "created_at": "2026-05-05T11:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051630773934182815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1316813982",
+              "start": 3,
+              "username": "As_theNia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUpWl9oTtA",
+              "end": 75,
+              "expanded_url": "https://x.com/As_theNia/status/2051455458884640908/photo/1",
+              "media_key": "3_2051455453474045952",
+              "start": 52,
+              "url": "https://t.co/GUpWl9oTtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051630773934182815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051455458884640908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @As_theNia: いつももっと肌出してるくせにこの写真は如何なものかと思って載せるか悩んだ https://t.co/GUpWl9oTtA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051455453474045952"
+          ]
+        },
+        "author_id": "1316813982",
+        "conversation_id": "2051455458884640908",
+        "created_at": "2026-05-05T00:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051455458884640908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUpWl9oTtA",
+              "end": 60,
+              "expanded_url": "https://x.com/As_theNia/status/2051455458884640908/photo/1",
+              "media_key": "3_2051455453474045952",
+              "start": 37,
+              "url": "https://t.co/GUpWl9oTtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051455458884640908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 15672,
+          "like_count": 1710,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "いつももっと肌出してるくせにこの写真は如何なものかと思って載せるか悩んだ https://t.co/GUpWl9oTtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2884,
+          "like_count": 10244,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2890
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-30T17:12:49.000Z",
+        "description": "■このクリーチャーはブロックされない。 ShionEto ¦ 【sub→ @Cos_ojisan】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Cos_ojisan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/etcosplayer",
+                "end": 23,
+                "expanded_url": "https://lit.link/etcosplayer",
+                "start": 0,
+                "url": "https://t.co/GVmgA8Ctlj"
+              }
+            ]
+          }
+        },
+        "id": "1316813982",
+        "location": "icon:John kafka ",
+        "name": "紫苑花エト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763537344920170496/ZNtFdNlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88094,
+          "following_count": 278,
+          "like_count": 89105,
+          "listed_count": 474,
+          "media_count": 3994,
+          "tweet_count": 112403
+        },
+        "url": "https://t.co/GVmgA8Ctlj",
+        "username": "As_theNia",
+        "verified": true
+      }
+    ]
+  }
+}

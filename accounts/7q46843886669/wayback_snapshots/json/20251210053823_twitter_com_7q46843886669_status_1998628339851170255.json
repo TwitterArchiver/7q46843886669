@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1998443292317593770",
+    "created_at": "2025-12-10T05:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T06:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998628339851170255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1102990891625541632",
+          "start": 0,
+          "username": "domjings"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998628339851170255",
+    "in_reply_to_user_id": "1102990891625541632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998443292317593770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@domjings 这人怎么了嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998443286370144256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7vllKvbUAA5O8e.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998443286361739265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7vllKtbEAEiYLb.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1998443292317593770",
+        "created_at": "2025-12-10T05:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T06:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998628339851170255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1102990891625541632",
+              "start": 0,
+              "username": "domjings"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998628339851170255",
+        "in_reply_to_user_id": "1102990891625541632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998443292317593770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@domjings 这人怎么了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998443286370144256",
+            "3_1998443286361739265"
+          ]
+        },
+        "author_id": "1102990891625541632",
+        "conversation_id": "1998443292317593770",
+        "created_at": "2025-12-09T17:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T18:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998443292317593770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovHdyxIlFl",
+              "end": 50,
+              "expanded_url": "https://x.com/domjings/status/1998443292317593770/photo/1",
+              "media_key": "3_1998443286370144256",
+              "start": 27,
+              "url": "https://t.co/ovHdyxIlFl"
+            },
+            {
+              "display_url": "pic.x.com/ovHdyxIlFl",
+              "end": 50,
+              "expanded_url": "https://x.com/domjings/status/1998443292317593770/photo/1",
+              "media_key": "3_1998443286361739265",
+              "start": 27,
+              "url": "https://t.co/ovHdyxIlFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998443292317593770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6981,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人为什么吃这么好，他吃的男娘每次都是我想吃的，干啊 https://t.co/ovHdyxIlFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 978,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 81
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-05T17:54:55.000Z",
+        "description": "四爱dom，坐标四川 /🚪199 / 绝对占有，相对自由 / weibo：当代眼泪机器",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=qsSvSSJ1",
+                "start": 0,
+                "url": "https://t.co/lTIzM4M5R6"
+              }
+            ]
+          }
+        },
+        "id": "1102990891625541632",
+        "location": "她像是一台钢琴，在一个所有人双手都被砍掉的国家。自用🪜⬇️",
+        "name": "人类静",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453888419482902545/9E9KZS52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71729,
+          "following_count": 150,
+          "like_count": 1662,
+          "listed_count": 190,
+          "media_count": 1220,
+          "tweet_count": 4852
+        },
+        "url": "https://t.co/lTIzM4M5R6",
+        "username": "domjings",
+        "verified": false
+      }
+    ]
+  }
+}

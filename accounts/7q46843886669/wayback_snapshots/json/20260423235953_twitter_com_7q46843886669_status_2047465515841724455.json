@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047155078788997120",
+        "3_2047155078780596224"
+      ],
+      "media_source_tweet_id": [
+        "2047155086334509086",
+        "2047155086334509086"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047465515841724455",
+    "created_at": "2026-04-23T23:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047465515841724455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612404935374835712",
+          "start": 3,
+          "username": "Thea_1342"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwjQeLCQDb",
+          "end": 44,
+          "expanded_url": "https://x.com/Thea_1342/status/2047155086334509086/photo/1",
+          "media_key": "3_2047155078788997120",
+          "start": 21,
+          "url": "https://t.co/kwjQeLCQDb"
+        },
+        {
+          "display_url": "pic.x.com/kwjQeLCQDb",
+          "end": 44,
+          "expanded_url": "https://x.com/Thea_1342/status/2047155086334509086/photo/1",
+          "media_key": "3_2047155078780596224",
+          "start": 21,
+          "url": "https://t.co/kwjQeLCQDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047465515841724455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047155086334509086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Thea_1342: 我是這樣的 https://t.co/kwjQeLCQDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2047155078788997120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGj0sqda4AAZrLH.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1307,
+        "media_key": "3_2047155078780596224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGj0sqbasAADQTU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047155078788997120",
+            "3_2047155078780596224"
+          ],
+          "media_source_tweet_id": [
+            "2047155086334509086",
+            "2047155086334509086"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047465515841724455",
+        "created_at": "2026-04-23T23:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047465515841724455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612404935374835712",
+              "start": 3,
+              "username": "Thea_1342"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwjQeLCQDb",
+              "end": 44,
+              "expanded_url": "https://x.com/Thea_1342/status/2047155086334509086/photo/1",
+              "media_key": "3_2047155078788997120",
+              "start": 21,
+              "url": "https://t.co/kwjQeLCQDb"
+            },
+            {
+              "display_url": "pic.x.com/kwjQeLCQDb",
+              "end": 44,
+              "expanded_url": "https://x.com/Thea_1342/status/2047155086334509086/photo/1",
+              "media_key": "3_2047155078780596224",
+              "start": 21,
+              "url": "https://t.co/kwjQeLCQDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047465515841724455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047155086334509086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Thea_1342: 我是這樣的 https://t.co/kwjQeLCQDb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047155078788997120",
+            "3_2047155078780596224"
+          ]
+        },
+        "author_id": "1612404935374835712",
+        "conversation_id": "2047155086334509086",
+        "created_at": "2026-04-23T03:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047155086334509086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwjQeLCQDb",
+              "end": 29,
+              "expanded_url": "https://x.com/Thea_1342/status/2047155086334509086/photo/1",
+              "media_key": "3_2047155078788997120",
+              "start": 6,
+              "url": "https://t.co/kwjQeLCQDb"
+            },
+            {
+              "display_url": "pic.x.com/kwjQeLCQDb",
+              "end": 29,
+              "expanded_url": "https://x.com/Thea_1342/status/2047155086334509086/photo/1",
+              "media_key": "3_2047155078780596224",
+              "start": 6,
+              "url": "https://t.co/kwjQeLCQDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047155086334509086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3412,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我是這樣的 https://t.co/kwjQeLCQDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2706,
+          "like_count": 5785,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 914
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T11:04:46.000Z",
+        "description": "食記：@jwo1723",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "jwo1723"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/Thea1342",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/Thea1342",
+                "start": 0,
+                "url": "https://t.co/rZLPqfZf1Q"
+              }
+            ]
+          }
+        },
+        "id": "1612404935374835712",
+        "location": "0.1 km",
+        "name": "覓清",
+        "pinned_tweet_id": "2045442420926828733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014715159860936706/zXgtMDY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34380,
+          "following_count": 711,
+          "like_count": 66486,
+          "listed_count": 16,
+          "media_count": 947,
+          "tweet_count": 12815
+        },
+        "url": "https://t.co/rZLPqfZf1Q",
+        "username": "Thea_1342",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063641335090069504"
+      ],
+      "media_source_tweet_id": [
+        "2063641348637642849"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063781663818334549",
+    "created_at": "2026-06-08T00:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063781663818334549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLi5mrE2yX",
+          "end": 53,
+          "expanded_url": "https://x.com/chan19890604t04/status/2063641348637642849/photo/1",
+          "media_key": "3_2063641335090069504",
+          "start": 30,
+          "url": "https://t.co/hLi5mrE2yX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063781663818334549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063641348637642849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 小貓咪🐱🐈嘿嘿嘿 https://t.co/hLi5mrE2yX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2063641335090069504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOG3FHbQAASFO1.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063641335090069504"
+          ],
+          "media_source_tweet_id": [
+            "2063641348637642849"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063781663818334549",
+        "created_at": "2026-06-08T00:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063781663818334549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLi5mrE2yX",
+              "end": 53,
+              "expanded_url": "https://x.com/chan19890604t04/status/2063641348637642849/photo/1",
+              "media_key": "3_2063641335090069504",
+              "start": 30,
+              "url": "https://t.co/hLi5mrE2yX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063781663818334549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063641348637642849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 小貓咪🐱🐈嘿嘿嘿 https://t.co/hLi5mrE2yX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063641335090069504"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "conversation_id": "2063641348637642849",
+        "created_at": "2026-06-07T15:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063641348637642849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLi5mrE2yX",
+              "end": 32,
+              "expanded_url": "https://x.com/chan19890604t04/status/2063641348637642849/photo/1",
+              "media_key": "3_2063641335090069504",
+              "start": 9,
+              "url": "https://t.co/hLi5mrE2yX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063641348637642849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7233,
+          "like_count": 462,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "小貓咪🐱🐈嘿嘿嘿 https://t.co/hLi5mrE2yX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 3373,
+          "like_count": 17579,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 4847
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "2043861225516499293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3552,
+          "following_count": 1775,
+          "like_count": 73221,
+          "listed_count": 21,
+          "media_count": 14438,
+          "tweet_count": 34682
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

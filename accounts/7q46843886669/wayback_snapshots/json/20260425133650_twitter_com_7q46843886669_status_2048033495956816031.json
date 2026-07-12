@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047559260482174976"
+      ],
+      "media_source_tweet_id": [
+        "2047559263200153968"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048033495956816031",
+    "created_at": "2026-04-25T13:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048033495956816031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2026178848526843904",
+          "start": 3,
+          "username": "careless193403"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZvKpYM6n9",
+          "end": 43,
+          "expanded_url": "https://x.com/careless193403/status/2047559263200153968/photo/1",
+          "media_key": "3_2047559260482174976",
+          "start": 20,
+          "url": "https://t.co/YZvKpYM6n9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048033495956816031",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1047
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047559263200153968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careless193403: https://t.co/YZvKpYM6n9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2047559260482174976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpkTImaAAAGNAL.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047559260482174976"
+          ],
+          "media_source_tweet_id": [
+            "2047559263200153968"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048033495956816031",
+        "created_at": "2026-04-25T13:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048033495956816031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2026178848526843904",
+              "start": 3,
+              "username": "careless193403"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZvKpYM6n9",
+              "end": 43,
+              "expanded_url": "https://x.com/careless193403/status/2047559263200153968/photo/1",
+              "media_key": "3_2047559260482174976",
+              "start": 20,
+              "url": "https://t.co/YZvKpYM6n9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048033495956816031",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1047
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047559263200153968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careless193403: https://t.co/YZvKpYM6n9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047559260482174976"
+          ]
+        },
+        "author_id": "2026178848526843904",
+        "conversation_id": "2047559263200153968",
+        "created_at": "2026-04-24T06:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047559263200153968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZvKpYM6n9",
+              "end": 23,
+              "expanded_url": "https://x.com/careless193403/status/2047559263200153968/photo/1",
+              "media_key": "3_2047559260482174976",
+              "start": 0,
+              "url": "https://t.co/YZvKpYM6n9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559263200153968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 48937,
+          "like_count": 3848,
+          "quote_count": 29,
+          "reply_count": 4,
+          "retweet_count": 1047
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YZvKpYM6n9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2719,
+          "like_count": 6031,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1107
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T06:14:40.000Z",
+        "description": "“careless soul with silent pain 🖤”",
+        "id": "2026178848526843904",
+        "name": "careless",
+        "pinned_tweet_id": "2048022645665571033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034156602912346113/CWZoRgjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9512,
+          "following_count": 771,
+          "like_count": 21687,
+          "listed_count": 4,
+          "media_count": 1339,
+          "tweet_count": 19845
+        },
+        "username": "careless193403",
+        "verified": true
+      }
+    ]
+  }
+}

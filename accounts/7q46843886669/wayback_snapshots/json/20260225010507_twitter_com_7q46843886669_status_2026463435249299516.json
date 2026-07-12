@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2026402283974717868",
+    "created_at": "2026-02-25T01:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026463435249299516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401492431514779653",
+          "start": 0,
+          "username": "vniemdetui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026463435249299516",
+    "in_reply_to_user_id": "1401492431514779653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026402283974717868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vniemdetui 小铃铛是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2026402283974717868",
+        "created_at": "2026-02-25T01:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026463435249299516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401492431514779653",
+              "start": 0,
+              "username": "vniemdetui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026463435249299516",
+        "in_reply_to_user_id": "1401492431514779653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026402283974717868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vniemdetui 小铃铛是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401492431514779653",
+        "conversation_id": "2026402283974717868",
+        "created_at": "2026-02-24T21:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T22:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026402283974717868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026402283974717868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给人点小铃铛是特别特别特别喜欢的表现。（不要给我点因为很多废话）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 1724,
+          "like_count": 1767,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 227
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T10:53:38.000Z",
+        "description": "记录本人于墙外的碎碎念…｜点赞是喜欢，关注就是炒鸡喜欢(๑❛ڡ❛๑)（不发照片，看得到吗我不发❗‼️）｜私信我基本都会看，可以多多私信我哦。不支持互看❌❌❌｜小号@vniemdexiaohao｜我就看色色怎么你了，不服发我看看我评价一下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "vniemdexiaohao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vniemdetui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vniemdetui",
+                "start": 0,
+                "url": "https://t.co/8xSVzHjrql"
+              }
+            ]
+          }
+        },
+        "id": "1401492431514779653",
+        "location": "互关可加，别人一般不加",
+        "name": "Vniem",
+        "pinned_tweet_id": "1615257410058481664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784198549401686016/B2di2h2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 1227,
+          "like_count": 29580,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 3750
+        },
+        "url": "https://t.co/8xSVzHjrql",
+        "username": "vniemdetui",
+        "verified": false
+      }
+    ]
+  }
+}

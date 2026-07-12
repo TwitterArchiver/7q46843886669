@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052886344481771521"
+      ],
+      "media_source_tweet_id": [
+        "2052886346197324093"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052939453019435044",
+    "created_at": "2026-05-09T02:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052939453019435044"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "scheduled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2922320919",
+          "start": 3,
+          "username": "equine__dentist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HlHdFYamza",
+          "end": 55,
+          "expanded_url": "https://x.com/equine__dentist/status/2052886346197324093/photo/1",
+          "media_key": "3_2052886344481771521",
+          "start": 32,
+          "url": "https://t.co/HlHdFYamza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052939453019435044",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 765
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052886346197324093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @equine__dentist: #scheduled https://t.co/HlHdFYamza"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2052886344481771521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1RQO8WEAEBNTy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052886344481771521"
+          ],
+          "media_source_tweet_id": [
+            "2052886346197324093"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052939453019435044",
+        "created_at": "2026-05-09T02:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052939453019435044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "scheduled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2922320919",
+              "start": 3,
+              "username": "equine__dentist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlHdFYamza",
+              "end": 55,
+              "expanded_url": "https://x.com/equine__dentist/status/2052886346197324093/photo/1",
+              "media_key": "3_2052886344481771521",
+              "start": 32,
+              "url": "https://t.co/HlHdFYamza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052939453019435044",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 765
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052886346197324093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @equine__dentist: #scheduled https://t.co/HlHdFYamza"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052886344481771521"
+          ]
+        },
+        "author_id": "2922320919",
+        "conversation_id": "2052886346197324093",
+        "created_at": "2026-05-08T23:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052886346197324093"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "scheduled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlHdFYamza",
+              "end": 34,
+              "expanded_url": "https://x.com/equine__dentist/status/2052886346197324093/photo/1",
+              "media_key": "3_2052886344481771521",
+              "start": 11,
+              "url": "https://t.co/HlHdFYamza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052886346197324093",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 175956,
+          "like_count": 17610,
+          "quote_count": 133,
+          "reply_count": 12,
+          "retweet_count": 765
+        },
+        "reply_settings": "everyone",
+        "text": "#scheduled https://t.co/HlHdFYamza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2966,
+          "like_count": 11563,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3311
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-15T03:00:26.000Z",
+        "description": "horse god formerly known as balthazar the exalted",
+        "id": "2922320919",
+        "name": "horse dentist",
+        "pinned_tweet_id": "2051965287981793626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594080000805945345/zwKVAWO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68021,
+          "following_count": 787,
+          "like_count": 56683,
+          "listed_count": 164,
+          "media_count": 12444,
+          "tweet_count": 25718
+        },
+        "username": "equine__dentist",
+        "verified": true
+      }
+    ]
+  }
+}

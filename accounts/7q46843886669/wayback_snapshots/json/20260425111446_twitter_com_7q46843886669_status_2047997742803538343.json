@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047643520580861952"
+      ],
+      "media_source_tweet_id": [
+        "2047643530424926604"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047997742803538343",
+    "created_at": "2026-04-25T11:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047997742803538343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "580687486",
+          "start": 3,
+          "username": "mo24yu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hegwMJnYBY",
+          "end": 41,
+          "expanded_url": "https://x.com/mo24yu/status/2047643530424926604/photo/1",
+          "media_key": "3_2047643520580861952",
+          "start": 18,
+          "url": "https://t.co/hegwMJnYBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047997742803538343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047643530424926604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mo24yu: いっっっ😬 https://t.co/hegwMJnYBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2598,
+        "media_key": "3_2047643520580861952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqw7t7aQAAauG_.jpg",
+        "width": 1735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047643520580861952"
+          ],
+          "media_source_tweet_id": [
+            "2047643530424926604"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047997742803538343",
+        "created_at": "2026-04-25T11:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047997742803538343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "580687486",
+              "start": 3,
+              "username": "mo24yu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hegwMJnYBY",
+              "end": 41,
+              "expanded_url": "https://x.com/mo24yu/status/2047643530424926604/photo/1",
+              "media_key": "3_2047643520580861952",
+              "start": 18,
+              "url": "https://t.co/hegwMJnYBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047997742803538343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047643530424926604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mo24yu: いっっっ😬 https://t.co/hegwMJnYBY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047643520580861952"
+          ]
+        },
+        "author_id": "580687486",
+        "conversation_id": "2047643530424926604",
+        "created_at": "2026-04-24T11:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047643530424926604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hegwMJnYBY",
+              "end": 29,
+              "expanded_url": "https://x.com/mo24yu/status/2047643530424926604/photo/1",
+              "media_key": "3_2047643520580861952",
+              "start": 6,
+              "url": "https://t.co/hegwMJnYBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047643530424926604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 43325,
+          "like_count": 3885,
+          "quote_count": 15,
+          "reply_count": 18,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "いっっっ😬 https://t.co/hegwMJnYBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2715,
+          "like_count": 5930,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1007
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-15T08:27:31.000Z",
+        "description": "KoichiNomura のむらと時々坂口と織田🐶お仕事はDMへ✉︎ 🅸🅽🆂🆃🅰 𝗻𝗺𝗿𝟱𝟭𝘀𝗮𝗻☹︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nomurakoichi",
+                "end": 23,
+                "expanded_url": "https://lit.link/nomurakoichi",
+                "start": 0,
+                "url": "https://t.co/LG8bDfKSdV"
+              }
+            ]
+          }
+        },
+        "id": "580687486",
+        "location": "生きて腸に届くヴィラン顔𓆩 𓆪",
+        "name": "のむらこいち☹️♻️",
+        "pinned_tweet_id": "2044798022668951824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728687474141216768/hVJBuk4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82452,
+          "following_count": 396,
+          "like_count": 52216,
+          "listed_count": 518,
+          "media_count": 594,
+          "tweet_count": 47287
+        },
+        "url": "https://t.co/LG8bDfKSdV",
+        "username": "mo24yu",
+        "verified": true
+      }
+    ]
+  }
+}

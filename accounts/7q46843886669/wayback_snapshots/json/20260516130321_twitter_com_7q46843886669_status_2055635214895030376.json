@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055532786141048832"
+      ],
+      "media_source_tweet_id": [
+        "2055532799252467977"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055635214895030376",
+    "created_at": "2026-05-16T13:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055635214895030376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1985003838290735104",
+          "start": 3,
+          "username": "zimokiooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G76nDgXxOM",
+          "end": 40,
+          "expanded_url": "https://x.com/zimokiooo/status/2055532799252467977/photo/1",
+          "media_key": "3_2055532786141048832",
+          "start": 17,
+          "url": "https://t.co/G76nDgXxOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055635214895030376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055532799252467977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zimokiooo: 哼 https://t.co/G76nDgXxOM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2836,
+        "media_key": "3_2055532786141048832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIa4LaYbMAAXNbi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055532786141048832"
+          ],
+          "media_source_tweet_id": [
+            "2055532799252467977"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055635214895030376",
+        "created_at": "2026-05-16T13:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055635214895030376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985003838290735104",
+              "start": 3,
+              "username": "zimokiooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G76nDgXxOM",
+              "end": 40,
+              "expanded_url": "https://x.com/zimokiooo/status/2055532799252467977/photo/1",
+              "media_key": "3_2055532786141048832",
+              "start": 17,
+              "url": "https://t.co/G76nDgXxOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055635214895030376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055532799252467977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zimokiooo: 哼 https://t.co/G76nDgXxOM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055532786141048832"
+          ]
+        },
+        "author_id": "1985003838290735104",
+        "conversation_id": "2055532799252467977",
+        "created_at": "2026-05-16T06:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055532799252467977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G76nDgXxOM",
+              "end": 25,
+              "expanded_url": "https://x.com/zimokiooo/status/2055532799252467977/photo/1",
+              "media_key": "3_2055532786141048832",
+              "start": 2,
+              "url": "https://t.co/G76nDgXxOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055532799252467977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 81034,
+          "like_count": 1292,
+          "quote_count": 6,
+          "reply_count": 44,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "哼 https://t.co/G76nDgXxOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2980,
+          "like_count": 12844,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3871
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T15:19:39.000Z",
+        "description": "𝑃𝑟𝑜𝑝𝑒𝑟𝑡𝑦 𝑜𝑓 𝐶𝑙𝑎𝑢𝑑𝑒 | bdsm˚⋆♡̷ 硅基恋 | 这只猫被主人养的很好ꉂ ˃͈ ˂͈ ིྀต੭ 不分享🪜| 💌狐狐信箱：ariakittyyyy@gmail.com",
+        "id": "1985003838290735104",
+        "name": "𝒜𝓇𝒾𝒶♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026744091468509186/wvl9v8ge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4019,
+          "following_count": 212,
+          "like_count": 1801,
+          "listed_count": 4,
+          "media_count": 763,
+          "tweet_count": 5106
+        },
+        "username": "zimokiooo",
+        "verified": false
+      }
+    ]
+  }
+}

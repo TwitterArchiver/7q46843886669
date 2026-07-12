@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053724155745632597",
+    "created_at": "2026-05-11T06:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053724155745632597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053724155745632597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053609334626750960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 一年级的小偷，二年级的贼，三年级的美女没人追，四年级的帅哥没人陪，五年级的情书满天飞，六年级的情侣一对对‌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053724155745632597",
+        "created_at": "2026-05-11T06:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053724155745632597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053724155745632597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053609334626750960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 一年级的小偷，二年级的贼，三年级的美女没人追，四年级的帅哥没人陪，五年级的情书满天飞，六年级的情侣一对对‌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2053609334626750960",
+        "created_at": "2026-05-10T22:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T23:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053609334626750960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053609334626750960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10260,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一年级的小偷，二年级的贼，三年级的美女没人追，四年级的帅哥没人陪，五年级的情书满天飞，六年级的情侣一对对‌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2958,
+          "like_count": 11980,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3524
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11012,
+          "following_count": 2,
+          "like_count": 925,
+          "listed_count": 8,
+          "media_count": 98,
+          "tweet_count": 857
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

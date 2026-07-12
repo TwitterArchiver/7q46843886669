@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049874382823288833"
+      ],
+      "media_source_tweet_id": [
+        "2049874389777392074"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050313428028494229",
+    "created_at": "2026-05-01T20:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T21:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050313428028494229"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "dazai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1701912783171022848",
+          "start": 3,
+          "username": "lucathedral"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TqtsPaXtLm",
+          "end": 81,
+          "expanded_url": "https://x.com/lucathedral/status/2049874389777392074/photo/1",
+          "media_key": "3_2049874382823288833",
+          "start": 58,
+          "url": "https://t.co/TqtsPaXtLm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050313428028494229",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6614
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049874389777392074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lucathedral: “they say all humans have a soul” #dazai https://t.co/TqtsPaXtLm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049874382823288833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKd4_Za8AE6w-R.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049874382823288833"
+          ],
+          "media_source_tweet_id": [
+            "2049874389777392074"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050313428028494229",
+        "created_at": "2026-05-01T20:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050313428028494229"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "dazai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1701912783171022848",
+              "start": 3,
+              "username": "lucathedral"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqtsPaXtLm",
+              "end": 81,
+              "expanded_url": "https://x.com/lucathedral/status/2049874389777392074/photo/1",
+              "media_key": "3_2049874382823288833",
+              "start": 58,
+              "url": "https://t.co/TqtsPaXtLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050313428028494229",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6614
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049874389777392074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lucathedral: “they say all humans have a soul” #dazai https://t.co/TqtsPaXtLm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049874382823288833"
+          ]
+        },
+        "author_id": "1701912783171022848",
+        "conversation_id": "2049874389777392074",
+        "created_at": "2026-04-30T15:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049874389777392074"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "dazai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqtsPaXtLm",
+              "end": 64,
+              "expanded_url": "https://x.com/lucathedral/status/2049874389777392074/photo/1",
+              "media_key": "3_2049874382823288833",
+              "start": 41,
+              "url": "https://t.co/TqtsPaXtLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049874389777392074",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3546,
+          "impression_count": 194244,
+          "like_count": 36254,
+          "quote_count": 49,
+          "reply_count": 51,
+          "retweet_count": 6614
+        },
+        "reply_settings": "everyone",
+        "text": "“they say all humans have a soul” #dazai https://t.co/TqtsPaXtLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 2843,
+          "like_count": 8242,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2151
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T10:56:55.000Z",
+        "description": "on a seesaw made for one @olanzapin3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "olanzapin3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lukaryote.straw.page",
+                "end": 23,
+                "expanded_url": "https://lukaryote.straw.page",
+                "start": 0,
+                "url": "https://t.co/jtpnRd0mbX"
+              }
+            ]
+          }
+        },
+        "id": "1701912783171022848",
+        "location": "EN/中文 tw violence",
+        "name": "lukaryote",
+        "pinned_tweet_id": "2049874389777392074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038589965987360768/EsDUwtpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 2153,
+          "like_count": 21429,
+          "listed_count": 52,
+          "media_count": 2895,
+          "tweet_count": 17085
+        },
+        "url": "https://t.co/jtpnRd0mbX",
+        "username": "lucathedral",
+        "verified": false
+      }
+    ]
+  }
+}

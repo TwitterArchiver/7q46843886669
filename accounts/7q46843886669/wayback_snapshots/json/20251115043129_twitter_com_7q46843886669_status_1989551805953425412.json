@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989551803743309824"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "1988821010184040778",
+    "created_at": "2025-11-15T04:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T05:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989551805953425412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894058485211680768",
+          "start": 0,
+          "username": "klmdsdym"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bm5J1rJeqc",
+          "end": 37,
+          "expanded_url": "https://x.com/7q46843886669/status/1989551805953425412/photo/1",
+          "media_key": "3_1989551803743309824",
+          "start": 14,
+          "url": "https://t.co/bm5J1rJeqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989551805953425412",
+    "in_reply_to_user_id": "1894058485211680768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988821010184040778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@klmdsdym 发这个 https://t.co/bm5J1rJeqc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989551803743309824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xO0wxbkAAX_EN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989551803743309824"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "1988821010184040778",
+        "created_at": "2025-11-15T04:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989551805953425412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894058485211680768",
+              "start": 0,
+              "username": "klmdsdym"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bm5J1rJeqc",
+              "end": 37,
+              "expanded_url": "https://x.com/7q46843886669/status/1989551805953425412/photo/1",
+              "media_key": "3_1989551803743309824",
+              "start": 14,
+              "url": "https://t.co/bm5J1rJeqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989551805953425412",
+        "in_reply_to_user_id": "1894058485211680768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988821010184040778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@klmdsdym 发这个 https://t.co/bm5J1rJeqc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894058485211680768",
+        "conversation_id": "1988821010184040778",
+        "created_at": "2025-11-13T04:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988821010184040778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988821010184040778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 192811,
+          "like_count": 469,
+          "quote_count": 3,
+          "reply_count": 196,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "主动私信别人的开场白要怎么说啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 810,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 65
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T16:15:20.000Z",
+        "description": "needy",
+        "id": "1894058485211680768",
+        "name": "kingsonsun",
+        "pinned_tweet_id": "1960953398246727917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933903044711952384/sjnIM3lc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 157,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 95
+        },
+        "username": "klmdsdym",
+        "verified": false
+      }
+    ]
+  }
+}

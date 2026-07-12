@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057487270861742227",
+    "created_at": "2026-05-21T15:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057487270861742227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053726229984075776",
+          "start": 3,
+          "username": "Kuromi_ooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057487270861742227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057402371278528764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuromi_ooooo: 我想操地雷女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057487270861742227",
+        "created_at": "2026-05-21T15:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057487270861742227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053726229984075776",
+              "start": 3,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057487270861742227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057402371278528764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuromi_ooooo: 我想操地雷女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053726229984075776",
+        "conversation_id": "2057402371278528764",
+        "created_at": "2026-05-21T10:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057402371278528764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057402371278528764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2319,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我想操地雷女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 3036,
+          "like_count": 14305,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 4350
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:37:56.000Z",
+        "description": "本體@YiJin_0v0【寻回互fo】\n想睡覺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "YiJin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "2053726229984075776",
+        "location": "msk床底",
+        "name": "六等分伊rin",
+        "pinned_tweet_id": "2056444875953082793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056332088157372416/v6HeaNE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 237,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "username": "Kuromi_ooooo",
+        "verified": false
+      }
+    ]
+  }
+}

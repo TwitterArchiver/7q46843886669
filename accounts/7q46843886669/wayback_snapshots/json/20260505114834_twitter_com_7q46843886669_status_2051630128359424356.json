@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051500374700314625"
+      ],
+      "media_source_tweet_id": [
+        "2051500388793168012"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051630128359424356",
+    "created_at": "2026-05-05T11:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051630128359424356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2034564843634651136",
+          "start": 3,
+          "username": "HaibaraStation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WRGvTzJgfC",
+          "end": 43,
+          "expanded_url": "https://x.com/HaibaraStation/status/2051500388793168012/photo/1",
+          "media_key": "3_2051500374700314625",
+          "start": 20,
+          "url": "https://t.co/WRGvTzJgfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051630128359424356",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051500388793168012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaibaraStation: https://t.co/WRGvTzJgfC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2051500374700314625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhkuLKX0AE50DD.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051500374700314625"
+          ],
+          "media_source_tweet_id": [
+            "2051500388793168012"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051630128359424356",
+        "created_at": "2026-05-05T11:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051630128359424356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2034564843634651136",
+              "start": 3,
+              "username": "HaibaraStation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRGvTzJgfC",
+              "end": 43,
+              "expanded_url": "https://x.com/HaibaraStation/status/2051500388793168012/photo/1",
+              "media_key": "3_2051500374700314625",
+              "start": 20,
+              "url": "https://t.co/WRGvTzJgfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051630128359424356",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051500388793168012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaibaraStation: https://t.co/WRGvTzJgfC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051500374700314625"
+          ]
+        },
+        "author_id": "2034564843634651136",
+        "conversation_id": "2051500388793168012",
+        "created_at": "2026-05-05T03:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051500388793168012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRGvTzJgfC",
+              "end": 23,
+              "expanded_url": "https://x.com/HaibaraStation/status/2051500388793168012/photo/1",
+              "media_key": "3_2051500374700314625",
+              "start": 0,
+              "url": "https://t.co/WRGvTzJgfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051500388793168012",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 50997,
+          "like_count": 2243,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WRGvTzJgfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2884,
+          "like_count": 10223,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2887
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T09:40:13.000Z",
+        "description": "はいばらえき",
+        "id": "2034564843634651136",
+        "name": "𝙷𝚊𝚒𝚋𝚊𝚛𝚊 𝚂𝚝𝚊𝚝𝚒𝚘𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034971931309469696/kpTGYKHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6927,
+          "following_count": 199,
+          "like_count": 758,
+          "listed_count": 28,
+          "media_count": 216,
+          "tweet_count": 228
+        },
+        "username": "HaibaraStation",
+        "verified": true
+      }
+    ]
+  }
+}

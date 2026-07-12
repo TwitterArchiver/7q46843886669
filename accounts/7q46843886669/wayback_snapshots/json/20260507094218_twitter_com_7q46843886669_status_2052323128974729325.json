@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052323128974729325",
+    "created_at": "2026-05-07T09:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052323128974729325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052323128974729325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051987139882356955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 有个黑人带着一只鹦鹉走进了一家酒吧\n酒保：哇哦你是在哪里买到的\n鹦鹉：非洲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052323128974729325",
+        "created_at": "2026-05-07T09:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052323128974729325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052323128974729325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051987139882356955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 有个黑人带着一只鹦鹉走进了一家酒吧\n酒保：哇哦你是在哪里买到的\n鹦鹉：非洲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2051987139882356955",
+        "created_at": "2026-05-06T11:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051987139882356955"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051987139882356955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10792,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有个黑人带着一只鹦鹉走进了一家酒吧\n酒保：哇哦你是在哪里买到的\n鹦鹉：非洲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2901,
+          "like_count": 10897,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3105
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "45_206io"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 116,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 93,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2051226633504509987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 496,
+          "like_count": 34396,
+          "listed_count": 1,
+          "media_count": 696,
+          "tweet_count": 4121
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

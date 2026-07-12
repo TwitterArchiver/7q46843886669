@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046110625198374912"
+      ],
+      "media_source_tweet_id": [
+        "2046387187638280640"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "2046686753550184553",
+    "created_at": "2026-04-21T20:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T21:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046686753550184553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "836533158669500416",
+          "start": 3,
+          "username": "AnimexTwts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VWo1lg0cG4",
+          "end": 59,
+          "expanded_url": "https://x.com/AnimexTwts/status/2046387187638280640/photo/1",
+          "media_key": "3_2046110625198374912",
+          "start": 36,
+          "url": "https://t.co/VWo1lg0cG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046686753550184553",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046387187638280640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnimexTwts: This tattoo is wild https://t.co/VWo1lg0cG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_2046110625198374912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGU-xdoaAAAO-wu.jpg",
+        "width": 2432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046110625198374912"
+          ],
+          "media_source_tweet_id": [
+            "2046387187638280640"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2046686753550184553",
+        "created_at": "2026-04-21T20:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046686753550184553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "836533158669500416",
+              "start": 3,
+              "username": "AnimexTwts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWo1lg0cG4",
+              "end": 59,
+              "expanded_url": "https://x.com/AnimexTwts/status/2046387187638280640/photo/1",
+              "media_key": "3_2046110625198374912",
+              "start": 36,
+              "url": "https://t.co/VWo1lg0cG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046686753550184553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046387187638280640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnimexTwts: This tattoo is wild https://t.co/VWo1lg0cG4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046110625198374912"
+          ]
+        },
+        "author_id": "836533158669500416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2046387187638280640",
+        "created_at": "2026-04-21T00:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046387187638280640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWo1lg0cG4",
+              "end": 43,
+              "expanded_url": "https://x.com/AnimexTwts/status/2046387187638280640/photo/1",
+              "media_key": "3_2046110625198374912",
+              "start": 20,
+              "url": "https://t.co/VWo1lg0cG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046387187638280640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 112266,
+          "like_count": 6943,
+          "quote_count": 10,
+          "reply_count": 42,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "This tattoo is wild https://t.co/VWo1lg0cG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 2672,
+          "like_count": 4815,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 737
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-28T11:07:01.000Z",
+        "description": "Daily Anime Tweets 🕊️",
+        "id": "836533158669500416",
+        "location": "アニメ",
+        "name": "Anime Tweets",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542000599050334208/eMyobmGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603515,
+          "following_count": 20,
+          "like_count": 41471,
+          "listed_count": 905,
+          "media_count": 8870,
+          "tweet_count": 8897
+        },
+        "username": "AnimexTwts",
+        "verified": true
+      }
+    ]
+  }
+}

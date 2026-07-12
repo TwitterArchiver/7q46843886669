@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063770474862317968",
+    "created_at": "2026-06-07T23:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063771076707168335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063771076707168335",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063770474862317968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063770474862317968",
+        "created_at": "2026-06-07T23:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063771076707168335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063771076707168335",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063770474862317968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880803334405435393",
+        "conversation_id": "2063770474862317968",
+        "created_at": "2026-06-07T23:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063770474862317968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063770474862317968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么办，我现在巨想吐，我昨晚真是喘不上来气了就那种我已经崩溃了他们还在说说说，我崩溃了谢谢你们报警什么的，我现在活着又能干什么呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 3370,
+          "like_count": 17486,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 4830
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子\n负能量警告⚠️\n2.3次元人\n不是好人\n双相精分犯抽的时候会很烦，对不起，请蔽我\n不发推就是在现生/思考/浮起\n来和我交朋友互fo吧(`･ω･´)ゞ\n姐姐@yutinna191292",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "yutinna191292"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "location": "中北海",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 545,
+          "like_count": 10497,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 4900
+        },
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053343229211451392"
+      ],
+      "media_source_tweet_id": [
+        "2053343240531976309"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053369080787431426",
+    "created_at": "2026-05-10T06:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053369080787431426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "763250971141025792",
+          "start": 3,
+          "username": "williamlab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCqLVuToCa",
+          "end": 51,
+          "expanded_url": "https://x.com/williamlab/status/2053343240531976309/photo/1",
+          "media_key": "3_2053343229211451392",
+          "start": 28,
+          "url": "https://t.co/MCqLVuToCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053369080787431426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053343240531976309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @williamlab: 哈哈哈哈哈哈哈笑不活了 https://t.co/MCqLVuToCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 507,
+        "media_key": "3_2053343229211451392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7wybMaIAAuo5y.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053343229211451392"
+          ],
+          "media_source_tweet_id": [
+            "2053343240531976309"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053369080787431426",
+        "created_at": "2026-05-10T06:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053369080787431426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "763250971141025792",
+              "start": 3,
+              "username": "williamlab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCqLVuToCa",
+              "end": 51,
+              "expanded_url": "https://x.com/williamlab/status/2053343240531976309/photo/1",
+              "media_key": "3_2053343229211451392",
+              "start": 28,
+              "url": "https://t.co/MCqLVuToCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053369080787431426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053343240531976309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @williamlab: 哈哈哈哈哈哈哈笑不活了 https://t.co/MCqLVuToCa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053343229211451392"
+          ]
+        },
+        "author_id": "763250971141025792",
+        "conversation_id": "2053343240531976309",
+        "created_at": "2026-05-10T05:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053343240531976309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCqLVuToCa",
+              "end": 35,
+              "expanded_url": "https://x.com/williamlab/status/2053343240531976309/photo/1",
+              "media_key": "3_2053343229211451392",
+              "start": 12,
+              "url": "https://t.co/MCqLVuToCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053343240531976309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 106024,
+          "like_count": 691,
+          "quote_count": 4,
+          "reply_count": 53,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈笑不活了 https://t.co/MCqLVuToCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2962,
+          "like_count": 11769,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3408
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T05:49:46.000Z",
+        "description": "一个伪装成加密博主的段子手。\n聊投资，聊加密，聊心态，聊比特币。\n这里的所有内容均不作为投资建议。 BTC HODL",
+        "id": "763250971141025792",
+        "location": "Hongkong",
+        "name": "陳威廉",
+        "pinned_tweet_id": "2014240420847600069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905263911060078592/0QafMmkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194271,
+          "following_count": 355,
+          "like_count": 603,
+          "listed_count": 2705,
+          "media_count": 2950,
+          "tweet_count": 6940
+        },
+        "username": "williamlab",
+        "verified": true
+      }
+    ]
+  }
+}

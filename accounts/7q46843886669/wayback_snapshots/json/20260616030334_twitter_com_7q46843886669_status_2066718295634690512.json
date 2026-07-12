@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066497365935341568"
+      ],
+      "media_source_tweet_id": [
+        "2066497380376359349"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066718295634690512",
+    "created_at": "2026-06-16T03:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066718295634690512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1447499448649601025",
+          "start": 3,
+          "username": "LVTGW666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XZFWfqYbj",
+          "end": 40,
+          "expanded_url": "https://x.com/LVTGW666/status/2066497380376359349/photo/1",
+          "media_key": "3_2066497365935341568",
+          "start": 17,
+          "url": "https://t.co/5XZFWfqYbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066718295634690512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066497380376359349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LVTGW666: 笑了 https://t.co/5XZFWfqYbj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2066497365935341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2sZ9HbQAAPKqZ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066497365935341568"
+          ],
+          "media_source_tweet_id": [
+            "2066497380376359349"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066718295634690512",
+        "created_at": "2026-06-16T03:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066718295634690512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1447499448649601025",
+              "start": 3,
+              "username": "LVTGW666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XZFWfqYbj",
+              "end": 40,
+              "expanded_url": "https://x.com/LVTGW666/status/2066497380376359349/photo/1",
+              "media_key": "3_2066497365935341568",
+              "start": 17,
+              "url": "https://t.co/5XZFWfqYbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066718295634690512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066497380376359349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LVTGW666: 笑了 https://t.co/5XZFWfqYbj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066497365935341568"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066497380376359349",
+        "created_at": "2026-06-15T12:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066497380376359349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XZFWfqYbj",
+              "end": 26,
+              "expanded_url": "https://x.com/LVTGW666/status/2066497380376359349/photo/1",
+              "media_key": "3_2066497365935341568",
+              "start": 3,
+              "url": "https://t.co/5XZFWfqYbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066497380376359349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 19051,
+          "like_count": 464,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "笑了 https://t.co/5XZFWfqYbj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 3378,
+          "like_count": 18989,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 5139
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72025,
+          "following_count": 985,
+          "like_count": 14839,
+          "listed_count": 306,
+          "media_count": 5372,
+          "tweet_count": 12838
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

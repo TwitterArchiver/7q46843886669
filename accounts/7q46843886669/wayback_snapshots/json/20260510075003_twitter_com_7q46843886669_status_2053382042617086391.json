@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053382042617086391",
+    "created_at": "2026-05-10T07:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053382042617086391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1964753697340268544",
+          "start": 3,
+          "username": "fanfanbb112495"
+        },
+        {
+          "end": 31,
+          "id": "1718872719968673792",
+          "start": 20,
+          "username": "xenoscum12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053382042617086391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053173820295381339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fanfanbb112495: @xenoscum12 别笑 你也过不了第二关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053382042617086391",
+        "created_at": "2026-05-10T07:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053382042617086391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1964753697340268544",
+              "start": 3,
+              "username": "fanfanbb112495"
+            },
+            {
+              "end": 31,
+              "id": "1718872719968673792",
+              "start": 20,
+              "username": "xenoscum12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053382042617086391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053173820295381339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fanfanbb112495: @xenoscum12 别笑 你也过不了第二关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964753697340268544",
+        "conversation_id": "2053121579165622330",
+        "created_at": "2026-05-09T18:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053173820295381339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718872719968673792",
+              "start": 0,
+              "username": "xenoscum12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053173820295381339",
+        "in_reply_to_user_id": "1718872719968673792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4728,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053121579165622330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xenoscum12 别笑 你也过不了第二关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2963,
+          "like_count": 11828,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3441
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T18:12:48.000Z",
+        "description": "07 isfp 我不是gay。。。男生可以不要给我发那啥嘛。。。我没钱别骗我 骚扰我的加我微信给我钱 互关随便加🙄",
+        "id": "1964753697340268544",
+        "name": "小凡fan",
+        "pinned_tweet_id": "2048083191903162624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002063675801112576/_HgwvZ8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 64,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "username": "fanfanbb112495",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T06:09:41.000Z",
+        "description": "",
+        "id": "1718872719968673792",
+        "name": "去码头整点薯条",
+        "pinned_tweet_id": "1724306980741808470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948270808930848768/-pHskERz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3270,
+          "following_count": 357,
+          "like_count": 1360,
+          "listed_count": 8,
+          "media_count": 39,
+          "tweet_count": 887
+        },
+        "username": "xenoscum12",
+        "verified": false
+      }
+    ]
+  }
+}

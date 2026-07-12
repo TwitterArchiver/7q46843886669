@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057168801423302656"
+      ],
+      "media_source_tweet_id": [
+        "2057168806905278568"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057262472663568664",
+    "created_at": "2026-05-21T00:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057262472663568664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1523902442030923776",
+          "start": 3,
+          "username": "tanabejyuukou_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PhmDkMDZEb",
+          "end": 53,
+          "expanded_url": "https://x.com/tanabejyuukou_9/status/2057168806905278568/photo/1",
+          "media_key": "3_2057168801423302656",
+          "start": 30,
+          "url": "https://t.co/PhmDkMDZEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057262472663568664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057168806905278568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanabejyuukou_9: ネオユニヴァース https://t.co/PhmDkMDZEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2057168801423302656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyIICPaIAAH32q.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057168801423302656"
+          ],
+          "media_source_tweet_id": [
+            "2057168806905278568"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057262472663568664",
+        "created_at": "2026-05-21T00:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057262472663568664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1523902442030923776",
+              "start": 3,
+              "username": "tanabejyuukou_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhmDkMDZEb",
+              "end": 53,
+              "expanded_url": "https://x.com/tanabejyuukou_9/status/2057168806905278568/photo/1",
+              "media_key": "3_2057168801423302656",
+              "start": 30,
+              "url": "https://t.co/PhmDkMDZEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057262472663568664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057168806905278568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanabejyuukou_9: ネオユニヴァース https://t.co/PhmDkMDZEb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057168801423302656"
+          ]
+        },
+        "author_id": "1523902442030923776",
+        "conversation_id": "2057168806905278568",
+        "created_at": "2026-05-20T18:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057168806905278568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhmDkMDZEb",
+              "end": 32,
+              "expanded_url": "https://x.com/tanabejyuukou_9/status/2057168806905278568/photo/1",
+              "media_key": "3_2057168801423302656",
+              "start": 9,
+              "url": "https://t.co/PhmDkMDZEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057168806905278568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 40041,
+          "like_count": 4261,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "ネオユニヴァース https://t.co/PhmDkMDZEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 3009,
+          "like_count": 13964,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 4318
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T05:47:25.000Z",
+        "description": "AIGC　pixiv\nhttps://t.co/01EJqVfjB6\nピクスペhttps://t.co/o0NfhqIbDQ\nhttps://t.co/ATLiobBQNG\nfansky深淵https://t.co/dSl9In2JvX\n旧https://t.co/oIKhOxcEwo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/yGqxo",
+                "end": 34,
+                "expanded_url": "https://x.gd/yGqxo",
+                "start": 11,
+                "url": "https://t.co/01EJqVfjB6"
+              },
+              {
+                "display_url": "x.gd/PHUQ1",
+                "end": 62,
+                "expanded_url": "https://x.gd/PHUQ1",
+                "start": 39,
+                "url": "https://t.co/o0NfhqIbDQ"
+              },
+              {
+                "display_url": "x.gd/FjdUW",
+                "end": 86,
+                "expanded_url": "https://x.gd/FjdUW",
+                "start": 63,
+                "url": "https://t.co/ATLiobBQNG"
+              },
+              {
+                "display_url": "x.gd/118HF",
+                "end": 118,
+                "expanded_url": "https://x.gd/118HF",
+                "start": 95,
+                "url": "https://t.co/dSl9In2JvX"
+              },
+              {
+                "display_url": "x.gd/I29hK",
+                "end": 143,
+                "expanded_url": "https://x.gd/I29hK",
+                "start": 120,
+                "url": "https://t.co/oIKhOxcEwo"
+              }
+            ]
+          }
+        },
+        "id": "1523902442030923776",
+        "name": "田辺重工",
+        "pinned_tweet_id": "1970376075210617275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975247315284992003/vNP9DJAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91036,
+          "following_count": 1725,
+          "like_count": 29429,
+          "listed_count": 462,
+          "media_count": 4727,
+          "tweet_count": 14525
+        },
+        "username": "tanabejyuukou_9",
+        "verified": true
+      }
+    ]
+  }
+}

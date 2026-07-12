@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053830105487867904"
+      ],
+      "media_source_tweet_id": [
+        "2053830113285038449"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054299954601185531",
+    "created_at": "2026-05-12T20:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054299954601185531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1415144847065845760",
+          "start": 3,
+          "username": "keaikk1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UpvSyWXxZA",
+          "end": 41,
+          "expanded_url": "https://x.com/keaikk1/status/2053830113285038449/photo/1",
+          "media_key": "3_2053830105487867904",
+          "start": 18,
+          "url": "https://t.co/UpvSyWXxZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054299954601185531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053830113285038449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keaikk1: 法国朋友 https://t.co/UpvSyWXxZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2053830105487867904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICrmWqbgAAR2kT.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053830105487867904"
+          ],
+          "media_source_tweet_id": [
+            "2053830113285038449"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054299954601185531",
+        "created_at": "2026-05-12T20:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054299954601185531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1415144847065845760",
+              "start": 3,
+              "username": "keaikk1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpvSyWXxZA",
+              "end": 41,
+              "expanded_url": "https://x.com/keaikk1/status/2053830113285038449/photo/1",
+              "media_key": "3_2053830105487867904",
+              "start": 18,
+              "url": "https://t.co/UpvSyWXxZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054299954601185531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053830113285038449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keaikk1: 法国朋友 https://t.co/UpvSyWXxZA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053830105487867904"
+          ]
+        },
+        "author_id": "1415144847065845760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053830113285038449",
+        "created_at": "2026-05-11T13:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053830113285038449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpvSyWXxZA",
+              "end": 28,
+              "expanded_url": "https://x.com/keaikk1/status/2053830113285038449/photo/1",
+              "media_key": "3_2053830105487867904",
+              "start": 5,
+              "url": "https://t.co/UpvSyWXxZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053830113285038449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 400034,
+          "like_count": 2742,
+          "quote_count": 26,
+          "reply_count": 1184,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "法国朋友 https://t.co/UpvSyWXxZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 2970,
+          "like_count": 12335,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3642
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T03:03:40.000Z",
+        "description": "🚪888/5200 不线下 私信只回口令 不接推广",
+        "id": "1415144847065845760",
+        "location": "山东",
+        "name": "您的KK-",
+        "pinned_tweet_id": "1775072293187952984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1415145017643991041/FHmWGAjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127275,
+          "following_count": 288,
+          "like_count": 5052,
+          "listed_count": 340,
+          "media_count": 326,
+          "tweet_count": 7744
+        },
+        "username": "keaikk1",
+        "verified": false
+      }
+    ]
+  }
+}

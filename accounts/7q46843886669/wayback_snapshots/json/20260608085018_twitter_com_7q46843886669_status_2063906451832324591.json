@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063671515573534720"
+      ],
+      "media_source_tweet_id": [
+        "2063671517809176877"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063906451832324591",
+    "created_at": "2026-06-08T08:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063906451832324591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1015788561088630791",
+          "start": 3,
+          "username": "neko_ruyue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uCwBWubfdm",
+          "end": 39,
+          "expanded_url": "https://x.com/neko_ruyue/status/2063671517809176877/photo/1",
+          "media_key": "3_2063671515573534720",
+          "start": 16,
+          "url": "https://t.co/uCwBWubfdm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063906451832324591",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063671517809176877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_ruyue: https://t.co/uCwBWubfdm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2063671515573534720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOiT0LaQAAneAK.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063671515573534720"
+          ],
+          "media_source_tweet_id": [
+            "2063671517809176877"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063906451832324591",
+        "created_at": "2026-06-08T08:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063906451832324591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1015788561088630791",
+              "start": 3,
+              "username": "neko_ruyue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCwBWubfdm",
+              "end": 39,
+              "expanded_url": "https://x.com/neko_ruyue/status/2063671517809176877/photo/1",
+              "media_key": "3_2063671515573534720",
+              "start": 16,
+              "url": "https://t.co/uCwBWubfdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063906451832324591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063671517809176877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_ruyue: https://t.co/uCwBWubfdm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063671515573534720"
+          ]
+        },
+        "author_id": "1015788561088630791",
+        "conversation_id": "2063671517809176877",
+        "created_at": "2026-06-07T17:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063671517809176877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCwBWubfdm",
+              "end": 23,
+              "expanded_url": "https://x.com/neko_ruyue/status/2063671517809176877/photo/1",
+              "media_key": "3_2063671515573534720",
+              "start": 0,
+              "url": "https://t.co/uCwBWubfdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063671517809176877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 6830,
+          "like_count": 397,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uCwBWubfdm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 3375,
+          "like_count": 17641,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 4869
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "name": "小猫月月",
+        "pinned_tweet_id": "2028420666077384893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006421945345286144/XZYVb9aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33148,
+          "following_count": 4116,
+          "like_count": 152426,
+          "listed_count": 79,
+          "media_count": 2729,
+          "tweet_count": 30807
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

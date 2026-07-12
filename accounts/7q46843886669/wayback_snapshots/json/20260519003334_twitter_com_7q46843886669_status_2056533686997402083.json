@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056341873829245020",
+    "created_at": "2026-05-19T00:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056533686997402083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542108779302760449",
+          "start": 0,
+          "username": "C10n3_F"
+        },
+        {
+          "end": 20,
+          "id": "1882013113949855744",
+          "start": 9,
+          "username": "endless_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056533686997402083",
+    "in_reply_to_user_id": "1542108779302760449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056341873829245020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C10n3_F @endless_37 又来。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056341868234047488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImYCMDagAAk1sq.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056341873829245020",
+        "created_at": "2026-05-19T00:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056533686997402083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542108779302760449",
+              "start": 0,
+              "username": "C10n3_F"
+            },
+            {
+              "end": 20,
+              "id": "1882013113949855744",
+              "start": 9,
+              "username": "endless_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056533686997402083",
+        "in_reply_to_user_id": "1542108779302760449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056341873829245020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C10n3_F @endless_37 又来。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056341868234047488"
+          ]
+        },
+        "author_id": "1542108779302760449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056341873829245020",
+        "created_at": "2026-05-18T11:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056341873829245020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1882013113949855744",
+              "start": 13,
+              "username": "endless_37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NOcd3g06pO",
+              "end": 48,
+              "expanded_url": "https://x.com/C10n3_F/status/2056341873829245020/photo/1",
+              "media_key": "3_2056341868234047488",
+              "start": 25,
+              "url": "https://t.co/NOcd3g06pO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056341873829245020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個類類說話是不是很呆？ @endless_37 https://t.co/NOcd3g06pO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 2982,
+          "like_count": 13362,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4090
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Cut, cut, cut me up, and fuck, fuck, fuck me up |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "name": "Clone",
+        "pinned_tweet_id": "2037986045099450852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047669603997044736/-KWzIjxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 245,
+          "like_count": 8018,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1814
+        },
+        "username": "C10n3_F",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2051291565847671202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 152,
+          "like_count": 5798,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3691
+        },
+        "username": "endless_37",
+        "verified": false
+      }
+    ]
+  }
+}

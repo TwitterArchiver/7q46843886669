@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048293809814204416"
+      ],
+      "media_source_tweet_id": [
+        "2048293815715590366"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048450028621209772",
+    "created_at": "2026-04-26T17:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048450028621209772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1961835260037287936",
+          "start": 3,
+          "username": "chan19890604to5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U9xV50XZge",
+          "end": 48,
+          "expanded_url": "https://x.com/chan19890604to5/status/2048293815715590366/photo/1",
+          "media_key": "3_2048293809814204416",
+          "start": 25,
+          "url": "https://t.co/U9xV50XZge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048450028621209772",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048293815715590366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604to5: ？？？ https://t.co/U9xV50XZge"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2048293809814204416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0AXiGbcAAxozq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048293809814204416"
+          ],
+          "media_source_tweet_id": [
+            "2048293815715590366"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048450028621209772",
+        "created_at": "2026-04-26T17:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048450028621209772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1961835260037287936",
+              "start": 3,
+              "username": "chan19890604to5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9xV50XZge",
+              "end": 48,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048293815715590366/photo/1",
+              "media_key": "3_2048293809814204416",
+              "start": 25,
+              "url": "https://t.co/U9xV50XZge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048450028621209772",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048293815715590366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604to5: ？？？ https://t.co/U9xV50XZge"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048293809814204416"
+          ]
+        },
+        "author_id": "1961835260037287936",
+        "conversation_id": "2048293815715590366",
+        "created_at": "2026-04-26T06:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048293815715590366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9xV50XZge",
+              "end": 27,
+              "expanded_url": "https://x.com/chan19890604to5/status/2048293815715590366/photo/1",
+              "media_key": "3_2048293809814204416",
+              "start": 4,
+              "url": "https://t.co/U9xV50XZge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048293815715590366",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16810,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/U9xV50XZge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2732,
+          "like_count": 6174,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1239
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T16:56:30.000Z",
+        "description": "@chan19890604t04的備用號 🕷️🐷🐰滾 不跟🕷️🐷🐰對話 畜牲是聽不懂人話的 備用號@chan19890604to6 圖和影片都是轉的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "chan19890604t04"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "chan19890604to6"
+              }
+            ]
+          }
+        },
+        "id": "1961835260037287936",
+        "name": "陳少5.0",
+        "pinned_tweet_id": "2043861402184757747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961836450586275840/_P22MB1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 431,
+          "like_count": 7881,
+          "listed_count": 4,
+          "media_count": 2355,
+          "tweet_count": 4620
+        },
+        "username": "chan19890604to5",
+        "verified": false
+      }
+    ]
+  }
+}

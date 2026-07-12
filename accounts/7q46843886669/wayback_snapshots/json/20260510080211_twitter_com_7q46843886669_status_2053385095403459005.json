@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053299207293841414"
+      ],
+      "media_source_tweet_id": [
+        "2053299221067911408"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053385095403459005",
+    "created_at": "2026-05-10T08:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053385095403459005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BbFnxh2s0M",
+          "end": 60,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2053299221067911408/photo/1",
+          "media_key": "3_2053299207293841414",
+          "start": 37,
+          "url": "https://t.co/BbFnxh2s0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053385095403459005",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 414
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053299221067911408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: GET OUT OF MY HEAD… https://t.co/BbFnxh2s0M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2053299207293841414",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7IwAxXMAYE-PX.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053299207293841414"
+          ],
+          "media_source_tweet_id": [
+            "2053299221067911408"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053385095403459005",
+        "created_at": "2026-05-10T08:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053385095403459005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbFnxh2s0M",
+              "end": 60,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2053299221067911408/photo/1",
+              "media_key": "3_2053299207293841414",
+              "start": 37,
+              "url": "https://t.co/BbFnxh2s0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053385095403459005",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053299221067911408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: GET OUT OF MY HEAD… https://t.co/BbFnxh2s0M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053299207293841414"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "2053299221067911408",
+        "created_at": "2026-05-10T02:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053299221067911408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbFnxh2s0M",
+              "end": 43,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2053299221067911408/photo/1",
+              "media_key": "3_2053299207293841414",
+              "start": 20,
+              "url": "https://t.co/BbFnxh2s0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053299221067911408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 58207,
+          "like_count": 7501,
+          "quote_count": 12,
+          "reply_count": 35,
+          "retweet_count": 414
+        },
+        "reply_settings": "everyone",
+        "text": "GET OUT OF MY HEAD… https://t.co/BbFnxh2s0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2963,
+          "like_count": 11846,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3454
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "Daily Miku & Vocaloid Content! \nFan Account (Not Affiliated with Crypton Future Media!)\n(Ran by: @xtc_addict)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "xtc_addict"
+              }
+            ]
+          }
+        },
+        "id": "205565258",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041367547669254144/RQzxdjzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446887,
+          "following_count": 17,
+          "like_count": 3787,
+          "listed_count": 137,
+          "media_count": 1142,
+          "tweet_count": 1187
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

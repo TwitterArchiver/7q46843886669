@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052692914376249344"
+      ],
+      "media_source_tweet_id": [
+        "2052692921263296885"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052951085766300005",
+    "created_at": "2026-05-09T03:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052951085766300005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992066270557315072",
+          "start": 3,
+          "username": "estratgen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zghmKRno2m",
+          "end": 70,
+          "expanded_url": "https://x.com/estratgen/status/2052692921263296885/photo/1",
+          "media_key": "3_2052692914376249344",
+          "start": 47,
+          "url": "https://t.co/zghmKRno2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052951085766300005",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052692921263296885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @estratgen: bite me bite me bite me bite me https://t.co/zghmKRno2m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2052692914376249344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyhVHpbkAAYrgT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052692914376249344"
+          ],
+          "media_source_tweet_id": [
+            "2052692921263296885"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052951085766300005",
+        "created_at": "2026-05-09T03:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052951085766300005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992066270557315072",
+              "start": 3,
+              "username": "estratgen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zghmKRno2m",
+              "end": 70,
+              "expanded_url": "https://x.com/estratgen/status/2052692921263296885/photo/1",
+              "media_key": "3_2052692914376249344",
+              "start": 47,
+              "url": "https://t.co/zghmKRno2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052951085766300005",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052692921263296885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @estratgen: bite me bite me bite me bite me https://t.co/zghmKRno2m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052692914376249344"
+          ]
+        },
+        "author_id": "1992066270557315072",
+        "conversation_id": "2052692921263296885",
+        "created_at": "2026-05-08T10:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052692921263296885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zghmKRno2m",
+              "end": 55,
+              "expanded_url": "https://x.com/estratgen/status/2052692921263296885/photo/1",
+              "media_key": "3_2052692914376249344",
+              "start": 32,
+              "url": "https://t.co/zghmKRno2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052692921263296885",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 31139,
+          "like_count": 3164,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "bite me bite me bite me bite me https://t.co/zghmKRno2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2965,
+          "like_count": 11563,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3318
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T03:03:12.000Z",
+        "description": "25 | 🏳️‍⚧️ 🏳️‍🌈 | 🐀 part rat part girl all insane | i stream sometimes\ndiscord; https://t.co/KJ9wLyQ9ms\npfp; @aezylhazel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "aezylhazel"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/joinratcord",
+                "end": 103,
+                "expanded_url": "https://discord.gg/joinratcord",
+                "start": 80,
+                "url": "https://t.co/KJ9wLyQ9ms"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/estratgen",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/estratgen",
+                "start": 0,
+                "url": "https://t.co/6Ky3eR1JsB"
+              }
+            ]
+          }
+        },
+        "id": "1992066270557315072",
+        "location": "little cage",
+        "name": "ratcelia 🏳️‍⚧️🐀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048034368611057664/TjUJG1kR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4208,
+          "following_count": 2124,
+          "like_count": 10979,
+          "listed_count": 25,
+          "media_count": 482,
+          "tweet_count": 6866
+        },
+        "url": "https://t.co/6Ky3eR1JsB",
+        "username": "estratgen",
+        "verified": false
+      }
+    ]
+  }
+}

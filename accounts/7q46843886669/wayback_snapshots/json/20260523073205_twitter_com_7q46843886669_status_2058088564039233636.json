@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057959015301394432"
+      ],
+      "media_source_tweet_id": [
+        "2057959442327777335"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2058088564039233636",
+    "created_at": "2026-05-23T07:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058088564039233636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1366451690707120131",
+          "start": 3,
+          "username": "aiu404l"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWZDopHh0e",
+          "end": 85,
+          "expanded_url": "https://x.com/aiu404l/status/2057959442327777335/photo/1",
+          "media_key": "3_2057959015301394432",
+          "start": 62,
+          "url": "https://t.co/xWZDopHh0e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058088564039233636",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 658
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057959442327777335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiu404l: its better not to masturbate in a dorm (part6.5) https://t.co/xWZDopHh0e"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058088564039233636].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058088564039233636",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058088564039233636"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2507,
+        "media_key": "3_2057959015301394432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9W0iVaMAA2NSx.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057959015301394432"
+          ]
+        },
+        "author_id": "1366451690707120131",
+        "conversation_id": "2057959442327777335",
+        "created_at": "2026-05-22T22:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057959442327777335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWZDopHh0e",
+              "end": 72,
+              "expanded_url": "https://x.com/aiu404l/status/2057959442327777335/photo/1",
+              "media_key": "3_2057959015301394432",
+              "start": 49,
+              "url": "https://t.co/xWZDopHh0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057959442327777335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3152,
+          "impression_count": 78415,
+          "like_count": 11287,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 658
+        },
+        "reply_settings": "everyone",
+        "text": "its better not to masturbate in a dorm (part6.5) https://t.co/xWZDopHh0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 3098,
+          "like_count": 14773,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4448
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T18:14:27.000Z",
+        "description": "slice of life of egg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/aiu404l",
+                "end": 23,
+                "expanded_url": "http://patreon.com/aiu404l",
+                "start": 0,
+                "url": "https://t.co/Hs8xvL23qo"
+              }
+            ]
+          }
+        },
+        "id": "1366451690707120131",
+        "name": "aiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014179714441900032/xtlLNQ30_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226881,
+          "following_count": 366,
+          "like_count": 9129,
+          "listed_count": 901,
+          "media_count": 93,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/Hs8xvL23qo",
+        "username": "aiu404l",
+        "verified": false
+      }
+    ]
+  }
+}

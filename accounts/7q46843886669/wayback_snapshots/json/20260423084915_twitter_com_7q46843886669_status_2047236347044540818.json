@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047228448704545238",
+    "created_at": "2026-04-23T08:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047236347044540818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939330946358210560",
+          "start": 0,
+          "username": "SukiXiaozhi"
+        },
+        {
+          "end": 24,
+          "id": "1945847691025715200",
+          "start": 13,
+          "username": "hchn222209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047236347044540818",
+    "in_reply_to_user_id": "1939330946358210560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047232726303195148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SukiXiaozhi @hchn222209 我张嘴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047228448704545238",
+        "created_at": "2026-04-23T08:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047236347044540818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939330946358210560",
+              "start": 0,
+              "username": "SukiXiaozhi"
+            },
+            {
+              "end": 24,
+              "id": "1945847691025715200",
+              "start": 13,
+              "username": "hchn222209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047236347044540818",
+        "in_reply_to_user_id": "1939330946358210560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047232726303195148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SukiXiaozhi @hchn222209 我张嘴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939330946358210560",
+        "conversation_id": "2047228448704545238",
+        "created_at": "2026-04-23T08:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047232726303195148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            },
+            {
+              "end": 26,
+              "id": "1945847691025715200",
+              "start": 15,
+              "username": "hchn222209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047232726303195148",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047231624845381992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 @hchn222209 我尿了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 2693,
+          "like_count": 5518,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 856
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T14:31:54.000Z",
+        "description": "伟大 渺小 中庸 可怜 好色 善良 博爱 诡辩 忍让 气愤 复杂 讨厌",
+        "id": "1939330946358210560",
+        "location": "西湖｜ 欢迎投喂｜Pan sexual",
+        "name": "小智の日记薄",
+        "pinned_tweet_id": "1955163547660673099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016585807306641410/_5C-G274_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 103,
+          "like_count": 3206,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1679
+        },
+        "username": "SukiXiaozhi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T14:07:10.000Z",
+        "description": "泥嚎!09/infp 这里是小稚ovo\n重度抑郁混合焦虑 \n休学待机中....\n别惹我我很脆弱ŏ̥̥̥̥םŏ̥̥̥̥",
+        "id": "1945847691025715200",
+        "location": "🚪52纯绿",
+        "name": "命比纸薄",
+        "pinned_tweet_id": "2036767859175755975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040410524211679232/4A0i3Id7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 15,
+          "like_count": 1277,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 890
+        },
+        "username": "hchn222209",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1981197862576009606",
+    "created_at": "2025-10-24T09:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T10:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981652743510245728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1469707522697273347",
+          "start": 0,
+          "username": "my_dear_wei"
+        },
+        {
+          "end": 21,
+          "id": "1826321786834944000",
+          "start": 13,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981652743510245728",
+    "in_reply_to_user_id": "1469707522697273347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981577827574247547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@my_dear_wei @hgds520 然后呢😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1981197862576009606",
+        "created_at": "2025-10-24T09:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981652743510245728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1469707522697273347",
+              "start": 0,
+              "username": "my_dear_wei"
+            },
+            {
+              "end": 21,
+              "id": "1826321786834944000",
+              "start": 13,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981652743510245728",
+        "in_reply_to_user_id": "1469707522697273347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981577827574247547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@my_dear_wei @hgds520 然后呢😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469707522697273347",
+        "conversation_id": "1981197862576009606",
+        "created_at": "2025-10-24T04:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981577827574247547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826321786834944000",
+              "start": 0,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981577827574247547",
+        "in_reply_to_user_id": "1826321786834944000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981197862576009606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds520 地域爱好美食宠物运动性格大学-情感前任-原生家庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 755,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 48
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T16:36:01.000Z",
+        "description": "疯狂暴走族",
+        "id": "1469707522697273347",
+        "location": "Taipei City, Taiwan",
+        "name": "黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663929875395387393/HBiWyYFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 191,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "username": "my_dear_wei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "你读这句话的时候这几秒就没了 因为我是时间掠夺者 专门发无聊的东西来浪费你的时间",
+        "id": "1826321786834944000",
+        "location": "乱发的",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1953803355685372350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 467,
+          "like_count": 7881,
+          "listed_count": 9,
+          "media_count": 82,
+          "tweet_count": 523
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

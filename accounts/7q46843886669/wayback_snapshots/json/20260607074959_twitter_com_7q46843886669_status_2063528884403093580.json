@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063295219198820352"
+      ],
+      "media_source_tweet_id": [
+        "2063295221799227630"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063528884403093580",
+    "created_at": "2026-06-07T07:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063528884403093580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "shennaichuan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7omck9Ras",
+          "end": 42,
+          "expanded_url": "https://x.com/shennaichuan_/status/2063295221799227630/photo/1",
+          "media_key": "3_2063295219198820352",
+          "start": 19,
+          "url": "https://t.co/I7omck9Ras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063528884403093580",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063295221799227630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shennaichuan_: https://t.co/I7omck9Ras"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2063295219198820352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJMEe8bgAAazG3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063295219198820352"
+          ],
+          "media_source_tweet_id": [
+            "2063295221799227630"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063528884403093580",
+        "created_at": "2026-06-07T07:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063528884403093580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "shennaichuan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7omck9Ras",
+              "end": 42,
+              "expanded_url": "https://x.com/shennaichuan_/status/2063295221799227630/photo/1",
+              "media_key": "3_2063295219198820352",
+              "start": 19,
+              "url": "https://t.co/I7omck9Ras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063528884403093580",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063295221799227630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shennaichuan_: https://t.co/I7omck9Ras"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063295219198820352"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2063295221799227630",
+        "created_at": "2026-06-06T16:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063295221799227630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7omck9Ras",
+              "end": 23,
+              "expanded_url": "https://x.com/shennaichuan_/status/2063295221799227630/photo/1",
+              "media_key": "3_2063295219198820352",
+              "start": 0,
+              "url": "https://t.co/I7omck9Ras"
+            },
+            {
+              "display_url": "x.com/Liechtensteina…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Liechtensteinal/status/2063280556545302629",
+              "start": 24,
+              "url": "https://t.co/RvJLcZvpcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063295221799227630",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5917,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063280556545302629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/I7omck9Ras https://t.co/RvJLcZvpcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 3365,
+          "like_count": 17289,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 4761
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 435,
+          "like_count": 736,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 2207
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

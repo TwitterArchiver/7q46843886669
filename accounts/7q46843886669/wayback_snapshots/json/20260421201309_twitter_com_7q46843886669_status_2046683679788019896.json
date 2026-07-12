@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046567402297790464"
+      ],
+      "media_source_tweet_id": [
+        "2046567411198181457"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Siamese Cat",
+          "id": "852289854213771264",
+          "name": "Siamese Cat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cats",
+          "id": "852263859209478144",
+          "name": "Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Siamese Cat",
+          "id": "852289854213771264",
+          "name": "Siamese Cat"
+        }
+      }
+    ],
+    "conversation_id": "2046683679788019896",
+    "created_at": "2026-04-21T20:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T21:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046683679788019896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "225551618",
+          "start": 3,
+          "username": "nekokolife"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cSYBB3gHRQ",
+          "end": 67,
+          "expanded_url": "https://x.com/nekokolife/status/2046567411198181457/photo/1",
+          "media_key": "3_2046567402297790464",
+          "start": 44,
+          "url": "https://t.co/cSYBB3gHRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046683679788019896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046567411198181457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekokolife: 猫の特徴を完璧に捉えたシャム猫のアート作品、凄すぎる… https://t.co/cSYBB3gHRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2046567402297790464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbeNY7akAAswV7.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046567402297790464"
+          ],
+          "media_source_tweet_id": [
+            "2046567411198181457"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Siamese Cat",
+              "id": "852289854213771264",
+              "name": "Siamese Cat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Siamese Cat",
+              "id": "852289854213771264",
+              "name": "Siamese Cat"
+            }
+          }
+        ],
+        "conversation_id": "2046683679788019896",
+        "created_at": "2026-04-21T20:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046683679788019896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "225551618",
+              "start": 3,
+              "username": "nekokolife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSYBB3gHRQ",
+              "end": 67,
+              "expanded_url": "https://x.com/nekokolife/status/2046567411198181457/photo/1",
+              "media_key": "3_2046567402297790464",
+              "start": 44,
+              "url": "https://t.co/cSYBB3gHRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046683679788019896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046567411198181457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekokolife: 猫の特徴を完璧に捉えたシャム猫のアート作品、凄すぎる… https://t.co/cSYBB3gHRQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046567402297790464"
+          ]
+        },
+        "author_id": "225551618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Siamese Cat",
+              "id": "852289854213771264",
+              "name": "Siamese Cat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Siamese Cat",
+              "id": "852289854213771264",
+              "name": "Siamese Cat"
+            }
+          }
+        ],
+        "conversation_id": "2046567411198181457",
+        "created_at": "2026-04-21T12:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046567411198181457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cSYBB3gHRQ",
+              "end": 51,
+              "expanded_url": "https://x.com/nekokolife/status/2046567411198181457/photo/1",
+              "media_key": "3_2046567402297790464",
+              "start": 28,
+              "url": "https://t.co/cSYBB3gHRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046567411198181457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 11326,
+          "like_count": 637,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "猫の特徴を完璧に捉えたシャム猫のアート作品、凄すぎる… https://t.co/cSYBB3gHRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 2671,
+          "like_count": 4777,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 717
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-11T21:30:34.000Z",
+        "description": "ネコさんが大好きな人はフォローして下さい🐱",
+        "id": "225551618",
+        "location": "No Cats No Life🐈",
+        "name": "Cat is life ~猫は人生~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014167644933406720/f3TAbmTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189062,
+          "following_count": 619,
+          "like_count": 489,
+          "listed_count": 430,
+          "media_count": 6900,
+          "tweet_count": 185737
+        },
+        "username": "nekokolife",
+        "verified": true
+      }
+    ]
+  }
+}

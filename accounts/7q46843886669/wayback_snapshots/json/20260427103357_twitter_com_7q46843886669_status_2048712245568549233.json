@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048712245568549233",
+    "created_at": "2026-04-27T10:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048712245568549233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1969076990952275968",
+          "start": 3,
+          "username": "Iris1208dzqIris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048712245568549233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048697928668360980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iris1208dzqIris: 说我低俗的人，你们很高潮吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048712245568549233",
+        "created_at": "2026-04-27T10:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048712245568549233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1969076990952275968",
+              "start": 3,
+              "username": "Iris1208dzqIris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048712245568549233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048697928668360980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iris1208dzqIris: 说我低俗的人，你们很高潮吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969076990952275968",
+        "conversation_id": "2048697928668360980",
+        "created_at": "2026-04-27T09:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048697928668360980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048697928668360980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说我低俗的人，你们很高潮吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2741,
+          "like_count": 6275,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1334
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "08｜我女神是我自己｜ 水仙：@Sovereign_Iriss｜ 匿名提问↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "Sovereign_Iriss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris39495",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris39495",
+                "start": 0,
+                "url": "https://t.co/tRCWqg0Xsl"
+              }
+            ]
+          }
+        },
+        "id": "1969076990952275968",
+        "location": "地狱",
+        "name": "Iris",
+        "pinned_tweet_id": "2023461391441797486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038644540345884672/_FUcgm_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3642,
+          "following_count": 26,
+          "like_count": 945,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/tRCWqg0Xsl",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

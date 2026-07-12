@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056155082807291905"
+      ],
+      "media_source_tweet_id": [
+        "2056155085084774821"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056276853556678928",
+    "created_at": "2026-05-18T07:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056276853556678928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745509889252753408",
+          "start": 3,
+          "username": "Del_Piero373"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EeIn2mD9J4",
+          "end": 41,
+          "expanded_url": "https://x.com/Del_Piero373/status/2056155085084774821/photo/1",
+          "media_key": "3_2056155082807291905",
+          "start": 18,
+          "url": "https://t.co/EeIn2mD9J4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056276853556678928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056155085084774821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Del_Piero373: https://t.co/EeIn2mD9J4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2056155082807291905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjuJ2HXsAEigDh.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056155082807291905"
+          ],
+          "media_source_tweet_id": [
+            "2056155085084774821"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056276853556678928",
+        "created_at": "2026-05-18T07:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056276853556678928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745509889252753408",
+              "start": 3,
+              "username": "Del_Piero373"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeIn2mD9J4",
+              "end": 41,
+              "expanded_url": "https://x.com/Del_Piero373/status/2056155085084774821/photo/1",
+              "media_key": "3_2056155082807291905",
+              "start": 18,
+              "url": "https://t.co/EeIn2mD9J4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056276853556678928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056155085084774821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Del_Piero373: https://t.co/EeIn2mD9J4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056155082807291905"
+          ]
+        },
+        "author_id": "1745509889252753408",
+        "conversation_id": "2056155085084774821",
+        "created_at": "2026-05-17T23:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056155085084774821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeIn2mD9J4",
+              "end": 23,
+              "expanded_url": "https://x.com/Del_Piero373/status/2056155085084774821/photo/1",
+              "media_key": "3_2056155082807291905",
+              "start": 0,
+              "url": "https://t.co/EeIn2mD9J4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056155085084774821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 20461,
+          "like_count": 2318,
+          "quote_count": 16,
+          "reply_count": 11,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EeIn2mD9J4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2981,
+          "like_count": 13241,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4052
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T18:16:26.000Z",
+        "description": "Soy Reisen Udongein Inaba jeje\nU\nD\nO\nM\nY\nO\nN\nSigan a este Tonto @YukkoKiryuin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "YukkoKiryuin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dudefixyourfuckingface.com",
+                "end": 23,
+                "expanded_url": "http://dudefixyourfuckingface.com",
+                "start": 0,
+                "url": "https://t.co/rec6p7uTpP"
+              }
+            ]
+          }
+        },
+        "id": "1745509889252753408",
+        "location": "en mi casa",
+        "name": "Chatear Con Reisen Udongein Inaba",
+        "pinned_tweet_id": "2052953942628216975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043520679916752896/9rJ46Lom_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3877,
+          "following_count": 2471,
+          "like_count": 77388,
+          "listed_count": 8,
+          "media_count": 10181,
+          "tweet_count": 38836
+        },
+        "url": "https://t.co/rec6p7uTpP",
+        "username": "Del_Piero373",
+        "verified": false
+      }
+    ]
+  }
+}

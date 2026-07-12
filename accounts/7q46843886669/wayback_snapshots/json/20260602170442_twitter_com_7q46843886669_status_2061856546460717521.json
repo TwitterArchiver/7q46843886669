@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2061795266572009482",
+    "created_at": "2026-06-02T17:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061856546460717521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047499889094123520",
+          "start": 0,
+          "username": "yn_xxxjkjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061856546460717521",
+    "in_reply_to_user_id": "2047499889094123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061795266572009482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yn_xxxjkjk 春天的熊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2061795266572009482",
+        "created_at": "2026-06-02T17:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061856546460717521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047499889094123520",
+              "start": 0,
+              "username": "yn_xxxjkjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061856546460717521",
+        "in_reply_to_user_id": "2047499889094123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061795266572009482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yn_xxxjkjk 春天的熊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047499889094123520",
+        "conversation_id": "2061795266572009482",
+        "created_at": "2026-06-02T13:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061795266572009482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061795266572009482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱是一种什么感觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 3289,
+          "like_count": 16406,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4610
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的\n3.0 @ynxxx_jjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ynxxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "旖旎2.0",
+        "pinned_tweet_id": "2060247040177943030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 150,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 68
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

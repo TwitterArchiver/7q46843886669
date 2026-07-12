@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046360496924999681"
+      ],
+      "media_source_tweet_id": [
+        "2046469228299960394"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046695023660712383",
+    "created_at": "2026-04-21T20:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T21:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046695023660712383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482356237115310084",
+          "start": 3,
+          "username": "LocalBateman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKJCl0Pqvg",
+          "end": 41,
+          "expanded_url": "https://x.com/LocalBateman/status/2046469228299960394/photo/1",
+          "media_key": "3_2046360496924999681",
+          "start": 18,
+          "url": "https://t.co/xKJCl0Pqvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046695023660712383",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046469228299960394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LocalBateman: https://t.co/xKJCl0Pqvg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_2046360496924999681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYiB6WbQAE8-uF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046360496924999681"
+          ],
+          "media_source_tweet_id": [
+            "2046469228299960394"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046695023660712383",
+        "created_at": "2026-04-21T20:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046695023660712383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482356237115310084",
+              "start": 3,
+              "username": "LocalBateman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKJCl0Pqvg",
+              "end": 41,
+              "expanded_url": "https://x.com/LocalBateman/status/2046469228299960394/photo/1",
+              "media_key": "3_2046360496924999681",
+              "start": 18,
+              "url": "https://t.co/xKJCl0Pqvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046695023660712383",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046469228299960394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LocalBateman: https://t.co/xKJCl0Pqvg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046360496924999681"
+          ]
+        },
+        "author_id": "1482356237115310084",
+        "conversation_id": "2046469228299960394",
+        "created_at": "2026-04-21T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046469228299960394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKJCl0Pqvg",
+              "end": 23,
+              "expanded_url": "https://x.com/LocalBateman/status/2046469228299960394/photo/1",
+              "media_key": "3_2046360496924999681",
+              "start": 0,
+              "url": "https://t.co/xKJCl0Pqvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046469228299960394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 11416,
+          "like_count": 1342,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xKJCl0Pqvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 2673,
+          "like_count": 4865,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 757
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T14:18:01.000Z",
+        "description": "If you want to ignite the fire just ignite yourself. alt @LocalBateman_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "LocalBateman_"
+              }
+            ]
+          }
+        },
+        "id": "1482356237115310084",
+        "location": "Dm for credit or removal ",
+        "name": "Your Typical Local Man",
+        "pinned_tweet_id": "1535610044779315202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664391317688836097/UPd8ZDNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793004,
+          "following_count": 189,
+          "like_count": 87284,
+          "listed_count": 1433,
+          "media_count": 26247,
+          "tweet_count": 29785
+        },
+        "username": "LocalBateman",
+        "verified": true
+      }
+    ]
+  }
+}

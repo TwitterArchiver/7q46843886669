@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056673306963857564",
+    "created_at": "2026-05-19T09:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056673306963857564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056673306963857564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056354577231102445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 真正的aftercare不应该是我们第二天还保持联系吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056673306963857564",
+        "created_at": "2026-05-19T09:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056673306963857564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056673306963857564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056354577231102445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 真正的aftercare不应该是我们第二天还保持联系吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2056354577231102445",
+        "created_at": "2026-05-18T12:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056354577231102445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056354577231102445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 37752,
+          "like_count": 517,
+          "quote_count": 14,
+          "reply_count": 127,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "真正的aftercare不应该是我们第二天还保持联系吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 2983,
+          "like_count": 13513,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4175
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12229,
+          "following_count": 2,
+          "like_count": 3708,
+          "listed_count": 35,
+          "media_count": 508,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

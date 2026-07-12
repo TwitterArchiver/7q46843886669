@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052604862873915396"
+      ],
+      "media_source_tweet_id": [
+        "2052604874928312350"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052665959815725266",
+    "created_at": "2026-05-08T08:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052665959815725266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5TCYSGtot",
+          "end": 59,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2052604874928312350/photo/1",
+          "media_key": "3_2052604862873915396",
+          "start": 36,
+          "url": "https://t.co/z5TCYSGtot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052665959815725266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052604874928312350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 校长认为自己的脑袋砍掉了还会长出来 https://t.co/z5TCYSGtot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1057,
+        "media_key": "3_2052604862873915396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxRP2PW0AQ8mrV.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052604862873915396"
+          ],
+          "media_source_tweet_id": [
+            "2052604874928312350"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052665959815725266",
+        "created_at": "2026-05-08T08:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052665959815725266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5TCYSGtot",
+              "end": 59,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2052604874928312350/photo/1",
+              "media_key": "3_2052604862873915396",
+              "start": 36,
+              "url": "https://t.co/z5TCYSGtot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052665959815725266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052604874928312350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 校长认为自己的脑袋砍掉了还会长出来 https://t.co/z5TCYSGtot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052604862873915396"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2052604874928312350",
+        "created_at": "2026-05-08T04:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052604874928312350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5TCYSGtot",
+              "end": 41,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2052604874928312350/photo/1",
+              "media_key": "3_2052604862873915396",
+              "start": 18,
+              "url": "https://t.co/z5TCYSGtot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052604874928312350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16704,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "校长认为自己的脑袋砍掉了还会长出来 https://t.co/z5TCYSGtot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 2942,
+          "like_count": 11284,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3194
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5346,
+          "following_count": 1899,
+          "like_count": 55193,
+          "listed_count": 12,
+          "media_count": 1337,
+          "tweet_count": 11011
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053581881132904448"
+      ],
+      "media_source_tweet_id": [
+        "2053581927144456618"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053796143457542566",
+    "created_at": "2026-05-11T11:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053796143457542566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1174680356806488064",
+          "start": 3,
+          "username": "Uehara_2104_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/omCMCmeMlL",
+          "end": 41,
+          "expanded_url": "https://x.com/Uehara_2104_/status/2053581927144456618/photo/1",
+          "media_key": "3_2053581881132904448",
+          "start": 18,
+          "url": "https://t.co/omCMCmeMlL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053796143457542566",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053581927144456618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uehara_2104_: https://t.co/omCMCmeMlL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_2053581881132904448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_J1y4a8AAxrjx.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053581881132904448"
+          ],
+          "media_source_tweet_id": [
+            "2053581927144456618"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053796143457542566",
+        "created_at": "2026-05-11T11:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053796143457542566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1174680356806488064",
+              "start": 3,
+              "username": "Uehara_2104_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/omCMCmeMlL",
+              "end": 41,
+              "expanded_url": "https://x.com/Uehara_2104_/status/2053581927144456618/photo/1",
+              "media_key": "3_2053581881132904448",
+              "start": 18,
+              "url": "https://t.co/omCMCmeMlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053796143457542566",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053581927144456618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uehara_2104_: https://t.co/omCMCmeMlL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053581881132904448"
+          ]
+        },
+        "author_id": "1174680356806488064",
+        "conversation_id": "2053581927144456618",
+        "created_at": "2026-05-10T21:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T22:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053581927144456618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omCMCmeMlL",
+              "end": 23,
+              "expanded_url": "https://x.com/Uehara_2104_/status/2053581927144456618/photo/1",
+              "media_key": "3_2053581881132904448",
+              "start": 0,
+              "url": "https://t.co/omCMCmeMlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053581927144456618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 17186,
+          "like_count": 2353,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/omCMCmeMlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2972,
+          "like_count": 12223,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3606
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-19T13:43:26.000Z",
+        "description": "イラストレーター skeb https://t.co/LeQTn9xSar ご用の方はuehara2104@gmail.com へどうぞ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Uehara_2104_",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@Uehara_2104_",
+                "start": 14,
+                "url": "https://t.co/LeQTn9xSar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ushibeef.jimdosite.com",
+                "end": 23,
+                "expanded_url": "https://ushibeef.jimdosite.com/",
+                "start": 0,
+                "url": "https://t.co/u5QJFIeM6y"
+              }
+            ]
+          }
+        },
+        "id": "1174680356806488064",
+        "location": "福井県",
+        "name": "中曾根",
+        "pinned_tweet_id": "2008882091501703444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963165089617633280/EKIxNubP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20536,
+          "following_count": 342,
+          "like_count": 12304,
+          "listed_count": 116,
+          "media_count": 476,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/u5QJFIeM6y",
+        "username": "Uehara_2104_",
+        "verified": false
+      }
+    ]
+  }
+}

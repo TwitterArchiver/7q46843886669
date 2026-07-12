@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1983361493606510783",
+    "created_at": "2025-10-30T01:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T02:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983700388416286943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "986148401925402624",
+          "start": 0,
+          "username": "ShijiAsuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983700388416286943",
+    "in_reply_to_user_id": "986148401925402624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983361493606510783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShijiAsuka 我趣 感觉好帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1983361493606510783",
+        "created_at": "2025-10-30T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983700388416286943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "986148401925402624",
+              "start": 0,
+              "username": "ShijiAsuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983700388416286943",
+        "in_reply_to_user_id": "986148401925402624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983361493606510783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShijiAsuka 我趣 感觉好帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986148401925402624",
+        "conversation_id": "1983361493606510783",
+        "created_at": "2025-10-29T02:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983361493606510783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983361493606510783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21889,
+          "like_count": 170,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是不是大家都这样，“陈粒”和“陈力”虽然发音一样，但是读起来感觉是完全不同的。“陈粒”读起来舌头尖会有个微微的上翘，而“陈力”则是舌头尖向下的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 779,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T07:44:35.000Z",
+        "description": "Oh, Joey, if you're hurting so am I.",
+        "id": "986148401925402624",
+        "name": "Chandler Jing",
+        "pinned_tweet_id": "1706471716179124699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698235559247048704/Bb4IPN13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 237,
+          "like_count": 17410,
+          "listed_count": 8,
+          "media_count": 1603,
+          "tweet_count": 6910
+        },
+        "username": "ShijiAsuka",
+        "verified": false
+      }
+    ]
+  }
+}

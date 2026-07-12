@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051537435910365184"
+      ],
+      "media_source_tweet_id": [
+        "2051537451437727812"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051861242827207157",
+    "created_at": "2026-05-06T03:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051861242827207157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620328547847110656",
+          "start": 3,
+          "username": "NPC888666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fZRlzXtmln",
+          "end": 38,
+          "expanded_url": "https://x.com/NPC888666/status/2051537451437727812/photo/1",
+          "media_key": "3_2051537435910365184",
+          "start": 15,
+          "url": "https://t.co/fZRlzXtmln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051861242827207157",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051537451437727812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NPC888666: https://t.co/fZRlzXtmln"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1571,
+        "media_key": "3_2051537435910365184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiGba7aYAANUpw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051537435910365184"
+          ],
+          "media_source_tweet_id": [
+            "2051537451437727812"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051861242827207157",
+        "created_at": "2026-05-06T03:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051861242827207157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620328547847110656",
+              "start": 3,
+              "username": "NPC888666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZRlzXtmln",
+              "end": 38,
+              "expanded_url": "https://x.com/NPC888666/status/2051537451437727812/photo/1",
+              "media_key": "3_2051537435910365184",
+              "start": 15,
+              "url": "https://t.co/fZRlzXtmln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051861242827207157",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051537451437727812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NPC888666: https://t.co/fZRlzXtmln"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051537435910365184"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "conversation_id": "2051537451437727812",
+        "created_at": "2026-05-05T05:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051537451437727812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZRlzXtmln",
+              "end": 23,
+              "expanded_url": "https://x.com/NPC888666/status/2051537451437727812/photo/1",
+              "media_key": "3_2051537435910365184",
+              "start": 0,
+              "url": "https://t.co/fZRlzXtmln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051537451437727812",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5042,
+          "like_count": 408,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fZRlzXtmln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 2893,
+          "like_count": 10574,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2977
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42345,
+          "following_count": 1324,
+          "like_count": 7240,
+          "listed_count": 241,
+          "media_count": 1059,
+          "tweet_count": 7520
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

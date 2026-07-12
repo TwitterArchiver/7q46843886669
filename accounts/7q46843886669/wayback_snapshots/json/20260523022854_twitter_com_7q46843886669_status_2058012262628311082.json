@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057937558831763456"
+      ],
+      "media_source_tweet_id": [
+        "2057937561704861912"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2058012262628311082",
+    "created_at": "2026-05-23T02:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058012262628311082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1422337056",
+          "start": 3,
+          "username": "shangmaumau"
+        },
+        {
+          "end": 27,
+          "id": "1863439189909618688",
+          "start": 17,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CecjOes5ui",
+          "end": 60,
+          "expanded_url": "https://x.com/shangmaumau/status/2057937561704861912/photo/1",
+          "media_key": "3_2057937558831763456",
+          "start": 37,
+          "url": "https://t.co/CecjOes5ui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058012262628311082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057937561704861912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shangmaumau: @hsn8086xe 正确的翻译在这里 https://t.co/CecjOes5ui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057937558831763456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9DTmwaEAAomb5.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057937558831763456"
+          ],
+          "media_source_tweet_id": [
+            "2057937561704861912"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2058012262628311082",
+        "created_at": "2026-05-23T02:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058012262628311082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1422337056",
+              "start": 3,
+              "username": "shangmaumau"
+            },
+            {
+              "end": 27,
+              "id": "1863439189909618688",
+              "start": 17,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CecjOes5ui",
+              "end": 60,
+              "expanded_url": "https://x.com/shangmaumau/status/2057937561704861912/photo/1",
+              "media_key": "3_2057937558831763456",
+              "start": 37,
+              "url": "https://t.co/CecjOes5ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058012262628311082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057937561704861912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shangmaumau: @hsn8086xe 正确的翻译在这里 https://t.co/CecjOes5ui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057937558831763456"
+          ]
+        },
+        "author_id": "1422337056",
+        "conversation_id": "2057850513123905922",
+        "created_at": "2026-05-22T21:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057937561704861912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CecjOes5ui",
+              "end": 43,
+              "expanded_url": "https://x.com/shangmaumau/status/2057937561704861912/photo/1",
+              "media_key": "3_2057937558831763456",
+              "start": 20,
+              "url": "https://t.co/CecjOes5ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057937561704861912",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1337,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057850513123905922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 正确的翻译在这里 https://t.co/CecjOes5ui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 3058,
+          "like_count": 14532,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 4403
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-12T06:00:55.000Z",
+        "description": "人在江浙沪 心在天地外\n金刚怒目 知错能改",
+        "id": "1422337056",
+        "location": "Shanghai",
+        "name": "suxiangnan",
+        "pinned_tweet_id": "1856507641394278519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365330048421482497/2ZwGYg8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 1094,
+          "like_count": 28478,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 8985
+        },
+        "username": "shangmaumau",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36309,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 106,
+          "media_count": 14412,
+          "tweet_count": 14495
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

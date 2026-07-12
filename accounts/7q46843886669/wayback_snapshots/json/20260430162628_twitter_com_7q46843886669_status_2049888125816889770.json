@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049529599625920512"
+      ],
+      "media_source_tweet_id": [
+        "2049529601794412918"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049888125816889770",
+    "created_at": "2026-04-30T16:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049888125816889770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "706746472050458624",
+          "start": 3,
+          "username": "artistryhere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SaJnrkbcrS",
+          "end": 43,
+          "expanded_url": "https://x.com/artistryhere/status/2049529601794412918/photo/1",
+          "media_key": "3_2049529599625920512",
+          "start": 20,
+          "url": "https://t.co/SaJnrkbcrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049888125816889770",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 601
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049529601794412918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artistryhere: . https://t.co/SaJnrkbcrS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2049529599625920512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFkT95aAAAo4o6.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049529599625920512"
+          ],
+          "media_source_tweet_id": [
+            "2049529601794412918"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049888125816889770",
+        "created_at": "2026-04-30T16:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049888125816889770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "706746472050458624",
+              "start": 3,
+              "username": "artistryhere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaJnrkbcrS",
+              "end": 43,
+              "expanded_url": "https://x.com/artistryhere/status/2049529601794412918/photo/1",
+              "media_key": "3_2049529599625920512",
+              "start": 20,
+              "url": "https://t.co/SaJnrkbcrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049888125816889770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 601
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049529601794412918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artistryhere: . https://t.co/SaJnrkbcrS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049529599625920512"
+          ]
+        },
+        "author_id": "706746472050458624",
+        "conversation_id": "2049529601794412918",
+        "created_at": "2026-04-29T16:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049529601794412918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaJnrkbcrS",
+              "end": 25,
+              "expanded_url": "https://x.com/artistryhere/status/2049529601794412918/photo/1",
+              "media_key": "3_2049529599625920512",
+              "start": 2,
+              "url": "https://t.co/SaJnrkbcrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049529601794412918",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 51107,
+          "like_count": 3375,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": ". https://t.co/SaJnrkbcrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2817,
+          "like_count": 7947,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2022
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-07T07:41:04.000Z",
+        "description": "🦋🐋 art, life, music.",
+        "id": "706746472050458624",
+        "name": "Novelle art.",
+        "pinned_tweet_id": "2046796964168376471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965623834540699648/-pXk0UU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752890,
+          "following_count": 719,
+          "like_count": 104848,
+          "listed_count": 1911,
+          "media_count": 21698,
+          "tweet_count": 62749
+        },
+        "username": "artistryhere",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063416331785879926",
+    "created_at": "2026-06-07T06:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063509860097142810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "1willhateu4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063509860097142810",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063416331785879926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1willhateu4ever 不赖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063416331785879926",
+        "created_at": "2026-06-07T06:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063509860097142810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "1willhateu4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063509860097142810",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063416331785879926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1willhateu4ever 不赖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990083055231631361",
+        "conversation_id": "2063416331785879926",
+        "created_at": "2026-06-07T00:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063416331785879926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063416331785879926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国最喜欢的两个乐队就是哥伦比亚可乐和脏手指"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 3360,
+          "like_count": 17246,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 4748
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "pinned_tweet_id": "2062942397936570706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059004134586748928/iVOHh1md_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 37,
+          "like_count": 5779,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 3636
+        },
+        "username": "1willhateu4ever",
+        "verified": false
+      }
+    ]
+  }
+}

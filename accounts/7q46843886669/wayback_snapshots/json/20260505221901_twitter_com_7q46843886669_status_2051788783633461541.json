@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051727703439458308"
+      ],
+      "media_source_tweet_id": [
+        "2051727706853695537"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051788783633461541",
+    "created_at": "2026-05-05T22:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051788783633461541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1801491532790235136",
+          "start": 3,
+          "username": "firearmvideos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ei8kC5PwDu",
+          "end": 44,
+          "expanded_url": "https://x.com/firearmvideos/status/2051727706853695537/photo/1",
+          "media_key": "3_2051727703439458308",
+          "start": 21,
+          "url": "https://t.co/ei8kC5PwDu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051788783633461541",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051727706853695537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @firearmvideos: 🤫 https://t.co/ei8kC5PwDu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2051727703439458308",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkzectWQAQm4fY.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051727703439458308"
+          ],
+          "media_source_tweet_id": [
+            "2051727706853695537"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051788783633461541",
+        "created_at": "2026-05-05T22:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051788783633461541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1801491532790235136",
+              "start": 3,
+              "username": "firearmvideos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ei8kC5PwDu",
+              "end": 44,
+              "expanded_url": "https://x.com/firearmvideos/status/2051727706853695537/photo/1",
+              "media_key": "3_2051727703439458308",
+              "start": 21,
+              "url": "https://t.co/ei8kC5PwDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051788783633461541",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051727706853695537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @firearmvideos: 🤫 https://t.co/ei8kC5PwDu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051727703439458308"
+          ]
+        },
+        "author_id": "1801491532790235136",
+        "conversation_id": "2051727706853695537",
+        "created_at": "2026-05-05T18:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051727706853695537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ei8kC5PwDu",
+              "end": 25,
+              "expanded_url": "https://x.com/firearmvideos/status/2051727706853695537/photo/1",
+              "media_key": "3_2051727703439458308",
+              "start": 2,
+              "url": "https://t.co/ei8kC5PwDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051727706853695537",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2809,
+          "like_count": 322,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "🤫 https://t.co/ei8kC5PwDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2892,
+          "like_count": 10498,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2954
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T05:47:22.000Z",
+        "description": "Daily Firearm Videos",
+        "id": "1801491532790235136",
+        "name": "Firearm Videos",
+        "pinned_tweet_id": "2048643568743444954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841344743034241024/LJeGin3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362153,
+          "following_count": 442,
+          "like_count": 1176,
+          "listed_count": 231,
+          "media_count": 15647,
+          "tweet_count": 18306
+        },
+        "username": "firearmvideos",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049476475464962048"
+      ],
+      "media_source_tweet_id": [
+        "2049476547363393985"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049856921436590107",
+    "created_at": "2026-04-30T14:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049856921436590107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1860931244462092288",
+          "start": 3,
+          "username": "Bombenblondiee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/whcI6gww5h",
+          "end": 70,
+          "expanded_url": "https://x.com/Bombenblondiee/status/2049476547363393985/video/1",
+          "media_key": "13_2049476475464962048",
+          "start": 47,
+          "url": "https://t.co/whcI6gww5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049856921436590107",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 324
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049476547363393985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bombenblondiee: And people say that’s AI💀💀 https://t.co/whcI6gww5h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9700,
+        "height": 3840,
+        "media_key": "13_2049476475464962048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049476475464962048/img/-1BW_qsZy5jolZdm.jpg",
+        "public_metrics": {
+          "view_count": 79793
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049476475464962048/vid/avc1/320x568/5D355AVdc4HhjQP8.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049476475464962048/vid/avc1/2160x3840/_fqVNwWQBIP9YZtw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049476475464962048/vid/avc1/480x852/3VgQrflVuzoh_wXD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049476475464962048/pl/-gbkAYkNUqR-hNv3.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049476475464962048/vid/avc1/1080x1920/-uCJGNIM23d3fHdC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049476475464962048/vid/avc1/720x1280/sZ5XnFlbYFRkbqsp.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049476475464962048"
+          ],
+          "media_source_tweet_id": [
+            "2049476547363393985"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049856921436590107",
+        "created_at": "2026-04-30T14:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049856921436590107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1860931244462092288",
+              "start": 3,
+              "username": "Bombenblondiee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whcI6gww5h",
+              "end": 70,
+              "expanded_url": "https://x.com/Bombenblondiee/status/2049476547363393985/video/1",
+              "media_key": "13_2049476475464962048",
+              "start": 47,
+              "url": "https://t.co/whcI6gww5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049856921436590107",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 324
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049476547363393985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bombenblondiee: And people say that’s AI💀💀 https://t.co/whcI6gww5h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049476475464962048"
+          ]
+        },
+        "author_id": "1860931244462092288",
+        "conversation_id": "2049476547363393985",
+        "created_at": "2026-04-29T13:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049476547363393985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whcI6gww5h",
+              "end": 50,
+              "expanded_url": "https://x.com/Bombenblondiee/status/2049476547363393985/video/1",
+              "media_key": "13_2049476475464962048",
+              "start": 27,
+              "url": "https://t.co/whcI6gww5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049476547363393985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1748,
+          "impression_count": 199389,
+          "like_count": 9175,
+          "quote_count": 12,
+          "reply_count": 129,
+          "retweet_count": 324
+        },
+        "reply_settings": "everyone",
+        "text": "And people say that’s AI💀💀 https://t.co/whcI6gww5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2803,
+          "like_count": 7726,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1983
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T06:19:30.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/bombenblondie",
+                "end": 23,
+                "expanded_url": "http://link.me/bombenblondie",
+                "start": 0,
+                "url": "https://t.co/gyFAuFKwnD"
+              }
+            ]
+          }
+        },
+        "id": "1860931244462092288",
+        "location": "Onlyfriends👉🏼",
+        "name": "Bombenblondie ❤️",
+        "pinned_tweet_id": "1999176170277859361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049476612052381696/-5zRlcy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82854,
+          "following_count": 19,
+          "like_count": 889,
+          "listed_count": 133,
+          "media_count": 92,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/gyFAuFKwnD",
+        "username": "Bombenblondiee",
+        "verified": true
+      }
+    ]
+  }
+}

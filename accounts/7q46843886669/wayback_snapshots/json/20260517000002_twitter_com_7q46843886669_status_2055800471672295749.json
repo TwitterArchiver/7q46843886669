@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055660585006825472"
+      ],
+      "media_source_tweet_id": [
+        "2055660595672994138"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055800471672295749",
+    "created_at": "2026-05-17T00:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055800471672295749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1917093346956460032",
+          "start": 3,
+          "username": "Readyt01ove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7l1Vhilzv1",
+          "end": 40,
+          "expanded_url": "https://x.com/Readyt01ove/status/2055660595672994138/photo/1",
+          "media_key": "3_2055660585006825472",
+          "start": 17,
+          "url": "https://t.co/7l1Vhilzv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055800471672295749",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055660595672994138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Readyt01ove: https://t.co/7l1Vhilzv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_2055660585006825472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcsaSQagAAi8Bz.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055660585006825472"
+          ],
+          "media_source_tweet_id": [
+            "2055660595672994138"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055800471672295749",
+        "created_at": "2026-05-17T00:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055800471672295749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1917093346956460032",
+              "start": 3,
+              "username": "Readyt01ove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7l1Vhilzv1",
+              "end": 40,
+              "expanded_url": "https://x.com/Readyt01ove/status/2055660595672994138/photo/1",
+              "media_key": "3_2055660585006825472",
+              "start": 17,
+              "url": "https://t.co/7l1Vhilzv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055800471672295749",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055660595672994138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Readyt01ove: https://t.co/7l1Vhilzv1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055660585006825472"
+          ]
+        },
+        "author_id": "1917093346956460032",
+        "conversation_id": "2055660595672994138",
+        "created_at": "2026-05-16T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055660595672994138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7l1Vhilzv1",
+              "end": 23,
+              "expanded_url": "https://x.com/Readyt01ove/status/2055660595672994138/photo/1",
+              "media_key": "3_2055660585006825472",
+              "start": 0,
+              "url": "https://t.co/7l1Vhilzv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055660595672994138",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4762,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7l1Vhilzv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2978,
+          "like_count": 12972,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3942
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T05:47:38.000Z",
+        "description": "痛苦的時候逃避就好了",
+        "id": "1917093346956460032",
+        "name": "痕迹器官",
+        "pinned_tweet_id": "1917199874963177557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995014843167117312/-xOFx6eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 162,
+          "like_count": 6998,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 81
+        },
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

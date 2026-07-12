@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063318668210241690",
+    "created_at": "2026-06-06T23:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T00:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063402303479300546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1860603157497397248",
+          "start": 0,
+          "username": "Se1_Hoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063402303479300546",
+    "in_reply_to_user_id": "1860603157497397248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063318668210241690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Se1_Hoshi 这个吃多了直接下机了吧！要好好的呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063318665576251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJhZPgbAAA9P_h.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063318668210241690",
+        "created_at": "2026-06-06T23:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063402303479300546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1860603157497397248",
+              "start": 0,
+              "username": "Se1_Hoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063402303479300546",
+        "in_reply_to_user_id": "1860603157497397248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063318668210241690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Se1_Hoshi 这个吃多了直接下机了吧！要好好的呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063318665576251392"
+          ]
+        },
+        "author_id": "1860603157497397248",
+        "conversation_id": "2063318668210241690",
+        "created_at": "2026-06-06T17:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063318668210241690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcTcQ3Z9cP",
+              "end": 46,
+              "expanded_url": "https://x.com/Se1_Hoshi/status/2063318668210241690/photo/1",
+              "media_key": "3_2063318665576251392",
+              "start": 23,
+              "url": "https://t.co/FcTcQ3Z9cP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063318668210241690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Zaleplon 追加70mg 总140mg https://t.co/FcTcQ3Z9cP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 3360,
+          "like_count": 17219,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 4743
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T08:35:42.000Z",
+        "description": "03│重抑重焦od│酗酒│钝器自伤\n│舞萌吃│舟\n│当碎碎念垃圾桶发 │\n查成分会互fo（虽然应该也不会有人关注我",
+        "id": "1860603157497397248",
+        "name": "星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041337955567173632/iYw2AEjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 256,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 817
+        },
+        "username": "Se1_Hoshi",
+        "verified": false
+      }
+    ]
+  }
+}

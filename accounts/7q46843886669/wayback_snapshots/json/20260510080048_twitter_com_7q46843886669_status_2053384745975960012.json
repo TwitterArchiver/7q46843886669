@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053282820139974656"
+      ],
+      "media_source_tweet_id": [
+        "2053282893225681397"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053384745975960012",
+    "created_at": "2026-05-10T08:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053384745975960012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1111345280",
+          "start": 3,
+          "username": "shiromamono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDyBqa30KP",
+          "end": 76,
+          "expanded_url": "https://x.com/shiromamono/status/2053282893225681397/photo/1",
+          "media_key": "3_2053282820139974656",
+          "start": 53,
+          "url": "https://t.co/XDyBqa30KP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053384745975960012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2086
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053282893225681397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiromamono: ニンフィア＆ブラッキー！\nSylveon &amp; Umbreon! https://t.co/XDyBqa30KP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_2053282820139974656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH652J3bAAAh4Jn.png",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053282820139974656"
+          ],
+          "media_source_tweet_id": [
+            "2053282893225681397"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053384745975960012",
+        "created_at": "2026-05-10T08:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053384745975960012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1111345280",
+              "start": 3,
+              "username": "shiromamono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDyBqa30KP",
+              "end": 76,
+              "expanded_url": "https://x.com/shiromamono/status/2053282893225681397/photo/1",
+              "media_key": "3_2053282820139974656",
+              "start": 53,
+              "url": "https://t.co/XDyBqa30KP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053384745975960012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2086
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053282893225681397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiromamono: ニンフィア＆ブラッキー！\nSylveon &amp; Umbreon! https://t.co/XDyBqa30KP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053282820139974656"
+          ]
+        },
+        "author_id": "1111345280",
+        "conversation_id": "2053282893225681397",
+        "created_at": "2026-05-10T01:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053282893225681397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDyBqa30KP",
+              "end": 59,
+              "expanded_url": "https://x.com/shiromamono/status/2053282893225681397/photo/1",
+              "media_key": "3_2053282820139974656",
+              "start": 36,
+              "url": "https://t.co/XDyBqa30KP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053282893225681397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1206,
+          "impression_count": 400444,
+          "like_count": 21493,
+          "quote_count": 29,
+          "reply_count": 37,
+          "retweet_count": 2086
+        },
+        "reply_settings": "everyone",
+        "text": "ニンフィア＆ブラッキー！\nSylveon &amp; Umbreon! https://t.co/XDyBqa30KP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2963,
+          "like_count": 11844,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3451
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-22T11:54:15.000Z",
+        "description": "可愛い感じの絵をあげたりしてます。\n自分からコミュニティに入れないのでコメントは凄く嬉しい。\n Every comment on my posts so happy.\n I use AI to illustrations.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113228620",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/113228620",
+                "start": 0,
+                "url": "https://t.co/gV9c89AN1p"
+              }
+            ]
+          }
+        },
+        "id": "1111345280",
+        "location": "日本",
+        "name": "白まもの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886560815953928194/fMNy1EWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44000,
+          "following_count": 558,
+          "like_count": 9748,
+          "listed_count": 170,
+          "media_count": 362,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/gV9c89AN1p",
+        "username": "shiromamono",
+        "verified": true
+      }
+    ]
+  }
+}

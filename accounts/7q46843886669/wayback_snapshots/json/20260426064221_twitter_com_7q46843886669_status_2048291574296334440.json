@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048054440117055488"
+      ],
+      "media_source_tweet_id": [
+        "2048054453937267072"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048291574296334440",
+    "created_at": "2026-04-26T06:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048291574296334440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937829116994105344",
+          "start": 3,
+          "username": "ShitpostReels"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MhC8zbSEpQ",
+          "end": 42,
+          "expanded_url": "https://x.com/ShitpostReels/status/2048054453937267072/video/1",
+          "media_key": "7_2048054440117055488",
+          "start": 19,
+          "url": "https://t.co/MhC8zbSEpQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048291574296334440",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 523
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048054453937267072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostReels: https://t.co/MhC8zbSEpQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11776,
+        "height": 1280,
+        "media_key": "7_2048054440117055488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048054440117055488/pu/img/EB4D61_xEu7_Qqs-.jpg",
+        "public_metrics": {
+          "view_count": 23519
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048054440117055488/pu/vid/avc1/320x568/WeoLeypTkQsVcOJG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048054440117055488/pu/vid/avc1/480x852/7j7eFu5ZVLPjrf5v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048054440117055488/pu/vid/avc1/720x1280/VYzvHGGIRWlE71Yq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048054440117055488/pu/pl/cidcb7dCl1czegbZ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048054440117055488"
+          ],
+          "media_source_tweet_id": [
+            "2048054453937267072"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048291574296334440",
+        "created_at": "2026-04-26T06:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048291574296334440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937829116994105344",
+              "start": 3,
+              "username": "ShitpostReels"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhC8zbSEpQ",
+              "end": 42,
+              "expanded_url": "https://x.com/ShitpostReels/status/2048054453937267072/video/1",
+              "media_key": "7_2048054440117055488",
+              "start": 19,
+              "url": "https://t.co/MhC8zbSEpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048291574296334440",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048054453937267072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostReels: https://t.co/MhC8zbSEpQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048054440117055488"
+          ]
+        },
+        "author_id": "1937829116994105344",
+        "conversation_id": "2048054453937267072",
+        "created_at": "2026-04-25T15:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048054453937267072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhC8zbSEpQ",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostReels/status/2048054453937267072/video/1",
+              "media_key": "7_2048054440117055488",
+              "start": 0,
+              "url": "https://t.co/MhC8zbSEpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048054453937267072",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 59974,
+          "like_count": 3549,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 523
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MhC8zbSEpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2723,
+          "like_count": 6119,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1191
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T11:07:01.000Z",
+        "description": "Best shitpost shorts, Dm for removal",
+        "id": "1937829116994105344",
+        "name": "📱Shitpost Reels📱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937836578258198528/M5Rdh8Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166838,
+          "following_count": 16,
+          "like_count": 92,
+          "listed_count": 124,
+          "media_count": 8509,
+          "tweet_count": 8509
+        },
+        "username": "ShitpostReels",
+        "verified": true
+      }
+    ]
+  }
+}

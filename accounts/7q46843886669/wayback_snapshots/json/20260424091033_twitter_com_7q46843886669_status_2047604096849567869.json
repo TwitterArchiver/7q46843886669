@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047426660891561984"
+      ],
+      "media_source_tweet_id": [
+        "2047442897050505515"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047604096849567869",
+    "created_at": "2026-04-24T09:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047604096849567869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756304949603160064",
+          "start": 3,
+          "username": "anpan8569_AI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mk1zkHdXMB",
+          "end": 41,
+          "expanded_url": "https://x.com/anpan8569_AI/status/2047442897050505515/photo/1",
+          "media_key": "3_2047426660891561984",
+          "start": 18,
+          "url": "https://t.co/Mk1zkHdXMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047604096849567869",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047442897050505515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anpan8569_AI: https://t.co/Mk1zkHdXMB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2047426660891561984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnrs0obEAAWmNu.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047426660891561984"
+          ],
+          "media_source_tweet_id": [
+            "2047442897050505515"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047604096849567869",
+        "created_at": "2026-04-24T09:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047604096849567869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756304949603160064",
+              "start": 3,
+              "username": "anpan8569_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mk1zkHdXMB",
+              "end": 41,
+              "expanded_url": "https://x.com/anpan8569_AI/status/2047442897050505515/photo/1",
+              "media_key": "3_2047426660891561984",
+              "start": 18,
+              "url": "https://t.co/Mk1zkHdXMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047604096849567869",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047442897050505515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anpan8569_AI: https://t.co/Mk1zkHdXMB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047426660891561984"
+          ]
+        },
+        "author_id": "1756304949603160064",
+        "conversation_id": "2047442897050505515",
+        "created_at": "2026-04-23T22:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047442897050505515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mk1zkHdXMB",
+              "end": 23,
+              "expanded_url": "https://x.com/anpan8569_AI/status/2047442897050505515/photo/1",
+              "media_key": "3_2047426660891561984",
+              "start": 0,
+              "url": "https://t.co/Mk1zkHdXMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047442897050505515",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 3897,
+          "like_count": 371,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Mk1zkHdXMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2708,
+          "like_count": 5857,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 939
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T13:12:52.000Z",
+        "description": "趣味でAIイラストメインに投稿している者です。 基本無言でやってます。無断転載❌",
+        "id": "1756304949603160064",
+        "name": "あんぱん",
+        "pinned_tweet_id": "2037296036981473701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029367739106902019/Q8UfLS-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22896,
+          "following_count": 981,
+          "like_count": 18303,
+          "listed_count": 118,
+          "media_count": 1094,
+          "tweet_count": 2280
+        },
+        "username": "anpan8569_AI",
+        "verified": true
+      }
+    ]
+  }
+}

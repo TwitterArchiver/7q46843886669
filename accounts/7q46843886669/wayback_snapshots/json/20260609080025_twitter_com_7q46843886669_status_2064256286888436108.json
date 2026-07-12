@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2064256286888436108",
+    "created_at": "2026-06-09T08:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064256286888436108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900706496121602048",
+          "start": 3,
+          "username": "w62f5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064256286888436108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063176348907254161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @w62f5: 拿得出手的才叫前夫哥 你谈的那个只能叫前科男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2064256286888436108",
+        "created_at": "2026-06-09T08:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064256286888436108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900706496121602048",
+              "start": 3,
+              "username": "w62f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064256286888436108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063176348907254161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @w62f5: 拿得出手的才叫前夫哥 你谈的那个只能叫前科男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2063176348907254161",
+        "created_at": "2026-06-06T08:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063176348907254161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063176348907254161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2594,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "拿得出手的才叫前夫哥 你谈的那个只能叫前科男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 3373,
+          "like_count": 17837,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4913
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好\n骂我明天家里户口本翻不了页",
+        "id": "1900706496121602048",
+        "name": "时代曲",
+        "pinned_tweet_id": "2060804463129153961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060804100481335296/UkaIVRjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 35,
+          "like_count": 11427,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 4210
+        },
+        "username": "w62f5",
+        "verified": false
+      }
+    ]
+  }
+}

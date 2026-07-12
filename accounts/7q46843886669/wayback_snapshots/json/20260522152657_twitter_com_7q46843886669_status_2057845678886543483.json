@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057596350221676544"
+      ],
+      "media_source_tweet_id": [
+        "2057596365749031362"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057845678886543483",
+    "created_at": "2026-05-22T15:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057845678886543483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1327782078616723456",
+          "start": 3,
+          "username": "gatring3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eINMugUgKQ",
+          "end": 51,
+          "expanded_url": "https://x.com/gatring3/status/2057596365749031362/photo/1",
+          "media_key": "3_2057596350221676544",
+          "start": 28,
+          "url": "https://t.co/eINMugUgKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057845678886543483",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2031
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057596365749031362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gatring3: Mouse shooter https://t.co/eINMugUgKQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057596350221676544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4M-poacAA6Bxe.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057596350221676544"
+          ],
+          "media_source_tweet_id": [
+            "2057596365749031362"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057845678886543483",
+        "created_at": "2026-05-22T15:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057845678886543483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1327782078616723456",
+              "start": 3,
+              "username": "gatring3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eINMugUgKQ",
+              "end": 51,
+              "expanded_url": "https://x.com/gatring3/status/2057596365749031362/photo/1",
+              "media_key": "3_2057596350221676544",
+              "start": 28,
+              "url": "https://t.co/eINMugUgKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057845678886543483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2031
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057596365749031362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gatring3: Mouse shooter https://t.co/eINMugUgKQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057596350221676544"
+          ]
+        },
+        "author_id": "1327782078616723456",
+        "conversation_id": "2057596365749031362",
+        "created_at": "2026-05-21T22:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057596365749031362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eINMugUgKQ",
+              "end": 37,
+              "expanded_url": "https://x.com/gatring3/status/2057596365749031362/photo/1",
+              "media_key": "3_2057596350221676544",
+              "start": 14,
+              "url": "https://t.co/eINMugUgKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057596365749031362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1945,
+          "impression_count": 267507,
+          "like_count": 21438,
+          "quote_count": 66,
+          "reply_count": 63,
+          "retweet_count": 2031
+        },
+        "reply_settings": "everyone",
+        "text": "Mouse shooter https://t.co/eINMugUgKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 3059,
+          "like_count": 14536,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 4398
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-15T01:15:02.000Z",
+        "description": "メカデザインイラストを投稿しています。  ゲーム、書籍、グッズなどあらゆるメカデザインを承っております。ご依頼はこちらまで→ onogatring@yahoo.co.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3774933",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/3774933",
+                "start": 0,
+                "url": "https://t.co/IbCd2fPZMB"
+              }
+            ]
+          }
+        },
+        "id": "1327782078616723456",
+        "name": "がとりんぐ三等兵: Gatling3",
+        "pinned_tweet_id": "1700397355697406176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327782843729080320/q9Ljvzri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92130,
+          "following_count": 277,
+          "like_count": 692,
+          "listed_count": 863,
+          "media_count": 300,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/IbCd2fPZMB",
+        "username": "gatring3",
+        "verified": false
+      }
+    ]
+  }
+}

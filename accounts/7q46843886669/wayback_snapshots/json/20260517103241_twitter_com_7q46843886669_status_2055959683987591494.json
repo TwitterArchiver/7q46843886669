@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055915134909034496"
+      ],
+      "media_source_tweet_id": [
+        "2055915146447614053"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055959683987591494",
+    "created_at": "2026-05-17T10:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055959683987591494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1800630928630538240",
+          "start": 3,
+          "username": "AbusiveHis91373"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PAiIpOfSZ3",
+          "end": 44,
+          "expanded_url": "https://x.com/AbusiveHis91373/status/2055915146447614053/photo/1",
+          "media_key": "3_2055915134909034496",
+          "start": 21,
+          "url": "https://t.co/PAiIpOfSZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055959683987591494",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055915146447614053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AbusiveHis91373: https://t.co/PAiIpOfSZ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2055915134909034496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgT7CiaMAAMQyY.png",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055915134909034496"
+          ],
+          "media_source_tweet_id": [
+            "2055915146447614053"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055959683987591494",
+        "created_at": "2026-05-17T10:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055959683987591494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1800630928630538240",
+              "start": 3,
+              "username": "AbusiveHis91373"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAiIpOfSZ3",
+              "end": 44,
+              "expanded_url": "https://x.com/AbusiveHis91373/status/2055915146447614053/photo/1",
+              "media_key": "3_2055915134909034496",
+              "start": 21,
+              "url": "https://t.co/PAiIpOfSZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055959683987591494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055915146447614053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AbusiveHis91373: https://t.co/PAiIpOfSZ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055915134909034496"
+          ]
+        },
+        "author_id": "1800630928630538240",
+        "conversation_id": "2055915146447614053",
+        "created_at": "2026-05-17T07:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055915146447614053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PAiIpOfSZ3",
+              "end": 23,
+              "expanded_url": "https://x.com/AbusiveHis91373/status/2055915146447614053/photo/1",
+              "media_key": "3_2055915134909034496",
+              "start": 0,
+              "url": "https://t.co/PAiIpOfSZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055915146447614053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 414,
+          "impression_count": 38214,
+          "like_count": 3579,
+          "quote_count": 27,
+          "reply_count": 10,
+          "retweet_count": 498
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PAiIpOfSZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2978,
+          "like_count": 13022,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3963
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T20:48:46.000Z",
+        "description": "https://t.co/VjdalcfpvN\n\nhttps://t.co/NNwEyOSdlA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dopeclowncomic…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dopeclowncomics/",
+                "start": 0,
+                "url": "https://t.co/VjdalcfpvN"
+              },
+              {
+                "display_url": "ko-fi.com/abusiveclownst…",
+                "end": 48,
+                "expanded_url": "https://ko-fi.com/abusiveclownstrokinghisshit",
+                "start": 25,
+                "url": "https://t.co/NNwEyOSdlA"
+              }
+            ]
+          }
+        },
+        "id": "1800630928630538240",
+        "location": "dirty clown sighting 2016",
+        "name": "abusive clown stroking his shit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832110995642445827/zbUGqrCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33211,
+          "following_count": 2,
+          "like_count": 3080,
+          "listed_count": 36,
+          "media_count": 744,
+          "tweet_count": 1084
+        },
+        "username": "AbusiveHis91373",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052235261023842304"
+      ],
+      "media_source_tweet_id": [
+        "2052252085262180496"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052849439405203595",
+    "created_at": "2026-05-08T20:33:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T21:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052849439405203595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789599446881513472",
+          "start": 3,
+          "username": "xchase173294"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OgjL6uWEqJ",
+          "end": 58,
+          "expanded_url": "https://x.com/xchase173294/status/2052252085262180496/photo/1",
+          "media_key": "3_2052235261023842304",
+          "start": 35,
+          "url": "https://t.co/OgjL6uWEqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052849439405203595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052252085262180496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xchase173294: 一个人不是好人的微妙迹象是什么？ https://t.co/OgjL6uWEqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2052235261023842304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsBGMDbcAALYLj.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052235261023842304"
+          ],
+          "media_source_tweet_id": [
+            "2052252085262180496"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052849439405203595",
+        "created_at": "2026-05-08T20:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052849439405203595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789599446881513472",
+              "start": 3,
+              "username": "xchase173294"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgjL6uWEqJ",
+              "end": 58,
+              "expanded_url": "https://x.com/xchase173294/status/2052252085262180496/photo/1",
+              "media_key": "3_2052235261023842304",
+              "start": 35,
+              "url": "https://t.co/OgjL6uWEqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052849439405203595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052252085262180496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xchase173294: 一个人不是好人的微妙迹象是什么？ https://t.co/OgjL6uWEqJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052235261023842304"
+          ]
+        },
+        "author_id": "1789599446881513472",
+        "conversation_id": "2052252085262180496",
+        "created_at": "2026-05-07T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052252085262180496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgjL6uWEqJ",
+              "end": 40,
+              "expanded_url": "https://x.com/xchase173294/status/2052252085262180496/photo/1",
+              "media_key": "3_2052235261023842304",
+              "start": 17,
+              "url": "https://t.co/OgjL6uWEqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052252085262180496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 19538,
+          "like_count": 426,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一个人不是好人的微妙迹象是什么？ https://t.co/OgjL6uWEqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2948,
+          "like_count": 11396,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3237
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 296,
+          "like_count": 3576,
+          "listed_count": 8,
+          "media_count": 427,
+          "tweet_count": 3266
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

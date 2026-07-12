@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2060639316943253686",
+    "created_at": "2026-06-01T05:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061326181161648250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903431889513496576",
+          "start": 0,
+          "username": "rujirenlei64359"
+        },
+        {
+          "end": 29,
+          "id": "1649365408779214848",
+          "start": 17,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061326181161648250",
+    "in_reply_to_user_id": "1903431889513496576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061320418456400031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rujirenlei64359 @bolckAshley 如果是这样的话似乎还挺有道理（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2060639316943253686",
+        "created_at": "2026-06-01T05:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061326181161648250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903431889513496576",
+              "start": 0,
+              "username": "rujirenlei64359"
+            },
+            {
+              "end": 29,
+              "id": "1649365408779214848",
+              "start": 17,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061326181161648250",
+        "in_reply_to_user_id": "1903431889513496576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061320418456400031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rujirenlei64359 @bolckAshley 如果是这样的话似乎还挺有道理（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903431889513496576",
+        "conversation_id": "2060639316943253686",
+        "created_at": "2026-06-01T05:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061320418456400031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061320418456400031",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 459,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060639316943253686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 别的不说，我看很多人这么解释的，女人小孩一桌，因为不怎么喝酒，而且男人桌很多抽烟的，女人小孩待那对身体不好，分桌吃，大概就这样，可以正经讨论（急了就是死妈了，我就不一一骂了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 3283,
+          "like_count": 16324,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4589
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T13:01:56.000Z",
+        "description": "",
+        "id": "1903431889513496576",
+        "name": "rujirenlei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903432064835395584/k8osAsV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 399
+        },
+        "username": "rujirenlei64359",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3310,
+          "following_count": 1975,
+          "like_count": 41269,
+          "listed_count": 19,
+          "media_count": 1580,
+          "tweet_count": 22084
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      }
+    ]
+  }
+}

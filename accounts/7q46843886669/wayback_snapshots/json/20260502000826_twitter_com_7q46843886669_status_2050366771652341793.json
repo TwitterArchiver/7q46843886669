@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050145724680302592"
+      ],
+      "media_source_tweet_id": [
+        "2050145726391546136"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050366771652341793",
+    "created_at": "2026-05-02T00:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T01:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050366771652341793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973407524498903042",
+          "start": 3,
+          "username": "memetexts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJb2Q6Bi0h",
+          "end": 38,
+          "expanded_url": "https://x.com/memetexts/status/2050145726391546136/photo/1",
+          "media_key": "3_2050145724680302592",
+          "start": 15,
+          "url": "https://t.co/jJb2Q6Bi0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050366771652341793",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 691
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050145726391546136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memetexts: https://t.co/jJb2Q6Bi0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2050145724680302592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOUrKla8AAHgdu.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050145724680302592"
+          ],
+          "media_source_tweet_id": [
+            "2050145726391546136"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050366771652341793",
+        "created_at": "2026-05-02T00:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T01:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050366771652341793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973407524498903042",
+              "start": 3,
+              "username": "memetexts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJb2Q6Bi0h",
+              "end": 38,
+              "expanded_url": "https://x.com/memetexts/status/2050145726391546136/photo/1",
+              "media_key": "3_2050145724680302592",
+              "start": 15,
+              "url": "https://t.co/jJb2Q6Bi0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050366771652341793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 691
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050145726391546136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memetexts: https://t.co/jJb2Q6Bi0h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050145724680302592"
+          ]
+        },
+        "author_id": "1973407524498903042",
+        "conversation_id": "2050145726391546136",
+        "created_at": "2026-05-01T09:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050145726391546136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJb2Q6Bi0h",
+              "end": 23,
+              "expanded_url": "https://x.com/memetexts/status/2050145726391546136/photo/1",
+              "media_key": "3_2050145724680302592",
+              "start": 0,
+              "url": "https://t.co/jJb2Q6Bi0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050145726391546136",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 56035,
+          "like_count": 7889,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 691
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jJb2Q6Bi0h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8423,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2226
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T15:20:06.000Z",
+        "description": "weird text messages | powered by @memelordtech | get memes sent to you daily 👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/texts",
+                "end": 23,
+                "expanded_url": "http://signup.memelord.com/texts",
+                "start": 0,
+                "url": "https://t.co/54uq1OnQS2"
+              }
+            ]
+          }
+        },
+        "id": "1973407524498903042",
+        "name": "weird text messages",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973407838895497216/n6RFrhFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32366,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 17,
+          "media_count": 1610,
+          "tweet_count": 3133
+        },
+        "url": "https://t.co/54uq1OnQS2",
+        "username": "memetexts",
+        "verified": true
+      }
+    ]
+  }
+}

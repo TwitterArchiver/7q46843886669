@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1983566303886516567",
+    "created_at": "2025-10-30T00:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T01:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983698988156285384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1714916055875780608",
+          "start": 0,
+          "username": "szewanlee_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983698988156285384",
+    "in_reply_to_user_id": "1714916055875780608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983566303886516567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szewanlee_ 我说看看正直"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1983566303886516567",
+        "created_at": "2025-10-30T00:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T01:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983698988156285384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1714916055875780608",
+              "start": 0,
+              "username": "szewanlee_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983698988156285384",
+        "in_reply_to_user_id": "1714916055875780608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983566303886516567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szewanlee_ 我说看看正直"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714916055875780608",
+        "conversation_id": "1983566303886516567",
+        "created_at": "2025-10-29T16:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983566303886516567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "4i"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "四爱"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "iiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983566303886516567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10544,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么现在都没人发私信勾引我了，我是不是看起来正直过头了\n#4i #四爱 #iiii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 777,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T08:07:15.000Z",
+        "description": "istp｜清水｜发照片｜碎碎念｜纯爱｜不约线下｜文案只是文案｜闲聊有🚪｜谢谢喜欢｜希望我们都幸福",
+        "id": "1714916055875780608",
+        "location": "🌍",
+        "name": "奇妙椰椰",
+        "pinned_tweet_id": "1825408496457638023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976271369760280576/Oz-XUEtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8259,
+          "following_count": 80,
+          "like_count": 231,
+          "listed_count": 22,
+          "media_count": 93,
+          "tweet_count": 275
+        },
+        "username": "szewanlee_",
+        "verified": false
+      }
+    ]
+  }
+}

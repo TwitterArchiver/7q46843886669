@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057688375235358720"
+      ],
+      "media_source_tweet_id": [
+        "2057688379513589932"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2058110830575841668",
+    "created_at": "2026-05-23T09:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058110830575841668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024314272571174912",
+          "start": 3,
+          "username": "rpmculture"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O9ssjB8BQZ",
+          "end": 39,
+          "expanded_url": "https://x.com/rpmculture/status/2057688379513589932/photo/1",
+          "media_key": "3_2057688375235358720",
+          "start": 16,
+          "url": "https://t.co/O9ssjB8BQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058110830575841668",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 612
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057688379513589932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rpmculture: https://t.co/O9ssjB8BQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2057688375235358720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5grNhasAAqPTd.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057688375235358720"
+          ],
+          "media_source_tweet_id": [
+            "2057688379513589932"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2058110830575841668",
+        "created_at": "2026-05-23T09:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058110830575841668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024314272571174912",
+              "start": 3,
+              "username": "rpmculture"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9ssjB8BQZ",
+              "end": 39,
+              "expanded_url": "https://x.com/rpmculture/status/2057688379513589932/photo/1",
+              "media_key": "3_2057688375235358720",
+              "start": 16,
+              "url": "https://t.co/O9ssjB8BQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058110830575841668",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 612
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057688379513589932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rpmculture: https://t.co/O9ssjB8BQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057688375235358720"
+          ]
+        },
+        "author_id": "2024314272571174912",
+        "conversation_id": "2057688379513589932",
+        "created_at": "2026-05-22T05:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057688379513589932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O9ssjB8BQZ",
+              "end": 23,
+              "expanded_url": "https://x.com/rpmculture/status/2057688379513589932/photo/1",
+              "media_key": "3_2057688375235358720",
+              "start": 0,
+              "url": "https://t.co/O9ssjB8BQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057688379513589932",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 55715,
+          "like_count": 3932,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 612
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O9ssjB8BQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 3104,
+          "like_count": 14805,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4474
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T02:45:18.000Z",
+        "description": "Deleted @ 80K • follow us for more \nCreative brand + Independent music label 💿🔊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/timetolive",
+                "end": 23,
+                "expanded_url": "http://instagram.com/timetolive",
+                "start": 0,
+                "url": "https://t.co/ZW6XXfREf5"
+              }
+            ]
+          }
+        },
+        "id": "2024314272571174912",
+        "location": "dm for promo ",
+        "name": "Culture Gems",
+        "pinned_tweet_id": "2045261564186710274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024743992936833024/cb9zi-Ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10111,
+          "following_count": 270,
+          "like_count": 14724,
+          "listed_count": 16,
+          "media_count": 3101,
+          "tweet_count": 3795
+        },
+        "url": "https://t.co/ZW6XXfREf5",
+        "username": "rpmculture",
+        "verified": true
+      }
+    ]
+  }
+}

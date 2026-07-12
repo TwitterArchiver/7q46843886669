@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063213626362876283",
+    "created_at": "2026-06-06T10:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063213626362876283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063213626362876283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又浪費了一整天。老師對不起我要讓你失望了我不是好孩子對不起嗚嗚嗚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063213626362876283",
+        "created_at": "2026-06-06T10:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063213626362876283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063213626362876283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又浪費了一整天。老師對不起我要讓你失望了我不是好孩子對不起嗚嗚嗚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 3347,
+          "like_count": 17088,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 4723
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

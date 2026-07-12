@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046934371547193345",
+        "3_2046934371568168960"
+      ],
+      "media_source_tweet_id": [
+        "2046934384079667225",
+        "2046934384079667225"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047465114182590510",
+    "created_at": "2026-04-23T23:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047465114182590510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1997261936229249024",
+          "start": 3,
+          "username": "Shiro344213"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nquij0hJUV",
+          "end": 59,
+          "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+          "media_key": "3_2046934371547193345",
+          "start": 36,
+          "url": "https://t.co/Nquij0hJUV"
+        },
+        {
+          "display_url": "pic.x.com/Nquij0hJUV",
+          "end": 59,
+          "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+          "media_key": "3_2046934371568168960",
+          "start": 36,
+          "url": "https://t.co/Nquij0hJUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047465114182590510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046934384079667225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiro344213: 禁售关我鸟事 我的神医就这样助力我😋 https://t.co/Nquij0hJUV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046934371547193345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgr9z6boAE76Ft.jpg",
+        "width": 472
+      },
+      {
+        "height": 768,
+        "media_key": "3_2046934371568168960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgr9z_bsAAY57W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046934371547193345",
+            "3_2046934371568168960"
+          ],
+          "media_source_tweet_id": [
+            "2046934384079667225",
+            "2046934384079667225"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047465114182590510",
+        "created_at": "2026-04-23T23:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047465114182590510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1997261936229249024",
+              "start": 3,
+              "username": "Shiro344213"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nquij0hJUV",
+              "end": 59,
+              "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+              "media_key": "3_2046934371547193345",
+              "start": 36,
+              "url": "https://t.co/Nquij0hJUV"
+            },
+            {
+              "display_url": "pic.x.com/Nquij0hJUV",
+              "end": 59,
+              "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+              "media_key": "3_2046934371568168960",
+              "start": 36,
+              "url": "https://t.co/Nquij0hJUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047465114182590510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046934384079667225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiro344213: 禁售关我鸟事 我的神医就这样助力我😋 https://t.co/Nquij0hJUV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046934371547193345",
+            "3_2046934371568168960"
+          ]
+        },
+        "author_id": "1997261936229249024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046934384079667225",
+        "created_at": "2026-04-22T12:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046934384079667225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nquij0hJUV",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+              "media_key": "3_2046934371547193345",
+              "start": 19,
+              "url": "https://t.co/Nquij0hJUV"
+            },
+            {
+              "display_url": "pic.x.com/Nquij0hJUV",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro344213/status/2046934384079667225/photo/1",
+              "media_key": "3_2046934371568168960",
+              "start": 19,
+              "url": "https://t.co/Nquij0hJUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046934384079667225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11042,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "禁售关我鸟事 我的神医就这样助力我😋 https://t.co/Nquij0hJUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2706,
+          "like_count": 5781,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 912
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T11:09:11.000Z",
+        "description": "这里是小白的一些碎碎念 07｜分舌｜化妆师｜cosplay｜二次元｜od｜自残｜重抑重焦｜负能量｜ 🇯🇵日语学习ing同类互fo欢迎找我互动",
+        "id": "1997261936229249024",
+        "location": "福建",
+        "name": "白酱Shiro",
+        "pinned_tweet_id": "2031078396357390831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027486229235994625/2PvY2uF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 114,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 139
+        },
+        "username": "Shiro344213",
+        "verified": false
+      }
+    ]
+  }
+}

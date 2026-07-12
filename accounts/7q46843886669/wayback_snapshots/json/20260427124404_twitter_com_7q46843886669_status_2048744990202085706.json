@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048630730088148992"
+      ],
+      "media_source_tweet_id": [
+        "2048630739596693938"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048744990202085706",
+    "created_at": "2026-04-27T12:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048744990202085706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1040062430171344897",
+          "start": 3,
+          "username": "lizisu2000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vlkj4Z0DcN",
+          "end": 49,
+          "expanded_url": "https://x.com/lizisu2000/status/2048630739596693938/photo/1",
+          "media_key": "3_2048630730088148992",
+          "start": 26,
+          "url": "https://t.co/vlkj4Z0DcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048744990202085706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048630739596693938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lizisu2000: 好了游戏里我是人机 https://t.co/vlkj4Z0DcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048630730088148992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4yy37acAAVnU8.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048630730088148992"
+          ],
+          "media_source_tweet_id": [
+            "2048630739596693938"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048744990202085706",
+        "created_at": "2026-04-27T12:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048744990202085706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1040062430171344897",
+              "start": 3,
+              "username": "lizisu2000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlkj4Z0DcN",
+              "end": 49,
+              "expanded_url": "https://x.com/lizisu2000/status/2048630739596693938/photo/1",
+              "media_key": "3_2048630730088148992",
+              "start": 26,
+              "url": "https://t.co/vlkj4Z0DcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048744990202085706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048630739596693938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lizisu2000: 好了游戏里我是人机 https://t.co/vlkj4Z0DcN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048630730088148992"
+          ]
+        },
+        "author_id": "1040062430171344897",
+        "conversation_id": "2048630739596693938",
+        "created_at": "2026-04-27T05:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048630739596693938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlkj4Z0DcN",
+              "end": 33,
+              "expanded_url": "https://x.com/lizisu2000/status/2048630739596693938/photo/1",
+              "media_key": "3_2048630730088148992",
+              "start": 10,
+              "url": "https://t.co/vlkj4Z0DcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048630739596693938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11850,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 212,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好了游戏里我是人机 https://t.co/vlkj4Z0DcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2748,
+          "like_count": 6379,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1413
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-13T02:19:41.000Z",
+        "description": "讨好型人格",
+        "id": "1040062430171344897",
+        "location": "🚪66",
+        "name": "栗子酥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885784306506924032/b6XBEVGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174126,
+          "following_count": 24,
+          "like_count": 1721,
+          "listed_count": 261,
+          "media_count": 566,
+          "tweet_count": 1342
+        },
+        "username": "lizisu2000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2002266159044006032",
+    "created_at": "2025-12-22T12:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T13:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003084672906244287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417155588551847937",
+          "start": 0,
+          "username": "JealousDevil9"
+        },
+        {
+          "end": 25,
+          "id": "1629428861690843136",
+          "start": 15,
+          "username": "VentusUta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003084672906244287",
+    "in_reply_to_user_id": "1417155588551847937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003042542343053813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JealousDevil9 @VentusUta 那就是又帅又可爱好看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003042542343053813].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003042542343053813",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003042542343053813"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2002266159044006032",
+        "created_at": "2025-12-22T12:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003084672906244287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417155588551847937",
+              "start": 0,
+              "username": "JealousDevil9"
+            },
+            {
+              "end": 25,
+              "id": "1629428861690843136",
+              "start": 15,
+              "username": "VentusUta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003084672906244287",
+        "in_reply_to_user_id": "1417155588551847937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003042542343053813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JealousDevil9 @VentusUta 那就是又帅又可爱好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 1151,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 97
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T16:13:29.000Z",
+        "description": "乞求歡愉",
+        "id": "1417155588551847937",
+        "location": "Null",
+        "name": "サヤ₂",
+        "pinned_tweet_id": "1873222086057168919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711707302880026624/uOqSDoE1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 2778,
+          "like_count": 159996,
+          "listed_count": 10,
+          "media_count": 2062,
+          "tweet_count": 26921
+        },
+        "username": "JealousDevil9",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T10:31:36.000Z",
+        "description": "🍂@fallenleavesw ¦ 🌙@tokerumaisurii ¦ #黒木智子 大好き ¦ AI slop hater ¦ @grok/@gork in comments = block",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 37,
+                "tag": "黒木智子"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 1,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "tokerumaisurii"
+              },
+              {
+                "end": 70,
+                "start": 65,
+                "username": "grok"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "username": "gork"
+              }
+            ]
+          }
+        },
+        "id": "1629428861690843136",
+        "location": "China",
+        "name": "温图丝·乌塔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989687736354443267/TAS3mv8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 632,
+          "like_count": 24664,
+          "listed_count": 3,
+          "media_count": 687,
+          "tweet_count": 5909
+        },
+        "username": "VentusUta",
+        "verified": false
+      }
+    ]
+  }
+}

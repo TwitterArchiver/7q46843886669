@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2054614732649238566",
+    "created_at": "2026-05-14T04:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054778072080302539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417155588551847937",
+          "start": 0,
+          "username": "JealousDevil9"
+        },
+        {
+          "end": 25,
+          "id": "1273623965265571840",
+          "start": 15,
+          "username": "BigMac4U_"
+        },
+        {
+          "end": 40,
+          "id": "1356145157226196999",
+          "start": 26,
+          "username": "mary_sauce_22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054778072080302539",
+    "in_reply_to_user_id": "1417155588551847937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054690779205890532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JealousDevil9 @BigMac4U_ @mary_sauce_22 噢噢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054690779205890532].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054690779205890532",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054690779205890532"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2054614732649238566",
+        "created_at": "2026-05-14T04:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054778072080302539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417155588551847937",
+              "start": 0,
+              "username": "JealousDevil9"
+            },
+            {
+              "end": 25,
+              "id": "1273623965265571840",
+              "start": 15,
+              "username": "BigMac4U_"
+            },
+            {
+              "end": 40,
+              "id": "1356145157226196999",
+              "start": 26,
+              "username": "mary_sauce_22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054778072080302539",
+        "in_reply_to_user_id": "1417155588551847937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054690779205890532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JealousDevil9 @BigMac4U_ @mary_sauce_22 噢噢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2970,
+          "like_count": 12529,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3730
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T16:13:29.000Z",
+        "description": "祈求歡愉",
+        "id": "1417155588551847937",
+        "location": "Null",
+        "name": "サヤ₂",
+        "pinned_tweet_id": "1873222086057168919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711707302880026624/uOqSDoE1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 2807,
+          "like_count": 161846,
+          "listed_count": 10,
+          "media_count": 2109,
+          "tweet_count": 27415
+        },
+        "username": "JealousDevil9",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-18T14:29:58.000Z",
+        "description": "Military shits/Whisky /Wine /Photography /Flight Sims /Symphonies｜Speak Mandarin & English 🇨🇳🇲🇴🇦🇺🇭🇰🇯🇵",
+        "id": "1273623965265571840",
+        "location": "Australia",
+        "name": "🐦",
+        "pinned_tweet_id": "1634850242431709187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169964066013184/Twc-nnIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3520,
+          "following_count": 666,
+          "like_count": 35126,
+          "listed_count": 11,
+          "media_count": 1160,
+          "tweet_count": 8267
+        },
+        "username": "BigMac4U_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T07:39:43.000Z",
+        "description": "呼噜呼噜～睡大觉～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mary_sauce_22",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mary_sauce_22",
+                "start": 0,
+                "url": "https://t.co/yLjevbj9Bm"
+              }
+            ]
+          }
+        },
+        "id": "1356145157226196999",
+        "location": "银河系～",
+        "name": "某只玛莉w",
+        "pinned_tweet_id": "2049977920651719133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007444649317707776/utp0rZOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6981,
+          "following_count": 6251,
+          "like_count": 101435,
+          "listed_count": 46,
+          "media_count": 160,
+          "tweet_count": 14385
+        },
+        "url": "https://t.co/yLjevbj9Bm",
+        "username": "mary_sauce_22",
+        "verified": false
+      }
+    ]
+  }
+}

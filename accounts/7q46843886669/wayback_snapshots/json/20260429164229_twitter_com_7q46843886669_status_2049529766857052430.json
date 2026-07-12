@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049320153813528576"
+      ],
+      "media_source_tweet_id": [
+        "2049320164215406746"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049529766857052430",
+    "created_at": "2026-04-29T16:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049529766857052430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620328547847110656",
+          "start": 3,
+          "username": "NPC888666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3qoxxA7gv",
+          "end": 46,
+          "expanded_url": "https://x.com/NPC888666/status/2049320164215406746/photo/1",
+          "media_key": "3_2049320153813528576",
+          "start": 23,
+          "url": "https://t.co/S3qoxxA7gv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049529766857052430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049320164215406746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NPC888666: 这玩的有点大啊 https://t.co/S3qoxxA7gv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1665,
+        "media_key": "3_2049320153813528576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCl0ncasAAL7QK.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049320153813528576"
+          ],
+          "media_source_tweet_id": [
+            "2049320164215406746"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049529766857052430",
+        "created_at": "2026-04-29T16:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049529766857052430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620328547847110656",
+              "start": 3,
+              "username": "NPC888666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3qoxxA7gv",
+              "end": 46,
+              "expanded_url": "https://x.com/NPC888666/status/2049320164215406746/photo/1",
+              "media_key": "3_2049320153813528576",
+              "start": 23,
+              "url": "https://t.co/S3qoxxA7gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049529766857052430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049320164215406746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NPC888666: 这玩的有点大啊 https://t.co/S3qoxxA7gv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049320153813528576"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "conversation_id": "2049320164215406746",
+        "created_at": "2026-04-29T02:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049320164215406746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3qoxxA7gv",
+              "end": 31,
+              "expanded_url": "https://x.com/NPC888666/status/2049320164215406746/photo/1",
+              "media_key": "3_2049320153813528576",
+              "start": 8,
+              "url": "https://t.co/S3qoxxA7gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049320164215406746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 47248,
+          "like_count": 753,
+          "quote_count": 0,
+          "reply_count": 158,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这玩的有点大啊 https://t.co/S3qoxxA7gv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2788,
+          "like_count": 7162,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1785
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42230,
+          "following_count": 1322,
+          "like_count": 7251,
+          "listed_count": 243,
+          "media_count": 1035,
+          "tweet_count": 7481
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

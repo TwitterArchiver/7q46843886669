@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049493591425511424"
+      ],
+      "media_source_tweet_id": [
+        "2049493598069240186"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049615913947902272",
+    "created_at": "2026-04-29T22:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049615913947902272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721736749926567936",
+          "start": 3,
+          "username": "Dr0gsneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fqUBuZ2bMd",
+          "end": 38,
+          "expanded_url": "https://x.com/Dr0gsneko/status/2049493598069240186/photo/1",
+          "media_key": "3_2049493591425511424",
+          "start": 15,
+          "url": "https://t.co/fqUBuZ2bMd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049615913947902272",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049493598069240186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr0gsneko: https://t.co/fqUBuZ2bMd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049493591425511424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFDkA5bcAAYFbd.jpg",
+        "width": 1468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049493591425511424"
+          ],
+          "media_source_tweet_id": [
+            "2049493598069240186"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049615913947902272",
+        "created_at": "2026-04-29T22:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049615913947902272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721736749926567936",
+              "start": 3,
+              "username": "Dr0gsneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqUBuZ2bMd",
+              "end": 38,
+              "expanded_url": "https://x.com/Dr0gsneko/status/2049493598069240186/photo/1",
+              "media_key": "3_2049493591425511424",
+              "start": 15,
+              "url": "https://t.co/fqUBuZ2bMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049615913947902272",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049493598069240186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr0gsneko: https://t.co/fqUBuZ2bMd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049493591425511424"
+          ]
+        },
+        "author_id": "1721736749926567936",
+        "conversation_id": "2049493598069240186",
+        "created_at": "2026-04-29T14:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049493598069240186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqUBuZ2bMd",
+              "end": 23,
+              "expanded_url": "https://x.com/Dr0gsneko/status/2049493598069240186/photo/1",
+              "media_key": "3_2049493591425511424",
+              "start": 0,
+              "url": "https://t.co/fqUBuZ2bMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493598069240186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 21794,
+          "like_count": 2958,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fqUBuZ2bMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2793,
+          "like_count": 7357,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1863
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T03:50:27.000Z",
+        "description": "FA #麻薬ねこ #drugsneko / @Drugsneko18 https://t.co/J0gbt2EyOF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "麻薬ねこ"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "drugsneko"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Drugsneko18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "craftifyx.com/ko/products/so…",
+                "end": 58,
+                "expanded_url": "https://craftifyx.com/ko/products/society-ruiner-chan",
+                "start": 35,
+                "url": "https://t.co/J0gbt2EyOF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/Hawawa",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/Hawawa",
+                "start": 0,
+                "url": "https://t.co/IGBmkEVwIJ"
+              }
+            ]
+          }
+        },
+        "id": "1721736749926567936",
+        "location": "CM closed",
+        "name": "Drugsneko",
+        "pinned_tweet_id": "1903135371996864546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940053685289074688/QrzvgZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67721,
+          "following_count": 71,
+          "like_count": 14815,
+          "listed_count": 106,
+          "media_count": 239,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/IGBmkEVwIJ",
+        "username": "Dr0gsneko",
+        "verified": true
+      }
+    ]
+  }
+}

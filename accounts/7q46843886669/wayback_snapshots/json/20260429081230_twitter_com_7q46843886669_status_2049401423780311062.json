@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049369695695118363",
+    "created_at": "2026-04-29T08:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049401423780311062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "SonjaTasha26957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049401423780311062",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049369695695118363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonjaTasha26957 加巴喷丁不是当饭吃才能有药效吗（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049369695695118363",
+        "created_at": "2026-04-29T08:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049401423780311062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049401423780311062",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049369695695118363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonjaTasha26957 加巴喷丁不是当饭吃才能有药效吗（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757603703811371008",
+        "conversation_id": "2049369695695118363",
+        "created_at": "2026-04-29T06:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049369695695118363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049369695695118363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这药效咋这么强我好迷糊啊 就加了2t加巴喷丁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2782,
+          "like_count": 7090,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1754
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049254324233240852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 248,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 490
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

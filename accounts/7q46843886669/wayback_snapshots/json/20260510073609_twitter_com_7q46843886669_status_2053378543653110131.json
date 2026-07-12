@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053288618190663680",
+        "3_2053288618136100864"
+      ],
+      "media_source_tweet_id": [
+        "2053288635353726983",
+        "2053288635353726983"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053378543653110131",
+    "created_at": "2026-05-10T07:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053378543653110131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BTS3May17h",
+          "end": 73,
+          "expanded_url": "https://x.com/__fanqie__/status/2053288635353726983/photo/1",
+          "media_key": "3_2053288618190663680",
+          "start": 50,
+          "url": "https://t.co/BTS3May17h"
+        },
+        {
+          "display_url": "pic.x.com/BTS3May17h",
+          "end": 73,
+          "expanded_url": "https://x.com/__fanqie__/status/2053288635353726983/photo/1",
+          "media_key": "3_2053288618136100864",
+          "start": 50,
+          "url": "https://t.co/BTS3May17h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053378543653110131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053288635353726983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 弘哥他救下了7770个人唯独没能救下自己\n这就是调查兵团存在的意义 https://t.co/BTS3May17h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2053288618190663680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6_HpSbcAAgiQW.jpg",
+        "width": 982
+      },
+      {
+        "height": 584,
+        "media_key": "3_2053288618136100864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6_HpFa4AAaCwL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053288618190663680",
+            "3_2053288618136100864"
+          ],
+          "media_source_tweet_id": [
+            "2053288635353726983",
+            "2053288635353726983"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053378543653110131",
+        "created_at": "2026-05-10T07:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053378543653110131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTS3May17h",
+              "end": 73,
+              "expanded_url": "https://x.com/__fanqie__/status/2053288635353726983/photo/1",
+              "media_key": "3_2053288618190663680",
+              "start": 50,
+              "url": "https://t.co/BTS3May17h"
+            },
+            {
+              "display_url": "pic.x.com/BTS3May17h",
+              "end": 73,
+              "expanded_url": "https://x.com/__fanqie__/status/2053288635353726983/photo/1",
+              "media_key": "3_2053288618136100864",
+              "start": 50,
+              "url": "https://t.co/BTS3May17h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053378543653110131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053288635353726983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 弘哥他救下了7770个人唯独没能救下自己\n这就是调查兵团存在的意义 https://t.co/BTS3May17h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053288618190663680",
+            "3_2053288618136100864"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053288635353726983",
+        "created_at": "2026-05-10T01:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053288635353726983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTS3May17h",
+              "end": 57,
+              "expanded_url": "https://x.com/__fanqie__/status/2053288635353726983/photo/1",
+              "media_key": "3_2053288618190663680",
+              "start": 34,
+              "url": "https://t.co/BTS3May17h"
+            },
+            {
+              "display_url": "pic.x.com/BTS3May17h",
+              "end": 57,
+              "expanded_url": "https://x.com/__fanqie__/status/2053288635353726983/photo/1",
+              "media_key": "3_2053288618136100864",
+              "start": 34,
+              "url": "https://t.co/BTS3May17h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053288635353726983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 67947,
+          "like_count": 725,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "弘哥他救下了7770个人唯独没能救下自己\n这就是调查兵团存在的意义 https://t.co/BTS3May17h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2962,
+          "like_count": 11797,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3423
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2052933123663675802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6544,
+          "following_count": 2962,
+          "like_count": 1534,
+          "listed_count": 11,
+          "media_count": 1216,
+          "tweet_count": 9266
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

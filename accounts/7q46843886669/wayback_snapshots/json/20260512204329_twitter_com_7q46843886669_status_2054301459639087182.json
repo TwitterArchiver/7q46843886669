@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053892481775726971",
+    "created_at": "2026-05-12T20:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054301459639087182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054301459639087182",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053892481775726971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200x0x1x 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053892481775726971",
+        "created_at": "2026-05-12T20:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054301459639087182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054301459639087182",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053892481775726971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2053892481775726971",
+        "created_at": "2026-05-11T17:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053892481775726971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053892481775726971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3064,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "根本没嗑过药的文青和叛逆小登鼓吹吸毒的你们都是一群蠢b，你们活得太幸福了，也不用真的去碰什么药物，只需要做做样子，精神上高潮一下，然后继续过你们的健全小资人生，你们说对不对？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 2970,
+          "like_count": 12346,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3645
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052507071212355589/nX90m-bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 1059,
+          "like_count": 27904,
+          "listed_count": 6,
+          "media_count": 2419,
+          "tweet_count": 26351
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

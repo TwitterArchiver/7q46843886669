@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052056931246759943"
+      ],
+      "media_source_tweet_id": [
+        "2052056939337572552"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052185780517556644",
+    "created_at": "2026-05-07T00:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052185780517556644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1474091860025122817",
+          "start": 3,
+          "username": "ShitpostGate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xsgd6noVG4",
+          "end": 60,
+          "expanded_url": "https://x.com/ShitpostGate/status/2052056939337572552/photo/1",
+          "media_key": "3_2052056931246759943",
+          "start": 37,
+          "url": "https://t.co/xsgd6noVG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052185780517556644",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 602
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052056939337572552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostGate: The future is here https://t.co/xsgd6noVG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 803,
+        "media_key": "3_2052056931246759943",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpe6B3XYAc1bJy.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052056931246759943"
+          ],
+          "media_source_tweet_id": [
+            "2052056939337572552"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052185780517556644",
+        "created_at": "2026-05-07T00:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052185780517556644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1474091860025122817",
+              "start": 3,
+              "username": "ShitpostGate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xsgd6noVG4",
+              "end": 60,
+              "expanded_url": "https://x.com/ShitpostGate/status/2052056939337572552/photo/1",
+              "media_key": "3_2052056931246759943",
+              "start": 37,
+              "url": "https://t.co/xsgd6noVG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052185780517556644",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 602
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052056939337572552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostGate: The future is here https://t.co/xsgd6noVG4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052056931246759943"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "conversation_id": "2052056939337572552",
+        "created_at": "2026-05-06T16:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052056939337572552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xsgd6noVG4",
+              "end": 42,
+              "expanded_url": "https://x.com/ShitpostGate/status/2052056939337572552/photo/1",
+              "media_key": "3_2052056931246759943",
+              "start": 19,
+              "url": "https://t.co/xsgd6noVG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052056939337572552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1317,
+          "impression_count": 171879,
+          "like_count": 13818,
+          "quote_count": 30,
+          "reply_count": 31,
+          "retweet_count": 602
+        },
+        "reply_settings": "everyone",
+        "text": "The future is here https://t.co/xsgd6noVG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 2898,
+          "like_count": 10803,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3068
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love Shitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "pinned_tweet_id": "1989805597244756334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607458,
+          "following_count": 2551,
+          "like_count": 4211,
+          "listed_count": 3218,
+          "media_count": 41377,
+          "tweet_count": 56142
+        },
+        "url": "",
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

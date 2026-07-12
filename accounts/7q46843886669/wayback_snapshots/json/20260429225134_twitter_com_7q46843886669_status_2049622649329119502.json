@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049460837157572608"
+      ],
+      "media_source_tweet_id": [
+        "2049460842769613088"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049622649329119502",
+    "created_at": "2026-04-29T22:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049622649329119502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1581284165550415873",
+          "start": 3,
+          "username": "iqywo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIvqLWK2e5",
+          "end": 39,
+          "expanded_url": "https://x.com/iqywo_/status/2049460842769613088/photo/1",
+          "media_key": "3_2049460837157572608",
+          "start": 16,
+          "url": "https://t.co/XIvqLWK2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049622649329119502",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049460842769613088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iqywo_: .★ﾟ https://t.co/XIvqLWK2e5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2049460837157572608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHElxdvaEAAEy-G.jpg",
+        "width": 791
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049460837157572608"
+          ],
+          "media_source_tweet_id": [
+            "2049460842769613088"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049622649329119502",
+        "created_at": "2026-04-29T22:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049622649329119502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1581284165550415873",
+              "start": 3,
+              "username": "iqywo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIvqLWK2e5",
+              "end": 39,
+              "expanded_url": "https://x.com/iqywo_/status/2049460842769613088/photo/1",
+              "media_key": "3_2049460837157572608",
+              "start": 16,
+              "url": "https://t.co/XIvqLWK2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049622649329119502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049460842769613088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iqywo_: .★ﾟ https://t.co/XIvqLWK2e5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049460837157572608"
+          ]
+        },
+        "author_id": "1581284165550415873",
+        "conversation_id": "2049460842769613088",
+        "created_at": "2026-04-29T12:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049460842769613088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIvqLWK2e5",
+              "end": 27,
+              "expanded_url": "https://x.com/iqywo_/status/2049460842769613088/photo/1",
+              "media_key": "3_2049460837157572608",
+              "start": 4,
+              "url": "https://t.co/XIvqLWK2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049460842769613088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 7808,
+          "like_count": 1021,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": ".★ﾟ https://t.co/XIvqLWK2e5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2793,
+          "like_count": 7382,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1873
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T14:01:46.000Z",
+        "description": "oc illustration｜Don't repost or use my art for Al training. https://t.co/0orF5X8uVs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@iqywo_",
+                "end": 83,
+                "expanded_url": "https://skeb.jp/@iqywo_",
+                "start": 60,
+                "url": "https://t.co/0orF5X8uVs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/iqyw0",
+                "end": 23,
+                "expanded_url": "https://lit.link/iqyw0",
+                "start": 0,
+                "url": "https://t.co/vA7ihDFNo9"
+              }
+            ]
+          }
+        },
+        "id": "1581284165550415873",
+        "location": "無断転載、無断使用、自作発言、トレス、加工、AI学習禁止",
+        "name": "夏崎ゆら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762436027774554112/IvwdjbZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9598,
+          "following_count": 63,
+          "like_count": 695,
+          "listed_count": 60,
+          "media_count": 85,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/vA7ihDFNo9",
+        "username": "iqywo_",
+        "verified": false
+      }
+    ]
+  }
+}

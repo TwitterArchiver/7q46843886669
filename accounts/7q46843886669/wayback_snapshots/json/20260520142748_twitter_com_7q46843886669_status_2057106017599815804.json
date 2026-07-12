@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057106017599815804",
+    "created_at": "2026-05-20T14:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057106017599815804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057106017599815804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056522733820039665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 我没有不知足啊 我想更幸福 这也有错吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057106017599815804",
+        "created_at": "2026-05-20T14:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057106017599815804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057106017599815804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056522733820039665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 我没有不知足啊 我想更幸福 这也有错吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2056522733820039665",
+        "created_at": "2026-05-18T23:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T00:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056522733820039665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056522733820039665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 31299,
+          "like_count": 1192,
+          "quote_count": 6,
+          "reply_count": 94,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "我没有不知足啊 我想更幸福 这也有错吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 3002,
+          "like_count": 13824,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 4291
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdZDt"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12258,
+          "following_count": 2,
+          "like_count": 3713,
+          "listed_count": 35,
+          "media_count": 510,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/TMmfJOdZDt",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

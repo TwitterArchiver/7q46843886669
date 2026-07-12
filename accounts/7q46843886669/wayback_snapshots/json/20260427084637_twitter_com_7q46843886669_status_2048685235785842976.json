@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048152411194404864"
+      ],
+      "media_source_tweet_id": [
+        "2048152418374865388"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048685235785842976",
+    "created_at": "2026-04-27T08:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048685235785842976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022459292297601025",
+          "start": 3,
+          "username": "amourloveof"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qlCq5O1cFH",
+          "end": 40,
+          "expanded_url": "https://x.com/amourloveof/status/2048152418374865388/photo/1",
+          "media_key": "3_2048152411194404864",
+          "start": 17,
+          "url": "https://t.co/qlCq5O1cFH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048685235785842976",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2016
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048152418374865388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amourloveof: https://t.co/qlCq5O1cFH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2048152411194404864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGx_xDMaMAA1Cvv.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048152411194404864"
+          ],
+          "media_source_tweet_id": [
+            "2048152418374865388"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048685235785842976",
+        "created_at": "2026-04-27T08:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048685235785842976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022459292297601025",
+              "start": 3,
+              "username": "amourloveof"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlCq5O1cFH",
+              "end": 40,
+              "expanded_url": "https://x.com/amourloveof/status/2048152418374865388/photo/1",
+              "media_key": "3_2048152411194404864",
+              "start": 17,
+              "url": "https://t.co/qlCq5O1cFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048685235785842976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2016
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048152418374865388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amourloveof: https://t.co/qlCq5O1cFH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048152411194404864"
+          ]
+        },
+        "author_id": "2022459292297601025",
+        "conversation_id": "2048152418374865388",
+        "created_at": "2026-04-25T21:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048152418374865388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlCq5O1cFH",
+              "end": 23,
+              "expanded_url": "https://x.com/amourloveof/status/2048152418374865388/photo/1",
+              "media_key": "3_2048152411194404864",
+              "start": 0,
+              "url": "https://t.co/qlCq5O1cFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048152418374865388",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2424,
+          "impression_count": 508750,
+          "like_count": 25955,
+          "quote_count": 132,
+          "reply_count": 121,
+          "retweet_count": 2016
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qlCq5O1cFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2741,
+          "like_count": 6201,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1280
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T23:54:18.000Z",
+        "description": "the land of those who can hear the magical note of love 🤍",
+        "id": "2022459292297601025",
+        "name": "ꫂ ၴႅၴ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023080343729750017/KbwzDFZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20532,
+          "following_count": 358,
+          "like_count": 1427,
+          "listed_count": 15,
+          "media_count": 301,
+          "tweet_count": 299
+        },
+        "username": "amourloveof",
+        "verified": false
+      }
+    ]
+  }
+}

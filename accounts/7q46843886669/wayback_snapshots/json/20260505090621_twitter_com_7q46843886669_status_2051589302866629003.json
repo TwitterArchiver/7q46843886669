@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051238029403308032"
+      ],
+      "media_source_tweet_id": [
+        "2051238031647297879"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051589302866629003",
+    "created_at": "2026-05-05T09:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051589302866629003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870052270836199424",
+          "start": 3,
+          "username": "FusiKayoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sJGXNMEo6p",
+          "end": 51,
+          "expanded_url": "https://x.com/FusiKayoko/status/2051238031647297879/photo/1",
+          "media_key": "3_2051238029403308032",
+          "start": 28,
+          "url": "https://t.co/sJGXNMEo6p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051589302866629003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051238031647297879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FusiKayoko: 俩眼珠子给我笑爆出来了 https://t.co/sJGXNMEo6p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2051238029403308032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHd2HqxbQAASRU4.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051238029403308032"
+          ],
+          "media_source_tweet_id": [
+            "2051238031647297879"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051589302866629003",
+        "created_at": "2026-05-05T09:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051589302866629003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870052270836199424",
+              "start": 3,
+              "username": "FusiKayoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJGXNMEo6p",
+              "end": 51,
+              "expanded_url": "https://x.com/FusiKayoko/status/2051238031647297879/photo/1",
+              "media_key": "3_2051238029403308032",
+              "start": 28,
+              "url": "https://t.co/sJGXNMEo6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051589302866629003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051238031647297879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FusiKayoko: 俩眼珠子给我笑爆出来了 https://t.co/sJGXNMEo6p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051238029403308032"
+          ]
+        },
+        "author_id": "1870052270836199424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051238031647297879",
+        "created_at": "2026-05-04T09:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051238031647297879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJGXNMEo6p",
+              "end": 35,
+              "expanded_url": "https://x.com/FusiKayoko/status/2051238031647297879/photo/1",
+              "media_key": "3_2051238029403308032",
+              "start": 12,
+              "url": "https://t.co/sJGXNMEo6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051238031647297879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9233,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "俩眼珠子给我笑爆出来了 https://t.co/sJGXNMEo6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 2877,
+          "like_count": 9968,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2811
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "你好，我是芙泗\n严重焦虑/药物过量/友好lgbt+  把我当成一个赛博生物就好|目前休学中|瓦批\n我舔舐手腕上的血，感受着鲜活的生命\n我伸手无法摘下天上的药片，便取出抽屉里的星星\n本人完全忠于中华人民共和国，不聊任何政治话题，对中国的一切决策都给予肯定和支持",
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗official🍥",
+        "pinned_tweet_id": "2041075669493518531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015766161791827968/0AitDIrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 310,
+          "like_count": 12250,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 5358
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

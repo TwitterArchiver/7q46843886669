@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1934140684342349978",
+    "created_at": "2025-10-27T09:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982745497199944103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1865246276880834560",
+          "start": 0,
+          "username": "Yan17286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982745497199944103",
+    "in_reply_to_user_id": "1865246276880834560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934140684342349978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan17286 我操蕾塞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1934140659746918401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtdyrrna0AEcPQN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1934140684342349978",
+        "created_at": "2025-10-27T09:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982745497199944103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1865246276880834560",
+              "start": 0,
+              "username": "Yan17286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982745497199944103",
+        "in_reply_to_user_id": "1865246276880834560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934140684342349978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan17286 我操蕾塞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934140659746918401"
+          ]
+        },
+        "author_id": "1865246276880834560",
+        "conversation_id": "1934140684342349978",
+        "created_at": "2025-06-15T06:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T07:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934140684342349978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpB1Lxe5K8",
+              "end": 38,
+              "expanded_url": "https://x.com/Yan17286/status/1934140684342349978/photo/1",
+              "media_key": "3_1934140659746918401",
+              "start": 15,
+              "url": "https://t.co/WpB1Lxe5K8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934140684342349978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4742,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期末周这个人已经快熬不下去了 https://t.co/WpB1Lxe5K8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 773,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T04:05:51.000Z",
+        "description": "4i  dom  / 发我想发的",
+        "id": "1865246276880834560",
+        "location": "🚪188",
+        "name": "厌千山",
+        "pinned_tweet_id": "1982080036799971477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980915475614769152/org0qcj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3969,
+          "following_count": 60,
+          "like_count": 755,
+          "listed_count": 10,
+          "media_count": 80,
+          "tweet_count": 295
+        },
+        "username": "Yan17286",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052849783979884680",
+    "created_at": "2026-05-08T20:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T21:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052849783979884680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989683790617382912",
+          "start": 3,
+          "username": "sequel_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052849783979884680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052761690677383292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sequel_ovo: 从逼里爬出来，一生都在迷恋逼。逼教徒。哲学说什么我从哪儿来？你从逼里来，你往哪儿去？往逼里去。你是谁？你是拜逼教徒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052849783979884680",
+        "created_at": "2026-05-08T20:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052849783979884680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989683790617382912",
+              "start": 3,
+              "username": "sequel_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052849783979884680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052761690677383292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sequel_ovo: 从逼里爬出来，一生都在迷恋逼。逼教徒。哲学说什么我从哪儿来？你从逼里来，你往哪儿去？往逼里去。你是谁？你是拜逼教徒。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989683790617382912",
+        "conversation_id": "2052761690677383292",
+        "created_at": "2026-05-08T14:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052761690677383292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052761690677383292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 337,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从逼里爬出来，一生都在迷恋逼。逼教徒。哲学说什么我从哪儿来？你从逼里来，你往哪儿去？往逼里去。你是谁？你是拜逼教徒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2948,
+          "like_count": 11404,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3240
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T13:16:06.000Z",
+        "description": "喜欢我就给我过门槛🗝️ @sequel5418 @sequel2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "sequel5418"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "sequel2778"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@sequeliscute",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@sequeliscute",
+                "start": 0,
+                "url": "https://t.co/hdT02eDQD1"
+              }
+            ]
+          }
+        },
+        "id": "1989683790617382912",
+        "location": "🚪88/188/288/888",
+        "name": "续集",
+        "pinned_tweet_id": "2028676407652753761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032109712427401217/ANzWnftu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 59,
+          "like_count": 3756,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/hdT02eDQD1",
+        "username": "sequel_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

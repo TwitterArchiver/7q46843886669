@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046258422627131392"
+      ],
+      "media_source_tweet_id": [
+        "2046258425344987616"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046681659593105611",
+    "created_at": "2026-04-21T20:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T21:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046681659593105611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFEDncCln0",
+          "end": 45,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2046258425344987616/photo/1",
+          "media_key": "3_2046258422627131392",
+          "start": 22,
+          "url": "https://t.co/zFEDncCln0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046681659593105611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046258425344987616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 我已急哭 https://t.co/zFEDncCln0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2046258422627131392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXFMZ9XYAA_YVO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046258422627131392"
+          ],
+          "media_source_tweet_id": [
+            "2046258425344987616"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046681659593105611",
+        "created_at": "2026-04-21T20:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046681659593105611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFEDncCln0",
+              "end": 45,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2046258425344987616/photo/1",
+              "media_key": "3_2046258422627131392",
+              "start": 22,
+              "url": "https://t.co/zFEDncCln0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046681659593105611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046258425344987616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 我已急哭 https://t.co/zFEDncCln0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046258422627131392"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046258425344987616",
+        "created_at": "2026-04-20T16:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046258425344987616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFEDncCln0",
+              "end": 28,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2046258425344987616/photo/1",
+              "media_key": "3_2046258422627131392",
+              "start": 5,
+              "url": "https://t.co/zFEDncCln0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046258425344987616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 60205,
+          "like_count": 1711,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "我已急哭 https://t.co/zFEDncCln0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 2671,
+          "like_count": 4740,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 701
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "星野真凛（hoshino marin） | 白夜行（びゃくやこう）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  永遠のlove💍： @Yogiuras  ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "Yogiuras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野 まりん",
+        "pinned_tweet_id": "2046609476602548612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035001529271263232/11cFwK_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 2201,
+          "like_count": 40466,
+          "listed_count": 5,
+          "media_count": 2168,
+          "tweet_count": 19989
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063377676744950149",
+    "created_at": "2026-06-07T06:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063510763797671955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        },
+        {
+          "end": 26,
+          "id": "1689214483481452544",
+          "start": 10,
+          "username": "ZianTT_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063510763797671955",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063485895630799002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo @ZianTT_Official ：卧槽哪里来的那么多可以面基的推友我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063377676744950149",
+        "created_at": "2026-06-07T06:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063510763797671955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 26,
+              "id": "1689214483481452544",
+              "start": 10,
+              "username": "ZianTT_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063510763797671955",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063485895630799002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @ZianTT_Official ：卧槽哪里来的那么多可以面基的推友我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2063377676744950149",
+        "created_at": "2026-06-07T04:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063485895630799002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063485895630799002",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063377676744950149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZianTT_Official 卧槽哪里来的那么多可以面基的推友我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 3360,
+          "like_count": 17251,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 4750
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷前@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕割同类查成分回fo🩵漏fo戳我🩵我素non-binary 友跨友全部 🩵社恐请勿私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 717,
+          "like_count": 1648,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1160
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 486,
+          "like_count": 2960,
+          "listed_count": 7,
+          "media_count": 224,
+          "tweet_count": 3467
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      }
+    ]
+  }
+}

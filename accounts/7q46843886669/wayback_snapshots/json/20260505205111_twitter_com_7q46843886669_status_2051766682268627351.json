@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051652773264134144"
+      ],
+      "media_source_tweet_id": [
+        "2051652781292003716"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051766682268627351",
+    "created_at": "2026-05-05T20:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T21:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051766682268627351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1460942579437281281",
+          "start": 3,
+          "username": "f6o_l"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNhdZzKQBO",
+          "end": 37,
+          "expanded_url": "https://x.com/f6o_l/status/2051652781292003716/photo/1",
+          "media_key": "3_2051652773264134144",
+          "start": 14,
+          "url": "https://t.co/wNhdZzKQBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051766682268627351",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051652781292003716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @f6o_l: OC https://t.co/wNhdZzKQBO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1835,
+        "media_key": "3_2051652773264134144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjvU8DakAAxtIZ.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051652773264134144"
+          ],
+          "media_source_tweet_id": [
+            "2051652781292003716"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051766682268627351",
+        "created_at": "2026-05-05T20:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051766682268627351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1460942579437281281",
+              "start": 3,
+              "username": "f6o_l"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNhdZzKQBO",
+              "end": 37,
+              "expanded_url": "https://x.com/f6o_l/status/2051652781292003716/photo/1",
+              "media_key": "3_2051652773264134144",
+              "start": 14,
+              "url": "https://t.co/wNhdZzKQBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051766682268627351",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051652781292003716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @f6o_l: OC https://t.co/wNhdZzKQBO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051652773264134144"
+          ]
+        },
+        "author_id": "1460942579437281281",
+        "conversation_id": "2051652781292003716",
+        "created_at": "2026-05-05T13:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051652781292003716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNhdZzKQBO",
+              "end": 26,
+              "expanded_url": "https://x.com/f6o_l/status/2051652781292003716/photo/1",
+              "media_key": "3_2051652773264134144",
+              "start": 3,
+              "url": "https://t.co/wNhdZzKQBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051652781292003716",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1864,
+          "impression_count": 95912,
+          "like_count": 12125,
+          "quote_count": 38,
+          "reply_count": 9,
+          "retweet_count": 1130
+        },
+        "reply_settings": "everyone",
+        "text": "OC https://t.co/wNhdZzKQBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2890,
+          "like_count": 10468,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2938
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T12:07:30.000Z",
+        "description": "成人済み、雑多 無断転載・使用禁止https://t.co/O87LiylRPQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/f6o_l?t=n9NAJC…",
+                "end": 40,
+                "expanded_url": "https://marshmallow-qa.com/f6o_l?t=n9NAJC&utm_medium=url_text&utm_source=promotion",
+                "start": 17,
+                "url": "https://t.co/O87LiylRPQ"
+              }
+            ]
+          }
+        },
+        "id": "1460942579437281281",
+        "name": "蝋燭肉🥩",
+        "pinned_tweet_id": "2003775572900737327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691314944401424384/sn3QvtYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9487,
+          "following_count": 146,
+          "like_count": 28868,
+          "listed_count": 34,
+          "media_count": 264,
+          "tweet_count": 7496
+        },
+        "username": "f6o_l",
+        "verified": false
+      }
+    ]
+  }
+}

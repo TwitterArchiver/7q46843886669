@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063917213904417260",
+    "created_at": "2026-06-08T10:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063933631811461351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063933631811461351",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063917213904417260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 好怕被問三問四"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7866,
+        "height": 1280,
+        "media_key": "13_2063916691784912896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063916691784912896/img/xNxC6wZCkL606n0K.jpg",
+        "public_metrics": {
+          "view_count": 70
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063916691784912896/vid/avc1/320x568/YoZwle2eSNhddGXH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063916691784912896/vid/avc1/480x852/pvzFpZckJsEsI20D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063916691784912896/vid/avc1/720x1280/M5x668piVcx0RToE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063916691784912896/pl/CIWLjoZEqOEpzGCN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063917213904417260",
+        "created_at": "2026-06-08T10:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063933631811461351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063933631811461351",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063917213904417260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 好怕被問三問四"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063916691784912896"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "conversation_id": "2063917213904417260",
+        "created_at": "2026-06-08T09:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063917213904417260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5aj1R1TliA",
+              "end": 62,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2063917213904417260/video/1",
+              "media_key": "13_2063916691784912896",
+              "start": 39,
+              "url": "https://t.co/5aj1R1TliA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063917213904417260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好难受啊，我初三开始就一直穿长袖上学，尤其是成年之后，露出来我觉得特别尴尬 https://t.co/5aj1R1TliA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 3377,
+          "like_count": 17643,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4871
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 204,
+          "like_count": 2836,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 890
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

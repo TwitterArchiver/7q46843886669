@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057101369224658944"
+      ],
+      "media_source_tweet_id": [
+        "2057101376468250834"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057491391618666515",
+    "created_at": "2026-05-21T15:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057491391618666515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3019926270",
+          "start": 3,
+          "username": "ywwuyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZQEsGqMvJ",
+          "end": 57,
+          "expanded_url": "https://x.com/ywwuyi/status/2057101376468250834/photo/1",
+          "media_key": "3_2057101369224658944",
+          "start": 34,
+          "url": "https://t.co/cZQEsGqMvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057491391618666515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057101376468250834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ywwuyi: 不是说为了节省油墨要大力推广光剑打码了吗。 https://t.co/cZQEsGqMvJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2057101369224658944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxKy9ubAAA-WbH.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057101369224658944"
+          ],
+          "media_source_tweet_id": [
+            "2057101376468250834"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057491391618666515",
+        "created_at": "2026-05-21T15:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057491391618666515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3019926270",
+              "start": 3,
+              "username": "ywwuyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZQEsGqMvJ",
+              "end": 57,
+              "expanded_url": "https://x.com/ywwuyi/status/2057101376468250834/photo/1",
+              "media_key": "3_2057101369224658944",
+              "start": 34,
+              "url": "https://t.co/cZQEsGqMvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057491391618666515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057101376468250834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ywwuyi: 不是说为了节省油墨要大力推广光剑打码了吗。 https://t.co/cZQEsGqMvJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057101369224658944"
+          ]
+        },
+        "author_id": "3019926270",
+        "conversation_id": "2057101376468250834",
+        "created_at": "2026-05-20T14:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057101376468250834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZQEsGqMvJ",
+              "end": 45,
+              "expanded_url": "https://x.com/ywwuyi/status/2057101376468250834/photo/1",
+              "media_key": "3_2057101369224658944",
+              "start": 22,
+              "url": "https://t.co/cZQEsGqMvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057101376468250834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 90669,
+          "like_count": 708,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "不是说为了节省油墨要大力推广光剑打码了吗。 https://t.co/cZQEsGqMvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 3037,
+          "like_count": 14341,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 4356
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-14T17:01:05.000Z",
+        "description": "中華艦これ提督，RTA勢，揭示板“艦娘國際”管理人，追尋鋼之魂與黃金意志的男人。\nB站https://t.co/9YSUfBAYFs\n图奇https://t.co/gSS34LtVSl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "live.bilibili.com/6655",
+                "end": 66,
+                "expanded_url": "http://live.bilibili.com/6655",
+                "start": 43,
+                "url": "https://t.co/9YSUfBAYFs"
+              },
+              {
+                "display_url": "twitch.tv/wuyikoei",
+                "end": 92,
+                "expanded_url": "http://twitch.tv/wuyikoei",
+                "start": 69,
+                "url": "https://t.co/gSS34LtVSl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbs.nga.cn/poi",
+                "end": 23,
+                "expanded_url": "http://bbs.nga.cn/poi",
+                "start": 0,
+                "url": "https://t.co/N6H8fxoToO"
+              }
+            ]
+          }
+        },
+        "id": "3019926270",
+        "location": "义乌",
+        "name": "ywwuyi",
+        "pinned_tweet_id": "1117710263933784064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966969696137363463/Odri67RK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89375,
+          "following_count": 64,
+          "like_count": 175,
+          "listed_count": 249,
+          "media_count": 1430,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/N6H8fxoToO",
+        "username": "ywwuyi",
+        "verified": false
+      }
+    ]
+  }
+}

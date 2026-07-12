@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049305795528105985"
+      ],
+      "media_source_tweet_id": [
+        "2049305800368160844"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049530802938196028",
+    "created_at": "2026-04-29T16:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049530802938196028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1025546987578556417",
+          "start": 3,
+          "username": "FTMiaoX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lYNjxzwVSs",
+          "end": 49,
+          "expanded_url": "https://x.com/FTMiaoX/status/2049305800368160844/photo/1",
+          "media_key": "3_2049305795528105985",
+          "start": 26,
+          "url": "https://t.co/lYNjxzwVSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049530802938196028",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049305800368160844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FTMiaoX: 我说Claude大人英明 https://t.co/lYNjxzwVSs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2049305795528105985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCYw2qaIAE2DLu.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049305795528105985"
+          ],
+          "media_source_tweet_id": [
+            "2049305800368160844"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049530802938196028",
+        "created_at": "2026-04-29T16:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049530802938196028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1025546987578556417",
+              "start": 3,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYNjxzwVSs",
+              "end": 49,
+              "expanded_url": "https://x.com/FTMiaoX/status/2049305800368160844/photo/1",
+              "media_key": "3_2049305795528105985",
+              "start": 26,
+              "url": "https://t.co/lYNjxzwVSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049530802938196028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049305800368160844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FTMiaoX: 我说Claude大人英明 https://t.co/lYNjxzwVSs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049305795528105985"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "2049305800368160844",
+        "created_at": "2026-04-29T01:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049305800368160844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYNjxzwVSs",
+              "end": 36,
+              "expanded_url": "https://x.com/FTMiaoX/status/2049305800368160844/photo/1",
+              "media_key": "3_2049305795528105985",
+              "start": 13,
+              "url": "https://t.co/lYNjxzwVSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049305800368160844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1628,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我说Claude大人英明 https://t.co/lYNjxzwVSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2788,
+          "like_count": 7169,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1788
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "FTX/FTM/enby/ta/他/AuDHD/S/Dom/我是发条/人类友好/❤️属于我的@1234566nya/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐/我会在这里与你互动：@IWantMyLilDoggy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "1234566nya"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "IWantMyLilDoggy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k2BhE"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着123的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1978871306620948810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7443,
+          "following_count": 3321,
+          "like_count": 179244,
+          "listed_count": 23,
+          "media_count": 3473,
+          "tweet_count": 28189
+        },
+        "url": "https://t.co/OfJi4k2BhE",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

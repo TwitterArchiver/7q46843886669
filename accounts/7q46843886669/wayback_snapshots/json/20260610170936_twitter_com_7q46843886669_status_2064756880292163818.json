@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2064722945105346927",
+    "created_at": "2026-06-10T17:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064756880292163818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062164542541479936",
+          "start": 0,
+          "username": "pai6676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064756880292163818",
+    "in_reply_to_user_id": "2062164542541479936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064747196323446868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pai6676 我喜歡你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2064722945105346927",
+        "created_at": "2026-06-10T17:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064756880292163818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062164542541479936",
+              "start": 0,
+              "username": "pai6676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064756880292163818",
+        "in_reply_to_user_id": "2062164542541479936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064747196323446868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pai6676 我喜歡你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "conversation_id": "2064722945105346927",
+        "created_at": "2026-06-10T16:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064747196323446868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064747196323446868",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064722945105346927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 3385,
+          "like_count": 18260,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 4967
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "患有边缘性人格 （BPD）（是个贱人）（讨厌转性别者）",
+        "id": "2062164542541479936",
+        "name": "愈美戰士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 119
+        },
+        "username": "pai6676",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059025320804577281"
+      ],
+      "media_source_tweet_id": [
+        "2059025345706180805"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059245372992840102",
+    "created_at": "2026-05-26T12:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059245372992840102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562910548630867969",
+          "start": 3,
+          "username": "lovesickdoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCG8Yzs3D8",
+          "end": 59,
+          "expanded_url": "https://x.com/lovesickdoe/status/2059025345706180805/photo/1",
+          "media_key": "3_2059025320804577281",
+          "start": 36,
+          "url": "https://t.co/gCG8Yzs3D8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059245372992840102",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 642
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059025345706180805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickdoe: cinnamoroll burger https://t.co/gCG8Yzs3D8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2059025320804577281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMgnr4XcAEU9Vd.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059025320804577281"
+          ],
+          "media_source_tweet_id": [
+            "2059025345706180805"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059245372992840102",
+        "created_at": "2026-05-26T12:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059245372992840102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562910548630867969",
+              "start": 3,
+              "username": "lovesickdoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCG8Yzs3D8",
+              "end": 59,
+              "expanded_url": "https://x.com/lovesickdoe/status/2059025345706180805/photo/1",
+              "media_key": "3_2059025320804577281",
+              "start": 36,
+              "url": "https://t.co/gCG8Yzs3D8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059245372992840102",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 642
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059025345706180805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickdoe: cinnamoroll burger https://t.co/gCG8Yzs3D8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059025320804577281"
+          ]
+        },
+        "author_id": "1562910548630867969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059025345706180805",
+        "created_at": "2026-05-25T21:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059025345706180805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCG8Yzs3D8",
+              "end": 42,
+              "expanded_url": "https://x.com/lovesickdoe/status/2059025345706180805/photo/1",
+              "media_key": "3_2059025320804577281",
+              "start": 19,
+              "url": "https://t.co/gCG8Yzs3D8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059025345706180805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 120565,
+          "like_count": 6734,
+          "quote_count": 84,
+          "reply_count": 36,
+          "retweet_count": 642
+        },
+        "reply_settings": "everyone",
+        "text": "cinnamoroll burger https://t.co/gCG8Yzs3D8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 3150,
+          "like_count": 15308,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4484
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T21:12:23.000Z",
+        "description": "love everything pretty & cute",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesickdoe.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lovesickdoe.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VsrfaGjItr"
+              }
+            ]
+          }
+        },
+        "id": "1562910548630867969",
+        "location": "more info .ᐟ.ᐟ",
+        "name": "/ᐠ - ˕ -マ",
+        "pinned_tweet_id": "2059025345706180805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013284523719450624/9pRCiPKg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175614,
+          "following_count": 192,
+          "like_count": 83180,
+          "listed_count": 716,
+          "media_count": 20261,
+          "tweet_count": 55738
+        },
+        "url": "https://t.co/VsrfaGjItr",
+        "username": "lovesickdoe",
+        "verified": true
+      }
+    ]
+  }
+}

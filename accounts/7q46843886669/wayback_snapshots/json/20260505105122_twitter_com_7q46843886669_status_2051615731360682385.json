@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051250280944250880"
+      ],
+      "media_source_tweet_id": [
+        "2051250301521502649"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051615731360682385",
+    "created_at": "2026-05-05T10:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051615731360682385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Eyjbd6bQk",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/2051250301521502649/photo/1",
+          "media_key": "3_2051250280944250880",
+          "start": 13,
+          "url": "https://t.co/1Eyjbd6bQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051615731360682385",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051250301521502649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: https://t.co/1Eyjbd6bQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2051250280944250880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeBQzUaMAA19KI.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051250280944250880"
+          ],
+          "media_source_tweet_id": [
+            "2051250301521502649"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051615731360682385",
+        "created_at": "2026-05-05T10:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051615731360682385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Eyjbd6bQk",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/2051250301521502649/photo/1",
+              "media_key": "3_2051250280944250880",
+              "start": 13,
+              "url": "https://t.co/1Eyjbd6bQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051615731360682385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051250301521502649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: https://t.co/1Eyjbd6bQk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051250280944250880"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051250301521502649",
+        "created_at": "2026-05-04T10:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051250301521502649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Eyjbd6bQk",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2051250301521502649/photo/1",
+              "media_key": "3_2051250280944250880",
+              "start": 0,
+              "url": "https://t.co/1Eyjbd6bQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051250301521502649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 365638,
+          "like_count": 845,
+          "quote_count": 5,
+          "reply_count": 40,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1Eyjbd6bQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2883,
+          "like_count": 10181,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2872
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119638,
+          "following_count": 1125,
+          "like_count": 52228,
+          "listed_count": 289,
+          "media_count": 21179,
+          "tweet_count": 31600
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

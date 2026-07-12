@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2028833141457060112",
+    "created_at": "2026-03-03T16:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028871238148673767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551968500209487873",
+          "start": 0,
+          "username": "hannibals4PLZ_r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028871238148673767",
+    "in_reply_to_user_id": "1551968500209487873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028833141457060112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hannibals4PLZ_r 对不起我这种老鼠就不应该爬出下水道刷推 我要回下水道溺死自己喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2028833141457060112",
+        "created_at": "2026-03-03T16:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028871238148673767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551968500209487873",
+              "start": 0,
+              "username": "hannibals4PLZ_r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028871238148673767",
+        "in_reply_to_user_id": "1551968500209487873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028833141457060112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hannibals4PLZ_r 对不起我这种老鼠就不应该爬出下水道刷推 我要回下水道溺死自己喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551968500209487873",
+        "conversation_id": "2028833141457060112",
+        "created_at": "2026-03-03T14:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028833141457060112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028833141457060112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3620,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "得了看见中国男小留就犯恶心的病怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 2064,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 289
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T16:31:47.000Z",
+        "description": "私密逃生舱@cookiessin1 画@RachieSAMA _ 性格很差劲 -现居🏴󠁧󠁢󠁥󠁮󠁧󠁿乡下- 对@RQu1etlyR萌生多余的情感中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "cookiessin1"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "RachieSAMA"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "RQu1etlyR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=Snq54E1T",
+                "start": 0,
+                "url": "https://t.co/6l4lAGbFMT"
+              }
+            ]
+          }
+        },
+        "id": "1551968500209487873",
+        "location": "NeverKnowsBest_ 自用vpn在这里喵⬇️",
+        "name": "RCat🐝",
+        "pinned_tweet_id": "1876508916680724885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876509215868727296/SBaoLmXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7695,
+          "following_count": 1503,
+          "like_count": 23471,
+          "listed_count": 13,
+          "media_count": 138,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/6l4lAGbFMT",
+        "username": "hannibals4PLZ_r",
+        "verified": false
+      }
+    ]
+  }
+}

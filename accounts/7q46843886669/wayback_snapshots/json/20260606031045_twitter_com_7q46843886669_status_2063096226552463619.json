@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063096219338170368"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063096226552463619",
+    "created_at": "2026-06-06T03:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063096226552463619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypRzoBsiQp",
+          "end": 28,
+          "expanded_url": "https://x.com/7q46843886669/status/2063096226552463619/photo/1",
+          "media_key": "3_2063096219338170368",
+          "start": 5,
+          "url": "https://t.co/ypRzoBsiQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063096226552463619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "xp嗎。 https://t.co/ypRzoBsiQp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2063096219338170368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGXFKsaYAATX2S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063096219338170368"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063096226552463619",
+        "created_at": "2026-06-06T03:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063096226552463619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypRzoBsiQp",
+              "end": 28,
+              "expanded_url": "https://x.com/7q46843886669/status/2063096226552463619/photo/1",
+              "media_key": "3_2063096219338170368",
+              "start": 5,
+              "url": "https://t.co/ypRzoBsiQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063096226552463619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xp嗎。 https://t.co/ypRzoBsiQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 3341,
+          "like_count": 16983,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 4708
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2051538509257637891"
+      ],
+      "media_source_tweet_id": [
+        "2051774435556810822"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051794225847845075",
+    "created_at": "2026-05-05T22:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051794225847845075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520106800216829952",
+          "start": 3,
+          "username": "gifsbut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABhs7AO2Oc",
+          "end": 61,
+          "expanded_url": "https://x.com/gifsbut/status/2051774435556810822/photo/1",
+          "media_key": "16_2051538509257637891",
+          "start": 38,
+          "url": "https://t.co/ABhs7AO2Oc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051794225847845075",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051774435556810822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gifsbut: skeptical homophobic cat https://t.co/ABhs7AO2Oc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 418,
+        "media_key": "16_2051538509257637891",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHiHZ5dWAAMfChM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHiHZ5dWAAMfChM.mp4"
+          }
+        ],
+        "width": 284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2051538509257637891"
+          ],
+          "media_source_tweet_id": [
+            "2051774435556810822"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051794225847845075",
+        "created_at": "2026-05-05T22:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051794225847845075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520106800216829952",
+              "start": 3,
+              "username": "gifsbut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABhs7AO2Oc",
+              "end": 61,
+              "expanded_url": "https://x.com/gifsbut/status/2051774435556810822/photo/1",
+              "media_key": "16_2051538509257637891",
+              "start": 38,
+              "url": "https://t.co/ABhs7AO2Oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051794225847845075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051774435556810822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gifsbut: skeptical homophobic cat https://t.co/ABhs7AO2Oc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2051538509257637891"
+          ]
+        },
+        "author_id": "1520106800216829952",
+        "conversation_id": "2051774435556810822",
+        "created_at": "2026-05-05T21:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051774435556810822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABhs7AO2Oc",
+              "end": 48,
+              "expanded_url": "https://x.com/gifsbut/status/2051774435556810822/photo/1",
+              "media_key": "16_2051538509257637891",
+              "start": 25,
+              "url": "https://t.co/ABhs7AO2Oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051774435556810822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 37394,
+          "like_count": 2643,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "skeptical homophobic cat https://t.co/ABhs7AO2Oc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2892,
+          "like_count": 10526,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2966
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T18:24:49.000Z",
+        "description": "sometimes they're videos | dm submissions",
+        "id": "1520106800216829952",
+        "name": "gifs but slightly faster",
+        "pinned_tweet_id": "2038438656361291866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034455052287410176/TxOoi9hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124756,
+          "following_count": 0,
+          "like_count": 23,
+          "listed_count": 51,
+          "media_count": 481,
+          "tweet_count": 487
+        },
+        "username": "gifsbut",
+        "verified": true
+      }
+    ]
+  }
+}

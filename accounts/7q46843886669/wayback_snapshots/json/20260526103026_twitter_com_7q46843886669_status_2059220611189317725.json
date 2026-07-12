@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2059220611189317725",
+    "created_at": "2026-05-26T10:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059220611189317725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921487627477528576",
+          "start": 3,
+          "username": "oOlivia9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059220611189317725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058970860925678025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oOlivia9o: 内陷的乳头是人类的慢食碗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2059220611189317725",
+        "created_at": "2026-05-26T10:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059220611189317725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1921487627477528576",
+              "start": 3,
+              "username": "oOlivia9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059220611189317725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058970860925678025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oOlivia9o: 内陷的乳头是人类的慢食碗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921487627477528576",
+        "conversation_id": "2058970860925678025",
+        "created_at": "2026-05-25T17:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058970860925678025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058970860925678025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 22873,
+          "like_count": 198,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "内陷的乳头是人类的慢食碗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 3142,
+          "like_count": 15180,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 4480
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T08:49:00.000Z",
+        "description": "Hi 我是Olivia｜此号纯绿｜ENTJ｜锁评广告真假自辨｜小号非绿只过🚪哥@bababao520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "bababao520"
+              }
+            ]
+          }
+        },
+        "id": "1921487627477528576",
+        "location": "🚪 288 ",
+        "name": "鱼果",
+        "pinned_tweet_id": "1998312128864977299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948923969803091968/vJSx7BbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 138,
+          "like_count": 1584,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2425
+        },
+        "username": "oOlivia9o",
+        "verified": false
+      }
+    ]
+  }
+}

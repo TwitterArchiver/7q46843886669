@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047156301822869990",
+    "created_at": "2026-04-23T10:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047267380372680871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945847691025715200",
+          "start": 0,
+          "username": "hchn222209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047267380372680871",
+    "in_reply_to_user_id": "1945847691025715200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047156301822869990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hchn222209 我要不行了俩沙子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3876,
+        "height": 1280,
+        "media_key": "13_2047156241798197248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047156241798197248/img/GJ6p4nB3CH5pDS1X.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047156241798197248/vid/avc1/320x568/qvdM4W3jJse6CLRI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047156241798197248/vid/avc1/480x852/U2xGsFT00fMq2fKP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047156241798197248/vid/avc1/720x1280/VzUpwyRRTaqKUyPS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047156241798197248/pl/WGXGLudExWWhsa1K.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047156301822869990",
+        "created_at": "2026-04-23T10:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047267380372680871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945847691025715200",
+              "start": 0,
+              "username": "hchn222209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047267380372680871",
+        "in_reply_to_user_id": "1945847691025715200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047156301822869990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hchn222209 我要不行了俩沙子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047156241798197248"
+          ]
+        },
+        "author_id": "1945847691025715200",
+        "conversation_id": "2047156301822869990",
+        "created_at": "2026-04-23T03:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047156301822869990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rnm4kZFvLY",
+              "end": 29,
+              "expanded_url": "https://x.com/hchn222209/status/2047156301822869990/video/1",
+              "media_key": "13_2047156241798197248",
+              "start": 6,
+              "url": "https://t.co/Rnm4kZFvLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047156301822869990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个赞掐死 https://t.co/Rnm4kZFvLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 2700,
+          "like_count": 5663,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 870
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T14:07:10.000Z",
+        "description": "泥嚎!09/infp 这里是小稚ovo\n重度抑郁混合焦虑 \n休学待机中....\n别惹我我很脆弱ŏ̥̥̥̥םŏ̥̥̥̥",
+        "id": "1945847691025715200",
+        "location": "🚪52纯绿",
+        "name": "命比纸薄",
+        "pinned_tweet_id": "2036767859175755975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040410524211679232/4A0i3Id7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 15,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 891
+        },
+        "username": "hchn222209",
+        "verified": false
+      }
+    ]
+  }
+}

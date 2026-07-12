@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049359074647789568"
+      ],
+      "media_source_tweet_id": [
+        "2049540213735936353"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049875266726658547",
+    "created_at": "2026-04-30T15:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049875266726658547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785111682731196416",
+          "start": 3,
+          "username": "ghostonki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QSe7zXBj74",
+          "end": 38,
+          "expanded_url": "https://x.com/ghostonki/status/2049540213735936353/video/1",
+          "media_key": "13_2049359074647789568",
+          "start": 15,
+          "url": "https://t.co/QSe7zXBj74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049875266726658547",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 847
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049540213735936353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ghostonki: https://t.co/QSe7zXBj74"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8543,
+        "height": 544,
+        "media_key": "13_2049359074647789568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049359074647789568/img/k1A8sjoKaPahLZkL.jpg",
+        "public_metrics": {
+          "view_count": 30734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049359074647789568/vid/avc1/356x270/TqbOFx-uPN-x1_pt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049359074647789568/vid/avc1/476x360/P2brsAYHmFhFi0Se.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049359074647789568/vid/avc1/720x544/bVqTyAySABSNiwfe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049359074647789568/pl/-6iEru1DuD_ZILc3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049359074647789568"
+          ],
+          "media_source_tweet_id": [
+            "2049540213735936353"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049875266726658547",
+        "created_at": "2026-04-30T15:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049875266726658547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785111682731196416",
+              "start": 3,
+              "username": "ghostonki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSe7zXBj74",
+              "end": 38,
+              "expanded_url": "https://x.com/ghostonki/status/2049540213735936353/video/1",
+              "media_key": "13_2049359074647789568",
+              "start": 15,
+              "url": "https://t.co/QSe7zXBj74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049875266726658547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 847
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049540213735936353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ghostonki: https://t.co/QSe7zXBj74"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049359074647789568"
+          ]
+        },
+        "author_id": "1785111682731196416",
+        "conversation_id": "2049540213735936353",
+        "created_at": "2026-04-29T17:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049540213735936353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSe7zXBj74",
+              "end": 23,
+              "expanded_url": "https://x.com/ghostonki/status/2049540213735936353/video/1",
+              "media_key": "13_2049359074647789568",
+              "start": 0,
+              "url": "https://t.co/QSe7zXBj74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049540213735936353",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 792,
+          "impression_count": 93266,
+          "like_count": 6280,
+          "quote_count": 22,
+          "reply_count": 9,
+          "retweet_count": 847
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QSe7zXBj74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2804,
+          "like_count": 7847,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1995
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T00:59:38.000Z",
+        "description": "sayonara",
+        "id": "1785111682731196416",
+        "name": "精霊",
+        "pinned_tweet_id": "2044936881356636237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013996115553599488/396XgA1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634939,
+          "following_count": 10,
+          "like_count": 4879,
+          "listed_count": 1197,
+          "media_count": 1089,
+          "tweet_count": 1144
+        },
+        "username": "ghostonki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055554489671991296"
+      ],
+      "media_source_tweet_id": [
+        "2055554491941061073"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055992438091833447",
+    "created_at": "2026-05-17T12:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055992438091833447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochicqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqyuillXa4",
+          "end": 74,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2055554491941061073/photo/1",
+          "media_key": "3_2055554489671991296",
+          "start": 51,
+          "url": "https://t.co/uqyuillXa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055992438091833447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055554491941061073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochicqwq: 有时候事实就是这么荒唐，曾经我的作业被外星人抢走了班主任也没信🤬 https://t.co/uqyuillXa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_2055554489671991296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbL6uVbwAAeAzF.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055554489671991296"
+          ],
+          "media_source_tweet_id": [
+            "2055554491941061073"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055992438091833447",
+        "created_at": "2026-05-17T12:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055992438091833447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqyuillXa4",
+              "end": 74,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2055554491941061073/photo/1",
+              "media_key": "3_2055554489671991296",
+              "start": 51,
+              "url": "https://t.co/uqyuillXa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055992438091833447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055554491941061073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochicqwq: 有时候事实就是这么荒唐，曾经我的作业被外星人抢走了班主任也没信🤬 https://t.co/uqyuillXa4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055554489671991296"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2055554491941061073",
+        "created_at": "2026-05-16T07:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055554491941061073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqyuillXa4",
+              "end": 56,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2055554491941061073/photo/1",
+              "media_key": "3_2055554489671991296",
+              "start": 33,
+              "url": "https://t.co/uqyuillXa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055554491941061073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 596,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有时候事实就是这么荒唐，曾经我的作业被外星人抢走了班主任也没信🤬 https://t.co/uqyuillXa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2978,
+          "like_count": 13048,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3973
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 1680,
+          "like_count": 5467,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

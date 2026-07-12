@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052030098069684225"
+      ],
+      "media_source_tweet_id": [
+        "2052096306534048122"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052347903147188231",
+    "created_at": "2026-05-07T11:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052347903147188231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664742004423794688",
+          "start": 3,
+          "username": "rwayne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TmnfgRLas0",
+          "end": 40,
+          "expanded_url": "https://x.com/rwayne/status/2052096306534048122/photo/1",
+          "media_key": "3_2052030098069684225",
+          "start": 17,
+          "url": "https://t.co/TmnfgRLas0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052347903147188231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052096306534048122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rwayne: 魔法对轰 https://t.co/TmnfgRLas0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 583,
+        "media_key": "3_2052030098069684225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpGgIfagAEjvIZ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052030098069684225"
+          ],
+          "media_source_tweet_id": [
+            "2052096306534048122"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052347903147188231",
+        "created_at": "2026-05-07T11:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052347903147188231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664742004423794688",
+              "start": 3,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmnfgRLas0",
+              "end": 40,
+              "expanded_url": "https://x.com/rwayne/status/2052096306534048122/photo/1",
+              "media_key": "3_2052030098069684225",
+              "start": 17,
+              "url": "https://t.co/TmnfgRLas0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052347903147188231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052096306534048122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rwayne: 魔法对轰 https://t.co/TmnfgRLas0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052030098069684225"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2052096306534048122",
+        "created_at": "2026-05-06T18:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052096306534048122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmnfgRLas0",
+              "end": 28,
+              "expanded_url": "https://x.com/rwayne/status/2052096306534048122/photo/1",
+              "media_key": "3_2052030098069684225",
+              "start": 5,
+              "url": "https://t.co/TmnfgRLas0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052096306534048122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4204,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔法对轰 https://t.co/TmnfgRLas0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 2909,
+          "like_count": 11045,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3139
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n🚀3 个月 X 涨粉 4w｜累计曝光 1.5 亿\n💼《中国企业AI转型白皮书》作者｜企业AI转型咨询｜AI医疗创业者\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2049081526814757338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45279,
+          "following_count": 770,
+          "like_count": 28498,
+          "listed_count": 235,
+          "media_count": 1915,
+          "tweet_count": 12536
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

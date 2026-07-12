@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050110001247617024"
+      ],
+      "media_source_tweet_id": [
+        "2050110070965342468"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050372354363289741",
+    "created_at": "2026-05-02T00:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T01:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050372354363289741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815999656951791616",
+          "start": 3,
+          "username": "Guysloveguns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2zHyWJh6of",
+          "end": 70,
+          "expanded_url": "https://x.com/Guysloveguns/status/2050110070965342468/video/1",
+          "media_key": "13_2050110001247617024",
+          "start": 47,
+          "url": "https://t.co/2zHyWJh6of"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050372354363289741",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050110070965342468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guysloveguns: Everything reminds me of her https://t.co/2zHyWJh6of"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18336,
+        "height": 1568,
+        "media_key": "13_2050110001247617024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050110001247617024/img/JgIaEQVEhLmEDMMy.jpg",
+        "public_metrics": {
+          "view_count": 19050
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050110001247617024/vid/avc1/480x848/XepS9NZFBGbbGnJs.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050110001247617024/vid/avc1/886x1568/0tEoDLq2JEYdke5T.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050110001247617024/vid/avc1/720x1274/Hyu_DG_W5E14XMwm.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050110001247617024/vid/avc1/320x566/SL5ZMqXt1vaRw6uI.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050110001247617024/pl/sexeR4EYYKb51Uyd.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050110001247617024"
+          ],
+          "media_source_tweet_id": [
+            "2050110070965342468"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050372354363289741",
+        "created_at": "2026-05-02T00:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T01:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050372354363289741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1815999656951791616",
+              "start": 3,
+              "username": "Guysloveguns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zHyWJh6of",
+              "end": 70,
+              "expanded_url": "https://x.com/Guysloveguns/status/2050110070965342468/video/1",
+              "media_key": "13_2050110001247617024",
+              "start": 47,
+              "url": "https://t.co/2zHyWJh6of"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050372354363289741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050110070965342468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guysloveguns: Everything reminds me of her https://t.co/2zHyWJh6of"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050110001247617024"
+          ]
+        },
+        "author_id": "1815999656951791616",
+        "conversation_id": "2050110070965342468",
+        "created_at": "2026-05-01T07:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050110070965342468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zHyWJh6of",
+              "end": 52,
+              "expanded_url": "https://x.com/Guysloveguns/status/2050110070965342468/video/1",
+              "media_key": "13_2050110001247617024",
+              "start": 29,
+              "url": "https://t.co/2zHyWJh6of"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050110070965342468",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 36751,
+          "like_count": 865,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "Everything reminds me of her https://t.co/2zHyWJh6of"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8466,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2247
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T06:37:24.000Z",
+        "description": "Daily dose of testosterone",
+        "id": "1815999656951791616",
+        "name": "Guns Daily",
+        "pinned_tweet_id": "2048484274916012158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874002977125531648/ugAvIg6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223308,
+          "following_count": 360,
+          "like_count": 565,
+          "listed_count": 124,
+          "media_count": 10587,
+          "tweet_count": 11389
+        },
+        "username": "Guysloveguns",
+        "verified": true
+      }
+    ]
+  }
+}

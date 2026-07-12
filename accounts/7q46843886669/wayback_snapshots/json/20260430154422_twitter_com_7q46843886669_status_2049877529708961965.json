@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049537817370615808"
+      ],
+      "media_source_tweet_id": [
+        "2049537825037783250"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049877529708961965",
+    "created_at": "2026-04-30T15:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049877529708961965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033955356049879040",
+          "start": 3,
+          "username": "1__sadness__1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aV9ye4zSza",
+          "end": 42,
+          "expanded_url": "https://x.com/1__sadness__1/status/2049537825037783250/photo/1",
+          "media_key": "3_2049537817370615808",
+          "start": 19,
+          "url": "https://t.co/aV9ye4zSza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049877529708961965",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3088
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049537825037783250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1__sadness__1: https://t.co/aV9ye4zSza"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2049537817370615808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFryTYa4AAWImp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049537817370615808"
+          ],
+          "media_source_tweet_id": [
+            "2049537825037783250"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049877529708961965",
+        "created_at": "2026-04-30T15:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049877529708961965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033955356049879040",
+              "start": 3,
+              "username": "1__sadness__1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aV9ye4zSza",
+              "end": 42,
+              "expanded_url": "https://x.com/1__sadness__1/status/2049537825037783250/photo/1",
+              "media_key": "3_2049537817370615808",
+              "start": 19,
+              "url": "https://t.co/aV9ye4zSza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049877529708961965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3088
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049537825037783250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1__sadness__1: https://t.co/aV9ye4zSza"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049537817370615808"
+          ]
+        },
+        "author_id": "2033955356049879040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049537825037783250",
+        "created_at": "2026-04-29T17:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049537825037783250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aV9ye4zSza",
+              "end": 23,
+              "expanded_url": "https://x.com/1__sadness__1/status/2049537825037783250/photo/1",
+              "media_key": "3_2049537817370615808",
+              "start": 0,
+              "url": "https://t.co/aV9ye4zSza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049537825037783250",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 191734,
+          "like_count": 8647,
+          "quote_count": 61,
+          "reply_count": 13,
+          "retweet_count": 3088
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aV9ye4zSza"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2814,
+          "like_count": 7886,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1997
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T17:16:22.000Z",
+        "description": "Behind every sweet smile ,there is a bitter sadness that no one can ever see and feel.\n😔😔",
+        "id": "2033955356049879040",
+        "name": "Sadness",
+        "pinned_tweet_id": "2049876910730363197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033956789079969794/sKCbmk6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10841,
+          "following_count": 509,
+          "like_count": 8975,
+          "listed_count": 5,
+          "media_count": 931,
+          "tweet_count": 7695
+        },
+        "username": "1__sadness__1",
+        "verified": true
+      }
+    ]
+  }
+}

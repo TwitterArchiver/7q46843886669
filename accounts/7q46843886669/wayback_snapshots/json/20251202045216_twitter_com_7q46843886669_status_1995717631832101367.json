@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1931380828225090009",
+    "created_at": "2025-12-02T04:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T05:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995717631832101367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887374434987855872",
+          "start": 0,
+          "username": "OvO_kjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995717631832101367",
+    "in_reply_to_user_id": "1887374434987855872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931380828225090009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_kjy 胎里素"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1931380828225090009",
+        "created_at": "2025-12-02T04:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995717631832101367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887374434987855872",
+              "start": 0,
+              "username": "OvO_kjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995717631832101367",
+        "in_reply_to_user_id": "1887374434987855872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931380828225090009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_kjy 胎里素"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887374434987855872",
+        "conversation_id": "1931380828225090009",
+        "created_at": "2025-06-07T16:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931380828225090009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931380828225090009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 42384,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的你们这些人在娘胎里就被下毒了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 824,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 68
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T05:35:17.000Z",
+        "description": "骂我就是喜欢我 女孩子来和我玩 匿名👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youuiie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/youuiie",
+                "start": 0,
+                "url": "https://t.co/tBmElkSrvT"
+              }
+            ]
+          }
+        },
+        "id": "1887374434987855872",
+        "location": "在爱与光中",
+        "name": "章鱼烧",
+        "pinned_tweet_id": "1931380828225090009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993297361213571073/v-QApVqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 224,
+          "like_count": 16379,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 5938
+        },
+        "url": "https://t.co/tBmElkSrvT",
+        "username": "OvO_kjy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2064174262353551775",
+    "created_at": "2026-06-09T08:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064263807510442334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1405301480316444672",
+          "start": 0,
+          "username": "twaniimals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064263807510442334",
+    "in_reply_to_user_id": "1405301480316444672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064174262353551775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twaniimals 以取餐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064174255231705089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVrjHWXoAEjOW8.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2064174262353551775",
+        "created_at": "2026-06-09T08:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064263807510442334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1405301480316444672",
+              "start": 0,
+              "username": "twaniimals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064263807510442334",
+        "in_reply_to_user_id": "1405301480316444672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064174262353551775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twaniimals 以取餐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064174255231705089"
+          ]
+        },
+        "author_id": "1405301480316444672",
+        "conversation_id": "2064174262353551775",
+        "created_at": "2026-06-09T02:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064174262353551775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GW3DGnRLWE",
+              "end": 23,
+              "expanded_url": "https://x.com/twaniimals/status/2064174262353551775/photo/1",
+              "media_key": "3_2064174255231705089",
+              "start": 0,
+              "url": "https://t.co/GW3DGnRLWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064174262353551775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 13077,
+          "like_count": 1056,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GW3DGnRLWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 3374,
+          "like_count": 17889,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4916
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T23:09:29.000Z",
+        "description": "sígueme para más contenido diario 🐶",
+        "id": "1405301480316444672",
+        "location": "Mx",
+        "name": "💖",
+        "pinned_tweet_id": "2064016913773076561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057648029381881857/SOrIfJDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280611,
+          "following_count": 182,
+          "like_count": 13946,
+          "listed_count": 1712,
+          "media_count": 37902,
+          "tweet_count": 41089
+        },
+        "username": "twaniimals",
+        "verified": true
+      }
+    ]
+  }
+}

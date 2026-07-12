@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049025952831717376"
+      ],
+      "media_source_tweet_id": [
+        "2049025959563526592"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049413666395889938",
+    "created_at": "2026-04-29T09:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049413666395889938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1313647919908745220",
+          "start": 3,
+          "username": "7i__g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HSVh5RnyOS",
+          "end": 34,
+          "expanded_url": "https://x.com/7i__g/status/2049025959563526592/photo/1",
+          "media_key": "3_2049025952831717376",
+          "start": 11,
+          "url": "https://t.co/HSVh5RnyOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049413666395889938",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 578
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049025959563526592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7i__g: https://t.co/HSVh5RnyOS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2049025952831717376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-aP3YXQAAowFZ.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049025952831717376"
+          ],
+          "media_source_tweet_id": [
+            "2049025959563526592"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049413666395889938",
+        "created_at": "2026-04-29T09:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049413666395889938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1313647919908745220",
+              "start": 3,
+              "username": "7i__g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSVh5RnyOS",
+              "end": 34,
+              "expanded_url": "https://x.com/7i__g/status/2049025959563526592/photo/1",
+              "media_key": "3_2049025952831717376",
+              "start": 11,
+              "url": "https://t.co/HSVh5RnyOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049413666395889938",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 578
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049025959563526592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7i__g: https://t.co/HSVh5RnyOS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049025952831717376"
+          ]
+        },
+        "author_id": "1313647919908745220",
+        "conversation_id": "2049025959563526592",
+        "created_at": "2026-04-28T07:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049025959563526592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSVh5RnyOS",
+              "end": 23,
+              "expanded_url": "https://x.com/7i__g/status/2049025959563526592/photo/1",
+              "media_key": "3_2049025952831717376",
+              "start": 0,
+              "url": "https://t.co/HSVh5RnyOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049025959563526592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 32578,
+          "like_count": 2795,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 578
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HSVh5RnyOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2782,
+          "like_count": 7119,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1769
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T01:11:08.000Z",
+        "description": "˚ʚ ❀ ♡ ❀ .",
+        "id": "1313647919908745220",
+        "name": "ًً",
+        "pinned_tweet_id": "2025586646461096249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997969157204127744/A_-9ztr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21992,
+          "following_count": 124,
+          "like_count": 363037,
+          "listed_count": 24,
+          "media_count": 683,
+          "tweet_count": 4273
+        },
+        "username": "7i__g",
+        "verified": false
+      }
+    ]
+  }
+}

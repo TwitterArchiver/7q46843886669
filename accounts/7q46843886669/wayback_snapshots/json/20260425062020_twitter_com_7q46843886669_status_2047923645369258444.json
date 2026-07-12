@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047784753978658816"
+      ],
+      "media_source_tweet_id": [
+        "2047827933574709683"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047923645369258444",
+    "created_at": "2026-04-25T06:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047923645369258444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4166425527",
+          "start": 3,
+          "username": "solisolsoli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3994oFPBmg",
+          "end": 40,
+          "expanded_url": "https://x.com/solisolsoli/status/2047827933574709683/photo/1",
+          "media_key": "3_2047784753978658816",
+          "start": 17,
+          "url": "https://t.co/3994oFPBmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047923645369258444",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047827933574709683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solisolsoli: https://t.co/3994oFPBmg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2047784753978658816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsxYlVb0AAX-La.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047784753978658816"
+          ],
+          "media_source_tweet_id": [
+            "2047827933574709683"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047923645369258444",
+        "created_at": "2026-04-25T06:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047923645369258444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4166425527",
+              "start": 3,
+              "username": "solisolsoli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3994oFPBmg",
+              "end": 40,
+              "expanded_url": "https://x.com/solisolsoli/status/2047827933574709683/photo/1",
+              "media_key": "3_2047784753978658816",
+              "start": 17,
+              "url": "https://t.co/3994oFPBmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047923645369258444",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047827933574709683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solisolsoli: https://t.co/3994oFPBmg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047784753978658816"
+          ]
+        },
+        "author_id": "4166425527",
+        "conversation_id": "2047827933574709683",
+        "created_at": "2026-04-25T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047827933574709683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3994oFPBmg",
+              "end": 23,
+              "expanded_url": "https://x.com/solisolsoli/status/2047827933574709683/photo/1",
+              "media_key": "3_2047784753978658816",
+              "start": 0,
+              "url": "https://t.co/3994oFPBmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047827933574709683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 23796,
+          "like_count": 1960,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3994oFPBmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 2715,
+          "like_count": 5908,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 984
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCEOUD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCEOUD"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204505,
+          "following_count": 525,
+          "like_count": 13691,
+          "listed_count": 4251,
+          "media_count": 13770,
+          "tweet_count": 15388
+        },
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

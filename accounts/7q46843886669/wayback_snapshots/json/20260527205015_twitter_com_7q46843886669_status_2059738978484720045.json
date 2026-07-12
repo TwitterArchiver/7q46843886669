@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059618808772636672"
+      ],
+      "media_source_tweet_id": [
+        "2059618843413344654"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2059738978484720045",
+    "created_at": "2026-05-27T20:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T21:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059738978484720045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1116970188727959553",
+          "start": 3,
+          "username": "dokuodoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7gkdsv0je",
+          "end": 48,
+          "expanded_url": "https://x.com/dokuodoku/status/2059618843413344654/photo/1",
+          "media_key": "3_2059618808772636672",
+          "start": 25,
+          "url": "https://t.co/A7gkdsv0je"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059738978484720045",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 445
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059618843413344654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dokuodoku: 自分を構成するモノ https://t.co/A7gkdsv0je"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3748,
+        "media_key": "3_2059618808772636672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU8ZO2bMAAVD7R.jpg",
+        "width": 2441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059618808772636672"
+          ],
+          "media_source_tweet_id": [
+            "2059618843413344654"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2059738978484720045",
+        "created_at": "2026-05-27T20:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059738978484720045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1116970188727959553",
+              "start": 3,
+              "username": "dokuodoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7gkdsv0je",
+              "end": 48,
+              "expanded_url": "https://x.com/dokuodoku/status/2059618843413344654/photo/1",
+              "media_key": "3_2059618808772636672",
+              "start": 25,
+              "url": "https://t.co/A7gkdsv0je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059738978484720045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 445
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059618843413344654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dokuodoku: 自分を構成するモノ https://t.co/A7gkdsv0je"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059618808772636672"
+          ]
+        },
+        "author_id": "1116970188727959553",
+        "conversation_id": "2059618843413344654",
+        "created_at": "2026-05-27T12:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059618843413344654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7gkdsv0je",
+              "end": 33,
+              "expanded_url": "https://x.com/dokuodoku/status/2059618843413344654/photo/1",
+              "media_key": "3_2059618808772636672",
+              "start": 10,
+              "url": "https://t.co/A7gkdsv0je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059618843413344654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 32439,
+          "like_count": 4006,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 445
+        },
+        "reply_settings": "everyone",
+        "text": "自分を構成するモノ https://t.co/A7gkdsv0je"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 3181,
+          "like_count": 15661,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 4507
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-13T07:43:40.000Z",
+        "description": "久遠（くどお）です。元気に絵を描いてます。\nイラストのご依頼はDMまたはHPのContactまで\n【HP:https://t.co/eizKHoyhyo】\n【Instagram:https://t.co/AL4ImZ8Kf9】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dokudokuo.studio.site",
+                "end": 76,
+                "expanded_url": "http://dokudokuo.studio.site",
+                "start": 53,
+                "url": "https://t.co/eizKHoyhyo"
+              },
+              {
+                "display_url": "instagram.com/dokuodoku/",
+                "end": 112,
+                "expanded_url": "http://instagram.com/dokuodoku/",
+                "start": 89,
+                "url": "https://t.co/AL4ImZ8Kf9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=9846060",
+                "start": 0,
+                "url": "https://t.co/KXOnYQT65p"
+              }
+            ]
+          }
+        },
+        "id": "1116970188727959553",
+        "name": "久遠どく",
+        "pinned_tweet_id": "2048746268613308477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442911822516940802/L6dcLcM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9118,
+          "following_count": 239,
+          "like_count": 6300,
+          "listed_count": 68,
+          "media_count": 498,
+          "tweet_count": 5483
+        },
+        "url": "https://t.co/KXOnYQT65p",
+        "username": "dokuodoku",
+        "verified": false
+      }
+    ]
+  }
+}

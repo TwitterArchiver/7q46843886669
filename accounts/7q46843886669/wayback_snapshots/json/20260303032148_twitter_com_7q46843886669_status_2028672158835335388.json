@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2028416231431417884",
+    "created_at": "2026-03-03T03:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T04:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028672158835335388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565591413282476033",
+          "start": 0,
+          "username": "sakanadesu0449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028672158835335388",
+    "in_reply_to_user_id": "1565591413282476033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028416231431417884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanadesu0449 我见过一段是插进去然后扣扳机 其实没装子弹但是对方被吓得尿出来 超级涩超级涩🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2028416231431417884",
+        "created_at": "2026-03-03T03:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028672158835335388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565591413282476033",
+              "start": 0,
+              "username": "sakanadesu0449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028672158835335388",
+        "in_reply_to_user_id": "1565591413282476033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028416231431417884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanadesu0449 我见过一段是插进去然后扣扳机 其实没装子弹但是对方被吓得尿出来 超级涩超级涩🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565591413282476033",
+        "conversation_id": "2028416231431417884",
+        "created_at": "2026-03-02T10:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028416231431417884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028416231431417884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4167,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被对方用手枪顶在胸口/肚子上的剧情最色了好吧,,, (注释我说的手枪就是发射九毫米子弹的那个手枪)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 2014,
+          "like_count": 2152,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 282
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "誰より太陽を嫌うあたしはシーラカンス      \n比任何人都讨厌太阳的我是空棘鱼",
+        "id": "1565591413282476033",
+        "name": "魚",
+        "pinned_tweet_id": "2014664265249206486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 2046,
+          "like_count": 13770,
+          "listed_count": 5,
+          "media_count": 2938,
+          "tweet_count": 21815
+        },
+        "username": "sakanadesu0449",
+        "verified": false
+      }
+    ]
+  }
+}

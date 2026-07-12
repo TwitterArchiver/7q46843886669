@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2050409556472483998",
+    "created_at": "2026-05-02T02:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050409556472483998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "96453272",
+          "start": 3,
+          "username": "oakvale5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050409556472483998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049842379247788250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oakvale5: 晚上跟爸妈聊天，他们说现在买一箱奶比之前便宜了，中国的物价真的降低了。\n熟读习近平语录的我，马上跟了一句：“通缩有什么不好？大家难道不喜欢物价更便宜吗？”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2050409556472483998",
+        "created_at": "2026-05-02T02:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050409556472483998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "96453272",
+              "start": 3,
+              "username": "oakvale5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050409556472483998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049842379247788250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oakvale5: 晚上跟爸妈聊天，他们说现在买一箱奶比之前便宜了，中国的物价真的降低了。\n熟读习近平语录的我，马上跟了一句：“通缩有什么不好？大家难道不喜欢物价更便宜吗？”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "96453272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2049842379247788250",
+        "created_at": "2026-04-30T13:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049842379247788250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049842379247788250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 340920,
+          "like_count": 1708,
+          "quote_count": 5,
+          "reply_count": 533,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "晚上跟爸妈聊天，他们说现在买一箱奶比之前便宜了，中国的物价真的降低了。\n熟读习近平语录的我，马上跟了一句：“通缩有什么不好？大家难道不喜欢物价更便宜吗？”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8540,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2292
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-13T00:51:58.000Z",
+        "description": "Rest at the edge of chaos. \n .... . .-.. .--. -....- -- .\nGod plays dice. Maybe that's a feature, not a bug.\n一切都会好起来。",
+        "id": "96453272",
+        "location": "崩溃边缘 Edge of Chaos",
+        "name": "阿橡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420050931660443649/YbZuFX0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16859,
+          "following_count": 2997,
+          "like_count": 5369,
+          "listed_count": 127,
+          "media_count": 3273,
+          "tweet_count": 93065
+        },
+        "username": "oakvale5",
+        "verified": false
+      }
+    ]
+  }
+}

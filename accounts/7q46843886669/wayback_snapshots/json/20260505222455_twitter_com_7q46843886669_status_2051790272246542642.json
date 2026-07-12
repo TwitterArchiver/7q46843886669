@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051790272246542642",
+    "created_at": "2026-05-05T22:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051790272246542642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1913631395714670592",
+          "start": 3,
+          "username": "ldontknowwhoua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051790272246542642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051679566062932080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ldontknowwhoua: 只愿得一人心  逼屌不分离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051790272246542642",
+        "created_at": "2026-05-05T22:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051790272246542642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1913631395714670592",
+              "start": 3,
+              "username": "ldontknowwhoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051790272246542642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051679566062932080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ldontknowwhoua: 只愿得一人心  逼屌不分离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913631395714670592",
+        "conversation_id": "2051679566062932080",
+        "created_at": "2026-05-05T15:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051679566062932080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051679566062932080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3014,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只愿得一人心  逼屌不分离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2892,
+          "like_count": 10507,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2957
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T16:31:06.000Z",
+        "description": "日常 @smallyogur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "smallyogur"
+              }
+            ]
+          }
+        },
+        "id": "1913631395714670592",
+        "name": "油炸酸奶 ‸ .",
+        "pinned_tweet_id": "2049507645820985372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033043680186204160/PEDM93gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 373,
+          "like_count": 11249,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2085
+        },
+        "username": "ldontknowwhoua",
+        "verified": false
+      }
+    ]
+  }
+}

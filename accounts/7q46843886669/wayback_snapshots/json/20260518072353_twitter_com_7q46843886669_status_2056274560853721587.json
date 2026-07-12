@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056093122178732032"
+      ],
+      "media_source_tweet_id": [
+        "2056097420778651940"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056274560853721587",
+    "created_at": "2026-05-18T07:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056274560853721587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2014792487978651648",
+          "start": 3,
+          "username": "onlyaesthetic01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tzp3hPWHDy",
+          "end": 44,
+          "expanded_url": "https://x.com/onlyaesthetic01/status/2056097420778651940/photo/1",
+          "media_key": "3_2056093122178732032",
+          "start": 21,
+          "url": "https://t.co/Tzp3hPWHDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056274560853721587",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056097420778651940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onlyaesthetic01: https://t.co/Tzp3hPWHDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2056093122178732032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIi1zQyWUAAjxFi.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056093122178732032"
+          ],
+          "media_source_tweet_id": [
+            "2056097420778651940"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056274560853721587",
+        "created_at": "2026-05-18T07:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056274560853721587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2014792487978651648",
+              "start": 3,
+              "username": "onlyaesthetic01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tzp3hPWHDy",
+              "end": 44,
+              "expanded_url": "https://x.com/onlyaesthetic01/status/2056097420778651940/photo/1",
+              "media_key": "3_2056093122178732032",
+              "start": 21,
+              "url": "https://t.co/Tzp3hPWHDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056274560853721587",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056097420778651940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onlyaesthetic01: https://t.co/Tzp3hPWHDy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056093122178732032"
+          ]
+        },
+        "author_id": "2014792487978651648",
+        "conversation_id": "2056097420778651940",
+        "created_at": "2026-05-17T19:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056097420778651940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tzp3hPWHDy",
+              "end": 23,
+              "expanded_url": "https://x.com/onlyaesthetic01/status/2056097420778651940/photo/1",
+              "media_key": "3_2056093122178732032",
+              "start": 0,
+              "url": "https://t.co/Tzp3hPWHDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056097420778651940",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 29957,
+          "like_count": 2542,
+          "quote_count": 15,
+          "reply_count": 5,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Tzp3hPWHDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2979,
+          "like_count": 13200,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4038
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T20:09:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/onlyaesthetic0…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/onlyaesthetic01?igsh=YzRuYWFkZDE5amN0&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/6p3U8syVGG"
+              }
+            ]
+          }
+        },
+        "id": "2014792487978651648",
+        "name": "aesthetic",
+        "pinned_tweet_id": "2046157106198319341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038039530532691968/Zxx9nGKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 0,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/6p3U8syVGG",
+        "username": "onlyaesthetic01",
+        "verified": false
+      }
+    ]
+  }
+}

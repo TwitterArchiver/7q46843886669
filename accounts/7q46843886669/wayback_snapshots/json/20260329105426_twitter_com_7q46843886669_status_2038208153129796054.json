@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2037425988615983613",
+    "created_at": "2026-03-29T10:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038208153129796054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936283321568509952",
+          "start": 0,
+          "username": "mingxing311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038208153129796054",
+    "in_reply_to_user_id": "1936283321568509952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037425988615983613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxing311 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2037425988615983613",
+        "created_at": "2026-03-29T10:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038208153129796054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936283321568509952",
+              "start": 0,
+              "username": "mingxing311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038208153129796054",
+        "in_reply_to_user_id": "1936283321568509952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037425988615983613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxing311 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936283321568509952",
+        "conversation_id": "2037425988615983613",
+        "created_at": "2026-03-27T07:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037425988615983613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037425988615983613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2012,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会下国际象棋♟️的可以私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 2525,
+          "like_count": 3325,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 467
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T04:41:43.000Z",
+        "description": "皮下是脂肪 不约不下海不出原味不参与性行为 这里是实话小辣条 如果你看见我的言论生气了 请你认为我是反串的 如果你开心了 那我也开心 @latiaomeimo2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "latiaomeimo2"
+              }
+            ]
+          }
+        },
+        "id": "1936283321568509952",
+        "location": "🚪288",
+        "name": "辣条魅魔",
+        "pinned_tweet_id": "2037553858923360579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010392681273565186/X8xRagi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 48,
+          "like_count": 8533,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1396
+        },
+        "username": "mingxing311",
+        "verified": false
+      }
+    ]
+  }
+}

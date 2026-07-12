@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050109709982842880"
+      ],
+      "media_source_tweet_id": [
+        "2050287890492526846"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050491358390141057",
+    "created_at": "2026-05-02T08:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050491358390141057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "868354704",
+          "start": 3,
+          "username": "TheCatsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7lhQkf5jf",
+          "end": 49,
+          "expanded_url": "https://x.com/TheCatsX/status/2050287890492526846/video/1",
+          "media_key": "13_2050109709982842880",
+          "start": 26,
+          "url": "https://t.co/g7lhQkf5jf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050491358390141057",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050287890492526846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCatsX: just a baby https://t.co/g7lhQkf5jf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18993,
+        "height": 480,
+        "media_key": "13_2050109709982842880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050109709982842880/img/035OM9_V6_JwmY4d.jpg",
+        "public_metrics": {
+          "view_count": 1306
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050109709982842880/vid/avc1/276x270/rO24EKxEBsIXI4LP.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050109709982842880/vid/avc1/368x360/oDEgRAEUaFRpT25R.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050109709982842880/vid/avc1/492x480/vJ55vLFTmMdz2Sim.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050109709982842880/pl/y4coF1cYo2G34WcA.m3u8?tag=27"
+          }
+        ],
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050109709982842880"
+          ],
+          "media_source_tweet_id": [
+            "2050287890492526846"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050491358390141057",
+        "created_at": "2026-05-02T08:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050491358390141057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "868354704",
+              "start": 3,
+              "username": "TheCatsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7lhQkf5jf",
+              "end": 49,
+              "expanded_url": "https://x.com/TheCatsX/status/2050287890492526846/video/1",
+              "media_key": "13_2050109709982842880",
+              "start": 26,
+              "url": "https://t.co/g7lhQkf5jf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050491358390141057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050287890492526846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCatsX: just a baby https://t.co/g7lhQkf5jf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050109709982842880"
+          ]
+        },
+        "author_id": "868354704",
+        "conversation_id": "2050287890492526846",
+        "created_at": "2026-05-01T18:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050287890492526846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7lhQkf5jf",
+              "end": 35,
+              "expanded_url": "https://x.com/TheCatsX/status/2050287890492526846/video/1",
+              "media_key": "13_2050109709982842880",
+              "start": 12,
+              "url": "https://t.co/g7lhQkf5jf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050287890492526846",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 5251,
+          "like_count": 334,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "just a baby https://t.co/g7lhQkf5jf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2845,
+          "like_count": 8713,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2349
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-08T17:25:41.000Z",
+        "description": "Your Daily Dose of Cats",
+        "id": "868354704",
+        "name": "The Cats 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007846404929245184/sAN8YnzL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345314,
+          "following_count": 10,
+          "like_count": 1012,
+          "listed_count": 615,
+          "media_count": 12360,
+          "tweet_count": 12951
+        },
+        "username": "TheCatsX",
+        "verified": true
+      }
+    ]
+  }
+}

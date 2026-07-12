@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2019813117438672906",
+    "created_at": "2026-02-10T05:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021090796271960172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809579975177297920",
+          "start": 0,
+          "username": "bbb447910723250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021090796271960172",
+    "in_reply_to_user_id": "1809579975177297920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019813187865194864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbb447910723250 求推荐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2019813117438672906",
+        "created_at": "2026-02-10T05:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021090796271960172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809579975177297920",
+              "start": 0,
+              "username": "bbb447910723250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021090796271960172",
+        "in_reply_to_user_id": "1809579975177297920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019813187865194864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbb447910723250 求推荐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809579975177297920",
+        "conversation_id": "2019813117438672906",
+        "created_at": "2026-02-06T16:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019813187865194864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019813187865194864",
+        "in_reply_to_user_id": "1809579975177297920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019813117438672906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这身体乳买的挺值得"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1582,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 180
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T13:27:49.000Z",
+        "description": "",
+        "id": "1809579975177297920",
+        "name": "bbb",
+        "pinned_tweet_id": "1935718523034382831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818705159633223682/61YVC3Bm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 139,
+          "like_count": 625,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 553
+        },
+        "username": "bbb447910723250",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046567860617838592"
+      ],
+      "media_source_tweet_id": [
+        "2046567865382560042"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046681331221123496",
+    "created_at": "2026-04-21T20:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T21:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046681331221123496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1528174638139707393",
+          "start": 3,
+          "username": "doctor_birkin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AM2nBIsZQZ",
+          "end": 57,
+          "expanded_url": "https://x.com/doctor_birkin/status/2046567865382560042/photo/1",
+          "media_key": "3_2046567860617838592",
+          "start": 34,
+          "url": "https://t.co/AM2nBIsZQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046681331221123496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046567865382560042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doctor_birkin: CT撮影中にくしゃみした結果 https://t.co/AM2nBIsZQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2046567860617838592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbeoETbgAAAwjF.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046567860617838592"
+          ],
+          "media_source_tweet_id": [
+            "2046567865382560042"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046681331221123496",
+        "created_at": "2026-04-21T20:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046681331221123496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1528174638139707393",
+              "start": 3,
+              "username": "doctor_birkin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AM2nBIsZQZ",
+              "end": 57,
+              "expanded_url": "https://x.com/doctor_birkin/status/2046567865382560042/photo/1",
+              "media_key": "3_2046567860617838592",
+              "start": 34,
+              "url": "https://t.co/AM2nBIsZQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046681331221123496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046567865382560042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doctor_birkin: CT撮影中にくしゃみした結果 https://t.co/AM2nBIsZQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046567860617838592"
+          ]
+        },
+        "author_id": "1528174638139707393",
+        "conversation_id": "2046567865382560042",
+        "created_at": "2026-04-21T12:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046567865382560042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AM2nBIsZQZ",
+              "end": 38,
+              "expanded_url": "https://x.com/doctor_birkin/status/2046567865382560042/photo/1",
+              "media_key": "3_2046567860617838592",
+              "start": 15,
+              "url": "https://t.co/AM2nBIsZQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046567865382560042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 664,
+          "impression_count": 356102,
+          "like_count": 14792,
+          "quote_count": 162,
+          "reply_count": 270,
+          "retweet_count": 1188
+        },
+        "reply_settings": "everyone",
+        "text": "CT撮影中にくしゃみした結果 https://t.co/AM2nBIsZQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 2671,
+          "like_count": 4736,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 699
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T00:44:04.000Z",
+        "description": "救命救急医 週6日勤＋週2宿直+自己研鑽 日本DMAT隊員 オリンピック委員 旦那さん&奥さん大好き 定時上がり 子供の髪結＆お風呂＆寝かしつけマイスター",
+        "id": "1528174638139707393",
+        "name": "救命医エルメス",
+        "pinned_tweet_id": "2044530794203648052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642281941868376064/ML6YHBLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27135,
+          "following_count": 368,
+          "like_count": 3551,
+          "listed_count": 232,
+          "media_count": 3687,
+          "tweet_count": 24778
+        },
+        "username": "doctor_birkin",
+        "verified": true
+      }
+    ]
+  }
+}

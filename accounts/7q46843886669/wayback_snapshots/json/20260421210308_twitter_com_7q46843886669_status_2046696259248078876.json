@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046169636824141824"
+      ],
+      "media_source_tweet_id": [
+        "2046423687000215859"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046696259248078876",
+    "created_at": "2026-04-21T21:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T22:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046696259248078876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666657380216586240",
+          "start": 3,
+          "username": "de3dsoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TPZpQaIH0q",
+          "end": 65,
+          "expanded_url": "https://x.com/de3dsoul/status/2046423687000215859/video/1",
+          "media_key": "13_2046169636824141824",
+          "start": 42,
+          "url": "https://t.co/TPZpQaIH0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046696259248078876",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2091
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046423687000215859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de3dsoul: creativity at its peak &gt; https://t.co/TPZpQaIH0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17089,
+        "height": 718,
+        "media_key": "13_2046169636824141824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046169636824141824/img/ibjlxWycCafVkns5.jpg",
+        "public_metrics": {
+          "view_count": 318664
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046169636824141824/vid/avc1/320x402/gnhdh_7ZqWy3zCPo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046169636824141824/vid/avc1/480x604/ULvRSGWTXvUjKbeY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046169636824141824/vid/avc1/570x718/ZcL2AyNgpQ1rML8Y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046169636824141824/pl/BGN3WzsO9891TmtY.m3u8?v=cfc"
+          }
+        ],
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046169636824141824"
+          ],
+          "media_source_tweet_id": [
+            "2046423687000215859"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046696259248078876",
+        "created_at": "2026-04-21T21:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046696259248078876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666657380216586240",
+              "start": 3,
+              "username": "de3dsoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPZpQaIH0q",
+              "end": 65,
+              "expanded_url": "https://x.com/de3dsoul/status/2046423687000215859/video/1",
+              "media_key": "13_2046169636824141824",
+              "start": 42,
+              "url": "https://t.co/TPZpQaIH0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046696259248078876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2091
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046423687000215859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de3dsoul: creativity at its peak &gt; https://t.co/TPZpQaIH0q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046169636824141824"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046423687000215859",
+        "created_at": "2026-04-21T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046423687000215859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPZpQaIH0q",
+              "end": 51,
+              "expanded_url": "https://x.com/de3dsoul/status/2046423687000215859/video/1",
+              "media_key": "13_2046169636824141824",
+              "start": 28,
+              "url": "https://t.co/TPZpQaIH0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046423687000215859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3303,
+          "impression_count": 660736,
+          "like_count": 22989,
+          "quote_count": 25,
+          "reply_count": 28,
+          "retweet_count": 2091
+        },
+        "reply_settings": "everyone",
+        "text": "creativity at its peak &gt; https://t.co/TPZpQaIH0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 2673,
+          "like_count": 4894,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 761
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "location": "him",
+        "name": "定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127542,
+          "following_count": 53,
+          "like_count": 10196,
+          "listed_count": 225,
+          "media_count": 3621,
+          "tweet_count": 3974
+        },
+        "username": "de3dsoul",
+        "verified": true
+      }
+    ]
+  }
+}

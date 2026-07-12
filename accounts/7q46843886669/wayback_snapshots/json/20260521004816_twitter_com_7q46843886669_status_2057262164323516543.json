@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057157753617985536"
+      ],
+      "media_source_tweet_id": [
+        "2057157766670643394"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057262164323516543",
+    "created_at": "2026-05-21T00:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057262164323516543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895618595323068423",
+          "start": 3,
+          "username": "pokeentai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSR3H0ab9t",
+          "end": 44,
+          "expanded_url": "https://x.com/pokeentai/status/2057157766670643394/photo/1",
+          "media_key": "3_2057157753617985536",
+          "start": 21,
+          "url": "https://t.co/KSR3H0ab9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057262164323516543",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057157766670643394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pokeentai: Mirko https://t.co/KSR3H0ab9t"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057262164323516543].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057262164323516543",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057262164323516543"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2057157753617985536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIx-E99XMAA6mp-.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057157753617985536"
+          ]
+        },
+        "author_id": "1895618595323068423",
+        "conversation_id": "2057157766670643394",
+        "created_at": "2026-05-20T17:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057157766670643394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSR3H0ab9t",
+              "end": 29,
+              "expanded_url": "https://x.com/pokeentai/status/2057157766670643394/photo/1",
+              "media_key": "3_2057157753617985536",
+              "start": 6,
+              "url": "https://t.co/KSR3H0ab9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057157766670643394",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 3960,
+          "like_count": 529,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "Mirko https://t.co/KSR3H0ab9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 3009,
+          "like_count": 13960,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 4314
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T23:34:47.000Z",
+        "description": "18F  GODDESS| DAILY QUALITY HENTAI ❤️ | 📩 DM FOR PAID PROMO ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ourdream.ai/t/Pinkvenom",
+                "end": 23,
+                "expanded_url": "http://ourdream.ai/t/Pinkvenom",
+                "start": 0,
+                "url": "https://t.co/EXms5DEO7o"
+              }
+            ]
+          }
+        },
+        "id": "1895618595323068423",
+        "name": "ハルカₕₐᵣᵤₖₐ",
+        "pinned_tweet_id": "2038655303718261116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987529093479358465/Rvb4xQp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159132,
+          "following_count": 82,
+          "like_count": 200,
+          "listed_count": 399,
+          "media_count": 3377,
+          "tweet_count": 33162
+        },
+        "url": "https://t.co/EXms5DEO7o",
+        "username": "pokeentai",
+        "verified": false
+      }
+    ]
+  }
+}

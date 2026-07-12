@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2054545925029376376",
+    "created_at": "2026-05-13T12:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054545925029376376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782932905419046912",
+          "start": 3,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054545925029376376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054516180598378839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ratshelprats: 戒色真的有用朋友们，我就是因为戒色一周，lol段位从黑铁直接冲上了白银。朋友都说我变了个人似的，老家亲戚都问我怎么做到的，当年暗恋的对象都主动要和我双排上分。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2054545925029376376",
+        "created_at": "2026-05-13T12:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054545925029376376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782932905419046912",
+              "start": 3,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054545925029376376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054516180598378839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ratshelprats: 戒色真的有用朋友们，我就是因为戒色一周，lol段位从黑铁直接冲上了白银。朋友都说我变了个人似的，老家亲戚都问我怎么做到的，当年暗恋的对象都主动要和我双排上分。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782932905419046912",
+        "conversation_id": "2054516180598378839",
+        "created_at": "2026-05-13T10:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054516180598378839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054516180598378839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2700,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "戒色真的有用朋友们，我就是因为戒色一周，lol段位从黑铁直接冲上了白银。朋友都说我变了个人似的，老家亲戚都问我怎么做到的，当年暗恋的对象都主动要和我双排上分。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2969,
+          "like_count": 12451,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3690
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2019659610031026320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105514,
+          "following_count": 493,
+          "like_count": 90247,
+          "listed_count": 160,
+          "media_count": 656,
+          "tweet_count": 1536
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

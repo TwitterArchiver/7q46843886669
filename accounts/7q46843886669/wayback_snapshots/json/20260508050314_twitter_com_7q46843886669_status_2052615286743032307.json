@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052022854515077120"
+      ],
+      "media_source_tweet_id": [
+        "2052413144258015415"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052615286743032307",
+    "created_at": "2026-05-08T05:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052615286743032307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y4aV162aHX",
+          "end": 52,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2052413144258015415/photo/1",
+          "media_key": "3_2052022854515077120",
+          "start": 29,
+          "url": "https://t.co/y4aV162aHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052615286743032307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052413144258015415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 鲨鱼咬了一口，满大海的找蒜 https://t.co/y4aV162aHX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052022854515077120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo_6gJasAAgNJD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052022854515077120"
+          ],
+          "media_source_tweet_id": [
+            "2052413144258015415"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052615286743032307",
+        "created_at": "2026-05-08T05:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052615286743032307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4aV162aHX",
+              "end": 52,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2052413144258015415/photo/1",
+              "media_key": "3_2052022854515077120",
+              "start": 29,
+              "url": "https://t.co/y4aV162aHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052615286743032307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052413144258015415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 鲨鱼咬了一口，满大海的找蒜 https://t.co/y4aV162aHX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052022854515077120"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052413144258015415",
+        "created_at": "2026-05-07T15:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052413144258015415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4aV162aHX",
+              "end": 37,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2052413144258015415/photo/1",
+              "media_key": "3_2052022854515077120",
+              "start": 14,
+              "url": "https://t.co/y4aV162aHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052413144258015415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 60436,
+          "like_count": 583,
+          "quote_count": 0,
+          "reply_count": 136,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鱼咬了一口，满大海的找蒜 https://t.co/y4aV162aHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 2934,
+          "like_count": 11206,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3167
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8243,
+          "following_count": 2186,
+          "like_count": 29019,
+          "listed_count": 26,
+          "media_count": 1200,
+          "tweet_count": 4820
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

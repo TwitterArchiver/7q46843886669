@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050249394625392640"
+      ],
+      "media_source_tweet_id": [
+        "2050250945473446077"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050848523667837428",
+    "created_at": "2026-05-03T08:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050848523667837428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1173259891286392832",
+          "start": 3,
+          "username": "seanwei001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QwFu2qImD8",
+          "end": 89,
+          "expanded_url": "https://x.com/seanwei001/status/2050250945473446077/video/1",
+          "media_key": "13_2050249394625392640",
+          "start": 66,
+          "url": "https://t.co/QwFu2qImD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050848523667837428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1399
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050250945473446077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seanwei001: 这只鸟的歌声频率为432Hz。   这种声音有助于释放快乐激素，如血清素，从而自然调节血压和心率。 https://t.co/QwFu2qImD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18088,
+        "height": 400,
+        "media_key": "13_2050249394625392640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050249394625392640/img/ELbZxwFoGnb7yZN4.jpg",
+        "public_metrics": {
+          "view_count": 126996
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050249394625392640/vid/avc1/486x270/RQ8H9gXnbsg6PUXQ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050249394625392640/vid/avc1/720x400/2NsmnJdOZrr6uG2_.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050249394625392640/pl/CIA1tlxu6Kh9cv2g.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050249394625392640"
+          ],
+          "media_source_tweet_id": [
+            "2050250945473446077"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050848523667837428",
+        "created_at": "2026-05-03T08:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050848523667837428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1173259891286392832",
+              "start": 3,
+              "username": "seanwei001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QwFu2qImD8",
+              "end": 89,
+              "expanded_url": "https://x.com/seanwei001/status/2050250945473446077/video/1",
+              "media_key": "13_2050249394625392640",
+              "start": 66,
+              "url": "https://t.co/QwFu2qImD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050848523667837428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1399
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050250945473446077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seanwei001: 这只鸟的歌声频率为432Hz。   这种声音有助于释放快乐激素，如血清素，从而自然调节血压和心率。 https://t.co/QwFu2qImD8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050249394625392640"
+          ]
+        },
+        "author_id": "1173259891286392832",
+        "conversation_id": "2050250945473446077",
+        "created_at": "2026-05-01T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050250945473446077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QwFu2qImD8",
+              "end": 73,
+              "expanded_url": "https://x.com/seanwei001/status/2050250945473446077/video/1",
+              "media_key": "13_2050249394625392640",
+              "start": 50,
+              "url": "https://t.co/QwFu2qImD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050250945473446077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2445,
+          "impression_count": 307655,
+          "like_count": 6604,
+          "quote_count": 75,
+          "reply_count": 105,
+          "retweet_count": 1399
+        },
+        "reply_settings": "everyone",
+        "text": "这只鸟的歌声频率为432Hz。   这种声音有助于释放快乐激素，如血清素，从而自然调节血压和心率。 https://t.co/QwFu2qImD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 2853,
+          "like_count": 9219,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2559
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-15T15:39:38.000Z",
+        "description": "来看有趣的事。。。",
+        "id": "1173259891286392832",
+        "name": "大变活人",
+        "pinned_tweet_id": "1454115070686887938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376681920461905922/obKbf3oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146973,
+          "following_count": 783,
+          "like_count": 26878,
+          "listed_count": 447,
+          "media_count": 28384,
+          "tweet_count": 34487
+        },
+        "username": "seanwei001",
+        "verified": true
+      }
+    ]
+  }
+}

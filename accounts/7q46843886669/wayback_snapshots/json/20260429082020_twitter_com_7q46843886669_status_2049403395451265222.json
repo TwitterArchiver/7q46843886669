@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049403395451265222",
+    "created_at": "2026-04-29T08:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049403395451265222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002003730334621696",
+          "start": 3,
+          "username": "qinqin170964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049403395451265222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049293371534172635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinqin170964: 感谢你像陨石一样出现在我的世界里 但我是恐龙 你毁了我的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049403395451265222",
+        "created_at": "2026-04-29T08:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049403395451265222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002003730334621696",
+              "start": 3,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049403395451265222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049293371534172635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinqin170964: 感谢你像陨石一样出现在我的世界里 但我是恐龙 你毁了我的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2049293371534172635",
+        "created_at": "2026-04-29T01:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049293371534172635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049293371534172635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 578,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "感谢你像陨石一样出现在我的世界里 但我是恐龙 你毁了我的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2782,
+          "like_count": 7100,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1761
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "请赐予我平静对待一切的能力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MWvc"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "心平能愈三千疾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037452424311656448/VBywX77m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 54,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/sWICt0MWvc",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

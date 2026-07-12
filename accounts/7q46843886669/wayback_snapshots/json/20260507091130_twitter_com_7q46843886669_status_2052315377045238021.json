@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051990544088539137"
+      ],
+      "media_source_tweet_id": [
+        "2051990550333788574"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2052315377045238021",
+    "created_at": "2026-05-07T09:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052315377045238021"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "初音未來"
+        },
+        {
+          "end": 42,
+          "start": 30,
+          "tag": "Hatsunemiku"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "miku"
+        },
+        {
+          "end": 58,
+          "start": 49,
+          "tag": "VOCALOID"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3128311494",
+          "start": 3,
+          "username": "akina_mochi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FucsFVifF7",
+          "end": 82,
+          "expanded_url": "https://x.com/akina_mochi_/status/2051990550333788574/photo/1",
+          "media_key": "3_2051990544088539137",
+          "start": 59,
+          "url": "https://t.co/FucsFVifF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052315377045238021",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051990550333788574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akina_mochi_: #初音ミク #初音未來 #Hatsunemiku #miku #VOCALOID https://t.co/FucsFVifF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051990544088539137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoihybboAE1Qdc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051990544088539137"
+          ],
+          "media_source_tweet_id": [
+            "2051990550333788574"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2052315377045238021",
+        "created_at": "2026-05-07T09:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052315377045238021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "初音未來"
+            },
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "Hatsunemiku"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "miku"
+            },
+            {
+              "end": 58,
+              "start": 49,
+              "tag": "VOCALOID"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3128311494",
+              "start": 3,
+              "username": "akina_mochi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FucsFVifF7",
+              "end": 82,
+              "expanded_url": "https://x.com/akina_mochi_/status/2051990550333788574/photo/1",
+              "media_key": "3_2051990544088539137",
+              "start": 59,
+              "url": "https://t.co/FucsFVifF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052315377045238021",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051990550333788574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akina_mochi_: #初音ミク #初音未來 #Hatsunemiku #miku #VOCALOID https://t.co/FucsFVifF7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051990544088539137"
+          ]
+        },
+        "author_id": "3128311494",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2051990550333788574",
+        "created_at": "2026-05-06T11:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051990550333788574"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "初音未來"
+            },
+            {
+              "end": 24,
+              "start": 12,
+              "tag": "Hatsunemiku"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "miku"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "VOCALOID"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FucsFVifF7",
+              "end": 64,
+              "expanded_url": "https://x.com/akina_mochi_/status/2051990550333788574/photo/1",
+              "media_key": "3_2051990544088539137",
+              "start": 41,
+              "url": "https://t.co/FucsFVifF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051990550333788574",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 16693,
+          "like_count": 1329,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク #初音未來 #Hatsunemiku #miku #VOCALOID https://t.co/FucsFVifF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2901,
+          "like_count": 10876,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3097
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-02T00:08:02.000Z",
+        "description": "🇹🇼 台灣/TAIWANESE\n⚠️委託直接私訊我即可／\n粉絲二創tag：#秋酷\n其他平台連結：https://t.co/FPDsv0H1uT\nYouTube：https://t.co/kg4T4eLlUb…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "秋酷"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/AKINA77",
+                "end": 71,
+                "expanded_url": "https://linktr.ee/AKINA77",
+                "start": 48,
+                "url": "https://t.co/FPDsv0H1uT"
+              },
+              {
+                "display_url": "youtube.com/@akina_AK/vide",
+                "end": 103,
+                "expanded_url": "http://youtube.com/@akina_AK/vide",
+                "start": 80,
+                "url": "https://t.co/kg4T4eLlUb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/14TbUhZP…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/14TbUhZPVcE/",
+                "start": 0,
+                "url": "https://t.co/Egc3lZIlRm"
+              }
+            ]
+          }
+        },
+        "id": "3128311494",
+        "location": "台灣",
+        "name": "秋奈 - AKINA🍁 Commission OPEN",
+        "pinned_tweet_id": "1992472559242367236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853139015249412096/zdvRKSXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 531,
+          "like_count": 9543,
+          "listed_count": 21,
+          "media_count": 1014,
+          "tweet_count": 2636
+        },
+        "url": "https://t.co/Egc3lZIlRm",
+        "username": "akina_mochi_",
+        "verified": false
+      }
+    ]
+  }
+}

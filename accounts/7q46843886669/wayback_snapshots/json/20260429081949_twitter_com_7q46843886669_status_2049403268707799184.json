@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049084431286276096"
+      ],
+      "media_source_tweet_id": [
+        "2049084436420178063"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049403268707799184",
+    "created_at": "2026-04-29T08:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049403268707799184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038187690898927617",
+          "start": 3,
+          "username": "Ss2veuSs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5ZKpwVIMH",
+          "end": 56,
+          "expanded_url": "https://x.com/Ss2veuSs/status/2049084436420178063/photo/1",
+          "media_key": "3_2049084431286276096",
+          "start": 33,
+          "url": "https://t.co/O5ZKpwVIMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049403268707799184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049084436420178063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ss2veuSs: skebのwip\nお背中描くの楽しい https://t.co/O5ZKpwVIMH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049084431286276096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_PbwmaEAAhLd4.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049084431286276096"
+          ],
+          "media_source_tweet_id": [
+            "2049084436420178063"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049403268707799184",
+        "created_at": "2026-04-29T08:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049403268707799184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038187690898927617",
+              "start": 3,
+              "username": "Ss2veuSs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5ZKpwVIMH",
+              "end": 56,
+              "expanded_url": "https://x.com/Ss2veuSs/status/2049084436420178063/photo/1",
+              "media_key": "3_2049084431286276096",
+              "start": 33,
+              "url": "https://t.co/O5ZKpwVIMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049403268707799184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049084436420178063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ss2veuSs: skebのwip\nお背中描くの楽しい https://t.co/O5ZKpwVIMH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049084431286276096"
+          ]
+        },
+        "author_id": "2038187690898927617",
+        "conversation_id": "2049084436420178063",
+        "created_at": "2026-04-28T11:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049084436420178063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5ZKpwVIMH",
+              "end": 42,
+              "expanded_url": "https://x.com/Ss2veuSs/status/2049084436420178063/photo/1",
+              "media_key": "3_2049084431286276096",
+              "start": 19,
+              "url": "https://t.co/O5ZKpwVIMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049084436420178063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 21955,
+          "like_count": 2781,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "skebのwip\nお背中描くの楽しい https://t.co/O5ZKpwVIMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2782,
+          "like_count": 7100,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1760
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:33:51.000Z",
+        "description": "AI学習🚫厚塗り好きで雑多に描いてます\nskeb(停止中)→ https://t.co/ybdyQhcoG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Ss2veuSs",
+                "end": 54,
+                "expanded_url": "https://skeb.jp/@Ss2veuSs",
+                "start": 31,
+                "url": "https://t.co/ybdyQhcoG0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/28813421",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/28813421",
+                "start": 0,
+                "url": "https://t.co/2v7wzqPCz3"
+              }
+            ]
+          }
+        },
+        "id": "2038187690898927617",
+        "name": "宇佐冬美",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042527365600051200/1pclkPVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4275,
+          "following_count": 3,
+          "like_count": 78,
+          "listed_count": 11,
+          "media_count": 12,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/2v7wzqPCz3",
+        "username": "Ss2veuSs",
+        "verified": false
+      }
+    ]
+  }
+}

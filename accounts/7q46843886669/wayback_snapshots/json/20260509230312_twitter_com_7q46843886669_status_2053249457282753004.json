@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053190811685376000"
+      ],
+      "media_source_tweet_id": [
+        "2053190840563212711"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053249457282753004",
+    "created_at": "2026-05-09T23:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T00:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053249457282753004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551181612234473472",
+          "start": 3,
+          "username": "GeGeGek_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2PLGWcNCie",
+          "end": 37,
+          "expanded_url": "https://x.com/GeGeGek_/status/2053190840563212711/photo/1",
+          "media_key": "3_2053190811685376000",
+          "start": 14,
+          "url": "https://t.co/2PLGWcNCie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053249457282753004",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053190840563212711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeGeGek_: https://t.co/2PLGWcNCie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2053190811685376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5mKjqaUAAWz2u.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053190811685376000"
+          ],
+          "media_source_tweet_id": [
+            "2053190840563212711"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053249457282753004",
+        "created_at": "2026-05-09T23:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053249457282753004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551181612234473472",
+              "start": 3,
+              "username": "GeGeGek_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PLGWcNCie",
+              "end": 37,
+              "expanded_url": "https://x.com/GeGeGek_/status/2053190840563212711/photo/1",
+              "media_key": "3_2053190811685376000",
+              "start": 14,
+              "url": "https://t.co/2PLGWcNCie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053249457282753004",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053190840563212711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeGeGek_: https://t.co/2PLGWcNCie"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053190811685376000"
+          ]
+        },
+        "author_id": "1551181612234473472",
+        "conversation_id": "2053190840563212711",
+        "created_at": "2026-05-09T19:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053190840563212711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PLGWcNCie",
+              "end": 23,
+              "expanded_url": "https://x.com/GeGeGek_/status/2053190840563212711/photo/1",
+              "media_key": "3_2053190811685376000",
+              "start": 0,
+              "url": "https://t.co/2PLGWcNCie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053190840563212711",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1131,
+          "impression_count": 107190,
+          "like_count": 15040,
+          "quote_count": 16,
+          "reply_count": 52,
+          "retweet_count": 1228
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2PLGWcNCie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2964,
+          "like_count": 11758,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3389
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T12:25:16.000Z",
+        "description": "Original Animal Character Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_gegegek_/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_gegegek_/",
+                "start": 0,
+                "url": "https://t.co/74VwTtdNQa"
+              }
+            ]
+          }
+        },
+        "id": "1551181612234473472",
+        "name": "게게겍",
+        "pinned_tweet_id": "1792483040834593049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551181720711737345/BVvJMRrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291437,
+          "following_count": 116,
+          "like_count": 2178,
+          "listed_count": 1044,
+          "media_count": 236,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/74VwTtdNQa",
+        "username": "GeGeGek_",
+        "verified": true
+      }
+    ]
+  }
+}

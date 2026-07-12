@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053758455329267712"
+      ],
+      "media_source_tweet_id": [
+        "2053758461595578368"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053812187907731734",
+    "created_at": "2026-05-11T12:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053812187907731734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1511384359911456769",
+          "start": 3,
+          "username": "KRssk25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bP0lJ1msfv",
+          "end": 36,
+          "expanded_url": "https://x.com/KRssk25/status/2053758461595578368/photo/1",
+          "media_key": "3_2053758455329267712",
+          "start": 13,
+          "url": "https://t.co/bP0lJ1msfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053812187907731734",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053758461595578368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @KRssk25: https://t.co/bP0lJ1msfv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1822,
+        "media_key": "3_2053758455329267712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBqbxBbIAAO3uB.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053758455329267712"
+          ],
+          "media_source_tweet_id": [
+            "2053758461595578368"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053812187907731734",
+        "created_at": "2026-05-11T12:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053812187907731734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1511384359911456769",
+              "start": 3,
+              "username": "KRssk25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bP0lJ1msfv",
+              "end": 36,
+              "expanded_url": "https://x.com/KRssk25/status/2053758461595578368/photo/1",
+              "media_key": "3_2053758455329267712",
+              "start": 13,
+              "url": "https://t.co/bP0lJ1msfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053812187907731734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053758461595578368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @KRssk25: https://t.co/bP0lJ1msfv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053758455329267712"
+          ]
+        },
+        "author_id": "1511384359911456769",
+        "conversation_id": "2053758461595578368",
+        "created_at": "2026-05-11T08:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053758461595578368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bP0lJ1msfv",
+              "end": 23,
+              "expanded_url": "https://x.com/KRssk25/status/2053758461595578368/photo/1",
+              "media_key": "3_2053758455329267712",
+              "start": 0,
+              "url": "https://t.co/bP0lJ1msfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053758461595578368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 8064,
+          "like_count": 1107,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/bP0lJ1msfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2972,
+          "like_count": 12262,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3620
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T16:45:18.000Z",
+        "description": "成人済/一次創作 ▼fanbox→https://t.co/aG0EvJzglo 無断転載・使用・AI学習禁止/Any use or reproduction of my illustrations is prohibited",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mimimimi-kuru.fanbox.cc",
+                "end": 40,
+                "expanded_url": "https://mimimimi-kuru.fanbox.cc/",
+                "start": 17,
+                "url": "https://t.co/aG0EvJzglo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16996441",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/16996441",
+                "start": 0,
+                "url": "https://t.co/hbp6tCvY4d"
+              }
+            ]
+          }
+        },
+        "id": "1511384359911456769",
+        "location": "日本",
+        "name": "KR",
+        "pinned_tweet_id": "1854418605481599264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031029084114063360/2O8Sm9BR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38282,
+          "following_count": 640,
+          "like_count": 3292,
+          "listed_count": 130,
+          "media_count": 242,
+          "tweet_count": 2903
+        },
+        "url": "https://t.co/hbp6tCvY4d",
+        "username": "KRssk25",
+        "verified": false
+      }
+    ]
+  }
+}

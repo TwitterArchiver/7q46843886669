@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049664635029123072",
+        "3_2049664635977015296"
+      ],
+      "media_source_tweet_id": [
+        "2049664656231247896",
+        "2049664656231247896"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049700419958681981",
+    "created_at": "2026-04-30T04:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049700419958681981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HvUCszQnWP",
+          "end": 58,
+          "expanded_url": "https://x.com/__fanqie__/status/2049664656231247896/photo/1",
+          "media_key": "3_2049664635029123072",
+          "start": 35,
+          "url": "https://t.co/HvUCszQnWP"
+        },
+        {
+          "display_url": "pic.x.com/HvUCszQnWP",
+          "end": 58,
+          "expanded_url": "https://x.com/__fanqie__/status/2049664656231247896/photo/1",
+          "media_key": "3_2049664635977015296",
+          "start": 35,
+          "url": "https://t.co/HvUCszQnWP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049700419958681981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049664656231247896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 其实短短几句话女主已经幻想过三部片了 https://t.co/HvUCszQnWP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2049664635029123072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHfID-XcAAvZEX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1335,
+        "media_key": "3_2049664635977015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHfIHgXIAAMK_z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049664635029123072",
+            "3_2049664635977015296"
+          ],
+          "media_source_tweet_id": [
+            "2049664656231247896",
+            "2049664656231247896"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049700419958681981",
+        "created_at": "2026-04-30T04:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049700419958681981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvUCszQnWP",
+              "end": 58,
+              "expanded_url": "https://x.com/__fanqie__/status/2049664656231247896/photo/1",
+              "media_key": "3_2049664635029123072",
+              "start": 35,
+              "url": "https://t.co/HvUCszQnWP"
+            },
+            {
+              "display_url": "pic.x.com/HvUCszQnWP",
+              "end": 58,
+              "expanded_url": "https://x.com/__fanqie__/status/2049664656231247896/photo/1",
+              "media_key": "3_2049664635977015296",
+              "start": 35,
+              "url": "https://t.co/HvUCszQnWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049700419958681981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049664656231247896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 其实短短几句话女主已经幻想过三部片了 https://t.co/HvUCszQnWP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049664635029123072",
+            "3_2049664635977015296"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049664656231247896",
+        "created_at": "2026-04-30T01:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049664656231247896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvUCszQnWP",
+              "end": 42,
+              "expanded_url": "https://x.com/__fanqie__/status/2049664656231247896/photo/1",
+              "media_key": "3_2049664635029123072",
+              "start": 19,
+              "url": "https://t.co/HvUCszQnWP"
+            },
+            {
+              "display_url": "pic.x.com/HvUCszQnWP",
+              "end": 42,
+              "expanded_url": "https://x.com/__fanqie__/status/2049664656231247896/photo/1",
+              "media_key": "3_2049664635977015296",
+              "start": 19,
+              "url": "https://t.co/HvUCszQnWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049664656231247896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实短短几句话女主已经幻想过三部片了 https://t.co/HvUCszQnWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2800,
+          "like_count": 7531,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1930
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2049387713699381754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5781,
+          "following_count": 2976,
+          "like_count": 1520,
+          "listed_count": 10,
+          "media_count": 1086,
+          "tweet_count": 9036
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055634052821217281"
+      ],
+      "media_source_tweet_id": [
+        "2055634058076643602"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055961124647096458",
+    "created_at": "2026-05-17T10:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055961124647096458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1042070984663162880",
+          "start": 3,
+          "username": "tw111111111111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pj3gtNyofh",
+          "end": 43,
+          "expanded_url": "https://x.com/tw111111111111/status/2055634058076643602/photo/1",
+          "media_key": "3_2055634052821217281",
+          "start": 20,
+          "url": "https://t.co/Pj3gtNyofh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055961124647096458",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055634058076643602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tw111111111111: https://t.co/Pj3gtNyofh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2055634052821217281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcUR6Ka8AE0AeT.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055634052821217281"
+          ],
+          "media_source_tweet_id": [
+            "2055634058076643602"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055961124647096458",
+        "created_at": "2026-05-17T10:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055961124647096458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1042070984663162880",
+              "start": 3,
+              "username": "tw111111111111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj3gtNyofh",
+              "end": 43,
+              "expanded_url": "https://x.com/tw111111111111/status/2055634058076643602/photo/1",
+              "media_key": "3_2055634052821217281",
+              "start": 20,
+              "url": "https://t.co/Pj3gtNyofh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055961124647096458",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055634058076643602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tw111111111111: https://t.co/Pj3gtNyofh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055634052821217281"
+          ]
+        },
+        "author_id": "1042070984663162880",
+        "conversation_id": "2055634058076643602",
+        "created_at": "2026-05-16T12:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055634058076643602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj3gtNyofh",
+              "end": 23,
+              "expanded_url": "https://x.com/tw111111111111/status/2055634058076643602/photo/1",
+              "media_key": "3_2055634052821217281",
+              "start": 0,
+              "url": "https://t.co/Pj3gtNyofh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055634058076643602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1975,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Pj3gtNyofh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2978,
+          "like_count": 13043,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3970
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "260207 瑞典國防手冊\n\n260104 防災防恐避難資訊\n\n260104 防災包清單：\nhttps://t.co/nRW7026r3a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/zqQMap",
+                "end": 69,
+                "expanded_url": "https://reurl.cc/zqQMap",
+                "start": 46,
+                "url": "https://t.co/nRW7026r3a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skylikesun.blogspot.com/2018/10/blog-p…",
+                "end": 23,
+                "expanded_url": "https://skylikesun.blogspot.com/2018/10/blog-post_88.html",
+                "start": 0,
+                "url": "https://t.co/y6AH80DnOv"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "name": "🌑",
+        "pinned_tweet_id": "1866626794574712967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009810316742537216/9K8UmD7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16670,
+          "following_count": 943,
+          "like_count": 250331,
+          "listed_count": 64,
+          "media_count": 41957,
+          "tweet_count": 108089
+        },
+        "url": "https://t.co/y6AH80DnOv",
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

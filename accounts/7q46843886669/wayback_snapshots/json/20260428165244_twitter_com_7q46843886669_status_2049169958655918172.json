@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049169958655918172",
+    "created_at": "2026-04-28T16:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049169958655918172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000168190983491584",
+          "start": 3,
+          "username": "pretty59321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049169958655918172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048841665256075622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pretty59321: 和男人聊到很严肃的话题，聊完之后我有点难过\n我：我讨厌你\n他：想我了对吗，我也是，很想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049169958655918172",
+        "created_at": "2026-04-28T16:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049169958655918172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000168190983491584",
+              "start": 3,
+              "username": "pretty59321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049169958655918172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048841665256075622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pretty59321: 和男人聊到很严肃的话题，聊完之后我有点难过\n我：我讨厌你\n他：想我了对吗，我也是，很想你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000168190983491584",
+        "conversation_id": "2048841665256075622",
+        "created_at": "2026-04-27T19:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048841665256075622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048841665256075622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14543,
+          "like_count": 285,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "和男人聊到很严肃的话题，聊完之后我有点难过\n我：我讨厌你\n他：想我了对吗，我也是，很想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2768,
+          "like_count": 6718,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1597
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T11:46:01.000Z",
+        "description": "一期一会｜复杂的人｜Brat｜Sub｜自留地",
+        "id": "2000168190983491584",
+        "location": "私人日记本",
+        "name": "薄荷巧克力",
+        "pinned_tweet_id": "2025737780350095609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000436708652003328/KfA81265_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 64,
+          "like_count": 3999,
+          "listed_count": 8,
+          "media_count": 297,
+          "tweet_count": 1957
+        },
+        "username": "pretty59321",
+        "verified": false
+      }
+    ]
+  }
+}

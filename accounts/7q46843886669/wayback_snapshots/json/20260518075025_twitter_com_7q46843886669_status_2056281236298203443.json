@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056215276757336064"
+      ],
+      "media_source_tweet_id": [
+        "2056215283505963216"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056281236298203443",
+    "created_at": "2026-05-18T07:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056281236298203443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996918310349557762",
+          "start": 3,
+          "username": "Guli1817513"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EP88qbajDS",
+          "end": 46,
+          "expanded_url": "https://x.com/Guli1817513/status/2056215283505963216/photo/1",
+          "media_key": "3_2056215276757336064",
+          "start": 23,
+          "url": "https://t.co/EP88qbajDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056281236298203443",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056215283505963216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guli1817513: 我恶俗程度 https://t.co/EP88qbajDS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 732,
+        "media_key": "3_2056215276757336064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkk5mDaQAA15Kl.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056215276757336064"
+          ],
+          "media_source_tweet_id": [
+            "2056215283505963216"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056281236298203443",
+        "created_at": "2026-05-18T07:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056281236298203443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996918310349557762",
+              "start": 3,
+              "username": "Guli1817513"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EP88qbajDS",
+              "end": 46,
+              "expanded_url": "https://x.com/Guli1817513/status/2056215283505963216/photo/1",
+              "media_key": "3_2056215276757336064",
+              "start": 23,
+              "url": "https://t.co/EP88qbajDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056281236298203443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056215283505963216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guli1817513: 我恶俗程度 https://t.co/EP88qbajDS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056215276757336064"
+          ]
+        },
+        "author_id": "1996918310349557762",
+        "conversation_id": "2056215283505963216",
+        "created_at": "2026-05-18T03:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056215283505963216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EP88qbajDS",
+              "end": 29,
+              "expanded_url": "https://x.com/Guli1817513/status/2056215283505963216/photo/1",
+              "media_key": "3_2056215276757336064",
+              "start": 6,
+              "url": "https://t.co/EP88qbajDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056215283505963216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2355,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恶俗程度 https://t.co/EP88qbajDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2981,
+          "like_count": 13247,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4053
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:23:39.000Z",
+        "description": "我爱发啥发啥，我爱说啥说啥，不喜欢屏蔽。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guli33050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guli33050",
+                "start": 0,
+                "url": "https://t.co/vFNHmjljcQ"
+              }
+            ]
+          }
+        },
+        "id": "1996918310349557762",
+        "location": "0.1km",
+        "name": "Guli",
+        "pinned_tweet_id": "2056042949872607312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048409926104690688/tMrozmW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 87,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 542,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/vFNHmjljcQ",
+        "username": "Guli1817513",
+        "verified": false
+      }
+    ]
+  }
+}

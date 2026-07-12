@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050352538407620860",
+    "created_at": "2026-05-01T23:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050352538407620860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007800360057135104",
+          "start": 3,
+          "username": "chessiaya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050352538407620860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050205334224982361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chessiaya1: 操你妈 原来你也会让别的女孩玩你的头发 你的脸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050352538407620860",
+        "created_at": "2026-05-01T23:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050352538407620860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007800360057135104",
+              "start": 3,
+              "username": "chessiaya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050352538407620860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050205334224982361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chessiaya1: 操你妈 原来你也会让别的女孩玩你的头发 你的脸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007800360057135104",
+        "conversation_id": "2050205334224982361",
+        "created_at": "2026-05-01T13:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050205334224982361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050205334224982361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3366,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "操你妈 原来你也会让别的女孩玩你的头发 你的脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8301,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2186
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "这个世界好坏但是姐姐会带我走@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "2007800360057135104",
+        "location": "288好友位（口令",
+        "name": "塞西莉娅",
+        "pinned_tweet_id": "2044432209646399602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020711776904777729/xWO0jx7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 355,
+          "like_count": 13682,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 1919
+        },
+        "username": "chessiaya1",
+        "verified": false
+      }
+    ]
+  }
+}

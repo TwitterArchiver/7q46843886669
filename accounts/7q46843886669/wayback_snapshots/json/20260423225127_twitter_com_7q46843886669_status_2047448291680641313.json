@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045776130603679744"
+      ],
+      "media_source_tweet_id": [
+        "2047269260582383798"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047448291680641313",
+    "created_at": "2026-04-23T22:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T23:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047448291680641313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RsIkb0pq3R",
+          "end": 35,
+          "expanded_url": "https://x.com/BI3BXI/status/2047269260582383798/photo/1",
+          "media_key": "3_2045776130603679744",
+          "start": 12,
+          "url": "https://t.co/RsIkb0pq3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047448291680641313",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047269260582383798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @BI3BXI: https://t.co/RsIkb0pq3R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1473,
+        "media_key": "3_2045776130603679744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQOjUKbAAA90tp.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045776130603679744"
+          ],
+          "media_source_tweet_id": [
+            "2047269260582383798"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047448291680641313",
+        "created_at": "2026-04-23T22:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047448291680641313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsIkb0pq3R",
+              "end": 35,
+              "expanded_url": "https://x.com/BI3BXI/status/2047269260582383798/photo/1",
+              "media_key": "3_2045776130603679744",
+              "start": 12,
+              "url": "https://t.co/RsIkb0pq3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047448291680641313",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047269260582383798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @BI3BXI: https://t.co/RsIkb0pq3R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045776130603679744"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2047269260582383798",
+        "created_at": "2026-04-23T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047269260582383798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsIkb0pq3R",
+              "end": 23,
+              "expanded_url": "https://x.com/BI3BXI/status/2047269260582383798/photo/1",
+              "media_key": "3_2045776130603679744",
+              "start": 0,
+              "url": "https://t.co/RsIkb0pq3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047269260582383798",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3318,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/RsIkb0pq3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2703,
+          "like_count": 5763,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 905
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Show5560"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8945,
+          "following_count": 4097,
+          "like_count": 42817,
+          "listed_count": 26,
+          "media_count": 2856,
+          "tweet_count": 11059
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

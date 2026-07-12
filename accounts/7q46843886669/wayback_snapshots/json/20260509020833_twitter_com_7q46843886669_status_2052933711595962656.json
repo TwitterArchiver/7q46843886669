@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052599045508747265"
+      ],
+      "media_source_tweet_id": [
+        "2052599058511049190"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052933711595962656",
+    "created_at": "2026-05-09T02:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052933711595962656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1372106347433500675",
+          "start": 3,
+          "username": "Nyacocoaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wx90prey3D",
+          "end": 38,
+          "expanded_url": "https://x.com/Nyacocoaw/status/2052599058511049190/photo/1",
+          "media_key": "3_2052599045508747265",
+          "start": 15,
+          "url": "https://t.co/wx90prey3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052933711595962656",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052599058511049190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @Nyacocoaw: https://t.co/wx90prey3D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_2052599045508747265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxL9O3a0AElSkK.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052599045508747265"
+          ],
+          "media_source_tweet_id": [
+            "2052599058511049190"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052933711595962656",
+        "created_at": "2026-05-09T02:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052933711595962656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1372106347433500675",
+              "start": 3,
+              "username": "Nyacocoaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wx90prey3D",
+              "end": 38,
+              "expanded_url": "https://x.com/Nyacocoaw/status/2052599058511049190/photo/1",
+              "media_key": "3_2052599045508747265",
+              "start": 15,
+              "url": "https://t.co/wx90prey3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052933711595962656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052599058511049190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @Nyacocoaw: https://t.co/wx90prey3D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052599045508747265"
+          ]
+        },
+        "author_id": "1372106347433500675",
+        "conversation_id": "2052599058511049190",
+        "created_at": "2026-05-08T03:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052599058511049190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wx90prey3D",
+              "end": 23,
+              "expanded_url": "https://x.com/Nyacocoaw/status/2052599058511049190/photo/1",
+              "media_key": "3_2052599045508747265",
+              "start": 0,
+              "url": "https://t.co/wx90prey3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052599058511049190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 13771,
+          "like_count": 429,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/wx90prey3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2966,
+          "like_count": 11513,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3284
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T08:43:50.000Z",
+        "description": "好猫…大概是清水推，点赞bot，主页各种画师转推（还有新加的炼丹x\n提示词搬运工，音游/fps/xcpc都已经是过去了😭彻底步入老年生活\n随缘回私信。@YuZu_impulse",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "YuZu_impulse"
+              }
+            ]
+          }
+        },
+        "id": "1372106347433500675",
+        "location": "夢",
+        "name": "喵可可喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038661793464418304/dok5LVmp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15231,
+          "following_count": 1509,
+          "like_count": 35001,
+          "listed_count": 55,
+          "media_count": 104,
+          "tweet_count": 2021
+        },
+        "username": "Nyacocoaw",
+        "verified": true
+      }
+    ]
+  }
+}

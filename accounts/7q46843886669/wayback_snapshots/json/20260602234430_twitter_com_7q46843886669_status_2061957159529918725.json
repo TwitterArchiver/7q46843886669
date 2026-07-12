@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061470049550868481"
+      ],
+      "media_source_tweet_id": [
+        "2061470340463620494"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2061957159529918725",
+    "created_at": "2026-06-02T23:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T00:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061957159529918725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902803563228876800",
+          "start": 3,
+          "username": "reizeirrection"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66N1qwZxbR",
+          "end": 43,
+          "expanded_url": "https://x.com/reizeirrection/status/2061470340463620494/photo/1",
+          "media_key": "3_2061470049550868481",
+          "start": 20,
+          "url": "https://t.co/66N1qwZxbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061957159529918725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2835
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061470340463620494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reizeirrection: https://t.co/66N1qwZxbR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2061470049550868481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvQFoKWIAEfWKN.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061470049550868481"
+          ],
+          "media_source_tweet_id": [
+            "2061470340463620494"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2061957159529918725",
+        "created_at": "2026-06-02T23:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061957159529918725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902803563228876800",
+              "start": 3,
+              "username": "reizeirrection"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66N1qwZxbR",
+              "end": 43,
+              "expanded_url": "https://x.com/reizeirrection/status/2061470340463620494/photo/1",
+              "media_key": "3_2061470049550868481",
+              "start": 20,
+              "url": "https://t.co/66N1qwZxbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061957159529918725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2835
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061470340463620494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reizeirrection: https://t.co/66N1qwZxbR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061470049550868481"
+          ]
+        },
+        "author_id": "1902803563228876800",
+        "conversation_id": "2061470340463620494",
+        "created_at": "2026-06-01T15:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061470340463620494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66N1qwZxbR",
+              "end": 23,
+              "expanded_url": "https://x.com/reizeirrection/status/2061470340463620494/photo/1",
+              "media_key": "3_2061470049550868481",
+              "start": 0,
+              "url": "https://t.co/66N1qwZxbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061470340463620494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3408,
+          "impression_count": 446821,
+          "like_count": 41314,
+          "quote_count": 47,
+          "reply_count": 20,
+          "retweet_count": 2835
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/66N1qwZxbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 3300,
+          "like_count": 16481,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4615
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T19:25:05.000Z",
+        "description": "your favorite account's ghost writer, probably\nalt: @JReizeism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "JReizeism"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reizeist.straw.page",
+                "end": 23,
+                "expanded_url": "https://reizeist.straw.page",
+                "start": 0,
+                "url": "https://t.co/oRw3mx9w9Q"
+              }
+            ]
+          }
+        },
+        "id": "1902803563228876800",
+        "name": "jet",
+        "pinned_tweet_id": "2053255707512709498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055608170010066944/UbVRHPtP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 134,
+          "like_count": 3312,
+          "listed_count": 8,
+          "media_count": 827,
+          "tweet_count": 4532
+        },
+        "url": "https://t.co/oRw3mx9w9Q",
+        "username": "reizeirrection",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053248337717932039"
+      ],
+      "media_source_tweet_id": [
+        "2053248341375332743"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053386530996269193",
+    "created_at": "2026-05-10T08:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053386530996269193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492309312345153542",
+          "start": 3,
+          "username": "astralbaes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eCtWIytx0v",
+          "end": 39,
+          "expanded_url": "https://x.com/astralbaes/status/2053248341375332743/photo/1",
+          "media_key": "3_2053248337717932039",
+          "start": 16,
+          "url": "https://t.co/eCtWIytx0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053386530996269193",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053248341375332743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astralbaes: https://t.co/eCtWIytx0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2053248337717932039",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6afA1WsAcbgze.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053248337717932039"
+          ],
+          "media_source_tweet_id": [
+            "2053248341375332743"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053386530996269193",
+        "created_at": "2026-05-10T08:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053386530996269193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492309312345153542",
+              "start": 3,
+              "username": "astralbaes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCtWIytx0v",
+              "end": 39,
+              "expanded_url": "https://x.com/astralbaes/status/2053248341375332743/photo/1",
+              "media_key": "3_2053248337717932039",
+              "start": 16,
+              "url": "https://t.co/eCtWIytx0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053386530996269193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053248341375332743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astralbaes: https://t.co/eCtWIytx0v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053248337717932039"
+          ]
+        },
+        "author_id": "1492309312345153542",
+        "conversation_id": "2053248341375332743",
+        "created_at": "2026-05-09T22:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053248341375332743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCtWIytx0v",
+              "end": 23,
+              "expanded_url": "https://x.com/astralbaes/status/2053248341375332743/photo/1",
+              "media_key": "3_2053248337717932039",
+              "start": 0,
+              "url": "https://t.co/eCtWIytx0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053248341375332743",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 23946,
+          "like_count": 1822,
+          "quote_count": 18,
+          "reply_count": 10,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eCtWIytx0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2962,
+          "like_count": 11859,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3461
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T01:27:28.000Z",
+        "description": "222 ༻✧",
+        "id": "1492309312345153542",
+        "location": "she/her",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631832561797218304/x0BfxNvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261252,
+          "following_count": 14598,
+          "like_count": 11576,
+          "listed_count": 554,
+          "media_count": 6065,
+          "tweet_count": 10991
+        },
+        "username": "astralbaes",
+        "verified": true
+      }
+    ]
+  }
+}

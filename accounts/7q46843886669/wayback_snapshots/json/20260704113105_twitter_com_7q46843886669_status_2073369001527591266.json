@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2073051866561495108",
+    "created_at": "2026-07-04T11:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073369001527591266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "HacchiTheMaid"
+        },
+        {
+          "end": 31,
+          "id": "745607352355721217",
+          "start": 15,
+          "username": "WilliamPAIvanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073369001527591266",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073070776346173953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HacchiTheMaid @WilliamPAIvanov 感觉挺可怜的呀 可以跟她说得明白吗嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2073051866561495108",
+        "created_at": "2026-07-04T11:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073369001527591266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            },
+            {
+              "end": 31,
+              "id": "745607352355721217",
+              "start": 15,
+              "username": "WilliamPAIvanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073369001527591266",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073070776346173953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid @WilliamPAIvanov 感觉挺可怜的呀 可以跟她说得明白吗嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "2073051866561495108",
+        "created_at": "2026-07-03T15:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073070776346173953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745607352355721217",
+              "start": 0,
+              "username": "WilliamPAIvanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073070776346173953",
+        "in_reply_to_user_id": "745607352355721217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3226,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073052642478059737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamPAIvanov 她是农民，没上完义务教育，不怎么识字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 3378,
+          "like_count": 20284,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 5368
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。",
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "2067962231330066858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11834,
+          "following_count": 2068,
+          "like_count": 52630,
+          "listed_count": 39,
+          "media_count": 1422,
+          "tweet_count": 37615
+        },
+        "url": "",
+        "username": "HacchiTheMaid",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌｜习近平最敬最爱的亲阿玛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudDZ42"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "location": "Italy",
+        "name": "William P. A. da H. Ivanov🟦⬜️⬛️",
+        "pinned_tweet_id": "2069823613704757711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 2103,
+          "like_count": 269735,
+          "listed_count": 16,
+          "media_count": 365,
+          "tweet_count": 40073
+        },
+        "url": "https://t.co/aCvhudDZ42",
+        "username": "WilliamPAIvanov",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057150617794343410",
+    "created_at": "2026-05-20T17:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057150617794343410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koubaoyanshe/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/koubaoyanshe/status/2057117502078120006",
+          "start": 16,
+          "url": "https://t.co/KqJfq7HNG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057150617794343410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057117502078120006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窩趣這女的逼是粉的。好騷想吃。 https://t.co/KqJfq7HNG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 200550,
+        "height": 720,
+        "media_key": "13_2057117162276569088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057117162276569088/img/YdyPzdMXGOwlAmA3.jpg",
+        "public_metrics": {
+          "view_count": 5719
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057117162276569088/vid/avc1/480x270/xpeLAMM2bwdkp7Vd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057117162276569088/vid/avc1/640x360/qu-fF_KeHUjoCe-v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057117162276569088/vid/avc1/1280x720/a4dwsH0B_ADhvKVx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057117162276569088/pl/PGzZNs_dmBnH8QFd.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057150617794343410",
+        "created_at": "2026-05-20T17:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057150617794343410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koubaoyanshe/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/koubaoyanshe/status/2057117502078120006",
+              "start": 16,
+              "url": "https://t.co/KqJfq7HNG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057150617794343410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057117502078120006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窩趣這女的逼是粉的。好騷想吃。 https://t.co/KqJfq7HNG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057117162276569088"
+          ]
+        },
+        "author_id": "1962516566546993152",
+        "conversation_id": "2057117502078120006",
+        "created_at": "2026-05-20T15:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057117502078120006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i70dMW7DuT",
+              "end": 75,
+              "expanded_url": "https://x.com/koubaoyanshe/status/2057117502078120006/video/1",
+              "media_key": "13_2057117162276569088",
+              "start": 52,
+              "url": "https://t.co/i70dMW7DuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057117502078120006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 17715,
+          "like_count": 453,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "被哥哥舔到淫水泛滥\n爽到身体一直扭动被哥哥按在沙发上不停的舔已经数不清到达顶点多少次了，哥哥们学起来！ https://t.co/i70dMW7DuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 3006,
+          "like_count": 13890,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 4299
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T14:03:07.000Z",
+        "description": "",
+        "id": "1962516566546993152",
+        "name": "口爆颜🐍",
+        "pinned_tweet_id": "2055128511766298776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054210203680481280/R0yOnsQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15220,
+          "following_count": 56,
+          "like_count": 49,
+          "listed_count": 21,
+          "media_count": 13,
+          "tweet_count": 35
+        },
+        "username": "koubaoyanshe",
+        "verified": false
+      }
+    ]
+  }
+}

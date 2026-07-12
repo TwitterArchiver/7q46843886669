@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049330721001783296"
+      ],
+      "media_source_tweet_id": [
+        "2049330734733705369"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049364655601267012",
+    "created_at": "2026-04-29T05:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049364655601267012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966023688006078464",
+          "start": 3,
+          "username": "callme_mom_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nygrQxaL34",
+          "end": 64,
+          "expanded_url": "https://x.com/callme_mom_/status/2049330734733705369/photo/1",
+          "media_key": "3_2049330721001783296",
+          "start": 41,
+          "url": "https://t.co/nygrQxaL34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049364655601267012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049330734733705369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @callme_mom_: 哎哟我去 真的很好喝 个人更喜欢热饮 更甜一点 https://t.co/nygrQxaL34"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049330721001783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCvbtSbQAAEpGz.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049330721001783296"
+          ],
+          "media_source_tweet_id": [
+            "2049330734733705369"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049364655601267012",
+        "created_at": "2026-04-29T05:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049364655601267012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966023688006078464",
+              "start": 3,
+              "username": "callme_mom_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nygrQxaL34",
+              "end": 64,
+              "expanded_url": "https://x.com/callme_mom_/status/2049330734733705369/photo/1",
+              "media_key": "3_2049330721001783296",
+              "start": 41,
+              "url": "https://t.co/nygrQxaL34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049364655601267012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049330734733705369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @callme_mom_: 哎哟我去 真的很好喝 个人更喜欢热饮 更甜一点 https://t.co/nygrQxaL34"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049330721001783296"
+          ]
+        },
+        "author_id": "1966023688006078464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049330734733705369",
+        "created_at": "2026-04-29T03:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049330734733705369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nygrQxaL34",
+              "end": 47,
+              "expanded_url": "https://x.com/callme_mom_/status/2049330734733705369/photo/1",
+              "media_key": "3_2049330721001783296",
+              "start": 24,
+              "url": "https://t.co/nygrQxaL34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049330734733705369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哎哟我去 真的很好喝 个人更喜欢热饮 更甜一点 https://t.co/nygrQxaL34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2780,
+          "like_count": 7027,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1724
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "励志戒色者 审美积累者 屁话很多者 时代峰峻家族路人粉 将懵逼贯彻到底 缩写黑话一概不知 阿弥陀佛",
+        "id": "1966023688006078464",
+        "name": "豆比（戒色day0）",
+        "pinned_tweet_id": "2048919064819663222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032026850042724352/ae3c6yko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 115,
+          "like_count": 4447,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 3652
+        },
+        "username": "callme_mom_",
+        "verified": false
+      }
+    ]
+  }
+}

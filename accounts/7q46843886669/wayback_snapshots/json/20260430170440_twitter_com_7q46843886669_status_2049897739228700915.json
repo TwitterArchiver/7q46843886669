@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049643525369626624"
+      ],
+      "media_source_tweet_id": [
+        "2049643531413635289"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049897739228700915",
+    "created_at": "2026-04-30T17:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049897739228700915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1168637213250334721",
+          "start": 3,
+          "username": "philosophymeme0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rXITqHsWnT",
+          "end": 44,
+          "expanded_url": "https://x.com/philosophymeme0/status/2049643531413635289/photo/1",
+          "media_key": "3_2049643525369626624",
+          "start": 21,
+          "url": "https://t.co/rXITqHsWnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049897739228700915",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049643531413635289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @philosophymeme0: https://t.co/rXITqHsWnT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2049643525369626624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHL7UXWAAAujiZ.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049643525369626624"
+          ],
+          "media_source_tweet_id": [
+            "2049643531413635289"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049897739228700915",
+        "created_at": "2026-04-30T17:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049897739228700915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1168637213250334721",
+              "start": 3,
+              "username": "philosophymeme0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXITqHsWnT",
+              "end": 44,
+              "expanded_url": "https://x.com/philosophymeme0/status/2049643531413635289/photo/1",
+              "media_key": "3_2049643525369626624",
+              "start": 21,
+              "url": "https://t.co/rXITqHsWnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049897739228700915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049643531413635289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @philosophymeme0: https://t.co/rXITqHsWnT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049643525369626624"
+          ]
+        },
+        "author_id": "1168637213250334721",
+        "conversation_id": "2049643531413635289",
+        "created_at": "2026-04-30T00:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049643531413635289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXITqHsWnT",
+              "end": 23,
+              "expanded_url": "https://x.com/philosophymeme0/status/2049643531413635289/photo/1",
+              "media_key": "3_2049643525369626624",
+              "start": 0,
+              "url": "https://t.co/rXITqHsWnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049643531413635289",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 8852,
+          "like_count": 406,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rXITqHsWnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2818,
+          "like_count": 8057,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2074
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-02T21:30:07.000Z",
+        "description": "(ノﾟ∀ﾟ)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆\nadmin. @algaraabia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "algaraabia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/philosophy_shi…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/philosophy_shitposting?igsh=aGZ0ZnB0c211bHAw",
+                "start": 0,
+                "url": "https://t.co/KAkHBy6zcB"
+              }
+            ]
+          }
+        },
+        "id": "1168637213250334721",
+        "name": "philosophy memes 🔗",
+        "pinned_tweet_id": "2049615640554512609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964582232930082816/I6ajwTUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159823,
+          "following_count": 46,
+          "like_count": 1451,
+          "listed_count": 452,
+          "media_count": 1722,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/KAkHBy6zcB",
+        "username": "philosophymeme0",
+        "verified": true
+      }
+    ]
+  }
+}

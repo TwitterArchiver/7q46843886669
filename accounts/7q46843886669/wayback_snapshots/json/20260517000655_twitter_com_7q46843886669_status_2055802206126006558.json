@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055802206126006558",
+    "created_at": "2026-05-17T00:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055802206126006558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939242250426265600",
+          "start": 3,
+          "username": "jiangj252708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055802206126006558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055799593938629058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiangj252708: 你可以变得更好 我是个很差劲的人 别因为我这样下去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055802206126006558",
+        "created_at": "2026-05-17T00:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055802206126006558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939242250426265600",
+              "start": 3,
+              "username": "jiangj252708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055802206126006558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055799593938629058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiangj252708: 你可以变得更好 我是个很差劲的人 别因为我这样下去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939242250426265600",
+        "conversation_id": "2055799593938629058",
+        "created_at": "2026-05-16T23:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055799593938629058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055799593938629058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你可以变得更好 我是个很差劲的人 别因为我这样下去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2978,
+          "like_count": 12978,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3946
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:39:34.000Z",
+        "description": "三角洲🥣/护航 09 \n瓦罗兰特找@2CROW19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "2CROW19"
+              }
+            ]
+          }
+        },
+        "id": "1939242250426265600",
+        "name": "Toska",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052161984037343232/XJyqPSt7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 57,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 499
+        },
+        "username": "jiangj252708",
+        "verified": false
+      }
+    ]
+  }
+}

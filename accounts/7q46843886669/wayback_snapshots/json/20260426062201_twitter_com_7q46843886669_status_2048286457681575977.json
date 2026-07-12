@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048159173549182976"
+      ],
+      "media_source_tweet_id": [
+        "2048255749986644457"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048286457681575977",
+    "created_at": "2026-04-26T06:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048286457681575977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0aEBgWRWPL",
+          "end": 42,
+          "expanded_url": "https://x.com/Cldeop/status/2048255749986644457/photo/1",
+          "media_key": "3_2048159173549182976",
+          "start": 19,
+          "url": "https://t.co/0aEBgWRWPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048286457681575977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048255749986644457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 坠机了（悲） https://t.co/0aEBgWRWPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2048159173549182976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyF6q7bUAA744t.jpg",
+        "width": 1017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048159173549182976"
+          ],
+          "media_source_tweet_id": [
+            "2048255749986644457"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048286457681575977",
+        "created_at": "2026-04-26T06:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048286457681575977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aEBgWRWPL",
+              "end": 42,
+              "expanded_url": "https://x.com/Cldeop/status/2048255749986644457/photo/1",
+              "media_key": "3_2048159173549182976",
+              "start": 19,
+              "url": "https://t.co/0aEBgWRWPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048286457681575977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048255749986644457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 坠机了（悲） https://t.co/0aEBgWRWPL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048159173549182976"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2048255749986644457",
+        "created_at": "2026-04-26T04:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048255749986644457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aEBgWRWPL",
+              "end": 30,
+              "expanded_url": "https://x.com/Cldeop/status/2048255749986644457/photo/1",
+              "media_key": "3_2048159173549182976",
+              "start": 7,
+              "url": "https://t.co/0aEBgWRWPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048255749986644457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2302,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "坠机了（悲） https://t.co/0aEBgWRWPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2722,
+          "like_count": 6100,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1164
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102803,
+          "following_count": 765,
+          "like_count": 36424,
+          "listed_count": 287,
+          "media_count": 17978,
+          "tweet_count": 25810
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

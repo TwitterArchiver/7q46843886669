@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053056245335216558",
+    "created_at": "2026-05-09T10:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053056245335216558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1775898302963384322",
+          "start": 3,
+          "username": "brontobehated"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053056245335216558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052872354502676930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @brontobehated: 我不是逃课，我只是把课放生了你们懂吗。其实每一节课都有自己的生命，就像一棵草一棵树一样有枯荣，而我选择把它们还给大自然，不去占有它们利用它们，因为我觉得尊重自然保护自然是我们每个人的责任。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053056245335216558",
+        "created_at": "2026-05-09T10:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053056245335216558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1775898302963384322",
+              "start": 3,
+              "username": "brontobehated"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053056245335216558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052872354502676930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @brontobehated: 我不是逃课，我只是把课放生了你们懂吗。其实每一节课都有自己的生命，就像一棵草一棵树一样有枯荣，而我选择把它们还给大自然，不去占有它们利用它们，因为我觉得尊重自然保护自然是我们每个人的责任。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775898302963384322",
+        "conversation_id": "2052872354502676930",
+        "created_at": "2026-05-08T22:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052872354502676930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052872354502676930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3714,
+          "like_count": 171,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我不是逃课，我只是把课放生了你们懂吗。其实每一节课都有自己的生命，就像一棵草一棵树一样有枯荣，而我选择把它们还给大自然，不去占有它们利用它们，因为我觉得尊重自然保护自然是我们每个人的责任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2971,
+          "like_count": 11693,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3368
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T14:48:59.000Z",
+        "description": "能不能原谅我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//azxzzl/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//azxzzl/web?t=1773856270",
+                "start": 0,
+                "url": "https://t.co/DSnHC04aZz"
+              }
+            ]
+          }
+        },
+        "id": "1775898302963384322",
+        "name": "香辣鳗鱼",
+        "pinned_tweet_id": "2041078839867318678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040142530696941568/bboipVRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 70,
+          "like_count": 31325,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 5174
+        },
+        "url": "https://t.co/DSnHC04aZz",
+        "username": "brontobehated",
+        "verified": false
+      }
+    ]
+  }
+}

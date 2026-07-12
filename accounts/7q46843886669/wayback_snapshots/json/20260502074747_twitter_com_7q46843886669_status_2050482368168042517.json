@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050124194965233664"
+      ],
+      "media_source_tweet_id": [
+        "2050124286669504640"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1848395882317627392",
+          "name": "Venom 3"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1002576732971384832",
+          "name": "Marvel Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      }
+    ],
+    "conversation_id": "2050482368168042517",
+    "created_at": "2026-05-02T07:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050482368168042517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597335353542774784",
+          "start": 3,
+          "username": "kezababbie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0lC5RBacaK",
+          "end": 60,
+          "expanded_url": "https://x.com/kezababbie/status/2050124286669504640/video/1",
+          "media_key": "13_2050124194965233664",
+          "start": 37,
+          "url": "https://t.co/0lC5RBacaK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050482368168042517",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050124286669504640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kezababbie: Collecting venom 😱😱😱 https://t.co/0lC5RBacaK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40193,
+        "height": 1160,
+        "media_key": "13_2050124194965233664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050124194965233664/img/7vXA4Zkdfgos-gg0.jpg",
+        "public_metrics": {
+          "view_count": 953486
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050124194965233664/vid/avc1/320x514/TFvUPuaFqbeMQnYJ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050124194965233664/vid/avc1/480x772/MnTVJREvm5dcuCWW.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050124194965233664/vid/avc1/720x1160/Dcbe4mvfARwOJk3S.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050124194965233664/pl/zTeyxd2Vp9suP0Kr.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050124194965233664"
+          ],
+          "media_source_tweet_id": [
+            "2050124286669504640"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1848395882317627392",
+              "name": "Venom 3"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          }
+        ],
+        "conversation_id": "2050482368168042517",
+        "created_at": "2026-05-02T07:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050482368168042517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597335353542774784",
+              "start": 3,
+              "username": "kezababbie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lC5RBacaK",
+              "end": 60,
+              "expanded_url": "https://x.com/kezababbie/status/2050124286669504640/video/1",
+              "media_key": "13_2050124194965233664",
+              "start": 37,
+              "url": "https://t.co/0lC5RBacaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050482368168042517",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050124286669504640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kezababbie: Collecting venom 😱😱😱 https://t.co/0lC5RBacaK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050124194965233664"
+          ]
+        },
+        "author_id": "1597335353542774784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1848395882317627392",
+              "name": "Venom 3"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1002576732971384832",
+              "name": "Marvel Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          }
+        ],
+        "conversation_id": "2050124286669504640",
+        "created_at": "2026-05-01T08:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050124286669504640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lC5RBacaK",
+              "end": 44,
+              "expanded_url": "https://x.com/kezababbie/status/2050124286669504640/video/1",
+              "media_key": "13_2050124194965233664",
+              "start": 21,
+              "url": "https://t.co/0lC5RBacaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050124286669504640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 2107846,
+          "like_count": 3224,
+          "quote_count": 100,
+          "reply_count": 161,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "Collecting venom 😱😱😱 https://t.co/0lC5RBacaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8625,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2324
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T21:05:28.000Z",
+        "description": "I decide not to hate, just love ❤️ the way you are.",
+        "id": "1597335353542774784",
+        "location": "Ohio, USA",
+        "name": "Keza♥️",
+        "pinned_tweet_id": "2050448915674149076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036553640341610496/DbfUtYyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5702,
+          "following_count": 2218,
+          "like_count": 23930,
+          "listed_count": 6,
+          "media_count": 952,
+          "tweet_count": 36190
+        },
+        "username": "kezababbie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056703765793906688"
+      ],
+      "media_source_tweet_id": [
+        "2056703775411474708"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057049135971545488",
+    "created_at": "2026-05-20T10:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057049135971545488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NCS9EMccui",
+          "end": 35,
+          "expanded_url": "https://x.com/YunJiu/status/2056703775411474708/photo/1",
+          "media_key": "3_2056703765793906688",
+          "start": 12,
+          "url": "https://t.co/NCS9EMccui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057049135971545488",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056703775411474708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunJiu: https://t.co/NCS9EMccui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 379,
+        "media_key": "3_2056703765793906688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrhLZhaoAAqVFp.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056703765793906688"
+          ],
+          "media_source_tweet_id": [
+            "2056703775411474708"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057049135971545488",
+        "created_at": "2026-05-20T10:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057049135971545488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCS9EMccui",
+              "end": 35,
+              "expanded_url": "https://x.com/YunJiu/status/2056703775411474708/photo/1",
+              "media_key": "3_2056703765793906688",
+              "start": 12,
+              "url": "https://t.co/NCS9EMccui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057049135971545488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056703775411474708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunJiu: https://t.co/NCS9EMccui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056703765793906688"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2056703775411474708",
+        "created_at": "2026-05-19T11:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056703775411474708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCS9EMccui",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2056703775411474708/photo/1",
+              "media_key": "3_2056703765793906688",
+              "start": 0,
+              "url": "https://t.co/NCS9EMccui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056703775411474708",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3436,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NCS9EMccui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 2997,
+          "like_count": 13724,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 4260
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105053,
+          "following_count": 790,
+          "like_count": 36887,
+          "listed_count": 295,
+          "media_count": 18723,
+          "tweet_count": 26873
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

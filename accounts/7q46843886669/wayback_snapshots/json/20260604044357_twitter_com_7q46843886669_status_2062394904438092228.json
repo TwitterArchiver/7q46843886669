@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1250911882732421120",
+          "name": "Sports Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1250911882732421120",
+          "name": "Sports Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      }
+    ],
+    "conversation_id": "2062394904438092228",
+    "created_at": "2026-06-04T04:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062394904438092228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1806225733045690368",
+          "start": 3,
+          "username": "MizutaniSubaru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062394904438092228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062004887219482979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MizutaniSubaru_: 诶兄弟？为什么我的高中生活是一条区啊？\n我的花火大会呢？\n我的捞金鱼吃苹果糖呢？\n我的社团招新呢？\n我的放学后tea time呢？\n我的文化祭呢？\n我的女仆咖啡店，鬼屋，轻音部演出，篝火旁跳舞呢？\n我的体育祭呢？\n我的游学旅行枕头大战呢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2062394904438092228",
+        "created_at": "2026-06-04T04:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062394904438092228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1806225733045690368",
+              "start": 3,
+              "username": "MizutaniSubaru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062394904438092228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062004887219482979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MizutaniSubaru_: 诶兄弟？为什么我的高中生活是一条区啊？\n我的花火大会呢？\n我的捞金鱼吃苹果糖呢？\n我的社团招新呢？\n我的放学后tea time呢？\n我的文化祭呢？\n我的女仆咖啡店，鬼屋，轻音部演出，篝火旁跳舞呢？\n我的体育祭呢？\n我的游学旅行枕头大战呢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806225733045690368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250911882732421120",
+              "name": "Sports Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "2062004887219482979",
+        "created_at": "2026-06-03T02:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062004887219482979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062004887219482979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "诶兄弟？为什么我的高中生活是一条区啊？\n我的花火大会呢？\n我的捞金鱼吃苹果糖呢？\n我的社团招新呢？\n我的放学后tea time呢？\n我的文化祭呢？\n我的女仆咖啡店，鬼屋，轻音部演出，篝火旁跳舞呢？\n我的体育祭呢？\n我的游学旅行枕头大战呢？\n我的海边旅行呢？\n随时能看的演唱会呢？\n会给我每天带便当的可爱女朋友呢？\n我的第一次梅雨天的相合伞呢？\n我的情人节本命巧克力呢？\n我的圣诞约会呢？\n我的樱花树下的告白呢？\n我的新年参拜呢？\n为什么我的高中生活不是这样的啊？可以告诉我吗？🥺🥺🥺😭😭😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 77525,
+          "like_count": 1689,
+          "quote_count": 25,
+          "reply_count": 199,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "诶兄弟？为什么我的高中生活是一条区啊？\n我的花火大会呢？\n我的捞金鱼吃苹果糖呢？\n我的社团招新呢？\n我的放学后tea time呢？\n我的文化祭呢？\n我的女仆咖啡店，鬼屋，轻音部演出，篝火旁跳舞呢？\n我的体育祭呢？\n我的游学旅行枕头大战呢？\n我的海边旅行呢？\n随时能看的演唱会呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 3331,
+          "like_count": 16804,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 4670
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 498,
+          "like_count": 4745,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 959
+        },
+        "username": "MizutaniSubaru_",
+        "verified": true
+      }
+    ]
+  }
+}

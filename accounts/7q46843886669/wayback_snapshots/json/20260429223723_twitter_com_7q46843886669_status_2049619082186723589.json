@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049619082186723589",
+    "created_at": "2026-04-29T22:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049619082186723589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028321716049743872",
+          "start": 3,
+          "username": "xynMTFxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049619082186723589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049441019377389767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xynMTFxyn: 马上就可以当蕾丝边噜（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049619082186723589",
+        "created_at": "2026-04-29T22:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049619082186723589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028321716049743872",
+              "start": 3,
+              "username": "xynMTFxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049619082186723589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049441019377389767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xynMTFxyn: 马上就可以当蕾丝边噜（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028321716049743872",
+        "conversation_id": "2049441019377389767",
+        "created_at": "2026-04-29T10:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049441019377389767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yifu0753/status/2049025678906196122",
+              "start": 17,
+              "url": "https://t.co/eMjDwA9OuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049441019377389767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2270,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049025678906196122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马上就可以当蕾丝边噜（bushi https://t.co/eMjDwA9OuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2793,
+          "like_count": 7371,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1868
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 非常helpful的南盺 | 小南 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048584251495563682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 98,
+          "like_count": 113,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 612
+        },
+        "username": "xynMTFxyn",
+        "verified": true
+      }
+    ]
+  }
+}

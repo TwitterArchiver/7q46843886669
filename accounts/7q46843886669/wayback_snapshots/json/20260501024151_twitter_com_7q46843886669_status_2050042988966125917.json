@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049925615046819840"
+      ],
+      "media_source_tweet_id": [
+        "2049925621266923540"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050042988966125917",
+    "created_at": "2026-05-01T02:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050042988966125917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1496182649400008707",
+          "start": 3,
+          "username": "nyaicore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZSfQopegx",
+          "end": 78,
+          "expanded_url": "https://x.com/nyaicore/status/2049925621266923540/photo/1",
+          "media_key": "3_2049925615046819840",
+          "start": 55,
+          "url": "https://t.co/JZSfQopegx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050042988966125917",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049925621266923540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaicore: come here.. let me snatch you right up ♡ https://t.co/JZSfQopegx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3762,
+        "media_key": "3_2049925615046819840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLMfGTXAAADAiD.jpg",
+        "width": 2595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049925615046819840"
+          ],
+          "media_source_tweet_id": [
+            "2049925621266923540"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050042988966125917",
+        "created_at": "2026-05-01T02:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050042988966125917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496182649400008707",
+              "start": 3,
+              "username": "nyaicore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZSfQopegx",
+              "end": 78,
+              "expanded_url": "https://x.com/nyaicore/status/2049925621266923540/photo/1",
+              "media_key": "3_2049925615046819840",
+              "start": 55,
+              "url": "https://t.co/JZSfQopegx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050042988966125917",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049925621266923540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaicore: come here.. let me snatch you right up ♡ https://t.co/JZSfQopegx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049925615046819840"
+          ]
+        },
+        "author_id": "1496182649400008707",
+        "conversation_id": "2049925621266923540",
+        "created_at": "2026-04-30T18:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049925621266923540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZSfQopegx",
+              "end": 64,
+              "expanded_url": "https://x.com/nyaicore/status/2049925621266923540/photo/1",
+              "media_key": "3_2049925615046819840",
+              "start": 41,
+              "url": "https://t.co/JZSfQopegx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049925621266923540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 4356,
+          "like_count": 567,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "come here.. let me snatch you right up ♡ https://t.co/JZSfQopegx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2834,
+          "like_count": 8163,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2125
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T17:58:47.000Z",
+        "description": ":¨·.·¨: horror catgirl • artist ꒰ ☠️🔪 ꒱\n ☠︎︎ ┆ designs : @cherricries ♱ @littlecorpsee\n ☠︎︎ ┆ ママ : @saga404 ♱ @emoshimoV\n`· . 𖤐 ₊ ꒰ #nyaicore ꒱ ₊ 𖤐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 132,
+                "tag": "nyaicore"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "cherricries"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "littlecorpsee"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "saga404"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "emoshimoV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyami.uwu.ai",
+                "end": 23,
+                "expanded_url": "https://nyami.uwu.ai",
+                "start": 0,
+                "url": "https://t.co/kkmND1jR8j"
+              }
+            ]
+          }
+        },
+        "id": "1496182649400008707",
+        "location": "i: nxctes ♡ b: qixinbiotic",
+        "name": "nyami ♡",
+        "pinned_tweet_id": "2004945528854052990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035040922447085568/zyZDbI3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39446,
+          "following_count": 900,
+          "like_count": 16511,
+          "listed_count": 91,
+          "media_count": 645,
+          "tweet_count": 11064
+        },
+        "url": "https://t.co/kkmND1jR8j",
+        "username": "nyaicore",
+        "verified": false
+      }
+    ]
+  }
+}

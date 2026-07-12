@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048791997411119104"
+      ],
+      "media_source_tweet_id": [
+        "2048792005095141659"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "2049169363291287732",
+    "created_at": "2026-04-28T16:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049169363291287732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1978001524518436864",
+          "start": 3,
+          "username": "AstesiaVoyager"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S0ud1MJI0u",
+          "end": 48,
+          "expanded_url": "https://x.com/AstesiaVoyager/status/2048792005095141659/photo/1",
+          "media_key": "3_2048791997411119104",
+          "start": 25,
+          "url": "https://t.co/S0ud1MJI0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049169363291287732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048792005095141659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AstesiaVoyager: 笑点解析 https://t.co/S0ud1MJI0u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2048791997411119104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7Fd3haUAAFR1D.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048791997411119104"
+          ],
+          "media_source_tweet_id": [
+            "2048792005095141659"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2049169363291287732",
+        "created_at": "2026-04-28T16:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049169363291287732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1978001524518436864",
+              "start": 3,
+              "username": "AstesiaVoyager"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0ud1MJI0u",
+              "end": 48,
+              "expanded_url": "https://x.com/AstesiaVoyager/status/2048792005095141659/photo/1",
+              "media_key": "3_2048791997411119104",
+              "start": 25,
+              "url": "https://t.co/S0ud1MJI0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049169363291287732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048792005095141659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AstesiaVoyager: 笑点解析 https://t.co/S0ud1MJI0u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048791997411119104"
+          ]
+        },
+        "author_id": "1978001524518436864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2048792005095141659",
+        "created_at": "2026-04-27T15:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048792005095141659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0ud1MJI0u",
+              "end": 28,
+              "expanded_url": "https://x.com/AstesiaVoyager/status/2048792005095141659/photo/1",
+              "media_key": "3_2048791997411119104",
+              "start": 5,
+              "url": "https://t.co/S0ud1MJI0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048792005095141659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19058,
+          "like_count": 365,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "笑点解析 https://t.co/S0ud1MJI0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2768,
+          "like_count": 6710,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1588
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T07:34:57.000Z",
+        "description": "La étoilée chantante",
+        "id": "1978001524518436864",
+        "name": "Lystélla de Ästésia✨🇫🇷8964🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988600620136419328/j0koZeZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 215,
+          "like_count": 14796,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 4249
+        },
+        "username": "AstesiaVoyager",
+        "verified": false
+      }
+    ]
+  }
+}

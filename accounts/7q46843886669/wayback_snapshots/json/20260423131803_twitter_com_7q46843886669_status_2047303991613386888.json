@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047302942148227355",
+    "created_at": "2026-04-23T13:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047303991613386888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023431978410991616",
+          "start": 0,
+          "username": "_CuicuiMiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047303991613386888",
+    "in_reply_to_user_id": "2023431978410991616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047302942148227355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_CuicuiMiao_ 怎末了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047302942148227355",
+        "created_at": "2026-04-23T13:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047303991613386888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023431978410991616",
+              "start": 0,
+              "username": "_CuicuiMiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047303991613386888",
+        "in_reply_to_user_id": "2023431978410991616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047302942148227355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_CuicuiMiao_ 怎末了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023431978410991616",
+        "conversation_id": "2047302942148227355",
+        "created_at": "2026-04-23T13:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047302942148227355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047302942148227355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以我現在這個精神狀態我感覺我可以一天發八百條碎碎念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 2702,
+          "like_count": 5700,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 882
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T16:19:32.000Z",
+        "description": "11年 順女 LGBTQ全友好 同類互關 \n求轉帖助我找回前世互關qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_",
+                "start": 0,
+                "url": "https://t.co/uA1KIy2FVt"
+              }
+            ]
+          }
+        },
+        "id": "2023431978410991616",
+        "location": "🚪",
+        "name": "番茄操蛋6.0",
+        "pinned_tweet_id": "2046955466845262078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026058493871218688/LzgDzWIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 15,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/uA1KIy2FVt",
+        "username": "_CuicuiMiao_",
+        "verified": false
+      }
+    ]
+  }
+}

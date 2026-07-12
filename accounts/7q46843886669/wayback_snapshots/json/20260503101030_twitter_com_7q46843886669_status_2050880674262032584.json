@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050873085486895104"
+      ],
+      "media_source_tweet_id": [
+        "2050873101412618558"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050880674262032584",
+    "created_at": "2026-05-03T10:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050880674262032584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "797439291752378368",
+          "start": 3,
+          "username": "lover_ning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7pM7Evs7Oy",
+          "end": 44,
+          "expanded_url": "https://x.com/lover_ning/status/2050873101412618558/video/1",
+          "media_key": "13_2050873085486895104",
+          "start": 21,
+          "url": "https://t.co/7pM7Evs7Oy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050880674262032584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050873101412618558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lover_ning: 我上班： https://t.co/7pM7Evs7Oy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050880674262032584].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050880674262032584",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050880674262032584"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13700,
+        "height": 640,
+        "media_key": "13_2050873085486895104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050873085486895104/img/2PnWJq4wDWNFlpAf.jpg",
+        "public_metrics": {
+          "view_count": 743
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050873085486895104/vid/avc1/320x568/EAjLDfbSbAHhT8El.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050873085486895104/vid/avc1/360x640/ZIxa-_4qDKCmoaGQ.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050873085486895104/pl/PUi5ZibPA73RFr6o.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050873085486895104"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2050873101412618558",
+        "created_at": "2026-05-03T09:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050873101412618558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pM7Evs7Oy",
+              "end": 28,
+              "expanded_url": "https://x.com/lover_ning/status/2050873101412618558/video/1",
+              "media_key": "13_2050873085486895104",
+              "start": 5,
+              "url": "https://t.co/7pM7Evs7Oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050873101412618558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1905,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我上班： https://t.co/7pM7Evs7Oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 2852,
+          "like_count": 9407,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2604
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "自用VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284320,
+          "following_count": 93,
+          "like_count": 32813,
+          "listed_count": 471,
+          "media_count": 3527,
+          "tweet_count": 28544
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

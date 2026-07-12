@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056694539990278416",
+    "created_at": "2026-05-19T23:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T00:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056887489617653891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056887489617653891",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056694539990278416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Miiharukawa 20号前谈上了你气不气😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056694539990278416",
+        "created_at": "2026-05-19T23:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T00:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056887489617653891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056887489617653891",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056694539990278416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Miiharukawa 20号前谈上了你气不气😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056694539990278416",
+        "created_at": "2026-05-19T11:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056694539990278416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056694539990278416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3059,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "following",
+        "text": "520只能证明我5月被折磨了20天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 2984,
+          "like_count": 13580,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4195
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 222,
+          "like_count": 7801,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 3029
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

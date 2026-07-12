@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052691688599265280"
+      ],
+      "media_source_tweet_id": [
+        "2052691695154958340"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052921765048045931",
+    "created_at": "2026-05-09T01:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052921765048045931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1703120704214855680",
+          "start": 3,
+          "username": "xiaozhou966"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RX41hkXoZx",
+          "end": 40,
+          "expanded_url": "https://x.com/xiaozhou966/status/2052691695154958340/photo/1",
+          "media_key": "3_2052691688599265280",
+          "start": 17,
+          "url": "https://t.co/RX41hkXoZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052921765048045931",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052691695154958340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaozhou966: https://t.co/RX41hkXoZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1744,
+        "media_key": "3_2052691688599265280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHygNxRbIAA-lDm.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052691688599265280"
+          ],
+          "media_source_tweet_id": [
+            "2052691695154958340"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052921765048045931",
+        "created_at": "2026-05-09T01:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052921765048045931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1703120704214855680",
+              "start": 3,
+              "username": "xiaozhou966"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RX41hkXoZx",
+              "end": 40,
+              "expanded_url": "https://x.com/xiaozhou966/status/2052691695154958340/photo/1",
+              "media_key": "3_2052691688599265280",
+              "start": 17,
+              "url": "https://t.co/RX41hkXoZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052921765048045931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052691695154958340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaozhou966: https://t.co/RX41hkXoZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052691688599265280"
+          ]
+        },
+        "author_id": "1703120704214855680",
+        "conversation_id": "2052691695154958340",
+        "created_at": "2026-05-08T10:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052691695154958340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RX41hkXoZx",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaozhou966/status/2052691695154958340/photo/1",
+              "media_key": "3_2052691688599265280",
+              "start": 0,
+              "url": "https://t.co/RX41hkXoZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052691695154958340",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5079,
+          "like_count": 201,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RX41hkXoZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2965,
+          "like_count": 11483,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3270
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T18:56:50.000Z",
+        "description": "brat/已婚/碎碎念/不加好友",
+        "id": "1703120704214855680",
+        "location": "喜欢我就打钱",
+        "name": "周周",
+        "pinned_tweet_id": "2048359258698428669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727540741763993600/fwONyw4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 122,
+          "like_count": 54,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 1099
+        },
+        "username": "xiaozhou966",
+        "verified": false
+      }
+    ]
+  }
+}

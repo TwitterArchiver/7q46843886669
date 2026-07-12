@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047648308982927360"
+      ],
+      "media_source_tweet_id": [
+        "2047648313839870420"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048025249460207762",
+    "created_at": "2026-04-25T13:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048025249460207762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1969377525509079046",
+          "start": 3,
+          "username": "cx7sc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ti8swOfBtX",
+          "end": 34,
+          "expanded_url": "https://x.com/cx7sc/status/2047648313839870420/photo/1",
+          "media_key": "3_2047648308982927360",
+          "start": 11,
+          "url": "https://t.co/ti8swOfBtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048025249460207762",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047648313839870420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @cx7sc: https://t.co/ti8swOfBtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047648308982927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq1ScHbUAAeXOZ.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047648308982927360"
+          ],
+          "media_source_tweet_id": [
+            "2047648313839870420"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048025249460207762",
+        "created_at": "2026-04-25T13:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048025249460207762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1969377525509079046",
+              "start": 3,
+              "username": "cx7sc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ti8swOfBtX",
+              "end": 34,
+              "expanded_url": "https://x.com/cx7sc/status/2047648313839870420/photo/1",
+              "media_key": "3_2047648308982927360",
+              "start": 11,
+              "url": "https://t.co/ti8swOfBtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048025249460207762",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047648313839870420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @cx7sc: https://t.co/ti8swOfBtX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047648308982927360"
+          ]
+        },
+        "author_id": "1969377525509079046",
+        "conversation_id": "2047648313839870420",
+        "created_at": "2026-04-24T12:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047648313839870420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ti8swOfBtX",
+              "end": 23,
+              "expanded_url": "https://x.com/cx7sc/status/2047648313839870420/photo/1",
+              "media_key": "3_2047648308982927360",
+              "start": 0,
+              "url": "https://t.co/ti8swOfBtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047648313839870420",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 777,
+          "impression_count": 61754,
+          "like_count": 7664,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/ti8swOfBtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2718,
+          "like_count": 6003,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1090
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T12:26:23.000Z",
+        "description": "@olpqg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "olpqg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/cx7sc",
+                "end": 23,
+                "expanded_url": "https://lit.link/cx7sc",
+                "start": 0,
+                "url": "https://t.co/RPkzNqEf43"
+              }
+            ]
+          }
+        },
+        "id": "1969377525509079046",
+        "name": "宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039286222946971648/O18gYl78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11694,
+          "following_count": 8,
+          "like_count": 165,
+          "listed_count": 9,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/RPkzNqEf43",
+        "username": "cx7sc",
+        "verified": false
+      }
+    ]
+  }
+}

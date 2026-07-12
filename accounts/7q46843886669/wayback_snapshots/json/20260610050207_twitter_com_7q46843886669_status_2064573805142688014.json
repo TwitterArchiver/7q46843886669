@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064433886801850368"
+      ],
+      "media_source_tweet_id": [
+        "2064433896494903325"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2064573805142688014",
+    "created_at": "2026-06-10T05:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064573805142688014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811384610749874176",
+          "start": 3,
+          "username": "wgddking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3e31XznKd",
+          "end": 50,
+          "expanded_url": "https://x.com/wgddking/status/2064433896494903325/photo/1",
+          "media_key": "3_2064433886801850368",
+          "start": 27,
+          "url": "https://t.co/r3e31XznKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064573805142688014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064433896494903325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wgddking: 宿舍TV之怎么舒服怎么来 https://t.co/r3e31XznKd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2064433886801850368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZXrqUacAAIW8o.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064433886801850368"
+          ],
+          "media_source_tweet_id": [
+            "2064433896494903325"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2064573805142688014",
+        "created_at": "2026-06-10T05:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064573805142688014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811384610749874176",
+              "start": 3,
+              "username": "wgddking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3e31XznKd",
+              "end": 50,
+              "expanded_url": "https://x.com/wgddking/status/2064433896494903325/photo/1",
+              "media_key": "3_2064433886801850368",
+              "start": 27,
+              "url": "https://t.co/r3e31XznKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064573805142688014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064433896494903325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wgddking: 宿舍TV之怎么舒服怎么来 https://t.co/r3e31XznKd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064433886801850368"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2064433896494903325",
+        "created_at": "2026-06-09T19:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064433896494903325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3e31XznKd",
+              "end": 36,
+              "expanded_url": "https://x.com/wgddking/status/2064433896494903325/photo/1",
+              "media_key": "3_2064433886801850368",
+              "start": 13,
+              "url": "https://t.co/r3e31XznKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064433896494903325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 635,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宿舍TV之怎么舒服怎么来 https://t.co/r3e31XznKd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 3386,
+          "like_count": 18152,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4954
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n（求警哥别抓我😭）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（祥压抑）",
+        "pinned_tweet_id": "2061023590150254815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 86,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 2762
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

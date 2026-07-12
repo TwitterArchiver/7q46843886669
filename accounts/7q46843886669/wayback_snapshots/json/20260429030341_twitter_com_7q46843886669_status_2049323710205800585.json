@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049322079326294418",
+    "created_at": "2026-04-29T03:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049323710205800585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966023688006078464",
+          "start": 0,
+          "username": "callme_mom_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049323710205800585",
+    "in_reply_to_user_id": "1966023688006078464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049322079326294418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@callme_mom_ 这逗逼怎么这么能串啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049322079326294418",
+        "created_at": "2026-04-29T03:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049323710205800585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966023688006078464",
+              "start": 0,
+              "username": "callme_mom_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049323710205800585",
+        "in_reply_to_user_id": "1966023688006078464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049322079326294418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@callme_mom_ 这逗逼怎么这么能串啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966023688006078464",
+        "conversation_id": "2049322079326294418",
+        "created_at": "2026-04-29T02:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049322079326294418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049322079326294418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现了一个万能回复：真的假的？\n无论对方说什么你都可以用这句话来敷衍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2775,
+          "like_count": 6986,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1704
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "励志戒色者 审美积累者 屁话很多者 时代峰峻家族路人粉 将懵逼贯彻到底 缩写黑话一概不知 阿弥陀佛",
+        "id": "1966023688006078464",
+        "name": "豆比（戒色day0）",
+        "pinned_tweet_id": "2048919064819663222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032026850042724352/ae3c6yko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 115,
+          "like_count": 4440,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3646
+        },
+        "username": "callme_mom_",
+        "verified": false
+      }
+    ]
+  }
+}

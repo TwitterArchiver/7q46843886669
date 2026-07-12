@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057232967815012352"
+      ],
+      "media_source_tweet_id": [
+        "2058033175767712233"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2058170491735777584",
+    "created_at": "2026-05-23T12:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058170491735777584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2015482690120691712",
+          "start": 3,
+          "username": "CrownGallerys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0eQlY2QBJq",
+          "end": 62,
+          "expanded_url": "https://x.com/CrownGallerys/status/2058033175767712233/photo/1",
+          "media_key": "3_2057232967815012352",
+          "start": 39,
+          "url": "https://t.co/0eQlY2QBJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058170491735777584",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 867
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058033175767712233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrownGallerys: oh.. by garlicbunny https://t.co/0eQlY2QBJq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2057232967815012352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzCfArWIAAD2BU.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057232967815012352"
+          ],
+          "media_source_tweet_id": [
+            "2058033175767712233"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2058170491735777584",
+        "created_at": "2026-05-23T12:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058170491735777584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2015482690120691712",
+              "start": 3,
+              "username": "CrownGallerys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eQlY2QBJq",
+              "end": 62,
+              "expanded_url": "https://x.com/CrownGallerys/status/2058033175767712233/photo/1",
+              "media_key": "3_2057232967815012352",
+              "start": 39,
+              "url": "https://t.co/0eQlY2QBJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058170491735777584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058033175767712233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrownGallerys: oh.. by garlicbunny https://t.co/0eQlY2QBJq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057232967815012352"
+          ]
+        },
+        "author_id": "2015482690120691712",
+        "conversation_id": "2058033175767712233",
+        "created_at": "2026-05-23T03:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058033175767712233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eQlY2QBJq",
+              "end": 43,
+              "expanded_url": "https://x.com/CrownGallerys/status/2058033175767712233/photo/1",
+              "media_key": "3_2057232967815012352",
+              "start": 20,
+              "url": "https://t.co/0eQlY2QBJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058033175767712233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 839,
+          "impression_count": 78785,
+          "like_count": 8180,
+          "quote_count": 123,
+          "reply_count": 4,
+          "retweet_count": 867
+        },
+        "reply_settings": "everyone",
+        "text": "oh.. by garlicbunny https://t.co/0eQlY2QBJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 3103,
+          "like_count": 14815,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4446
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T17:51:41.000Z",
+        "description": "",
+        "id": "2015482690120691712",
+        "name": "Art🎨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032952174498435072/BiaNiJiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1064,
+          "like_count": 1817,
+          "listed_count": 2,
+          "media_count": 626,
+          "tweet_count": 642
+        },
+        "username": "CrownGallerys",
+        "verified": true
+      }
+    ]
+  }
+}

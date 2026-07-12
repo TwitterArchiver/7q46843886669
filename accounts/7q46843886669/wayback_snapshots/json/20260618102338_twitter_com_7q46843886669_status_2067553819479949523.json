@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067328816603938816"
+      ],
+      "media_source_tweet_id": [
+        "2067328826137554983"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2067553819479949523",
+    "created_at": "2026-06-18T10:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067553819479949523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754766580297379840",
+          "start": 3,
+          "username": "oTuTok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2NV61HOq9",
+          "end": 39,
+          "expanded_url": "https://x.com/oTuTok/status/2067328826137554983/photo/1",
+          "media_key": "3_2067328816603938816",
+          "start": 16,
+          "url": "https://t.co/d2NV61HOq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067553819479949523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067328826137554983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oTuTok: 心情： https://t.co/d2NV61HOq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2067328816603938816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCgmwObQAAZHyB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067328816603938816"
+          ],
+          "media_source_tweet_id": [
+            "2067328826137554983"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2067553819479949523",
+        "created_at": "2026-06-18T10:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067553819479949523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754766580297379840",
+              "start": 3,
+              "username": "oTuTok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2NV61HOq9",
+              "end": 39,
+              "expanded_url": "https://x.com/oTuTok/status/2067328826137554983/photo/1",
+              "media_key": "3_2067328816603938816",
+              "start": 16,
+              "url": "https://t.co/d2NV61HOq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067553819479949523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067328826137554983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oTuTok: 心情： https://t.co/d2NV61HOq9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067328816603938816"
+          ]
+        },
+        "author_id": "1754766580297379840",
+        "conversation_id": "2067328826137554983",
+        "created_at": "2026-06-17T19:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067328826137554983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2NV61HOq9",
+              "end": 27,
+              "expanded_url": "https://x.com/oTuTok/status/2067328826137554983/photo/1",
+              "media_key": "3_2067328816603938816",
+              "start": 4,
+              "url": "https://t.co/d2NV61HOq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067328826137554983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "心情： https://t.co/d2NV61HOq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 3390,
+          "like_count": 19415,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 5195
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:18:59.000Z",
+        "description": "🎚🩶ིྀ🪦",
+        "id": "1754766580297379840",
+        "location": "v188",
+        "name": "BlackStone",
+        "pinned_tweet_id": "2000882085930918343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765771028322791424/Lf6ihNhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14453,
+          "following_count": 89,
+          "like_count": 7434,
+          "listed_count": 24,
+          "media_count": 163,
+          "tweet_count": 3448
+        },
+        "url": "",
+        "username": "oTuTok",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051790390920085968",
+    "created_at": "2026-05-05T22:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051790390920085968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1993659774370758656",
+          "start": 3,
+          "username": "weiyux2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051790390920085968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051594665892213045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weiyux2021: 冷知识：\n\n梅毒在意大利叫法国病\n\n在法国叫意大利病\n\n在荷兰叫西班牙病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051790390920085968",
+        "created_at": "2026-05-05T22:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051790390920085968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1993659774370758656",
+              "start": 3,
+              "username": "weiyux2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051790390920085968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051594665892213045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weiyux2021: 冷知识：\n\n梅毒在意大利叫法国病\n\n在法国叫意大利病\n\n在荷兰叫西班牙病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993659774370758656",
+        "conversation_id": "2051594665892213045",
+        "created_at": "2026-05-05T09:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051594665892213045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051594665892213045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 20349,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n\n梅毒在意大利叫法国病\n\n在法国叫意大利病\n\n在荷兰叫西班牙病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2892,
+          "like_count": 10508,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2959
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:35:38.000Z",
+        "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "id": "1993659774370758656",
+        "location": "Manchester, England",
+        "name": "动物园园长",
+        "pinned_tweet_id": "2024371745650774063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32812,
+          "following_count": 229,
+          "like_count": 130,
+          "listed_count": 117,
+          "media_count": 559,
+          "tweet_count": 3599
+        },
+        "username": "weiyux2021",
+        "verified": true
+      }
+    ]
+  }
+}

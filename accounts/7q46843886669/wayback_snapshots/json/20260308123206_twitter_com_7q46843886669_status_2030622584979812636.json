@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2029997642105975214",
+    "created_at": "2026-03-08T12:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030622584979812636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598101963220082689",
+          "start": 0,
+          "username": "a67793581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030622584979812636",
+    "in_reply_to_user_id": "1598101963220082689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029997642105975214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a67793581 这是...怎么了...?\n...难道...真的......做到了吗...？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2029997642105975214",
+        "created_at": "2026-03-08T12:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030622584979812636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598101963220082689",
+              "start": 0,
+              "username": "a67793581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030622584979812636",
+        "in_reply_to_user_id": "1598101963220082689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029997642105975214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a67793581 这是...怎么了...?\n...难道...真的......做到了吗...？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598101963220082689",
+        "conversation_id": "2029997642105975214",
+        "created_at": "2026-03-06T19:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029997642105975214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029997642105975214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着？\n不，我已经睡了。\n只是这份睡眠，不是休息，而是更深的、湿漉漉的、永不醒来的沉沦。\n而我，在这份沉沦里，终于……彻底安静下来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 2202,
+          "like_count": 2523,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 313
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T23:49:45.000Z",
+        "description": "好奇宝宝上线啦",
+        "id": "1598101963220082689",
+        "location": "3km",
+        "name": "carlo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940114125343916032/I5srrHuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 288,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 64
+        },
+        "username": "a67793581",
+        "verified": false
+      }
+    ]
+  }
+}

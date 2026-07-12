@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2020926054165316053",
+    "created_at": "2026-02-10T18:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T19:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021294011399725087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735473548813099008",
+          "start": 0,
+          "username": "Hgqwq3333222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021294011399725087",
+    "in_reply_to_user_id": "1735473548813099008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021285018253807795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hgqwq3333222 会不会是因为我是阴暗b所以觉得暗暗的照片看起来就很舒服 笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2020926054165316053",
+        "created_at": "2026-02-10T18:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021294011399725087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735473548813099008",
+              "start": 0,
+              "username": "Hgqwq3333222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021294011399725087",
+        "in_reply_to_user_id": "1735473548813099008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021285018253807795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hgqwq3333222 会不会是因为我是阴暗b所以觉得暗暗的照片看起来就很舒服 笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735473548813099008",
+        "conversation_id": "2020926054165316053",
+        "created_at": "2026-02-10T18:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021285018253807795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021285018253807795",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021206172267839767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 吗呀用那个sq10拍的 那个鬼相机拍照巨丑没有任何美颜甚至有丑颜 这张我还打出来了结果黑的啥也看不见 导出来还可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 1663,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 201
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T01:35:13.000Z",
+        "description": "jk/碎碎念 不要评论一些很诡异的话我会统统拉黑",
+        "id": "1735473548813099008",
+        "name": "猪妞",
+        "pinned_tweet_id": "1944423402841747795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000591343983157257/YxhjLO8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14333,
+          "following_count": 139,
+          "like_count": 10968,
+          "listed_count": 23,
+          "media_count": 45,
+          "tweet_count": 908
+        },
+        "username": "Hgqwq3333222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052308984363979052",
+    "created_at": "2026-05-07T10:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052330723907101160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870149020372611072",
+          "start": 0,
+          "username": "shnxin488109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052330723907101160",
+    "in_reply_to_user_id": "1870149020372611072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052308984363979052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shnxin488109 Aug。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2052308883469963264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtEDlCbEAAta7p.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052308984363979052",
+        "created_at": "2026-05-07T10:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052330723907101160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870149020372611072",
+              "start": 0,
+              "username": "shnxin488109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052330723907101160",
+        "in_reply_to_user_id": "1870149020372611072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308984363979052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnxin488109 Aug。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052308883469963264"
+          ]
+        },
+        "author_id": "1870149020372611072",
+        "conversation_id": "2052308984363979052",
+        "created_at": "2026-05-07T08:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052308984363979052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JisWi3w7d8",
+              "end": 50,
+              "expanded_url": "https://x.com/shnxin488109/status/2052308984363979052/photo/1",
+              "media_key": "3_2052308883469963264",
+              "start": 27,
+              "url": "https://t.co/JisWi3w7d8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052308984363979052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想他在cos谁？？？？\n这他妈是cos吗？？？？ https://t.co/JisWi3w7d8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2902,
+          "like_count": 10957,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3121
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T16:47:41.000Z",
+        "description": "为了好玩会配合你(但失去兴趣之后就不配合你了)",
+        "id": "1870149020372611072",
+        "location": "你猜呀",
+        "name": "维什戴尔想发射祖宗炮",
+        "pinned_tweet_id": "2051724456859758713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051725316117442560/8JMWFXv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 31,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 352
+        },
+        "username": "shnxin488109",
+        "verified": false
+      }
+    ]
+  }
+}

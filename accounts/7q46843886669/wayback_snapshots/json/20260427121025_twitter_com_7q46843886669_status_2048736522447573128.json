@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048423219515015168",
+        "3_2048423219523432449",
+        "3_2048423219527630848",
+        "3_2048423219540176896"
+      ],
+      "media_source_tweet_id": [
+        "2048423227647803797",
+        "2048423227647803797",
+        "2048423227647803797",
+        "2048423227647803797"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048736522447573128",
+    "created_at": "2026-04-27T12:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048736522447573128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1571848301594705927",
+          "start": 3,
+          "username": "Bitwise23337074"
+        },
+        {
+          "end": 35,
+          "id": "1518404201168007168",
+          "start": 21,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3BUlnCoYbZ",
+          "end": 64,
+          "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+          "media_key": "3_2048423219515015168",
+          "start": 41,
+          "url": "https://t.co/3BUlnCoYbZ"
+        },
+        {
+          "display_url": "pic.x.com/3BUlnCoYbZ",
+          "end": 64,
+          "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+          "media_key": "3_2048423219523432449",
+          "start": 41,
+          "url": "https://t.co/3BUlnCoYbZ"
+        },
+        {
+          "display_url": "pic.x.com/3BUlnCoYbZ",
+          "end": 64,
+          "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+          "media_key": "3_2048423219527630848",
+          "start": 41,
+          "url": "https://t.co/3BUlnCoYbZ"
+        },
+        {
+          "display_url": "pic.x.com/3BUlnCoYbZ",
+          "end": 64,
+          "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+          "media_key": "3_2048423219540176896",
+          "start": 41,
+          "url": "https://t.co/3BUlnCoYbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048736522447573128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048423227647803797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitwise23337074: @godspeedyou50 猜你在找 https://t.co/3BUlnCoYbZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048423219515015168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG12EKzawAAcQNZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048423219523432449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG12EK1bMAE7YSP.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048423219527630848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG12EK2bQAA2Dlr.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048423219540176896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG12EK5asAAgz5l.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048423219515015168",
+            "3_2048423219523432449",
+            "3_2048423219527630848",
+            "3_2048423219540176896"
+          ],
+          "media_source_tweet_id": [
+            "2048423227647803797",
+            "2048423227647803797",
+            "2048423227647803797",
+            "2048423227647803797"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048736522447573128",
+        "created_at": "2026-04-27T12:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048736522447573128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1571848301594705927",
+              "start": 3,
+              "username": "Bitwise23337074"
+            },
+            {
+              "end": 35,
+              "id": "1518404201168007168",
+              "start": 21,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 64,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219515015168",
+              "start": 41,
+              "url": "https://t.co/3BUlnCoYbZ"
+            },
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 64,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219523432449",
+              "start": 41,
+              "url": "https://t.co/3BUlnCoYbZ"
+            },
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 64,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219527630848",
+              "start": 41,
+              "url": "https://t.co/3BUlnCoYbZ"
+            },
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 64,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219540176896",
+              "start": 41,
+              "url": "https://t.co/3BUlnCoYbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048736522447573128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048423227647803797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitwise23337074: @godspeedyou50 猜你在找 https://t.co/3BUlnCoYbZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048423219515015168",
+            "3_2048423219523432449",
+            "3_2048423219527630848",
+            "3_2048423219540176896"
+          ]
+        },
+        "author_id": "1571848301594705927",
+        "conversation_id": "2048377042589401100",
+        "created_at": "2026-04-26T15:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048423227647803797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 43,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219515015168",
+              "start": 20,
+              "url": "https://t.co/3BUlnCoYbZ"
+            },
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 43,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219523432449",
+              "start": 20,
+              "url": "https://t.co/3BUlnCoYbZ"
+            },
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 43,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219527630848",
+              "start": 20,
+              "url": "https://t.co/3BUlnCoYbZ"
+            },
+            {
+              "display_url": "pic.x.com/3BUlnCoYbZ",
+              "end": 43,
+              "expanded_url": "https://x.com/Bitwise23337074/status/2048423227647803797/photo/1",
+              "media_key": "3_2048423219540176896",
+              "start": 20,
+              "url": "https://t.co/3BUlnCoYbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048423227647803797",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1035,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048377042589401100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 猜你在找 https://t.co/3BUlnCoYbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2748,
+          "like_count": 6343,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1392
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "秽土转生",
+        "id": "1571848301594705927",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048059701884227584/ddLLYPAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "Bitwise23337074",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个od喝大酒的修士。/欢迎提问/@OvooLOO3o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "OvooLOO3o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jahseh79919",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jahseh79919",
+                "start": 0,
+                "url": "https://t.co/xaz6T7v19q"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2029134307244294287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 251,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/xaz6T7v19q",
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

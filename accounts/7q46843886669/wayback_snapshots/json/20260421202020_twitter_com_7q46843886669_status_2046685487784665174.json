@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045050243692318720"
+      ],
+      "media_source_tweet_id": [
+        "2046529375647010822"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046685487784665174",
+    "created_at": "2026-04-21T20:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T21:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046685487784665174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2xCaymexc",
+          "end": 40,
+          "expanded_url": "https://x.com/BI3BXI/status/2046529375647010822/photo/1",
+          "media_key": "3_2045050243692318720",
+          "start": 17,
+          "url": "https://t.co/U2xCaymexc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046685487784665174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046529375647010822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 算毒品吗 https://t.co/U2xCaymexc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2045050243692318720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGF6XIsbUAAGcRq.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045050243692318720"
+          ],
+          "media_source_tweet_id": [
+            "2046529375647010822"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046685487784665174",
+        "created_at": "2026-04-21T20:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046685487784665174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2xCaymexc",
+              "end": 40,
+              "expanded_url": "https://x.com/BI3BXI/status/2046529375647010822/photo/1",
+              "media_key": "3_2045050243692318720",
+              "start": 17,
+              "url": "https://t.co/U2xCaymexc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046685487784665174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046529375647010822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 算毒品吗 https://t.co/U2xCaymexc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045050243692318720"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2046529375647010822",
+        "created_at": "2026-04-21T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046529375647010822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2xCaymexc",
+              "end": 28,
+              "expanded_url": "https://x.com/BI3BXI/status/2046529375647010822/photo/1",
+              "media_key": "3_2045050243692318720",
+              "start": 5,
+              "url": "https://t.co/U2xCaymexc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046529375647010822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1926,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "算毒品吗 https://t.co/U2xCaymexc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 2672,
+          "like_count": 4797,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 724
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Show5560"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8929,
+          "following_count": 4089,
+          "like_count": 42661,
+          "listed_count": 25,
+          "media_count": 2802,
+          "tweet_count": 10955
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

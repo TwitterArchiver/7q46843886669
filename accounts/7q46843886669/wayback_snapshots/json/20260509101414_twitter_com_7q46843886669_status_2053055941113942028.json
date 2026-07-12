@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052952171088695298"
+      ],
+      "media_source_tweet_id": [
+        "2052952176520245292"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053055941113942028",
+    "created_at": "2026-05-09T10:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053055941113942028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1704129388898594816",
+          "start": 3,
+          "username": "Tyson2OO4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvrtAQrlHb",
+          "end": 72,
+          "expanded_url": "https://x.com/Tyson2OO4/status/2052952176520245292/photo/1",
+          "media_key": "3_2052952171088695298",
+          "start": 49,
+          "url": "https://t.co/KvrtAQrlHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053055941113942028",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052952176520245292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tyson2OO4: I have no idea how to cook &gt;:3 https://t.co/KvrtAQrlHb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2052952171088695298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2NH2Kb0AIWTHx.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052952171088695298"
+          ],
+          "media_source_tweet_id": [
+            "2052952176520245292"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053055941113942028",
+        "created_at": "2026-05-09T10:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053055941113942028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1704129388898594816",
+              "start": 3,
+              "username": "Tyson2OO4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvrtAQrlHb",
+              "end": 72,
+              "expanded_url": "https://x.com/Tyson2OO4/status/2052952176520245292/photo/1",
+              "media_key": "3_2052952171088695298",
+              "start": 49,
+              "url": "https://t.co/KvrtAQrlHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053055941113942028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052952176520245292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tyson2OO4: I have no idea how to cook &gt;:3 https://t.co/KvrtAQrlHb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052952171088695298"
+          ]
+        },
+        "author_id": "1704129388898594816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052952176520245292",
+        "created_at": "2026-05-09T03:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052952176520245292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvrtAQrlHb",
+              "end": 57,
+              "expanded_url": "https://x.com/Tyson2OO4/status/2052952176520245292/photo/1",
+              "media_key": "3_2052952171088695298",
+              "start": 34,
+              "url": "https://t.co/KvrtAQrlHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052952176520245292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2943,
+          "like_count": 387,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "I have no idea how to cook &gt;:3 https://t.co/KvrtAQrlHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2971,
+          "like_count": 11689,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3367
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T13:45:06.000Z",
+        "description": "🇦🇺 22, He/Him, Femboy, Pansexual💖💛💙, you can donate to my throne: https://t.co/UjkMFLNJly or preferably https://t.co/7AdeRMIB62",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/tyson2oo4",
+                "end": 89,
+                "expanded_url": "https://throne.com/tyson2oo4",
+                "start": 66,
+                "url": "https://t.co/UjkMFLNJly"
+              },
+              {
+                "display_url": "revolut.me/tyson833",
+                "end": 127,
+                "expanded_url": "https://revolut.me/tyson833",
+                "start": 104,
+                "url": "https://t.co/7AdeRMIB62"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/kite_8833/home…",
+                "end": 23,
+                "expanded_url": "https://m.twitch.tv/kite_8833/home?tt_content=channel&tt_medium=mobile_web_share",
+                "start": 0,
+                "url": "https://t.co/es8vB3EfyU"
+              }
+            ]
+          }
+        },
+        "id": "1704129388898594816",
+        "name": "Tyson💖💛💙",
+        "pinned_tweet_id": "2024585265680134375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934327022312181760/5MSddxuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18118,
+          "following_count": 336,
+          "like_count": 71204,
+          "listed_count": 31,
+          "media_count": 4552,
+          "tweet_count": 18928
+        },
+        "url": "https://t.co/es8vB3EfyU",
+        "username": "Tyson2OO4",
+        "verified": true
+      }
+    ]
+  }
+}

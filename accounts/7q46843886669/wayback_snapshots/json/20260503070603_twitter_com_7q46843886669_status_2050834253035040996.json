@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050832491926450366",
+    "created_at": "2026-05-03T07:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050834253035040996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024195400442531841",
+          "start": 0,
+          "username": "Xjiajiaouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050834253035040996",
+    "in_reply_to_user_id": "2024195400442531841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050832491926450366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xjiajiaouo 噢噢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2050832485127516160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYFR4nbcAAl-Ws.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050832491926450366",
+        "created_at": "2026-05-03T07:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050834253035040996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024195400442531841",
+              "start": 0,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050834253035040996",
+        "in_reply_to_user_id": "2024195400442531841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050832491926450366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xjiajiaouo 噢噢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050832485127516160"
+          ]
+        },
+        "author_id": "2024195400442531841",
+        "conversation_id": "2050832491926450366",
+        "created_at": "2026-05-03T06:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050832491926450366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLiq6QEfJQ",
+              "end": 26,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2050832491926450366/photo/1",
+              "media_key": "3_2050832485127516160",
+              "start": 3,
+              "url": "https://t.co/lLiq6QEfJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050832491926450366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦 https://t.co/lLiq6QEfJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 2849,
+          "like_count": 9140,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2545
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "",
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2050414030091894884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050410500119576576/n2MSxxmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 429,
+          "like_count": 8654,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 2489
+        },
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

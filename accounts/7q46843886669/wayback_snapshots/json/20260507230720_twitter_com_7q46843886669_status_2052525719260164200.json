@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052377424579715072"
+      ],
+      "media_source_tweet_id": [
+        "2052377442795573260"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052525719260164200",
+    "created_at": "2026-05-07T23:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T00:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052525719260164200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tRYqekC9Wa",
+          "end": 43,
+          "expanded_url": "https://x.com/dearemon/status/2052377442795573260/photo/1",
+          "media_key": "3_2052377424579715072",
+          "start": 20,
+          "url": "https://t.co/tRYqekC9Wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052525719260164200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052377442795573260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 可爱死了！ https://t.co/tRYqekC9Wa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2052377424579715072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuCZMka4AA89AI.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052377424579715072"
+          ],
+          "media_source_tweet_id": [
+            "2052377442795573260"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052525719260164200",
+        "created_at": "2026-05-07T23:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052525719260164200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRYqekC9Wa",
+              "end": 43,
+              "expanded_url": "https://x.com/dearemon/status/2052377442795573260/photo/1",
+              "media_key": "3_2052377424579715072",
+              "start": 20,
+              "url": "https://t.co/tRYqekC9Wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052525719260164200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052377442795573260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 可爱死了！ https://t.co/tRYqekC9Wa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052377424579715072"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2052377442795573260",
+        "created_at": "2026-05-07T13:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052377442795573260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRYqekC9Wa",
+              "end": 29,
+              "expanded_url": "https://x.com/dearemon/status/2052377442795573260/photo/1",
+              "media_key": "3_2052377424579715072",
+              "start": 6,
+              "url": "https://t.co/tRYqekC9Wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052377442795573260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3369,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "可爱死了！ https://t.co/tRYqekC9Wa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 2928,
+          "like_count": 11182,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3161
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55578,
+          "following_count": 672,
+          "like_count": 5812,
+          "listed_count": 211,
+          "media_count": 28732,
+          "tweet_count": 388514
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

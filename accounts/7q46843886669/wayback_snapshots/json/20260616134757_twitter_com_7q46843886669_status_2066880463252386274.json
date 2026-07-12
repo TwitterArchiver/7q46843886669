@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066455534023413760"
+      ],
+      "media_source_tweet_id": [
+        "2066580244644221212"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2066880463252386274",
+    "created_at": "2026-06-16T13:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066880463252386274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dU7P6dGH3z",
+          "end": 39,
+          "expanded_url": "https://x.com/_ropu/status/2066580244644221212/photo/1",
+          "media_key": "3_2066455534023413760",
+          "start": 16,
+          "url": "https://t.co/dU7P6dGH3z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066880463252386274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066580244644221212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 野种先生 https://t.co/dU7P6dGH3z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2066455534023413760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2GXBGbEAAUxDJ.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066455534023413760"
+          ],
+          "media_source_tweet_id": [
+            "2066580244644221212"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2066880463252386274",
+        "created_at": "2026-06-16T13:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066880463252386274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU7P6dGH3z",
+              "end": 39,
+              "expanded_url": "https://x.com/_ropu/status/2066580244644221212/photo/1",
+              "media_key": "3_2066455534023413760",
+              "start": 16,
+              "url": "https://t.co/dU7P6dGH3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066880463252386274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066580244644221212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 野种先生 https://t.co/dU7P6dGH3z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066455534023413760"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2066580244644221212",
+        "created_at": "2026-06-15T17:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066580244644221212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU7P6dGH3z",
+              "end": 28,
+              "expanded_url": "https://x.com/_ropu/status/2066580244644221212/photo/1",
+              "media_key": "3_2066455534023413760",
+              "start": 5,
+              "url": "https://t.co/dU7P6dGH3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066580244644221212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 13891,
+          "like_count": 747,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "野种先生 https://t.co/dU7P6dGH3z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 3385,
+          "like_count": 19075,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 5155
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31309,
+          "following_count": 4487,
+          "like_count": 16218,
+          "listed_count": 32,
+          "media_count": 4801,
+          "tweet_count": 35414
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

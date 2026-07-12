@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047914976795631617"
+      ],
+      "media_source_tweet_id": [
+        "2047914984945180723"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047997968045965467",
+    "created_at": "2026-04-25T11:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047997968045965467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1450640115085111300",
+          "start": 3,
+          "username": "PowerfulAuraX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nTZwhkgMH3",
+          "end": 42,
+          "expanded_url": "https://x.com/PowerfulAuraX/status/2047914984945180723/photo/1",
+          "media_key": "3_2047914976795631617",
+          "start": 19,
+          "url": "https://t.co/nTZwhkgMH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047997968045965467",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047914984945180723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PowerfulAuraX: https://t.co/nTZwhkgMH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_2047914976795631617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGun0jIbIAE3Xi8.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047914976795631617"
+          ],
+          "media_source_tweet_id": [
+            "2047914984945180723"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047997968045965467",
+        "created_at": "2026-04-25T11:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047997968045965467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1450640115085111300",
+              "start": 3,
+              "username": "PowerfulAuraX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTZwhkgMH3",
+              "end": 42,
+              "expanded_url": "https://x.com/PowerfulAuraX/status/2047914984945180723/photo/1",
+              "media_key": "3_2047914976795631617",
+              "start": 19,
+              "url": "https://t.co/nTZwhkgMH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047997968045965467",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047914984945180723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PowerfulAuraX: https://t.co/nTZwhkgMH3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047914976795631617"
+          ]
+        },
+        "author_id": "1450640115085111300",
+        "conversation_id": "2047914984945180723",
+        "created_at": "2026-04-25T05:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047914984945180723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTZwhkgMH3",
+              "end": 23,
+              "expanded_url": "https://x.com/PowerfulAuraX/status/2047914984945180723/photo/1",
+              "media_key": "3_2047914976795631617",
+              "start": 0,
+              "url": "https://t.co/nTZwhkgMH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047914984945180723",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 9818,
+          "like_count": 1185,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nTZwhkgMH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2715,
+          "like_count": 5934,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1011
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T01:49:02.000Z",
+        "description": "these cats are powerful. Bringing the best on your feed. Dm for credit/removal.",
+        "id": "1450640115085111300",
+        "name": "cats with powerful aura",
+        "pinned_tweet_id": "2047005490203484193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042706672666521600/GoqpntwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272353,
+          "following_count": 10061,
+          "like_count": 2017,
+          "listed_count": 983,
+          "media_count": 9003,
+          "tweet_count": 10480
+        },
+        "username": "PowerfulAuraX",
+        "verified": true
+      }
+    ]
+  }
+}

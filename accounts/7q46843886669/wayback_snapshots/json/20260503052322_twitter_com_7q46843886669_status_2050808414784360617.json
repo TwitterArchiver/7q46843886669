@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050072953061314781",
+    "created_at": "2026-05-03T05:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050808414784360617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043058360682209280",
+          "start": 0,
+          "username": "penguinecotmv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050808414784360617",
+    "in_reply_to_user_id": "2043058360682209280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050072953061314781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penguinecotmv0 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050072953061314781",
+        "created_at": "2026-05-03T05:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050808414784360617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043058360682209280",
+              "start": 0,
+              "username": "penguinecotmv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050808414784360617",
+        "in_reply_to_user_id": "2043058360682209280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050072953061314781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penguinecotmv0 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043058360682209280",
+        "conversation_id": "2050072953061314781",
+        "created_at": "2026-05-01T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050072953061314781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050072953061314781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4000,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "装深情的人都是表演型人格自私还容易破防"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2847,
+          "like_count": 8949,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2452
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T20:07:56.000Z",
+        "description": "我只想有个地方能说一些平时不敢说的话",
+        "id": "2043058360682209280",
+        "name": "penguineco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043074678789672962/92dYhDNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 41,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 151
+        },
+        "username": "penguinecotmv0",
+        "verified": false
+      }
+    ]
+  }
+}

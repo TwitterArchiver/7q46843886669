@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2066137261633335411",
+    "created_at": "2026-06-14T12:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066137261633335411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kxk1388574/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/kxk1388574/status/2065911865973305545",
+          "start": 2,
+          "url": "https://t.co/ogZ75aASVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066137261633335411",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065911865973305545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/ogZ75aASVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2065911863679070208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuX5PPbMAAxJP1.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2066137261633335411",
+        "created_at": "2026-06-14T12:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066137261633335411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kxk1388574/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/kxk1388574/status/2065911865973305545",
+              "start": 2,
+              "url": "https://t.co/ogZ75aASVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137261633335411",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065911865973305545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/ogZ75aASVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065911863679070208"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2065911865973305545",
+        "created_at": "2026-06-13T21:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065911865973305545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MZ8YCe0Lb",
+              "end": 41,
+              "expanded_url": "https://x.com/kxk1388574/status/2065911865973305545/photo/1",
+              "media_key": "3_2065911863679070208",
+              "start": 18,
+              "url": "https://t.co/9MZ8YCe0Lb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065911865973305545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 146792,
+          "like_count": 1188,
+          "quote_count": 15,
+          "reply_count": 453,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我也是，木刺老是断在尿道里好难受😭 https://t.co/9MZ8YCe0Lb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 3384,
+          "like_count": 18793,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 5109
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9784,
+          "following_count": 5833,
+          "like_count": 53169,
+          "listed_count": 14,
+          "media_count": 975,
+          "tweet_count": 7671
+        },
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

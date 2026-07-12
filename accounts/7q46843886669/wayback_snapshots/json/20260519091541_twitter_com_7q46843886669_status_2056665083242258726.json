@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056634921582776340",
+    "created_at": "2026-05-19T09:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056665083242258726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056665083242258726",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056634921582776340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Miiharukawa 哦不？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056634921582776340",
+        "created_at": "2026-05-19T09:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056665083242258726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056665083242258726",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056634921582776340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Miiharukawa 哦不？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2056634921582776340",
+        "created_at": "2026-05-19T07:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056634921582776340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056634921582776340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 551,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "没有被人坚定地选择过，上体育课组队总是一个人，小组作业分组要等老师把我塞进别的组，我的朋友都有更要好的朋友，在家里甚至也不是父母最重视的小孩，谈过的对象都有一个忘不了的前任。我永远是别人生命中的一点点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 2983,
+          "like_count": 13404,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4120
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "06｜Infp｜女｜碎碎念小树洞\n@Cooliyawa\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 220,
+          "like_count": 7743,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 3010
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

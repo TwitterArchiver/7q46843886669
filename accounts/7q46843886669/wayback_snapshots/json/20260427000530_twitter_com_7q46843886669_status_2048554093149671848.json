@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048389135610851797",
+    "created_at": "2026-04-27T00:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T01:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048554093149671848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820594914339799040",
+          "start": 0,
+          "username": "2CROW19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048554093149671848",
+    "in_reply_to_user_id": "1820594914339799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048389135610851797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2CROW19 骚逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048389135610851797",
+        "created_at": "2026-04-27T00:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048554093149671848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820594914339799040",
+              "start": 0,
+              "username": "2CROW19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048554093149671848",
+        "in_reply_to_user_id": "1820594914339799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048389135610851797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2CROW19 骚逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820594914339799040",
+        "conversation_id": "2048389135610851797",
+        "created_at": "2026-04-26T13:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048389135610851797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048389135610851797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2280,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实喜欢男娘不算双性恋吧。互关有几个小男孩儿长得实在是太甜美太可爱了。真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2741,
+          "like_count": 6195,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1270
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T22:57:16.000Z",
+        "description": "#Eternal# 我叫永恒：很多碎碎念。\n匿名问答↓ @iknowseverythg（仅互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "iknowseverythg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lon3ly56935",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lon3ly56935",
+                "start": 0,
+                "url": "https://t.co/mYFeDFcvSM"
+              }
+            ]
+          }
+        },
+        "id": "1820594914339799040",
+        "name": "永恆",
+        "pinned_tweet_id": "2045049491255165276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047412065489534976/QASSvqFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 132,
+          "like_count": 8480,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2132
+        },
+        "url": "https://t.co/mYFeDFcvSM",
+        "username": "2CROW19",
+        "verified": false
+      }
+    ]
+  }
+}

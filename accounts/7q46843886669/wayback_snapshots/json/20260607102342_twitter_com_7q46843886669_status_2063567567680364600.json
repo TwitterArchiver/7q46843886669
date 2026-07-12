@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063567567680364600",
+    "created_at": "2026-06-07T10:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063567567680364600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1904457911369105409",
+          "start": 3,
+          "username": "OmerOzer5234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063567567680364600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063321098733941150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OmerOzer5234: 我有述情障碍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063567567680364600",
+        "created_at": "2026-06-07T10:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063567567680364600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1904457911369105409",
+              "start": 3,
+              "username": "OmerOzer5234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063567567680364600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063321098733941150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OmerOzer5234: 我有述情障碍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904457911369105409",
+        "conversation_id": "2063321098733941150",
+        "created_at": "2026-06-06T18:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063321098733941150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063321098733941150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有述情障碍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 3367,
+          "like_count": 17351,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 4781
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T08:58:56.000Z",
+        "description": "10年｜150 39kg｜infp🦋｜⚠️我有双相｜我偶尔会od｜阴暗b｜老师唯一的问题学生｜社交无能致歉",
+        "id": "1904457911369105409",
+        "location": "距离您4.9km",
+        "name": "蠢想法",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055199539662086144/LzjHckr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 2,
+          "like_count": 3079,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 361
+        },
+        "username": "OmerOzer5234",
+        "verified": false
+      }
+    ]
+  }
+}

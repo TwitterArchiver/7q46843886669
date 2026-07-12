@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055642616914747392"
+      ],
+      "media_source_tweet_id": [
+        "2055748119032414531"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055889331731177976",
+    "created_at": "2026-05-17T05:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055889331731177976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hCTcafuhxc",
+          "end": 51,
+          "expanded_url": "https://x.com/YunJiu/status/2055748119032414531/photo/1",
+          "media_key": "3_2055642616914747392",
+          "start": 28,
+          "url": "https://t.co/hCTcafuhxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055889331731177976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055748119032414531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunJiu: 如何对待评论区万达广场机器人： https://t.co/hCTcafuhxc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2055642616914747392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIccEZ5boAAxV4c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055642616914747392"
+          ],
+          "media_source_tweet_id": [
+            "2055748119032414531"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055889331731177976",
+        "created_at": "2026-05-17T05:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055889331731177976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCTcafuhxc",
+              "end": 51,
+              "expanded_url": "https://x.com/YunJiu/status/2055748119032414531/photo/1",
+              "media_key": "3_2055642616914747392",
+              "start": 28,
+              "url": "https://t.co/hCTcafuhxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055889331731177976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055748119032414531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunJiu: 如何对待评论区万达广场机器人： https://t.co/hCTcafuhxc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055642616914747392"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055748119032414531",
+        "created_at": "2026-05-16T20:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055748119032414531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCTcafuhxc",
+              "end": 39,
+              "expanded_url": "https://x.com/YunJiu/status/2055748119032414531/photo/1",
+              "media_key": "3_2055642616914747392",
+              "start": 16,
+              "url": "https://t.co/hCTcafuhxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055748119032414531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10984,
+          "like_count": 464,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "如何对待评论区万达广场机器人： https://t.co/hCTcafuhxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2978,
+          "like_count": 13000,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3954
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105082,
+          "following_count": 788,
+          "like_count": 36832,
+          "listed_count": 293,
+          "media_count": 18634,
+          "tweet_count": 26755
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

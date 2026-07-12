@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2027339439157268629",
+    "created_at": "2026-02-27T11:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027344233053753613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1318759337393704960",
+          "start": 0,
+          "username": "hdndjfvrbjdidbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027344233053753613",
+    "in_reply_to_user_id": "1318759337393704960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027339439157268629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hdndjfvrbjdidbf 有打算投哪个刊吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2027339439157268629",
+        "created_at": "2026-02-27T11:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027344233053753613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1318759337393704960",
+              "start": 0,
+              "username": "hdndjfvrbjdidbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027344233053753613",
+        "in_reply_to_user_id": "1318759337393704960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027339439157268629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hdndjfvrbjdidbf 有打算投哪个刊吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318759337393704960",
+        "conversation_id": "2027339439157268629",
+        "created_at": "2026-02-27T11:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027339439157268629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027339439157268629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在研究一些审美对应\n做一个验证\n喜欢胸大的人是否在关系里面也更加直接，直白，传统\n明确的边界，清晰的态度，直来直往的互动。\n喜欢胸小的，在关系里面是否更加喜欢试探，拉扯，慢慢靠近\n精神契合，控制，探索欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 1997,
+          "like_count": 2057,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 259
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T03:41:46.000Z",
+        "description": "生活碎片\n有两个小孩🐱\n有且仅有一个账号",
+        "id": "1318759337393704960",
+        "location": "梦里",
+        "name": "扶桑",
+        "pinned_tweet_id": "1875280303012655548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521630917240172545/1-c-zjOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14663,
+          "following_count": 442,
+          "like_count": 3278,
+          "listed_count": 54,
+          "media_count": 182,
+          "tweet_count": 3702
+        },
+        "username": "hdndjfvrbjdidbf",
+        "verified": false
+      }
+    ]
+  }
+}

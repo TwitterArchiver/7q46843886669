@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048692689244422144"
+      ],
+      "media_source_tweet_id": [
+        "2048692700455788575"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048920069724627082",
+    "created_at": "2026-04-28T00:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048920069724627082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484231561784737792",
+          "start": 3,
+          "username": "AirdropAlchemis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E8fH3Lpvig",
+          "end": 66,
+          "expanded_url": "https://x.com/AirdropAlchemis/status/2048692700455788575/photo/1",
+          "media_key": "3_2048692689244422144",
+          "start": 43,
+          "url": "https://t.co/E8fH3Lpvig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048920069724627082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048692700455788575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AirdropAlchemis: 特意买了一杯月抹静山试试\n\n真的是b味…… https://t.co/E8fH3Lpvig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048692689244422144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5rJXxagAAArYc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048692689244422144"
+          ],
+          "media_source_tweet_id": [
+            "2048692700455788575"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048920069724627082",
+        "created_at": "2026-04-28T00:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048920069724627082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484231561784737792",
+              "start": 3,
+              "username": "AirdropAlchemis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8fH3Lpvig",
+              "end": 66,
+              "expanded_url": "https://x.com/AirdropAlchemis/status/2048692700455788575/photo/1",
+              "media_key": "3_2048692689244422144",
+              "start": 43,
+              "url": "https://t.co/E8fH3Lpvig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048920069724627082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048692700455788575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AirdropAlchemis: 特意买了一杯月抹静山试试\n\n真的是b味…… https://t.co/E8fH3Lpvig"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048692689244422144"
+          ]
+        },
+        "author_id": "1484231561784737792",
+        "conversation_id": "2048692700455788575",
+        "created_at": "2026-04-27T09:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048692700455788575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8fH3Lpvig",
+              "end": 45,
+              "expanded_url": "https://x.com/AirdropAlchemis/status/2048692700455788575/photo/1",
+              "media_key": "3_2048692689244422144",
+              "start": 22,
+              "url": "https://t.co/E8fH3Lpvig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048692700455788575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 290222,
+          "like_count": 475,
+          "quote_count": 12,
+          "reply_count": 370,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "特意买了一杯月抹静山试试\n\n真的是b味…… https://t.co/E8fH3Lpvig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2766,
+          "like_count": 6440,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1444
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T18:29:24.000Z",
+        "description": "纯玩抽象的不构成任何投资建议\n🟣Solar member @solana_zh\n🟠炼金弟弟 @lianjinshushu\n👉https://t.co/28LJt8RXUv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "solana_zh"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "lianjinshushu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 85,
+                "expanded_url": "http://web3.okx.com",
+                "start": 62,
+                "url": "https://t.co/28LJt8RXUv"
+              }
+            ]
+          }
+        },
+        "id": "1484231561784737792",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "炼金叔叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59995,
+          "following_count": 3091,
+          "like_count": 74458,
+          "listed_count": 922,
+          "media_count": 8144,
+          "tweet_count": 56826
+        },
+        "username": "AirdropAlchemis",
+        "verified": true
+      }
+    ]
+  }
+}

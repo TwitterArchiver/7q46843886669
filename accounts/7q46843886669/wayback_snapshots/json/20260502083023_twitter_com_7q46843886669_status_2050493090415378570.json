@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050305994782396416"
+      ],
+      "media_source_tweet_id": [
+        "2050306000385953873"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050493090415378570",
+    "created_at": "2026-05-02T08:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050493090415378570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1286241253621817344",
+          "start": 3,
+          "username": "CldGeo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1goi3wKfR",
+          "end": 39,
+          "expanded_url": "https://x.com/CldGeo/status/2050306000385953873/photo/1",
+          "media_key": "3_2050305994782396416",
+          "start": 16,
+          "url": "https://t.co/o1goi3wKfR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050493090415378570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050306000385953873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CldGeo: 还真是 https://t.co/o1goi3wKfR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 307,
+        "media_key": "3_2050305994782396416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQmcHPb0AAbtib.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050305994782396416"
+          ],
+          "media_source_tweet_id": [
+            "2050306000385953873"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050493090415378570",
+        "created_at": "2026-05-02T08:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050493090415378570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1286241253621817344",
+              "start": 3,
+              "username": "CldGeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1goi3wKfR",
+              "end": 39,
+              "expanded_url": "https://x.com/CldGeo/status/2050306000385953873/photo/1",
+              "media_key": "3_2050305994782396416",
+              "start": 16,
+              "url": "https://t.co/o1goi3wKfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050493090415378570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050306000385953873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CldGeo: 还真是 https://t.co/o1goi3wKfR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050305994782396416"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050306000385953873",
+        "created_at": "2026-05-01T20:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050306000385953873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1goi3wKfR",
+              "end": 27,
+              "expanded_url": "https://x.com/CldGeo/status/2050306000385953873/photo/1",
+              "media_key": "3_2050305994782396416",
+              "start": 4,
+              "url": "https://t.co/o1goi3wKfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050306000385953873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 928,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/o1goi3wKfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2846,
+          "like_count": 8725,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2356
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2042878348440015045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 350,
+          "like_count": 4109,
+          "listed_count": 6,
+          "media_count": 444,
+          "tweet_count": 1736
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

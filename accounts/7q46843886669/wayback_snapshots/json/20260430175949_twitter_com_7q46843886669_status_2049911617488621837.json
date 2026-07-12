@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049277893436706816"
+      ],
+      "media_source_tweet_id": [
+        "2049526625562419678"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049911617488621837",
+    "created_at": "2026-04-30T17:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049911617488621837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504956528914309122",
+          "start": 3,
+          "username": "memechaotic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ULDBU7Qaji",
+          "end": 73,
+          "expanded_url": "https://x.com/memechaotic/status/2049526625562419678/photo/1",
+          "media_key": "3_2049277893436706816",
+          "start": 50,
+          "url": "https://t.co/ULDBU7Qaji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049911617488621837",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049526625562419678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memechaotic: The owner wanted all the smoke 💀 https://t.co/ULDBU7Qaji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2049277893436706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB_YvRbEAAuZm4.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049277893436706816"
+          ],
+          "media_source_tweet_id": [
+            "2049526625562419678"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049911617488621837",
+        "created_at": "2026-04-30T17:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049911617488621837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504956528914309122",
+              "start": 3,
+              "username": "memechaotic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULDBU7Qaji",
+              "end": 73,
+              "expanded_url": "https://x.com/memechaotic/status/2049526625562419678/photo/1",
+              "media_key": "3_2049277893436706816",
+              "start": 50,
+              "url": "https://t.co/ULDBU7Qaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049911617488621837",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049526625562419678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memechaotic: The owner wanted all the smoke 💀 https://t.co/ULDBU7Qaji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049277893436706816"
+          ]
+        },
+        "author_id": "1504956528914309122",
+        "conversation_id": "2049526625562419678",
+        "created_at": "2026-04-29T16:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049526625562419678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULDBU7Qaji",
+              "end": 56,
+              "expanded_url": "https://x.com/memechaotic/status/2049526625562419678/photo/1",
+              "media_key": "3_2049277893436706816",
+              "start": 33,
+              "url": "https://t.co/ULDBU7Qaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049526625562419678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 456089,
+          "like_count": 38767,
+          "quote_count": 20,
+          "reply_count": 34,
+          "retweet_count": 1242
+        },
+        "reply_settings": "everyone",
+        "text": "The owner wanted all the smoke 💀 https://t.co/ULDBU7Qaji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2820,
+          "like_count": 8095,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2084
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T23:03:01.000Z",
+        "description": "Home of chaotic media from around the world.\n\nDM for credit or removal",
+        "id": "1504956528914309122",
+        "name": "chaotic memes",
+        "pinned_tweet_id": "2049514041375408203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017988957490012160/J76FOnyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858574,
+          "following_count": 9,
+          "like_count": 3642,
+          "listed_count": 1970,
+          "media_count": 13043,
+          "tweet_count": 14089
+        },
+        "username": "memechaotic",
+        "verified": true
+      }
+    ]
+  }
+}

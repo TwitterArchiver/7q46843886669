@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056316353695686657"
+      ],
+      "media_source_tweet_id": [
+        "2056316356195410087"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056681382055961084",
+    "created_at": "2026-05-19T10:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056681382055961084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440606984500248584",
+          "start": 3,
+          "username": "Acguy_Chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nroafd5XRJ",
+          "end": 61,
+          "expanded_url": "https://x.com/Acguy_Chan/status/2056316356195410087/photo/1",
+          "media_key": "3_2056316353695686657",
+          "start": 38,
+          "url": "https://t.co/nroafd5XRJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056681382055961084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056316356195410087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Acguy_Chan: 来自东方的神秘黄色机器人，看起来似乎会大笑 https://t.co/nroafd5XRJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_2056316353695686657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImA1C_boAEd37u.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056316353695686657"
+          ],
+          "media_source_tweet_id": [
+            "2056316356195410087"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056681382055961084",
+        "created_at": "2026-05-19T10:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056681382055961084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440606984500248584",
+              "start": 3,
+              "username": "Acguy_Chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nroafd5XRJ",
+              "end": 61,
+              "expanded_url": "https://x.com/Acguy_Chan/status/2056316356195410087/photo/1",
+              "media_key": "3_2056316353695686657",
+              "start": 38,
+              "url": "https://t.co/nroafd5XRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056681382055961084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056316356195410087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Acguy_Chan: 来自东方的神秘黄色机器人，看起来似乎会大笑 https://t.co/nroafd5XRJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056316353695686657"
+          ]
+        },
+        "author_id": "1440606984500248584",
+        "conversation_id": "2056316356195410087",
+        "created_at": "2026-05-18T10:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056316356195410087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nroafd5XRJ",
+              "end": 45,
+              "expanded_url": "https://x.com/Acguy_Chan/status/2056316356195410087/photo/1",
+              "media_key": "3_2056316353695686657",
+              "start": 22,
+              "url": "https://t.co/nroafd5XRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056316356195410087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 12297,
+          "like_count": 368,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "来自东方的神秘黄色机器人，看起来似乎会大笑 https://t.co/nroafd5XRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 2983,
+          "like_count": 13564,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4191
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T09:20:57.000Z",
+        "description": "🤖✍🏻\n▶Pixiv: https://t.co/piaGtLkQDq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/20342123",
+                "end": 35,
+                "expanded_url": "https://www.pixiv.net/users/20342123",
+                "start": 12,
+                "url": "https://t.co/piaGtLkQDq"
+              }
+            ]
+          }
+        },
+        "id": "1440606984500248584",
+        "location": "🚫AI",
+        "name": "ACGUYKUN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984482287392837632/wcrixhyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 583,
+          "like_count": 2786,
+          "listed_count": 8,
+          "media_count": 71,
+          "tweet_count": 95
+        },
+        "username": "Acguy_Chan",
+        "verified": false
+      }
+    ]
+  }
+}

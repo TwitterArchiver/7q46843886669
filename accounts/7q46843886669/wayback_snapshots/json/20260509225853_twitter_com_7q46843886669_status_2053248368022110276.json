@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052993643800072192"
+      ],
+      "media_source_tweet_id": [
+        "2053067458857066810"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053248368022110276",
+    "created_at": "2026-05-09T22:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T23:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053248368022110276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HNYFdfHoJD",
+          "end": 45,
+          "expanded_url": "https://x.com/youy1qwq/status/2053067458857066810/photo/1",
+          "media_key": "3_2052993643800072192",
+          "start": 22,
+          "url": "https://t.co/HNYFdfHoJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053248368022110276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053067458857066810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 东北雨姐什么？ https://t.co/HNYFdfHoJD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1823,
+        "media_key": "3_2052993643800072192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2y14DWkAALRe5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052993643800072192"
+          ],
+          "media_source_tweet_id": [
+            "2053067458857066810"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053248368022110276",
+        "created_at": "2026-05-09T22:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053248368022110276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNYFdfHoJD",
+              "end": 45,
+              "expanded_url": "https://x.com/youy1qwq/status/2053067458857066810/photo/1",
+              "media_key": "3_2052993643800072192",
+              "start": 22,
+              "url": "https://t.co/HNYFdfHoJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053248368022110276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053067458857066810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 东北雨姐什么？ https://t.co/HNYFdfHoJD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052993643800072192"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2053067458857066810",
+        "created_at": "2026-05-09T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053067458857066810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNYFdfHoJD",
+              "end": 31,
+              "expanded_url": "https://x.com/youy1qwq/status/2053067458857066810/photo/1",
+              "media_key": "3_2052993643800072192",
+              "start": 8,
+              "url": "https://t.co/HNYFdfHoJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053067458857066810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 33233,
+          "like_count": 287,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "东北雨姐什么？ https://t.co/HNYFdfHoJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2964,
+          "like_count": 11741,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3381
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12642,
+          "following_count": 1769,
+          "like_count": 4076,
+          "listed_count": 21,
+          "media_count": 1695,
+          "tweet_count": 2208
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053413024690757632"
+      ],
+      "media_source_tweet_id": [
+        "2054577408510939473"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2054600433814184282",
+    "created_at": "2026-05-13T16:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054600433814184282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJjOKeQ0nn",
+          "end": 46,
+          "expanded_url": "https://x.com/YongQuan/status/2054577408510939473/photo/1",
+          "media_key": "3_2053413024690757632",
+          "start": 23,
+          "url": "https://t.co/uJjOKeQ0nn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054600433814184282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054577408510939473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 这不得交一下房租 https://t.co/uJjOKeQ0nn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2053413024690757632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8wRDnaYAAwAOt.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053413024690757632"
+          ],
+          "media_source_tweet_id": [
+            "2054577408510939473"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2054600433814184282",
+        "created_at": "2026-05-13T16:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054600433814184282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJjOKeQ0nn",
+              "end": 46,
+              "expanded_url": "https://x.com/YongQuan/status/2054577408510939473/photo/1",
+              "media_key": "3_2053413024690757632",
+              "start": 23,
+              "url": "https://t.co/uJjOKeQ0nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054600433814184282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054577408510939473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 这不得交一下房租 https://t.co/uJjOKeQ0nn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053413024690757632"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2054577408510939473",
+        "created_at": "2026-05-13T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054577408510939473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJjOKeQ0nn",
+              "end": 32,
+              "expanded_url": "https://x.com/YongQuan/status/2054577408510939473/photo/1",
+              "media_key": "3_2053413024690757632",
+              "start": 9,
+              "url": "https://t.co/uJjOKeQ0nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054577408510939473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1315,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这不得交一下房租 https://t.co/uJjOKeQ0nn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 2971,
+          "like_count": 12481,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3712
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍⚧️Nonbinary｜Esports Coach（Analyst）\nAny（任意）@yqua_｜爱人雪秋❤️@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "yqua_"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9729,
+          "following_count": 4237,
+          "like_count": 45265,
+          "listed_count": 29,
+          "media_count": 3370,
+          "tweet_count": 12167
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

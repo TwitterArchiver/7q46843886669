@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051137760258654208"
+      ],
+      "media_source_tweet_id": [
+        "2051137765627347298"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051206528938684586",
+    "created_at": "2026-05-04T07:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051206528938684586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629478444894658560",
+          "start": 3,
+          "username": "hamusapi_pi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3vcHqC3lzE",
+          "end": 49,
+          "expanded_url": "https://x.com/hamusapi_pi/status/2051137765627347298/photo/1",
+          "media_key": "3_2051137760258654208",
+          "start": 26,
+          "url": "https://t.co/3vcHqC3lzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051206528938684586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051137765627347298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamusapi_pi: GWなんてないよ https://t.co/3vcHqC3lzE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2051137760258654208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHca7PGbgAA_NHL.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051137760258654208"
+          ],
+          "media_source_tweet_id": [
+            "2051137765627347298"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051206528938684586",
+        "created_at": "2026-05-04T07:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051206528938684586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629478444894658560",
+              "start": 3,
+              "username": "hamusapi_pi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vcHqC3lzE",
+              "end": 49,
+              "expanded_url": "https://x.com/hamusapi_pi/status/2051137765627347298/photo/1",
+              "media_key": "3_2051137760258654208",
+              "start": 26,
+              "url": "https://t.co/3vcHqC3lzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051206528938684586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051137765627347298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamusapi_pi: GWなんてないよ https://t.co/3vcHqC3lzE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051137760258654208"
+          ]
+        },
+        "author_id": "1629478444894658560",
+        "conversation_id": "2051137765627347298",
+        "created_at": "2026-05-04T03:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051137765627347298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vcHqC3lzE",
+              "end": 32,
+              "expanded_url": "https://x.com/hamusapi_pi/status/2051137765627347298/photo/1",
+              "media_key": "3_2051137760258654208",
+              "start": 9,
+              "url": "https://t.co/3vcHqC3lzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051137765627347298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 127408,
+          "like_count": 8404,
+          "quote_count": 29,
+          "reply_count": 28,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "GWなんてないよ https://t.co/3vcHqC3lzE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 2866,
+          "like_count": 9637,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2710
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T13:48:40.000Z",
+        "description": "略して「ﾊﾐやさ」キンクマハムスターのﾊﾐ。◆イラスト平日昼に更新 ◆ ⬇️発売中のLINEスタンプや各種SNSはリットリンクから！⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hamiyasa",
+                "end": 23,
+                "expanded_url": "https://lit.link/hamiyasa",
+                "start": 0,
+                "url": "https://t.co/cWTvvxdeAZ"
+              }
+            ]
+          }
+        },
+        "id": "1629478444894658560",
+        "name": "ﾊﾐにやさしく",
+        "pinned_tweet_id": "2041079770751078548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037758209335914496/fZzD6VRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22799,
+          "following_count": 127,
+          "like_count": 25720,
+          "listed_count": 63,
+          "media_count": 1797,
+          "tweet_count": 8314
+        },
+        "url": "https://t.co/cWTvvxdeAZ",
+        "username": "hamusapi_pi",
+        "verified": true
+      }
+    ]
+  }
+}

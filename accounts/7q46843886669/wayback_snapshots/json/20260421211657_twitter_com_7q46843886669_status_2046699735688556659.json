@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046312926701924352"
+      ],
+      "media_source_tweet_id": [
+        "2046657720850534824"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2046699735688556659",
+    "created_at": "2026-04-21T21:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T22:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046699735688556659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1605230972588462081",
+          "start": 3,
+          "username": "shitpost_2077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3OUdVbPTvi",
+          "end": 60,
+          "expanded_url": "https://x.com/shitpost_2077/status/2046657720850534824/photo/1",
+          "media_key": "3_2046312926701924352",
+          "start": 37,
+          "url": "https://t.co/3OUdVbPTvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046699735688556659",
+    "lang": "ca",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046657720850534824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitpost_2077: American politics https://t.co/3OUdVbPTvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_2046312926701924352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGX2w9dbsAA8lPf.png",
+        "width": 587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046312926701924352"
+          ],
+          "media_source_tweet_id": [
+            "2046657720850534824"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2046699735688556659",
+        "created_at": "2026-04-21T21:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046699735688556659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1605230972588462081",
+              "start": 3,
+              "username": "shitpost_2077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OUdVbPTvi",
+              "end": 60,
+              "expanded_url": "https://x.com/shitpost_2077/status/2046657720850534824/photo/1",
+              "media_key": "3_2046312926701924352",
+              "start": 37,
+              "url": "https://t.co/3OUdVbPTvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046699735688556659",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046657720850534824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitpost_2077: American politics https://t.co/3OUdVbPTvi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046312926701924352"
+          ]
+        },
+        "author_id": "1605230972588462081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2046657720850534824",
+        "created_at": "2026-04-21T18:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046657720850534824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OUdVbPTvi",
+              "end": 41,
+              "expanded_url": "https://x.com/shitpost_2077/status/2046657720850534824/photo/1",
+              "media_key": "3_2046312926701924352",
+              "start": 18,
+              "url": "https://t.co/3OUdVbPTvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046657720850534824",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 25372,
+          "like_count": 2746,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "American politics https://t.co/3OUdVbPTvi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 2673,
+          "like_count": 4936,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 768
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:57:54.000Z",
+        "description": "shitpost post until 2077 | owner @Necati_coskun_ \n| Dm for credit and removals | NO PROMOS/ADS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Necati_coskun_"
+              }
+            ]
+          }
+        },
+        "id": "1605230972588462081",
+        "name": "Shitpost 2077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953150348660477952/YWRfUlGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951927,
+          "following_count": 133,
+          "like_count": 10139,
+          "listed_count": 1322,
+          "media_count": 976,
+          "tweet_count": 1008
+        },
+        "username": "shitpost_2077",
+        "verified": true
+      }
+    ]
+  }
+}

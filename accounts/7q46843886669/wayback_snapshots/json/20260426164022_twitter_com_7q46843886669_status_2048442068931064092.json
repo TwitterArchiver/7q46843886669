@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048157219548766208"
+      ],
+      "media_source_tweet_id": [
+        "2048157288763117785"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048442068931064092",
+    "created_at": "2026-04-26T16:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048442068931064092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qTOcWlZ4yk",
+          "end": 46,
+          "expanded_url": "https://x.com/Kyanu_tut/status/2048157288763117785/video/1",
+          "media_key": "7_2048157219548766208",
+          "start": 23,
+          "url": "https://t.co/qTOcWlZ4yk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048442068931064092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048157288763117785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 看懂的已经笑了 https://t.co/qTOcWlZ4yk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24983,
+        "height": 960,
+        "media_key": "7_2048157219548766208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048157219548766208/pu/img/Fwe_3pRQSXVhgU1q.jpg",
+        "public_metrics": {
+          "view_count": 8102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/vid/avc1/320x564/zJKqQsI5sDCTG8FV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/vid/avc1/480x846/UhvCZ1QPNldNEoP9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/vid/avc1/544x960/LrFB1LQqH1m-GYI_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/pl/eKZ-MlXL77H0XLp2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048157219548766208"
+          ],
+          "media_source_tweet_id": [
+            "2048157288763117785"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048442068931064092",
+        "created_at": "2026-04-26T16:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048442068931064092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTOcWlZ4yk",
+              "end": 46,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2048157288763117785/video/1",
+              "media_key": "7_2048157219548766208",
+              "start": 23,
+              "url": "https://t.co/qTOcWlZ4yk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048442068931064092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048157288763117785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 看懂的已经笑了 https://t.co/qTOcWlZ4yk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048157219548766208"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2048157288763117785",
+        "created_at": "2026-04-25T21:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048157288763117785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTOcWlZ4yk",
+              "end": 31,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2048157288763117785/video/1",
+              "media_key": "7_2048157219548766208",
+              "start": 8,
+              "url": "https://t.co/qTOcWlZ4yk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048157288763117785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 21713,
+          "like_count": 126,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "看懂的已经笑了 https://t.co/qTOcWlZ4yk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2732,
+          "like_count": 6149,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1220
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 347,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1642
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

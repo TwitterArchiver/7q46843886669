@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063577219755364743",
+    "created_at": "2026-06-07T11:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063577219755364743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liujiayi1111/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/liujiayi1111/status/2063475665203060755",
+          "start": 4,
+          "url": "https://t.co/efaqmGUTsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063577219755364743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063475665203060755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起 https://t.co/efaqmGUTsz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063577219755364743",
+        "created_at": "2026-06-07T11:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063577219755364743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liujiayi1111/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/liujiayi1111/status/2063475665203060755",
+              "start": 4,
+              "url": "https://t.co/efaqmGUTsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063577219755364743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063475665203060755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起 https://t.co/efaqmGUTsz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2063475665203060755",
+        "created_at": "2026-06-07T04:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063475665203060755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063475665203060755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6330,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "情侣之间不管发生什么矛盾也别拿分手说气话，这就像揉皱的纸，抚不平的。一旦说出口了，另一方心里就会有所顾忌，会为分手做考虑或准备，一旦积压的情绪爆发了，结果就是分手。我身边的朋友有好几个这样的例子了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 3365,
+          "like_count": 17357,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 4786
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYIHJ7"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8588,
+          "following_count": 88,
+          "like_count": 8653,
+          "listed_count": 20,
+          "media_count": 202,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/MsaRlYIHJ7",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

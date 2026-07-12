@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057150240537612719",
+    "created_at": "2026-05-20T18:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057160306108063915"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057160306108063915",
+    "in_reply_to_user_id": "1922574083348414464",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057150240537612719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057150240537612719",
+        "created_at": "2026-05-20T18:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057160306108063915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057160306108063915",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057150240537612719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057150240537612719",
+        "created_at": "2026-05-20T17:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057150240537612719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057150240537612719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在拿我寶寶的號看片。哦齁齁那女的扔子好好看啊想吃流口水流口水。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 3008,
+          "like_count": 13928,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 4308
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

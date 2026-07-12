@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057212027257643008"
+      ],
+      "media_source_tweet_id": [
+        "2057212029799444520"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057491932377653463",
+    "created_at": "2026-05-21T16:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057491932377653463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700783157665304576",
+          "start": 3,
+          "username": "its320am"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuYHxjeN7Q",
+          "end": 37,
+          "expanded_url": "https://x.com/its320am/status/2057212029799444520/photo/1",
+          "media_key": "3_2057212027257643008",
+          "start": 14,
+          "url": "https://t.co/WuYHxjeN7Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057491932377653463",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057212029799444520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @its320am: https://t.co/WuYHxjeN7Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2057212027257643008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyvcHBaYAAFboa.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057212027257643008"
+          ],
+          "media_source_tweet_id": [
+            "2057212029799444520"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057491932377653463",
+        "created_at": "2026-05-21T16:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057491932377653463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700783157665304576",
+              "start": 3,
+              "username": "its320am"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuYHxjeN7Q",
+              "end": 37,
+              "expanded_url": "https://x.com/its320am/status/2057212029799444520/photo/1",
+              "media_key": "3_2057212027257643008",
+              "start": 14,
+              "url": "https://t.co/WuYHxjeN7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057491932377653463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057212029799444520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @its320am: https://t.co/WuYHxjeN7Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057212027257643008"
+          ]
+        },
+        "author_id": "1700783157665304576",
+        "conversation_id": "2057212029799444520",
+        "created_at": "2026-05-20T21:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057212029799444520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuYHxjeN7Q",
+              "end": 23,
+              "expanded_url": "https://x.com/its320am/status/2057212029799444520/photo/1",
+              "media_key": "3_2057212027257643008",
+              "start": 0,
+              "url": "https://t.co/WuYHxjeN7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057212029799444520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 596,
+          "impression_count": 117935,
+          "like_count": 11996,
+          "quote_count": 40,
+          "reply_count": 3,
+          "retweet_count": 3180
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WuYHxjeN7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 3038,
+          "like_count": 14350,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 4357
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T08:08:17.000Z",
+        "description": "",
+        "id": "1700783157665304576",
+        "name": "Za",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057234718069014528/KQ4PqmYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4502,
+          "following_count": 297,
+          "like_count": 21500,
+          "listed_count": 7,
+          "media_count": 2462,
+          "tweet_count": 17614
+        },
+        "username": "its320am",
+        "verified": false
+      }
+    ]
+  }
+}

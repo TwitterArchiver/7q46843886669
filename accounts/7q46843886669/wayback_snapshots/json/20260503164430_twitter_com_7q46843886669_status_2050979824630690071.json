@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050808910098182144"
+      ],
+      "media_source_tweet_id": [
+        "2050808918260187333"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050979824630690071",
+    "created_at": "2026-05-03T16:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050979824630690071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044833964398174208",
+          "start": 3,
+          "username": "ReadSnapX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILRUuZTzTD",
+          "end": 65,
+          "expanded_url": "https://x.com/ReadSnapX/status/2050808918260187333/photo/1",
+          "media_key": "3_2050808910098182144",
+          "start": 42,
+          "url": "https://t.co/ILRUuZTzTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050979824630690071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050808918260187333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReadSnapX: 接受坏消息需要一个缓冲和铺垫\n下面这位兄弟就做到了🤣 https://t.co/ILRUuZTzTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2050808910098182144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXv1oybsAACrnw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050808910098182144"
+          ],
+          "media_source_tweet_id": [
+            "2050808918260187333"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050979824630690071",
+        "created_at": "2026-05-03T16:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050979824630690071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044833964398174208",
+              "start": 3,
+              "username": "ReadSnapX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILRUuZTzTD",
+              "end": 65,
+              "expanded_url": "https://x.com/ReadSnapX/status/2050808918260187333/photo/1",
+              "media_key": "3_2050808910098182144",
+              "start": 42,
+              "url": "https://t.co/ILRUuZTzTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050979824630690071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050808918260187333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReadSnapX: 接受坏消息需要一个缓冲和铺垫\n下面这位兄弟就做到了🤣 https://t.co/ILRUuZTzTD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050808910098182144"
+          ]
+        },
+        "author_id": "2044833964398174208",
+        "conversation_id": "2050808918260187333",
+        "created_at": "2026-05-03T05:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050808918260187333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILRUuZTzTD",
+              "end": 50,
+              "expanded_url": "https://x.com/ReadSnapX/status/2050808918260187333/photo/1",
+              "media_key": "3_2050808910098182144",
+              "start": 27,
+              "url": "https://t.co/ILRUuZTzTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050808918260187333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 27517,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "接受坏消息需要一个缓冲和铺垫\n下面这位兄弟就做到了🤣 https://t.co/ILRUuZTzTD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 2850,
+          "like_count": 9476,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2639
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T17:44:50.000Z",
+        "description": "💡 点子｜娱乐｜段子｜搞笑｜梗图｜技术｜互动｜",
+        "id": "2044833964398174208",
+        "location": "快乐俱乐部",
+        "name": "悦读快爆",
+        "pinned_tweet_id": "2049021441786687517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046969759133208576/YpEFcdW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 475,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1186
+        },
+        "username": "ReadSnapX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057139033453781376",
+    "created_at": "2026-05-20T16:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057139033453781376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2497764032",
+          "start": 3,
+          "username": "TainiiMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057139033453781376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056911209199497330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TainiiMikan: 今天想到一句话：\n\n飞虫落在一张网上。\n她以为这张网是蜘蛛织的，\n但其实，\n这张网是人类织的。\n世界向她开了个小小的玩笑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057139033453781376",
+        "created_at": "2026-05-20T16:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057139033453781376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2497764032",
+              "start": 3,
+              "username": "TainiiMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057139033453781376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056911209199497330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TainiiMikan: 今天想到一句话：\n\n飞虫落在一张网上。\n她以为这张网是蜘蛛织的，\n但其实，\n这张网是人类织的。\n世界向她开了个小小的玩笑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497764032",
+        "conversation_id": "2056911209199497330",
+        "created_at": "2026-05-20T01:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056911209199497330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056911209199497330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天想到一句话：\n\n飞虫落在一张网上。\n她以为这张网是蜘蛛织的，\n但其实，\n这张网是人类织的。\n世界向她开了个小小的玩笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 3003,
+          "like_count": 13845,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 4292
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 115,
+          "like_count": 986,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 839
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

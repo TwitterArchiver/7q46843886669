@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2054302281584255103",
+    "created_at": "2026-05-12T20:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054302281584255103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1985353024244793345",
+          "start": 3,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054302281584255103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054139346413105603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitterpearlbird: 我不是逃课，我只是把课放生了你们懂吗。其实每一节课都有自己的生命，就像一棵草一棵树一样有枯荣，而我选择把它们还给大自然，不去占有它们利用它们。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2054302281584255103",
+        "created_at": "2026-05-12T20:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054302281584255103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1985353024244793345",
+              "start": 3,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054302281584255103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054139346413105603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitterpearlbird: 我不是逃课，我只是把课放生了你们懂吗。其实每一节课都有自己的生命，就像一棵草一棵树一样有枯荣，而我选择把它们还给大自然，不去占有它们利用它们。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985353024244793345",
+        "conversation_id": "2054139346413105603",
+        "created_at": "2026-05-12T09:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054139346413105603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054139346413105603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2430,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我不是逃课，我只是把课放生了你们懂吗。其实每一节课都有自己的生命，就像一棵草一棵树一样有枯荣，而我选择把它们还给大自然，不去占有它们利用它们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 2970,
+          "like_count": 12357,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3650
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv\n我的匿名信 https://t.co/cVOfxKUUbb\n和我玩好吗？爱你们。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chessiaya",
+                "end": 44,
+                "expanded_url": "https://ngl.link/chessiaya",
+                "start": 21,
+                "url": "https://t.co/cVOfxKUUbb"
+              }
+            ]
+          }
+        },
+        "id": "1985353024244793345",
+        "location": "好友位88",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2050634646363189629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3314,
+          "following_count": 425,
+          "like_count": 24592,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 2458
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

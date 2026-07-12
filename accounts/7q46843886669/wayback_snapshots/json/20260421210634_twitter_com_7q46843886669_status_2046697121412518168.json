@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046367691532107777"
+      ],
+      "media_source_tweet_id": [
+        "2046423426257092819"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046697121412518168",
+    "created_at": "2026-04-21T21:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T22:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046697121412518168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2002929504881426432",
+          "start": 3,
+          "username": "MemesDeCadeia3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NiOh8jwBCQ",
+          "end": 54,
+          "expanded_url": "https://x.com/MemesDeCadeia3/status/2046423426257092819/video/1",
+          "media_key": "13_2046367691532107777",
+          "start": 31,
+          "url": "https://t.co/NiOh8jwBCQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046697121412518168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1626
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046423426257092819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MemesDeCadeia3: Niggamusic https://t.co/NiOh8jwBCQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6300,
+        "height": 676,
+        "media_key": "13_2046367691532107777",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046367691532107777/img/YeuuRFAUWzA0EEJZ.jpg",
+        "public_metrics": {
+          "view_count": 256924
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046367691532107777/vid/avc1/320x374/O1MV3p8B4Mvd1bol.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046367691532107777/vid/avc1/480x562/flBLTnN8Sj7vpJyJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046367691532107777/vid/avc1/576x676/KGlk6rBLMkXz8Htp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046367691532107777/pl/XuooEt7OjJ_nvoaC.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046367691532107777"
+          ],
+          "media_source_tweet_id": [
+            "2046423426257092819"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046697121412518168",
+        "created_at": "2026-04-21T21:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046697121412518168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2002929504881426432",
+              "start": 3,
+              "username": "MemesDeCadeia3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiOh8jwBCQ",
+              "end": 54,
+              "expanded_url": "https://x.com/MemesDeCadeia3/status/2046423426257092819/video/1",
+              "media_key": "13_2046367691532107777",
+              "start": 31,
+              "url": "https://t.co/NiOh8jwBCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046697121412518168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1626
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046423426257092819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MemesDeCadeia3: Niggamusic https://t.co/NiOh8jwBCQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046367691532107777"
+          ]
+        },
+        "author_id": "2002929504881426432",
+        "conversation_id": "2046423426257092819",
+        "created_at": "2026-04-21T02:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046423426257092819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiOh8jwBCQ",
+              "end": 34,
+              "expanded_url": "https://x.com/MemesDeCadeia3/status/2046423426257092819/video/1",
+              "media_key": "13_2046367691532107777",
+              "start": 11,
+              "url": "https://t.co/NiOh8jwBCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046423426257092819",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4082,
+          "impression_count": 821175,
+          "like_count": 18763,
+          "quote_count": 73,
+          "reply_count": 95,
+          "retweet_count": 1626
+        },
+        "reply_settings": "everyone",
+        "text": "Niggamusic https://t.co/NiOh8jwBCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 2673,
+          "like_count": 4910,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 764
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T02:30:11.000Z",
+        "description": "preconceito é só uma questão de perspectiva",
+        "id": "2002929504881426432",
+        "location": "🇮🇱",
+        "name": "Memes extremamente errados que te levarão a cadeia",
+        "pinned_tweet_id": "2038098527876751411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002929775417884672/snLu2bk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17255,
+          "following_count": 530,
+          "like_count": 154,
+          "listed_count": 14,
+          "media_count": 810,
+          "tweet_count": 1609
+        },
+        "username": "MemesDeCadeia3",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2065020160227090793",
+    "created_at": "2026-06-11T11:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065034008879399395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065034008879399395",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065020160227090793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 终于露脚了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14731,
+        "height": 1280,
+        "media_key": "7_2065020021580189696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065020021580189696/pu/img/AopmE4n536V6gUYQ.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065020021580189696/pu/vid/avc1/320x568/X4BaiKfso1DaAHEP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065020021580189696/pu/vid/avc1/480x852/Nav5IDXhTGHP6ozr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065020021580189696/pu/vid/avc1/720x1280/72uRR1gHrnVTI-H7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065020021580189696/pu/pl/X4fL0Vg6nKqs1ZPG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2065020160227090793",
+        "created_at": "2026-06-11T11:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065034008879399395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065034008879399395",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065020160227090793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 终于露脚了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065020021580189696"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2065020160227090793",
+        "created_at": "2026-06-11T10:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065020160227090793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKxczNnW3I",
+              "end": 33,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2065020160227090793/video/1",
+              "media_key": "7_2065020021580189696",
+              "start": 10,
+              "url": "https://t.co/DKxczNnW3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065020160227090793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开启下午的抽烟任务 https://t.co/DKxczNnW3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 3387,
+          "like_count": 18426,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 5013
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询。复活的亡灵，查成分互fo/大陆哲学爱好，最近想了解一下古典经济学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2065019132110872592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 892,
+          "like_count": 17561,
+          "listed_count": 1,
+          "media_count": 825,
+          "tweet_count": 9914
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

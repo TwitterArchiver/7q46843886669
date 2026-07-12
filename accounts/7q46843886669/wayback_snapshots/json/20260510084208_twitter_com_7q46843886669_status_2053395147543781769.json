@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053057593556508672"
+      ],
+      "media_source_tweet_id": [
+        "2053057603803193596"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053395147543781769",
+    "created_at": "2026-05-10T08:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053395147543781769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652581553929863168",
+          "start": 3,
+          "username": "725_ZB1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXOag9f2ZS",
+          "end": 117,
+          "expanded_url": "https://x.com/725_ZB1/status/2053057603803193596/photo/1",
+          "media_key": "3_2053057593556508672",
+          "start": 94,
+          "url": "https://t.co/hXOag9f2ZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053395147543781769",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2556
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053057603803193596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @725_ZB1: They’re all Han Maru, yet each one has such a distinctly contrasting vibe/style. https://t.co/hXOag9f2ZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053057593556508672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3tAPdaoAA9w0T.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053057593556508672"
+          ],
+          "media_source_tweet_id": [
+            "2053057603803193596"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053395147543781769",
+        "created_at": "2026-05-10T08:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053395147543781769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652581553929863168",
+              "start": 3,
+              "username": "725_ZB1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXOag9f2ZS",
+              "end": 117,
+              "expanded_url": "https://x.com/725_ZB1/status/2053057603803193596/photo/1",
+              "media_key": "3_2053057593556508672",
+              "start": 94,
+              "url": "https://t.co/hXOag9f2ZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053395147543781769",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2556
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053057603803193596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @725_ZB1: They’re all Han Maru, yet each one has such a distinctly contrasting vibe/style. https://t.co/hXOag9f2ZS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053057593556508672"
+          ]
+        },
+        "author_id": "1652581553929863168",
+        "conversation_id": "2053057603803193596",
+        "created_at": "2026-05-09T10:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053057603803193596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXOag9f2ZS",
+              "end": 104,
+              "expanded_url": "https://x.com/725_ZB1/status/2053057603803193596/photo/1",
+              "media_key": "3_2053057593556508672",
+              "start": 81,
+              "url": "https://t.co/hXOag9f2ZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053057603803193596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2794,
+          "impression_count": 239405,
+          "like_count": 28030,
+          "quote_count": 203,
+          "reply_count": 24,
+          "retweet_count": 2556
+        },
+        "reply_settings": "everyone",
+        "text": "They’re all Han Maru, yet each one has such a distinctly contrasting vibe/style. https://t.co/hXOag9f2ZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2966,
+          "like_count": 11904,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3482
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T07:52:22.000Z",
+        "description": "中文 / English OK\n喜歡各類型動漫・漫畫・小說 ✨\n歡迎詢問台灣書籍資訊📚\nPrivate commissioned fanart — please do not repost.",
+        "id": "1652581553929863168",
+        "name": "daydream1022",
+        "pinned_tweet_id": "2033207629032611946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011437129554169857/Ms5dcQLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 295,
+          "like_count": 6546,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 1179
+        },
+        "username": "725_ZB1",
+        "verified": false
+      }
+    ]
+  }
+}

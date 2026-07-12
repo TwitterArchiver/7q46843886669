@@ -1,0 +1,653 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049810829265248256"
+      ],
+      "media_source_tweet_id": [
+        "2049810836382990738"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2049888725078069640",
+    "created_at": "2026-04-30T16:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049888725078069640"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 24,
+          "tag": "illustration"
+        },
+        {
+          "end": 50,
+          "start": 39,
+          "tag": "creepycute"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "181502535",
+          "start": 3,
+          "username": "nero5160"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wi4BJX1CHo",
+          "end": 74,
+          "expanded_url": "https://x.com/nero5160/status/2049810836382990738/photo/1",
+          "media_key": "3_2049810829265248256",
+          "start": 51,
+          "url": "https://t.co/wi4BJX1CHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049888725078069640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049810836382990738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nero5160: スイーツガール🍰\n\n#illustration\n #creepycute https://t.co/wi4BJX1CHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049810829265248256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJkFr8aoAAq03a.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049810829265248256"
+          ],
+          "media_source_tweet_id": [
+            "2049810836382990738"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2049888725078069640",
+        "created_at": "2026-04-30T16:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049888725078069640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 24,
+              "tag": "illustration"
+            },
+            {
+              "end": 50,
+              "start": 39,
+              "tag": "creepycute"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "181502535",
+              "start": 3,
+              "username": "nero5160"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wi4BJX1CHo",
+              "end": 74,
+              "expanded_url": "https://x.com/nero5160/status/2049810836382990738/photo/1",
+              "media_key": "3_2049810829265248256",
+              "start": 51,
+              "url": "https://t.co/wi4BJX1CHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049888725078069640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049810836382990738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nero5160: スイーツガール🍰\n\n#illustration\n #creepycute https://t.co/wi4BJX1CHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049810829265248256"
+          ]
+        },
+        "author_id": "181502535",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "2049810836382990738",
+        "created_at": "2026-04-30T11:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049810836382990738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 10,
+              "tag": "illustration"
+            },
+            {
+              "end": 36,
+              "start": 25,
+              "tag": "creepycute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wi4BJX1CHo",
+              "end": 60,
+              "expanded_url": "https://x.com/nero5160/status/2049810836382990738/photo/1",
+              "media_key": "3_2049810829265248256",
+              "start": 37,
+              "url": "https://t.co/wi4BJX1CHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049810836382990738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2228,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "スイーツガール🍰\n\n#illustration\n #creepycute https://t.co/wi4BJX1CHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2817,
+          "like_count": 7958,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2029
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-22T10:54:16.000Z",
+        "description": "猫とイラストが多いです・兼業イラストレーターご依頼はDMにてお願いいたします。⚠️NSFW  skeb https://t.co/aZyfYlPRbO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nero05074061",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@nero05074061",
+                "start": 52,
+                "url": "https://t.co/aZyfYlPRbO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jyojyoji.wixsite.com/crazydevil",
+                "end": 23,
+                "expanded_url": "https://jyojyoji.wixsite.com/crazydevil",
+                "start": 0,
+                "url": "https://t.co/RqLAl31jRM"
+              }
+            ]
+          }
+        },
+        "id": "181502535",
+        "location": "あ",
+        "name": "nero",
+        "pinned_tweet_id": "2047284919634932020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807985476307197952/hKlrTqlj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31481,
+          "following_count": 1185,
+          "like_count": 28878,
+          "listed_count": 417,
+          "media_count": 3617,
+          "tweet_count": 59710
+        },
+        "url": "https://t.co/RqLAl31jRM",
+        "username": "nero5160",
+        "verified": false
+      }
+    ]
+  }
+}

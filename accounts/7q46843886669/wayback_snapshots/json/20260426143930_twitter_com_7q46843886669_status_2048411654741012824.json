@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048323137805438976"
+      ],
+      "media_source_tweet_id": [
+        "2048323861352227011"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048411654741012824",
+    "created_at": "2026-04-26T14:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048411654741012824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1224066402874617856",
+          "start": 3,
+          "username": "chaozuoye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L3hLlPJZPL",
+          "end": 47,
+          "expanded_url": "https://x.com/chaozuoye/status/2048323861352227011/photo/1",
+          "media_key": "3_2048323137805438976",
+          "start": 24,
+          "url": "https://t.co/L3hLlPJZPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048411654741012824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048323861352227011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chaozuoye: 迟早笑死在评论区 https://t.co/L3hLlPJZPL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048323137805438976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0bCpYbUAAm0-V.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048323137805438976"
+          ],
+          "media_source_tweet_id": [
+            "2048323861352227011"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048411654741012824",
+        "created_at": "2026-04-26T14:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048411654741012824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1224066402874617856",
+              "start": 3,
+              "username": "chaozuoye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3hLlPJZPL",
+              "end": 47,
+              "expanded_url": "https://x.com/chaozuoye/status/2048323861352227011/photo/1",
+              "media_key": "3_2048323137805438976",
+              "start": 24,
+              "url": "https://t.co/L3hLlPJZPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048411654741012824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048323861352227011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chaozuoye: 迟早笑死在评论区 https://t.co/L3hLlPJZPL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048323137805438976"
+          ]
+        },
+        "author_id": "1224066402874617856",
+        "conversation_id": "2048323861352227011",
+        "created_at": "2026-04-26T08:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:48:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048323281959464972",
+          "2048323861352227011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3hLlPJZPL",
+              "end": 32,
+              "expanded_url": "https://x.com/chaozuoye/status/2048323861352227011/photo/1",
+              "media_key": "3_2048323137805438976",
+              "start": 9,
+              "url": "https://t.co/L3hLlPJZPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048323861352227011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 90049,
+          "like_count": 550,
+          "quote_count": 2,
+          "reply_count": 163,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "迟早笑死在评论区 https://t.co/L3hLlPJZPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2729,
+          "like_count": 6129,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1202
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T20:25:55.000Z",
+        "description": "不是KOL ,公众号理财博主（已封）喂饭级博主｜\n\n合作TG👉: @chaozuoye｜\n\n#OKX 新人首选一站式链上链下交易平台👉https://t.co/mb4fnWzjyB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "OKX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "chaozuoye"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/ZUOYE",
+                "end": 90,
+                "expanded_url": "http://okx.com/join/ZUOYE",
+                "start": 67,
+                "url": "https://t.co/mb4fnWzjyB"
+              }
+            ]
+          }
+        },
+        "id": "1224066402874617856",
+        "name": "作业借你抄",
+        "pinned_tweet_id": "2021956394635997507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017874013171920896/CKNBh67K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57818,
+          "following_count": 2140,
+          "like_count": 22999,
+          "listed_count": 848,
+          "media_count": 2786,
+          "tweet_count": 19927
+        },
+        "username": "chaozuoye",
+        "verified": true
+      }
+    ]
+  }
+}

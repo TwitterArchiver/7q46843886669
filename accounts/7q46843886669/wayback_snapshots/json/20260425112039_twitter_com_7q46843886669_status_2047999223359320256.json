@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047976571206877184"
+      ],
+      "media_source_tweet_id": [
+        "2047976573635350871"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047999223359320256",
+    "created_at": "2026-04-25T11:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047999223359320256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1598872816560246784",
+          "start": 3,
+          "username": "akanei6no_Sora"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnlZwKHvpT",
+          "end": 43,
+          "expanded_url": "https://x.com/akanei6no_Sora/status/2047976573635350871/photo/1",
+          "media_key": "3_2047976571206877184",
+          "start": 20,
+          "url": "https://t.co/xnlZwKHvpT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047999223359320256",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047976573635350871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akanei6no_Sora: https://t.co/xnlZwKHvpT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047976571206877184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvf10MbwAAlUUc.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047976571206877184"
+          ],
+          "media_source_tweet_id": [
+            "2047976573635350871"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047999223359320256",
+        "created_at": "2026-04-25T11:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047999223359320256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1598872816560246784",
+              "start": 3,
+              "username": "akanei6no_Sora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnlZwKHvpT",
+              "end": 43,
+              "expanded_url": "https://x.com/akanei6no_Sora/status/2047976573635350871/photo/1",
+              "media_key": "3_2047976571206877184",
+              "start": 20,
+              "url": "https://t.co/xnlZwKHvpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047999223359320256",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047976573635350871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akanei6no_Sora: https://t.co/xnlZwKHvpT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047976571206877184"
+          ]
+        },
+        "author_id": "1598872816560246784",
+        "conversation_id": "2047976573635350871",
+        "created_at": "2026-04-25T09:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047976573635350871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnlZwKHvpT",
+              "end": 23,
+              "expanded_url": "https://x.com/akanei6no_Sora/status/2047976573635350871/photo/1",
+              "media_key": "3_2047976571206877184",
+              "start": 0,
+              "url": "https://t.co/xnlZwKHvpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047976573635350871",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 8598,
+          "like_count": 1163,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xnlZwKHvpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2715,
+          "like_count": 5936,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1013
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:53:13.000Z",
+        "description": "Skeb→https://t.co/52Qf2eE4dM\n\nあぁ…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@akanei6no_Sora",
+                "end": 28,
+                "expanded_url": "https://skeb.jp/@akanei6no_Sora",
+                "start": 5,
+                "url": "https://t.co/52Qf2eE4dM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Akanei6",
+                "end": 23,
+                "expanded_url": "https://lit.link/Akanei6",
+                "start": 0,
+                "url": "https://t.co/KpxmrFRqz9"
+              }
+            ]
+          }
+        },
+        "id": "1598872816560246784",
+        "name": "夜坂よる",
+        "pinned_tweet_id": "1988520232991019375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046377880285069312/x8FtgFFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68178,
+          "following_count": 40,
+          "like_count": 4779,
+          "listed_count": 118,
+          "media_count": 68,
+          "tweet_count": 5459
+        },
+        "url": "https://t.co/KpxmrFRqz9",
+        "username": "akanei6no_Sora",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2059960423802454090",
+    "created_at": "2026-05-28T16:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060029384678134139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019401624079462406",
+          "start": 0,
+          "username": "gdswweeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060029384678134139",
+    "in_reply_to_user_id": "2019401624079462406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059960423802454090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdswweeeee 帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2059960423802454090",
+        "created_at": "2026-05-28T16:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060029384678134139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019401624079462406",
+              "start": 0,
+              "username": "gdswweeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060029384678134139",
+        "in_reply_to_user_id": "2019401624079462406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059960423802454090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdswweeeee 帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019401624079462406",
+        "conversation_id": "2059960423802454090",
+        "created_at": "2026-05-28T11:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059960423802454090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059960423802454090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4674,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的长得像男生吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 3215,
+          "like_count": 15905,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4546
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T13:24:19.000Z",
+        "description": "78岁离婚 天王星人 带两娃 皮下男 不是真人\n不约 不加 不看 不露 不线下 不互看\n没门 不要逼我回覆讯息",
+        "id": "2019401624079462406",
+        "name": "en",
+        "pinned_tweet_id": "2041750801987858460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035912058555002880/cw1rhnY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5194,
+          "following_count": 50,
+          "like_count": 4115,
+          "listed_count": 14,
+          "media_count": 34,
+          "tweet_count": 573
+        },
+        "username": "gdswweeeee",
+        "verified": false
+      }
+    ]
+  }
+}

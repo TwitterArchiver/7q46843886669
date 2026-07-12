@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047342976771272704"
+      ],
+      "media_source_tweet_id": [
+        "2047342983901515983"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048037579766038931",
+    "created_at": "2026-04-25T13:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048037579766038931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995386427669180416",
+          "start": 3,
+          "username": "vampiraec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFnnMBciw4",
+          "end": 38,
+          "expanded_url": "https://x.com/vampiraec/status/2047342983901515983/photo/1",
+          "media_key": "3_2047342976771272704",
+          "start": 15,
+          "url": "https://t.co/NFnnMBciw4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048037579766038931",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047342983901515983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vampiraec: https://t.co/NFnnMBciw4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 357,
+        "media_key": "3_2047342976771272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmflw_XsAA6KZI.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047342976771272704"
+          ],
+          "media_source_tweet_id": [
+            "2047342983901515983"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048037579766038931",
+        "created_at": "2026-04-25T13:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048037579766038931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995386427669180416",
+              "start": 3,
+              "username": "vampiraec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFnnMBciw4",
+              "end": 38,
+              "expanded_url": "https://x.com/vampiraec/status/2047342983901515983/photo/1",
+              "media_key": "3_2047342976771272704",
+              "start": 15,
+              "url": "https://t.co/NFnnMBciw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048037579766038931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047342983901515983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vampiraec: https://t.co/NFnnMBciw4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047342976771272704"
+          ]
+        },
+        "author_id": "1995386427669180416",
+        "conversation_id": "2047342983901515983",
+        "created_at": "2026-04-23T15:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047342983901515983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFnnMBciw4",
+              "end": 23,
+              "expanded_url": "https://x.com/vampiraec/status/2047342983901515983/photo/1",
+              "media_key": "3_2047342976771272704",
+              "start": 0,
+              "url": "https://t.co/NFnnMBciw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047342983901515983",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 24201,
+          "like_count": 1926,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NFnnMBciw4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2720,
+          "like_count": 6063,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1126
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T06:56:23.000Z",
+        "description": "Everything ——— is an eternal circle and it repeats and repeats itself",
+        "id": "1995386427669180416",
+        "name": "idontwannabeyouanymore슥넵채져윺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047793735778578432/n476LovW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 38,
+          "like_count": 2613,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 157
+        },
+        "username": "vampiraec",
+        "verified": false
+      }
+    ]
+  }
+}

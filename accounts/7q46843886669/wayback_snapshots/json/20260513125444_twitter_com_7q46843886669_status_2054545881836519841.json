@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054186225695924226"
+      ],
+      "media_source_tweet_id": [
+        "2054186337855848951"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2054545881836519841",
+    "created_at": "2026-05-13T12:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054545881836519841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1890848153525706752",
+          "start": 3,
+          "username": "MoxiYolo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RBAHkzlN4y",
+          "end": 58,
+          "expanded_url": "https://x.com/MoxiYolo/status/2054186337855848951/photo/1",
+          "media_key": "3_2054186225695924226",
+          "start": 35,
+          "url": "https://t.co/RBAHkzlN4y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054545881836519841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054186337855848951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoxiYolo: 有时候我真希望上帝能剥夺我的阅读理解能力 https://t.co/RBAHkzlN4y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2054186225695924226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHvfR0bIAIJ73b.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054186225695924226"
+          ],
+          "media_source_tweet_id": [
+            "2054186337855848951"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2054545881836519841",
+        "created_at": "2026-05-13T12:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054545881836519841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1890848153525706752",
+              "start": 3,
+              "username": "MoxiYolo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBAHkzlN4y",
+              "end": 58,
+              "expanded_url": "https://x.com/MoxiYolo/status/2054186337855848951/photo/1",
+              "media_key": "3_2054186225695924226",
+              "start": 35,
+              "url": "https://t.co/RBAHkzlN4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054545881836519841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054186337855848951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoxiYolo: 有时候我真希望上帝能剥夺我的阅读理解能力 https://t.co/RBAHkzlN4y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054186225695924226"
+          ]
+        },
+        "author_id": "1890848153525706752",
+        "conversation_id": "2054186337855848951",
+        "created_at": "2026-05-12T13:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054186337855848951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBAHkzlN4y",
+              "end": 44,
+              "expanded_url": "https://x.com/MoxiYolo/status/2054186337855848951/photo/1",
+              "media_key": "3_2054186225695924226",
+              "start": 21,
+              "url": "https://t.co/RBAHkzlN4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054186337855848951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 117021,
+          "like_count": 1048,
+          "quote_count": 10,
+          "reply_count": 91,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我真希望上帝能剥夺我的阅读理解能力 https://t.co/RBAHkzlN4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2969,
+          "like_count": 12450,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3689
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T19:38:35.000Z",
+        "description": "请输入文本",
+        "id": "1890848153525706752",
+        "location": "距离您-0.17m *兄弟你别夹那么紧*",
+        "name": "消防🏖️➡️roblox中。。",
+        "pinned_tweet_id": "2046580902281818487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024189922018807815/pn7Dxf3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8719,
+          "following_count": 826,
+          "like_count": 1583,
+          "listed_count": 7,
+          "media_count": 287,
+          "tweet_count": 2817
+        },
+        "username": "MoxiYolo",
+        "verified": false
+      }
+    ]
+  }
+}

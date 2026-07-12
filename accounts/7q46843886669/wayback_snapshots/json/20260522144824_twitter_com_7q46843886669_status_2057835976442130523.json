@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057835976442130523",
+    "created_at": "2026-05-22T14:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057835976442130523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634944403872833536",
+          "start": 3,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057835976442130523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057829812727914604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wmy072011: 我不知道我是玩手机玩的咋了 真的感觉手机和互联网好神奇 每个人都是连接的！每个人都是一个节点 只要打开手机 我们就被连接 而关掉就会消失 永远消失 但有可能还存在在别人的记忆里。好神奇 真的好神奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057835976442130523",
+        "created_at": "2026-05-22T14:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057835976442130523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634944403872833536",
+              "start": 3,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057835976442130523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057829812727914604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wmy072011: 我不知道我是玩手机玩的咋了 真的感觉手机和互联网好神奇 每个人都是连接的！每个人都是一个节点 只要打开手机 我们就被连接 而关掉就会消失 永远消失 但有可能还存在在别人的记忆里。好神奇 真的好神奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2057829812727914604",
+        "created_at": "2026-05-22T14:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057829812727914604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057829812727914604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道我是玩手机玩的咋了 真的感觉手机和互联网好神奇 每个人都是连接的！每个人都是一个节点 只要打开手机 我们就被连接 而关掉就会消失 永远消失 但有可能还存在在别人的记忆里。好神奇 真的好神奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 3053,
+          "like_count": 14525,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 4396
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利\n宝宝：@OTxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "OTxiashu"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 430,
+          "like_count": 47526,
+          "listed_count": 1,
+          "media_count": 1529,
+          "tweet_count": 14889
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

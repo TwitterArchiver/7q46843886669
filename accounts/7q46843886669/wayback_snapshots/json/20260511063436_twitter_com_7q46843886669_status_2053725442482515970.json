@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053497340716056580"
+      ],
+      "media_source_tweet_id": [
+        "2053497348475470327"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053725442482515970",
+    "created_at": "2026-05-11T06:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053725442482515970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1496182649400008707",
+          "start": 3,
+          "username": "nyaicore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJOaX0qgJB",
+          "end": 57,
+          "expanded_url": "https://x.com/nyaicore/status/2053497348475470327/photo/1",
+          "media_key": "3_2053497340716056580",
+          "start": 34,
+          "url": "https://t.co/jJOaX0qgJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053725442482515970",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053497348475470327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaicore: squishy toe beans.. https://t.co/jJOaX0qgJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3458,
+        "media_key": "3_2053497340716056580",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9885SXAAQ1dny.jpg",
+        "width": 3469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053497340716056580"
+          ],
+          "media_source_tweet_id": [
+            "2053497348475470327"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053725442482515970",
+        "created_at": "2026-05-11T06:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053725442482515970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1496182649400008707",
+              "start": 3,
+              "username": "nyaicore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJOaX0qgJB",
+              "end": 57,
+              "expanded_url": "https://x.com/nyaicore/status/2053497348475470327/photo/1",
+              "media_key": "3_2053497340716056580",
+              "start": 34,
+              "url": "https://t.co/jJOaX0qgJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053725442482515970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053497348475470327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyaicore: squishy toe beans.. https://t.co/jJOaX0qgJB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053497340716056580"
+          ]
+        },
+        "author_id": "1496182649400008707",
+        "conversation_id": "2053497348475470327",
+        "created_at": "2026-05-10T15:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053497348475470327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJOaX0qgJB",
+              "end": 43,
+              "expanded_url": "https://x.com/nyaicore/status/2053497348475470327/photo/1",
+              "media_key": "3_2053497340716056580",
+              "start": 20,
+              "url": "https://t.co/jJOaX0qgJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053497348475470327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 13279,
+          "like_count": 1694,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "squishy toe beans.. https://t.co/jJOaX0qgJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2958,
+          "like_count": 11997,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3537
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T17:58:47.000Z",
+        "description": ":¨·.·¨: horror catgirl • artist ꒰ ☠️🔪 ꒱\n ☠︎︎ ┆ designs : @cherricries ♱ @littlecorpsee\n ☠︎︎ ┆ ママ : @saga404 ♱ @emoshimoV\n`· . 𖤐 ₊ ꒰ #nyaicore ꒱ ₊ 𖤐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 132,
+                "tag": "nyaicore"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "cherricries"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "littlecorpsee"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "saga404"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "emoshimoV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyami.uwu.ai",
+                "end": 23,
+                "expanded_url": "https://nyami.uwu.ai",
+                "start": 0,
+                "url": "https://t.co/kkmND1jR8j"
+              }
+            ]
+          }
+        },
+        "id": "1496182649400008707",
+        "location": "i: nxctes ♡ b: qixinbiotic",
+        "name": "nyami ♡",
+        "pinned_tweet_id": "2004945528854052990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035040922447085568/zyZDbI3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39574,
+          "following_count": 897,
+          "like_count": 16735,
+          "listed_count": 91,
+          "media_count": 663,
+          "tweet_count": 11151
+        },
+        "url": "https://t.co/kkmND1jR8j",
+        "username": "nyaicore",
+        "verified": false
+      }
+    ]
+  }
+}

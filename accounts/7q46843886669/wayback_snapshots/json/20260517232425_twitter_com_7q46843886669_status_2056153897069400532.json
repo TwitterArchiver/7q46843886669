@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055722716557115392"
+      ],
+      "media_source_tweet_id": [
+        "2055722722471161918"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056153897069400532",
+    "created_at": "2026-05-17T23:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056153897069400532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427384347963928576",
+          "start": 3,
+          "username": "gatinarios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B0XG044WZY",
+          "end": 39,
+          "expanded_url": "https://x.com/gatinarios/status/2055722722471161918/photo/1",
+          "media_key": "3_2055722716557115392",
+          "start": 16,
+          "url": "https://t.co/B0XG044WZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056153897069400532",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11065
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055722722471161918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gatinarios: https://t.co/B0XG044WZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1605,
+        "media_key": "3_2055722716557115392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdk60UWgAA8d_s.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055722716557115392"
+          ],
+          "media_source_tweet_id": [
+            "2055722722471161918"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056153897069400532",
+        "created_at": "2026-05-17T23:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056153897069400532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427384347963928576",
+              "start": 3,
+              "username": "gatinarios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B0XG044WZY",
+              "end": 39,
+              "expanded_url": "https://x.com/gatinarios/status/2055722722471161918/photo/1",
+              "media_key": "3_2055722716557115392",
+              "start": 16,
+              "url": "https://t.co/B0XG044WZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056153897069400532",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11065
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055722722471161918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gatinarios: https://t.co/B0XG044WZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055722716557115392"
+          ]
+        },
+        "author_id": "1427384347963928576",
+        "conversation_id": "2055722722471161918",
+        "created_at": "2026-05-16T18:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055722722471161918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B0XG044WZY",
+              "end": 23,
+              "expanded_url": "https://x.com/gatinarios/status/2055722722471161918/photo/1",
+              "media_key": "3_2055722716557115392",
+              "start": 0,
+              "url": "https://t.co/B0XG044WZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055722722471161918",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3330,
+          "impression_count": 1016276,
+          "like_count": 94563,
+          "quote_count": 612,
+          "reply_count": 221,
+          "retweet_count": 11065
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/B0XG044WZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2979,
+          "like_count": 13130,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4005
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T21:38:55.000Z",
+        "description": "🐈‍⬛ entra e cumprimenta os gatos! não são minhas imagens! eu te amo! 🐈",
+        "id": "1427384347963928576",
+        "location": "Brasil",
+        "name": "gatos fazendo gatices",
+        "pinned_tweet_id": "2055435527281619099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285752526229504/M7vBupxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840754,
+          "following_count": 64,
+          "like_count": 945,
+          "listed_count": 1552,
+          "media_count": 707,
+          "tweet_count": 1001
+        },
+        "username": "gatinarios",
+        "verified": true
+      }
+    ]
+  }
+}

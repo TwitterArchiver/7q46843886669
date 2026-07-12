@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048933190317096960"
+      ],
+      "media_source_tweet_id": [
+        "2048933234118176791"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048938223611810116",
+    "created_at": "2026-04-28T01:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048938223611810116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochicqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AjGW432KUJ",
+          "end": 55,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2048933234118176791/photo/1",
+          "media_key": "3_2048933190317096960",
+          "start": 32,
+          "url": "https://t.co/AjGW432KUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048938223611810116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048933234118176791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochicqwq: 所有人注意!\n五一要来了! https://t.co/AjGW432KUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2048933190317096960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9F4YFbwAAtZhC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048933190317096960"
+          ],
+          "media_source_tweet_id": [
+            "2048933234118176791"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048938223611810116",
+        "created_at": "2026-04-28T01:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048938223611810116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjGW432KUJ",
+              "end": 55,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2048933234118176791/photo/1",
+              "media_key": "3_2048933190317096960",
+              "start": 32,
+              "url": "https://t.co/AjGW432KUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048938223611810116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048933234118176791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochicqwq: 所有人注意!\n五一要来了! https://t.co/AjGW432KUJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048933190317096960"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2048933234118176791",
+        "created_at": "2026-04-28T01:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048933234118176791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjGW432KUJ",
+              "end": 37,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2048933234118176791/photo/1",
+              "media_key": "3_2048933190317096960",
+              "start": 14,
+              "url": "https://t.co/AjGW432KUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048933234118176791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人注意!\n五一要来了! https://t.co/AjGW432KUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2770,
+          "like_count": 6590,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1540
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "#蓝v互关｜小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 133,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 110,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 1364,
+          "like_count": 3457,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

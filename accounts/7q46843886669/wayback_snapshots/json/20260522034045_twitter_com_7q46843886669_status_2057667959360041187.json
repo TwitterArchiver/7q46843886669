@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057667959360041187",
+    "created_at": "2026-05-22T03:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057667959360041187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057667959360041187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057333305159393535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 在战争中，政治家提供弹药，富人提供食物，穷人提供孩子；战争结束后，政客们取回剩余的弹药，富人种更多的粮食，穷人寻找孩子的坟墓。\n                                   ——塞尔维亚谚语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057667959360041187",
+        "created_at": "2026-05-22T03:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057667959360041187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057667959360041187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057333305159393535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 在战争中，政治家提供弹药，富人提供食物，穷人提供孩子；战争结束后，政客们取回剩余的弹药，富人种更多的粮食，穷人寻找孩子的坟墓。\n                                   ——塞尔维亚谚语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2057333305159393535",
+        "created_at": "2026-05-21T05:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057333305159393535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057333305159393535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在战争中，政治家提供弹药，富人提供食物，穷人提供孩子；战争结束后，政客们取回剩余的弹药，富人种更多的粮食，穷人寻找孩子的坟墓。\n                                   ——塞尔维亚谚语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 3036,
+          "like_count": 14275,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 4366
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 2100,
+          "like_count": 10579,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

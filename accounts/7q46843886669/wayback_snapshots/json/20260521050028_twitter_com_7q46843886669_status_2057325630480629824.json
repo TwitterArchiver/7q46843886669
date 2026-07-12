@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057053259618267137"
+      ],
+      "media_source_tweet_id": [
+        "2057053261581226265"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057325630480629824",
+    "created_at": "2026-05-21T05:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057325630480629824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753386090143354880",
+          "start": 3,
+          "username": "HanQWQ457437"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KpfwGhvJsZ",
+          "end": 110,
+          "expanded_url": "https://x.com/HanQWQ457437/status/2057053261581226265/photo/1",
+          "media_key": "3_2057053259618267137",
+          "start": 87,
+          "url": "https://t.co/KpfwGhvJsZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057325630480629824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057053261581226265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HanQWQ457437: 你打的文字对于我来说是有情绪的，你无意间说出来的话开的玩笑，都会当真……你说你爱我，我只好反复确认…可是到最后还是像丢拉圾一样丢下我…… https://t.co/KpfwGhvJsZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_2057053259618267137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwfCnebMAEAcbb.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057053259618267137"
+          ],
+          "media_source_tweet_id": [
+            "2057053261581226265"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057325630480629824",
+        "created_at": "2026-05-21T05:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057325630480629824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753386090143354880",
+              "start": 3,
+              "username": "HanQWQ457437"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpfwGhvJsZ",
+              "end": 110,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2057053261581226265/photo/1",
+              "media_key": "3_2057053259618267137",
+              "start": 87,
+              "url": "https://t.co/KpfwGhvJsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057325630480629824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057053261581226265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HanQWQ457437: 你打的文字对于我来说是有情绪的，你无意间说出来的话开的玩笑，都会当真……你说你爱我，我只好反复确认…可是到最后还是像丢拉圾一样丢下我…… https://t.co/KpfwGhvJsZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057053259618267137"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2057053261581226265",
+        "created_at": "2026-05-20T10:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057053261581226265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpfwGhvJsZ",
+              "end": 92,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2057053261581226265/photo/1",
+              "media_key": "3_2057053259618267137",
+              "start": 69,
+              "url": "https://t.co/KpfwGhvJsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057053261581226265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 722,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你打的文字对于我来说是有情绪的，你无意间说出来的话开的玩笑，都会当真……你说你爱我，我只好反复确认…可是到最后还是像丢拉圾一样丢下我…… https://t.co/KpfwGhvJsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 3025,
+          "like_count": 14051,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 4337
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055895010135126016/RMgJOTkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 1006,
+          "like_count": 2631,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 733
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

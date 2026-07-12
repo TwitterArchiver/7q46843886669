@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048414485078298624"
+      ],
+      "media_source_tweet_id": [
+        "2048414496281043134"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048809978795020596",
+    "created_at": "2026-04-27T17:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048809978795020596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1390785961160806404",
+          "start": 3,
+          "username": "sz_vc7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XY8mxCTkr7",
+          "end": 35,
+          "expanded_url": "https://x.com/sz_vc7/status/2048414496281043134/photo/1",
+          "media_key": "3_2048414485078298624",
+          "start": 12,
+          "url": "https://t.co/XY8mxCTkr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048809978795020596",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1858
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048414496281043134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sz_vc7: https://t.co/XY8mxCTkr7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2048414485078298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1uHwfbUAAmHN6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048414485078298624"
+          ],
+          "media_source_tweet_id": [
+            "2048414496281043134"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048809978795020596",
+        "created_at": "2026-04-27T17:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048809978795020596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1390785961160806404",
+              "start": 3,
+              "username": "sz_vc7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY8mxCTkr7",
+              "end": 35,
+              "expanded_url": "https://x.com/sz_vc7/status/2048414496281043134/photo/1",
+              "media_key": "3_2048414485078298624",
+              "start": 12,
+              "url": "https://t.co/XY8mxCTkr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048809978795020596",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1858
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048414496281043134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sz_vc7: https://t.co/XY8mxCTkr7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048414485078298624"
+          ]
+        },
+        "author_id": "1390785961160806404",
+        "conversation_id": "2048414496281043134",
+        "created_at": "2026-04-26T14:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048414496281043134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY8mxCTkr7",
+              "end": 23,
+              "expanded_url": "https://x.com/sz_vc7/status/2048414496281043134/photo/1",
+              "media_key": "3_2048414485078298624",
+              "start": 0,
+              "url": "https://t.co/XY8mxCTkr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048414496281043134",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 218955,
+          "like_count": 29743,
+          "quote_count": 16,
+          "reply_count": 18,
+          "retweet_count": 1858
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XY8mxCTkr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2750,
+          "like_count": 6417,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1432
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T21:50:03.000Z",
+        "description": "",
+        "id": "1390785961160806404",
+        "name": "wo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027532363224518656/IOEOZGPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9560,
+          "following_count": 2467,
+          "like_count": 6612,
+          "listed_count": 5,
+          "media_count": 1107,
+          "tweet_count": 2303
+        },
+        "username": "sz_vc7",
+        "verified": true
+      }
+    ]
+  }
+}

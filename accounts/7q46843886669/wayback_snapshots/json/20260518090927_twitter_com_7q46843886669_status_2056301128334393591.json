@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055998698681999360"
+      ],
+      "media_source_tweet_id": [
+        "2055998708370866251"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056301128334393591",
+    "created_at": "2026-05-18T09:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056301128334393591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/msjrN0FLiM",
+          "end": 43,
+          "expanded_url": "https://x.com/0b7cm/status/2055998708370866251/photo/1",
+          "media_key": "3_2055998698681999360",
+          "start": 20,
+          "url": "https://t.co/msjrN0FLiM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056301128334393591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055998708370866251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 对 说的就是你！ https://t.co/msjrN0FLiM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2055998698681999360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhf7F2bIAAEBDq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055998698681999360"
+          ],
+          "media_source_tweet_id": [
+            "2055998708370866251"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056301128334393591",
+        "created_at": "2026-05-18T09:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056301128334393591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/msjrN0FLiM",
+              "end": 43,
+              "expanded_url": "https://x.com/0b7cm/status/2055998708370866251/photo/1",
+              "media_key": "3_2055998698681999360",
+              "start": 20,
+              "url": "https://t.co/msjrN0FLiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056301128334393591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055998708370866251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 对 说的就是你！ https://t.co/msjrN0FLiM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055998698681999360"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "conversation_id": "2055998708370866251",
+        "created_at": "2026-05-17T13:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055998708370866251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msjrN0FLiM",
+              "end": 32,
+              "expanded_url": "https://x.com/0b7cm/status/2055998708370866251/photo/1",
+              "media_key": "3_2055998698681999360",
+              "start": 9,
+              "url": "https://t.co/msjrN0FLiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998708370866251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对 说的就是你！ https://t.co/msjrN0FLiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2983,
+          "like_count": 13278,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4068
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2054948116785410258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9635,
+          "following_count": 1186,
+          "like_count": 10962,
+          "listed_count": 19,
+          "media_count": 1755,
+          "tweet_count": 14089
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

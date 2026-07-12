@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058066436812374016"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057801716507230717",
+    "created_at": "2026-05-23T06:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058066439177949506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8EPmVZla3t",
+          "end": 39,
+          "expanded_url": "https://x.com/7q46843886669/status/2058066439177949506/photo/1",
+          "media_key": "3_2058066436812374016",
+          "start": 16,
+          "url": "https://t.co/8EPmVZla3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058066439177949506",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057801716507230717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 https://t.co/8EPmVZla3t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2058066436812374016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-4hSpbAAAmgZq.jpg",
+        "width": 2088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058066436812374016"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057801716507230717",
+        "created_at": "2026-05-23T06:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058066439177949506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EPmVZla3t",
+              "end": 39,
+              "expanded_url": "https://x.com/7q46843886669/status/2058066439177949506/photo/1",
+              "media_key": "3_2058066436812374016",
+              "start": 16,
+              "url": "https://t.co/8EPmVZla3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058066439177949506",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057801716507230717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 https://t.co/8EPmVZla3t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2057801716507230717",
+        "created_at": "2026-05-22T12:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057801716507230717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057801716507230717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2895,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里来这么多蛆关注我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 3074,
+          "like_count": 14668,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4427
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 1177,
+          "like_count": 40772,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2451
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

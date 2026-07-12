@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049480340767678464"
+      ],
+      "media_source_tweet_id": [
+        "2049480474666602648"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049849465046175801",
+    "created_at": "2026-04-30T13:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049849465046175801"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "偷圖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866541530103812105",
+          "start": 3,
+          "username": "nank404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Hnkb4IMxb",
+          "end": 47,
+          "expanded_url": "https://x.com/nank404/status/2049480474666602648/photo/1",
+          "media_key": "3_2049480340767678464",
+          "start": 24,
+          "url": "https://t.co/1Hnkb4IMxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049849465046175801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049480474666602648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nank404: ？這麼浪漫\n\n#偷圖 https://t.co/1Hnkb4IMxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_2049480340767678464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHE3guWaoAAY0Kt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049480340767678464"
+          ],
+          "media_source_tweet_id": [
+            "2049480474666602648"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049849465046175801",
+        "created_at": "2026-04-30T13:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049849465046175801"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "偷圖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866541530103812105",
+              "start": 3,
+              "username": "nank404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Hnkb4IMxb",
+              "end": 47,
+              "expanded_url": "https://x.com/nank404/status/2049480474666602648/photo/1",
+              "media_key": "3_2049480340767678464",
+              "start": 24,
+              "url": "https://t.co/1Hnkb4IMxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049849465046175801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049480474666602648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nank404: ？這麼浪漫\n\n#偷圖 https://t.co/1Hnkb4IMxb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049480340767678464"
+          ]
+        },
+        "author_id": "1866541530103812105",
+        "conversation_id": "2049480474666602648",
+        "created_at": "2026-04-29T13:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049480474666602648"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "偷圖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Hnkb4IMxb",
+              "end": 34,
+              "expanded_url": "https://x.com/nank404/status/2049480474666602648/photo/1",
+              "media_key": "3_2049480340767678464",
+              "start": 11,
+              "url": "https://t.co/1Hnkb4IMxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049480474666602648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 14824,
+          "like_count": 675,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "？這麼浪漫\n\n#偷圖 https://t.co/1Hnkb4IMxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2803,
+          "like_count": 7651,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1969
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T17:52:52.000Z",
+        "description": "๑ 總是睡不飽的大貓熊，今天也在做著不願醒來的夢🤍\n\n✧･ﾟ:✧☁︎･ﾟ::･ﾟ✦:･ﾟ✧･ﾟ:✦･ﾟ::･ﾟ☁︎✧:･\n\n๑ ʟɪᴠᴇᴛᴀɢ » #起床看南珂\n๑ ꜰᴀɴᴀʀᴛ » #南珂一夢\n๑ ᴄʟɪᴘ » #珂lip\n๑ ᴄᴀʟʟᴍᴇ » #南珂起床看\n๑ ᴍᴀɪʟ » 404.nank@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "起床看南珂"
+              },
+              {
+                "end": 97,
+                "start": 92,
+                "tag": "南珂一夢"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "珂lip"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "南珂起床看"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/nank404_",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/nank404_",
+                "start": 0,
+                "url": "https://t.co/Q9YZgMj7ON"
+              }
+            ]
+          }
+        },
+        "id": "1866541530103812105",
+        "name": "南珂ℕ𝕒𝕟𝕜💭一週年掛軸預購至4/30",
+        "pinned_tweet_id": "2042961822509351284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029442134429057029/SaI115qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3361,
+          "following_count": 178,
+          "like_count": 4606,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 2657
+        },
+        "url": "https://t.co/Q9YZgMj7ON",
+        "username": "nank404",
+        "verified": false
+      }
+    ]
+  }
+}

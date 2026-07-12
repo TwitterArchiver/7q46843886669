@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051767789573083137"
+      ],
+      "media_source_tweet_id": [
+        "2051767829125316660"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051793630093086869",
+    "created_at": "2026-05-05T22:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051793630093086869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2458208618",
+          "start": 3,
+          "username": "thisislux"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JaY6smmZqg",
+          "end": 49,
+          "expanded_url": "https://x.com/thisislux/status/2051767829125316660/photo/1",
+          "media_key": "3_2051767789573083137",
+          "start": 26,
+          "url": "https://t.co/JaY6smmZqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051793630093086869",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051767829125316660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thisislux: which way? https://t.co/JaY6smmZqg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2051767789573083137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlX7xMXkAECd1-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051767789573083137"
+          ],
+          "media_source_tweet_id": [
+            "2051767829125316660"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051793630093086869",
+        "created_at": "2026-05-05T22:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051793630093086869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2458208618",
+              "start": 3,
+              "username": "thisislux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaY6smmZqg",
+              "end": 49,
+              "expanded_url": "https://x.com/thisislux/status/2051767829125316660/photo/1",
+              "media_key": "3_2051767789573083137",
+              "start": 26,
+              "url": "https://t.co/JaY6smmZqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051793630093086869",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051767829125316660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thisislux: which way? https://t.co/JaY6smmZqg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051767789573083137"
+          ]
+        },
+        "author_id": "2458208618",
+        "conversation_id": "2051767829125316660",
+        "created_at": "2026-05-05T20:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051767829125316660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaY6smmZqg",
+              "end": 34,
+              "expanded_url": "https://x.com/thisislux/status/2051767829125316660/photo/1",
+              "media_key": "3_2051767789573083137",
+              "start": 11,
+              "url": "https://t.co/JaY6smmZqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051767829125316660",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 15411,
+          "like_count": 2040,
+          "quote_count": 13,
+          "reply_count": 29,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "which way? https://t.co/JaY6smmZqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2892,
+          "like_count": 10522,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2963
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-22T14:01:43.000Z",
+        "description": "Independent professional artist and game dev\n\n🌧️ https://t.co/ujIDxmjKdl \n🛒️ https://t.co/cv0s10cmyz\n🎨️ https://t.co/SVHGYbjiBF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "luxweather.com",
+                "end": 72,
+                "expanded_url": "https://luxweather.com/",
+                "start": 49,
+                "url": "https://t.co/ujIDxmjKdl"
+              },
+              {
+                "display_url": "goon-shop.fourthwall.com",
+                "end": 100,
+                "expanded_url": "https://goon-shop.fourthwall.com/",
+                "start": 77,
+                "url": "https://t.co/cv0s10cmyz"
+              },
+              {
+                "display_url": "pixelparmesan.com",
+                "end": 127,
+                "expanded_url": "https://pixelparmesan.com/",
+                "start": 104,
+                "url": "https://t.co/SVHGYbjiBF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixelparmesan.com",
+                "end": 23,
+                "expanded_url": "https://pixelparmesan.com",
+                "start": 0,
+                "url": "https://t.co/ngYcD7m8Km"
+              }
+            ]
+          }
+        },
+        "id": "2458208618",
+        "location": "check out my website →",
+        "name": "Lux",
+        "pinned_tweet_id": "1934717871000559856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1358092565862637571/I8IpAB-v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158928,
+          "following_count": 732,
+          "like_count": 44869,
+          "listed_count": 1027,
+          "media_count": 3634,
+          "tweet_count": 22984
+        },
+        "url": "https://t.co/ngYcD7m8Km",
+        "username": "thisislux",
+        "verified": true
+      }
+    ]
+  }
+}

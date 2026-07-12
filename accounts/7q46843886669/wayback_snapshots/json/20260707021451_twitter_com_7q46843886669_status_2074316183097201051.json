@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2074316183097201051",
+    "created_at": "2026-07-07T02:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074316183097201051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7q46843886669/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/7q46843886669/status/2065977354497978500",
+          "start": 16,
+          "url": "https://t.co/k0uzvukuEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074316183097201051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065977354497978500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我還是很喜歡這張所以我置頂了喵 https://t.co/k0uzvukuEE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065977347153756160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvTc4MagAAvX_B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2074316183097201051",
+        "created_at": "2026-07-07T02:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074316183097201051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7q46843886669/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/7q46843886669/status/2065977354497978500",
+              "start": 16,
+              "url": "https://t.co/k0uzvukuEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074316183097201051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065977354497978500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我還是很喜歡這張所以我置頂了喵 https://t.co/k0uzvukuEE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065977347153756160"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2065977354497978500",
+        "created_at": "2026-06-14T01:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065977354497978500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93fhtKDH2Q",
+              "end": 32,
+              "expanded_url": "https://x.com/7q46843886669/status/2065977354497978500/photo/1",
+              "media_key": "3_2065977347153756160",
+              "start": 9,
+              "url": "https://t.co/93fhtKDH2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065977354497978500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7007,
+          "like_count": 124,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸的愛人叫什麼 https://t.co/93fhtKDH2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n@QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 3406,
+          "like_count": 20462,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 5391
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2047699578053599232"
+      ],
+      "media_source_tweet_id": [
+        "2047699600786817050"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048025711018160440",
+    "created_at": "2026-04-25T13:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048025711018160440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410890985538678784",
+          "start": 3,
+          "username": "ThePetsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IMk096jtUu",
+          "end": 66,
+          "expanded_url": "https://x.com/ThePetsX/status/2047699600786817050/video/1",
+          "media_key": "7_2047699578053599232",
+          "start": 43,
+          "url": "https://t.co/IMk096jtUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048025711018160440",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1915
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047699600786817050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ThePetsX: 1000 kpm ( kiss per minute ) https://t.co/IMk096jtUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12447,
+        "height": 1024,
+        "media_key": "7_2047699578053599232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047699578053599232/pu/img/GOAOCJii4rkaCgrv.jpg",
+        "public_metrics": {
+          "view_count": 135817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047699578053599232/pu/vid/avc1/320x568/Z_8vyVmOZ8gzbYd8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047699578053599232/pu/vid/avc1/480x852/Iyai_ROM1D0KYdcH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047699578053599232/pu/vid/avc1/576x1024/avDGjgkKheEIe7uA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047699578053599232/pu/pl/50ANWptnSJvR9BHm.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047699578053599232"
+          ],
+          "media_source_tweet_id": [
+            "2047699600786817050"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048025711018160440",
+        "created_at": "2026-04-25T13:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048025711018160440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410890985538678784",
+              "start": 3,
+              "username": "ThePetsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMk096jtUu",
+              "end": 66,
+              "expanded_url": "https://x.com/ThePetsX/status/2047699600786817050/video/1",
+              "media_key": "7_2047699578053599232",
+              "start": 43,
+              "url": "https://t.co/IMk096jtUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048025711018160440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1915
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047699600786817050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ThePetsX: 1000 kpm ( kiss per minute ) https://t.co/IMk096jtUu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047699578053599232"
+          ]
+        },
+        "author_id": "1410890985538678784",
+        "conversation_id": "2047699600786817050",
+        "created_at": "2026-04-24T15:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047699600786817050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMk096jtUu",
+              "end": 52,
+              "expanded_url": "https://x.com/ThePetsX/status/2047699600786817050/video/1",
+              "media_key": "7_2047699578053599232",
+              "start": 29,
+              "url": "https://t.co/IMk096jtUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047699600786817050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2050,
+          "impression_count": 492025,
+          "like_count": 15102,
+          "quote_count": 199,
+          "reply_count": 63,
+          "retweet_count": 1915
+        },
+        "reply_settings": "everyone",
+        "text": "1000 kpm ( kiss per minute ) https://t.co/IMk096jtUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2718,
+          "like_count": 6011,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1097
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T09:20:30.000Z",
+        "description": "Welcome to the positive side of 𝕏. Posting the most beautiful & Adorable pictures,videos of pets. 🦁🐯🐱🐶🐺🐻🐻‍❄️🐨🐼🦝🦊",
+        "id": "1410890985538678784",
+        "location": "DM FOR CREDIT OR REMOVEL ✉️",
+        "name": "The Pets 𝕏",
+        "pinned_tweet_id": "2047714861543829943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876704343052734464/N6IQSW7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67763,
+          "following_count": 3697,
+          "like_count": 439,
+          "listed_count": 201,
+          "media_count": 7483,
+          "tweet_count": 7506
+        },
+        "username": "ThePetsX",
+        "verified": true
+      }
+    ]
+  }
+}

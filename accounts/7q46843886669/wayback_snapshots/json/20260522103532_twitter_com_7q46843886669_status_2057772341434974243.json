@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057713733468815360"
+      ],
+      "media_source_tweet_id": [
+        "2057713740523733065"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057772341434974243",
+    "created_at": "2026-05-22T10:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057772341434974243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1917093346956460032",
+          "start": 3,
+          "username": "Readyt01ove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ANVCC1HtRO",
+          "end": 57,
+          "expanded_url": "https://x.com/Readyt01ove/status/2057713740523733065/photo/1",
+          "media_key": "3_2057713733468815360",
+          "start": 34,
+          "url": "https://t.co/ANVCC1HtRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057772341434974243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057713740523733065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Readyt01ove: 双鱼的这么短是不是有点情感漠视了 https://t.co/ANVCC1HtRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2057713733468815360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI53vQTaAAA-V72.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057713733468815360"
+          ],
+          "media_source_tweet_id": [
+            "2057713740523733065"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057772341434974243",
+        "created_at": "2026-05-22T10:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057772341434974243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1917093346956460032",
+              "start": 3,
+              "username": "Readyt01ove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANVCC1HtRO",
+              "end": 57,
+              "expanded_url": "https://x.com/Readyt01ove/status/2057713740523733065/photo/1",
+              "media_key": "3_2057713733468815360",
+              "start": 34,
+              "url": "https://t.co/ANVCC1HtRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057772341434974243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057713740523733065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Readyt01ove: 双鱼的这么短是不是有点情感漠视了 https://t.co/ANVCC1HtRO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057713733468815360"
+          ]
+        },
+        "author_id": "1917093346956460032",
+        "conversation_id": "2057713740523733065",
+        "created_at": "2026-05-22T06:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057713740523733065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANVCC1HtRO",
+              "end": 40,
+              "expanded_url": "https://x.com/Readyt01ove/status/2057713740523733065/photo/1",
+              "media_key": "3_2057713733468815360",
+              "start": 17,
+              "url": "https://t.co/ANVCC1HtRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057713740523733065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3476,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "双鱼的这么短是不是有点情感漠视了 https://t.co/ANVCC1HtRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 3053,
+          "like_count": 14470,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 4381
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T05:47:38.000Z",
+        "description": "痛苦的時候逃避就好了",
+        "id": "1917093346956460032",
+        "name": "苦艾酒",
+        "pinned_tweet_id": "1917199874963177557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057155061097336832/aa5HYaZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 162,
+          "like_count": 7118,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 85
+        },
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

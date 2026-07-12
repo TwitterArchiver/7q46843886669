@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056058815892619264"
+      ],
+      "media_source_tweet_id": [
+        "2056193052134322314"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056669945673748839",
+    "created_at": "2026-05-19T09:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056669945673748839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685784710285266944",
+          "start": 3,
+          "username": "mhtqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxhLQFUYPP",
+          "end": 47,
+          "expanded_url": "https://x.com/mhtqwq/status/2056193052134322314/photo/1",
+          "media_key": "3_2056058815892619264",
+          "start": 24,
+          "url": "https://t.co/OxhLQFUYPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056669945673748839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056193052134322314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mhtqwq: python已成功安装 https://t.co/OxhLQFUYPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1346,
+        "media_key": "3_2056058815892619264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiWmX6XAAAqC0n.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056058815892619264"
+          ],
+          "media_source_tweet_id": [
+            "2056193052134322314"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056669945673748839",
+        "created_at": "2026-05-19T09:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056669945673748839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685784710285266944",
+              "start": 3,
+              "username": "mhtqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxhLQFUYPP",
+              "end": 47,
+              "expanded_url": "https://x.com/mhtqwq/status/2056193052134322314/photo/1",
+              "media_key": "3_2056058815892619264",
+              "start": 24,
+              "url": "https://t.co/OxhLQFUYPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056669945673748839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056193052134322314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mhtqwq: python已成功安装 https://t.co/OxhLQFUYPP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056058815892619264"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "2056193052134322314",
+        "created_at": "2026-05-18T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056193052134322314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxhLQFUYPP",
+              "end": 35,
+              "expanded_url": "https://x.com/mhtqwq/status/2056193052134322314/photo/1",
+              "media_key": "3_2056058815892619264",
+              "start": 12,
+              "url": "https://t.co/OxhLQFUYPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056193052134322314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 15564,
+          "like_count": 737,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "python已成功安装 https://t.co/OxhLQFUYPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 2983,
+          "like_count": 13477,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4157
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜我只想说何意味｜什么都会点什么都做不好的咸鱼｜差点一口气活了，骗你的我没活｜禁止政治话题｜Minecraft｜格雷科寄｜p社战犯｜杂鱼👀@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 409,
+          "like_count": 9219,
+          "listed_count": 14,
+          "media_count": 2595,
+          "tweet_count": 10632
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

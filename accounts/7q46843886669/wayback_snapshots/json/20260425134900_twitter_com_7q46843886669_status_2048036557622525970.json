@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047685342053236736"
+      ],
+      "media_source_tweet_id": [
+        "2047685351544926330"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048036557622525970",
+    "created_at": "2026-04-25T13:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048036557622525970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1368048128365105153",
+          "start": 3,
+          "username": "miniarchillect"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sX8Goxjp3p",
+          "end": 43,
+          "expanded_url": "https://x.com/miniarchillect/status/2047685351544926330/photo/1",
+          "media_key": "3_2047685342053236736",
+          "start": 20,
+          "url": "https://t.co/sX8Goxjp3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048036557622525970",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 725
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047685351544926330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miniarchillect: https://t.co/sX8Goxjp3p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_2047685342053236736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrW-DDbgAAZ7bt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047685342053236736"
+          ],
+          "media_source_tweet_id": [
+            "2047685351544926330"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048036557622525970",
+        "created_at": "2026-04-25T13:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048036557622525970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1368048128365105153",
+              "start": 3,
+              "username": "miniarchillect"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sX8Goxjp3p",
+              "end": 43,
+              "expanded_url": "https://x.com/miniarchillect/status/2047685351544926330/photo/1",
+              "media_key": "3_2047685342053236736",
+              "start": 20,
+              "url": "https://t.co/sX8Goxjp3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048036557622525970",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 725
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047685351544926330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miniarchillect: https://t.co/sX8Goxjp3p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047685342053236736"
+          ]
+        },
+        "author_id": "1368048128365105153",
+        "conversation_id": "2047685351544926330",
+        "created_at": "2026-04-24T14:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047685351544926330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sX8Goxjp3p",
+              "end": 23,
+              "expanded_url": "https://x.com/miniarchillect/status/2047685351544926330/photo/1",
+              "media_key": "3_2047685342053236736",
+              "start": 0,
+              "url": "https://t.co/sX8Goxjp3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047685351544926330",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 58267,
+          "like_count": 3606,
+          "quote_count": 40,
+          "reply_count": 26,
+          "retweet_count": 725
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sX8Goxjp3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2720,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1120
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-06T03:57:59.000Z",
+        "description": "The mini ocular engine.",
+        "id": "1368048128365105153",
+        "location": "𝕏",
+        "name": "Mini Archillect",
+        "pinned_tweet_id": "2047626466716971091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872776618432991232/SjdVJCZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165252,
+          "following_count": 100,
+          "like_count": 107318,
+          "listed_count": 625,
+          "media_count": 9907,
+          "tweet_count": 11148
+        },
+        "username": "miniarchillect",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2021909207247900855",
+    "created_at": "2026-02-12T15:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021966865837474084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        },
+        {
+          "end": 25,
+          "id": "1713420681562705920",
+          "start": 13,
+          "username": "hkbystander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021966865837474084",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021910809115558391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 @hkbystander 有品有品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2021909207247900855",
+        "created_at": "2026-02-12T15:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021966865837474084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            },
+            {
+              "end": 25,
+              "id": "1713420681562705920",
+              "start": 13,
+              "username": "hkbystander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021966865837474084",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021910809115558391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 @hkbystander 有品有品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828780381107298304",
+        "conversation_id": "2021909207247900855",
+        "created_at": "2026-02-12T11:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021910809115558391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713420681562705920",
+              "start": 0,
+              "username": "hkbystander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021910809115558391",
+        "in_reply_to_user_id": "1713420681562705920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021910344713842812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hkbystander 芥末吃广东人从来不动火 我吃生的然后蘸芥末"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 1662,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 208
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "我是神。",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 204,
+          "like_count": 12236,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 4921
+        },
+        "username": "wasabits013",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T05:05:31.000Z",
+        "description": "Ph.D. Candidate in Whatever at Hong Kong",
+        "id": "1713420681562705920",
+        "location": "Hong Kong",
+        "name": "bystander",
+        "pinned_tweet_id": "2020900757638426953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963856882386587648/fWBgIzal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 363,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 142
+        },
+        "username": "hkbystander",
+        "verified": false
+      }
+    ]
+  }
+}

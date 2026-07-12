@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050489015028306400",
+    "created_at": "2026-05-02T08:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050489015028306400"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "批话tv"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050489015028306400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050177699738685448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: #批话tv\n宝宝你记住，成功就像怀孕，大家都在祝福你但没人知道你被中出了多少次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050489015028306400",
+        "created_at": "2026-05-02T08:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050489015028306400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "批话tv"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050489015028306400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050177699738685448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: #批话tv\n宝宝你记住，成功就像怀孕，大家都在祝福你但没人知道你被中出了多少次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "2050177699738685448",
+        "created_at": "2026-05-01T11:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050177699738685448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "批话tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050177699738685448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3731,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#批话tv\n宝宝你记住，成功就像怀孕，大家都在祝福你但没人知道你被中出了多少次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2844,
+          "like_count": 8688,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2341
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2049860759430320478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13345,
+          "following_count": 986,
+          "like_count": 115880,
+          "listed_count": 68,
+          "media_count": 2645,
+          "tweet_count": 28144
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

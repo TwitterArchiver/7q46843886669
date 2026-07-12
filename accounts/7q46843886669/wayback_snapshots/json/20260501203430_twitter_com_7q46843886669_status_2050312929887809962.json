@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050182205113295141",
+    "created_at": "2026-05-01T20:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T21:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050312929887809962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050312929887809962",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050182205113295141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_2050182198175920128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO12M8a8AA1G_t.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050182205113295141",
+        "created_at": "2026-05-01T20:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050312929887809962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050312929887809962",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050182205113295141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050182198175920128"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2050182205113295141",
+        "created_at": "2026-05-01T11:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050182205113295141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/az3l6BpcT4",
+              "end": 41,
+              "expanded_url": "https://x.com/Miiharukawa/status/2050182205113295141/photo/1",
+              "media_key": "3_2050182198175920128",
+              "start": 18,
+              "url": "https://t.co/az3l6BpcT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050182205113295141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47534,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次在推特看见熟人是人机的头像🙏 https://t.co/az3l6BpcT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 2842,
+          "like_count": 8237,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2149
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "重度百合豚  专发碎碎念\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 210,
+          "like_count": 6400,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 2439
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

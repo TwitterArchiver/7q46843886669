@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063226388891717632"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063226394273062935",
+    "created_at": "2026-06-06T11:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063226394273062935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oyflG4Wc3A",
+          "end": 38,
+          "expanded_url": "https://x.com/7q46843886669/status/2063226394273062935/photo/1",
+          "media_key": "3_2063226388891717632",
+          "start": 15,
+          "url": "https://t.co/oyflG4Wc3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063226394273062935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜歡你喜歡你喜歡你喜歡你喵 https://t.co/oyflG4Wc3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2063226388891717632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKINeCEaUAAbOw_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063226388891717632"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063226394273062935",
+        "created_at": "2026-06-06T11:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063226394273062935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oyflG4Wc3A",
+              "end": 38,
+              "expanded_url": "https://x.com/7q46843886669/status/2063226394273062935/photo/1",
+              "media_key": "3_2063226388891717632",
+              "start": 15,
+              "url": "https://t.co/oyflG4Wc3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063226394273062935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜歡你喜歡你喜歡你喜歡你喵 https://t.co/oyflG4Wc3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 3347,
+          "like_count": 17102,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 4726
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

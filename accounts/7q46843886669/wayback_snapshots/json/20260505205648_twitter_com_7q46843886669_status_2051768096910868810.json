@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051665726356791299"
+      ],
+      "media_source_tweet_id": [
+        "2051665729913548872"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051768096910868810",
+    "created_at": "2026-05-05T20:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T21:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051768096910868810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1133355060732354560",
+          "start": 3,
+          "username": "animeposts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NmU0lWJMcE",
+          "end": 39,
+          "expanded_url": "https://x.com/animeposts/status/2051665729913548872/photo/1",
+          "media_key": "3_2051665726356791299",
+          "start": 16,
+          "url": "https://t.co/NmU0lWJMcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051768096910868810",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051665729913548872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animeposts: https://t.co/NmU0lWJMcE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2051665726356791299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj7G6FXIAMdMzn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051665726356791299"
+          ],
+          "media_source_tweet_id": [
+            "2051665729913548872"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051768096910868810",
+        "created_at": "2026-05-05T20:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051768096910868810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1133355060732354560",
+              "start": 3,
+              "username": "animeposts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmU0lWJMcE",
+              "end": 39,
+              "expanded_url": "https://x.com/animeposts/status/2051665729913548872/photo/1",
+              "media_key": "3_2051665726356791299",
+              "start": 16,
+              "url": "https://t.co/NmU0lWJMcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051768096910868810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051665729913548872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animeposts: https://t.co/NmU0lWJMcE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051665726356791299"
+          ]
+        },
+        "author_id": "1133355060732354560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051665729913548872",
+        "created_at": "2026-05-05T14:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051665729913548872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmU0lWJMcE",
+              "end": 23,
+              "expanded_url": "https://x.com/animeposts/status/2051665729913548872/photo/1",
+              "media_key": "3_2051665726356791299",
+              "start": 0,
+              "url": "https://t.co/NmU0lWJMcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051665729913548872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 34133,
+          "like_count": 4084,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NmU0lWJMcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2890,
+          "like_count": 10477,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2945
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-28T12:51:17.000Z",
+        "description": "Posting Daily Anime Content",
+        "id": "1133355060732354560",
+        "name": "Anime Posts",
+        "pinned_tweet_id": "2045550470811250908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982996644514648064/8vIjFeVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804049,
+          "following_count": 48,
+          "like_count": 5787,
+          "listed_count": 694,
+          "media_count": 11840,
+          "tweet_count": 12342
+        },
+        "username": "animeposts",
+        "verified": true
+      }
+    ]
+  }
+}

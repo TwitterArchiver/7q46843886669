@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048308802517422080"
+      ],
+      "media_source_tweet_id": [
+        "2048308868741222497"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049869130468389347",
+    "created_at": "2026-04-30T15:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049869130468389347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "904709691405615104",
+          "start": 3,
+          "username": "beautyquotes0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0T4PYhmNI",
+          "end": 42,
+          "expanded_url": "https://x.com/beautyquotes0/status/2048308868741222497/video/1",
+          "media_key": "7_2048308802517422080",
+          "start": 19,
+          "url": "https://t.co/r0T4PYhmNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049869130468389347",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1739
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049478738442879048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beautyquotes0: https://t.co/r0T4PYhmNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21757,
+        "height": 720,
+        "media_key": "7_2048308802517422080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048308802517422080/pu/img/mLUpLDBF9jzadQTS.jpg",
+        "public_metrics": {
+          "view_count": 190091
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048308802517422080/pu/vid/avc1/470x270/Lo5Hg2qSeHxxf_TS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048308802517422080/pu/vid/avc1/628x360/1GwC7Ok2iSNtyno_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048308802517422080/pu/vid/avc1/1256x720/4qfqjPgZTaB2IPc8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048308802517422080/pu/pl/MuGOKciR3RvIsnXy.m3u8"
+          }
+        ],
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048308802517422080"
+          ],
+          "media_source_tweet_id": [
+            "2048308868741222497"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049869130468389347",
+        "created_at": "2026-04-30T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049869130468389347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "904709691405615104",
+              "start": 3,
+              "username": "beautyquotes0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0T4PYhmNI",
+              "end": 42,
+              "expanded_url": "https://x.com/beautyquotes0/status/2048308868741222497/video/1",
+              "media_key": "7_2048308802517422080",
+              "start": 19,
+              "url": "https://t.co/r0T4PYhmNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049869130468389347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1739
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049478738442879048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beautyquotes0: https://t.co/r0T4PYhmNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048308802517422080"
+          ],
+          "media_source_tweet_id": [
+            "2048308868741222497"
+          ]
+        },
+        "author_id": "904709691405615104",
+        "conversation_id": "2049478738442879048",
+        "created_at": "2026-04-29T13:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049478738442879048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0T4PYhmNI",
+              "end": 23,
+              "expanded_url": "https://x.com/beautyquotes0/status/2048308868741222497/video/1",
+              "media_key": "7_2048308802517422080",
+              "start": 0,
+              "url": "https://t.co/r0T4PYhmNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049478738442879048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 973,
+          "impression_count": 312448,
+          "like_count": 12698,
+          "quote_count": 107,
+          "reply_count": 39,
+          "retweet_count": 1739
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r0T4PYhmNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2802,
+          "like_count": 7804,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1990
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T14:16:13.000Z",
+        "description": "",
+        "id": "904709691405615104",
+        "location": "Los Angeles ",
+        "name": "cats 🐈",
+        "pinned_tweet_id": "2049562989909639415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036383813857898496/2NSm1u7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11228,
+          "following_count": 8370,
+          "like_count": 331,
+          "listed_count": 8,
+          "media_count": 2734,
+          "tweet_count": 3449
+        },
+        "username": "beautyquotes0",
+        "verified": true
+      }
+    ]
+  }
+}

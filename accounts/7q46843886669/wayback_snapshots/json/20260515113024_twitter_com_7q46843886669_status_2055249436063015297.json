@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054941616138555392"
+      ],
+      "media_source_tweet_id": [
+        "2054941626536194421"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055249436063015297",
+    "created_at": "2026-05-15T11:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055249436063015297"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "nsfw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2054629650459168768",
+          "start": 3,
+          "username": "cH40s_t3arsvow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iz6AsEzd71",
+          "end": 49,
+          "expanded_url": "https://x.com/cH40s_t3arsvow/status/2054941626536194421/photo/1",
+          "media_key": "3_2054941616138555392",
+          "start": 26,
+          "url": "https://t.co/iz6AsEzd71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055249436063015297",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054941626536194421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cH40s_t3arsvow: #nsfw https://t.co/iz6AsEzd71"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055249436063015297].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055249436063015297",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055249436063015297"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2054941616138555392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISegygbEAA9CKs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054941616138555392"
+          ]
+        },
+        "author_id": "2054629650459168768",
+        "conversation_id": "2054941626536194421",
+        "created_at": "2026-05-14T15:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054941626536194421"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "nsfw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iz6AsEzd71",
+              "end": 29,
+              "expanded_url": "https://x.com/cH40s_t3arsvow/status/2054941626536194421/photo/1",
+              "media_key": "3_2054941616138555392",
+              "start": 6,
+              "url": "https://t.co/iz6AsEzd71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054941626536194421",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#nsfw https://t.co/iz6AsEzd71"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 2979,
+          "like_count": 12695,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3789
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T18:29:49.000Z",
+        "description": "🚫minor | tomboy | just for please myself",
+        "id": "2054629650459168768",
+        "name": "Celeste",
+        "pinned_tweet_id": "2054633320479392176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054630362379382784/AbuBGweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "cH40s_t3arsvow",
+        "verified": false
+      }
+    ]
+  }
+}

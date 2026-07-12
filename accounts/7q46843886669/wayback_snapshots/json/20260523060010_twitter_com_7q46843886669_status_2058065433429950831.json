@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057963555543306252",
+    "created_at": "2026-05-23T06:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058065433429950831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980483857863655424",
+          "start": 0,
+          "username": "KamisatoSeele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058065433429950831",
+    "in_reply_to_user_id": "1980483857863655424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058065165502025923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamisatoSeele v点细软"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057963555543306252",
+        "created_at": "2026-05-23T06:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058065433429950831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980483857863655424",
+              "start": 0,
+              "username": "KamisatoSeele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058065433429950831",
+        "in_reply_to_user_id": "1980483857863655424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058065165502025923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamisatoSeele v点细软"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980483857863655424",
+        "conversation_id": "2057963555543306252",
+        "created_at": "2026-05-23T05:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058065165502025923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058065165502025923",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058064100589236614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 3074,
+          "like_count": 14663,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 4424
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:58:50.000Z",
+        "description": "无证 | MtF | \n早已出柜喵 | 猫娘|\nmtf，mtx树洞喵（不随时在线看到会回喵）",
+        "id": "1980483857863655424",
+        "name": "Shizuku Kamisato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056301748499935232/KGuyqf8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 94,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 359
+        },
+        "username": "KamisatoSeele",
+        "verified": false
+      }
+    ]
+  }
+}

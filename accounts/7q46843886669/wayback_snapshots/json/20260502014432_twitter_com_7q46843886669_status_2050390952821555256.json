@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049952193076502528"
+      ],
+      "media_source_tweet_id": [
+        "2049952201246998754"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050390952821555256",
+    "created_at": "2026-05-02T01:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T02:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050390952821555256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2739080844",
+          "start": 3,
+          "username": "hazenlee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MjbSbp9VYc",
+          "end": 50,
+          "expanded_url": "https://x.com/hazenlee/status/2049952201246998754/photo/1",
+          "media_key": "3_2049952193076502528",
+          "start": 27,
+          "url": "https://t.co/MjbSbp9VYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050390952821555256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049952201246998754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hazenlee: 手上起个倒刺，给我气完了 https://t.co/MjbSbp9VYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2049952193076502528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLkqJLboAAb8DP.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049952193076502528"
+          ],
+          "media_source_tweet_id": [
+            "2049952201246998754"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050390952821555256",
+        "created_at": "2026-05-02T01:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050390952821555256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2739080844",
+              "start": 3,
+              "username": "hazenlee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjbSbp9VYc",
+              "end": 50,
+              "expanded_url": "https://x.com/hazenlee/status/2049952201246998754/photo/1",
+              "media_key": "3_2049952193076502528",
+              "start": 27,
+              "url": "https://t.co/MjbSbp9VYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050390952821555256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049952201246998754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hazenlee: 手上起个倒刺，给我气完了 https://t.co/MjbSbp9VYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049952193076502528"
+          ]
+        },
+        "author_id": "2739080844",
+        "conversation_id": "2049952201246998754",
+        "created_at": "2026-04-30T20:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T21:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049952201246998754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjbSbp9VYc",
+              "end": 36,
+              "expanded_url": "https://x.com/hazenlee/status/2049952201246998754/photo/1",
+              "media_key": "3_2049952193076502528",
+              "start": 13,
+              "url": "https://t.co/MjbSbp9VYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049952201246998754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 429172,
+          "like_count": 3203,
+          "quote_count": 1,
+          "reply_count": 495,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "手上起个倒刺，给我气完了 https://t.co/MjbSbp9VYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8497,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2260
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-17T05:47:55.000Z",
+        "description": "𝙀／𝘼𝙘𝙘｜十年𝙊𝙂 伪𝙏𝙧𝙖𝙙𝙚𝙧真𝙃𝙤𝙙𝙡𝙚𝙧 ｜ 加密信仰传教士已𝘼𝙇𝙇 𝙄𝙉 ₿𝙏𝘾+𝘼𝙄 ｜ 观点明确 从不马后炮 模棱两可｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜多轮牛熊转换趋势吹号手｜𝙇𝙋𝙋𝙇(老婆跑了)模型代言人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hazenlee",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hazenlee",
+                "start": 0,
+                "url": "https://t.co/1EwW72IIK3"
+              }
+            ]
+          }
+        },
+        "id": "2739080844",
+        "location": "距离你384400km 🌕 🚪520/999/1314",
+        "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "pinned_tweet_id": "2016883457771856277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035501616569409536/_HTVJVew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68546,
+          "following_count": 3736,
+          "like_count": 43971,
+          "listed_count": 1022,
+          "media_count": 4765,
+          "tweet_count": 36698
+        },
+        "url": "https://t.co/1EwW72IIK3",
+        "username": "hazenlee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048769868263297024"
+      ],
+      "media_source_tweet_id": [
+        "2048769872281440324"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      }
+    ],
+    "conversation_id": "2048921905240154495",
+    "created_at": "2026-04-28T00:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048921905240154495"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "furry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1779364790055612417",
+          "start": 3,
+          "username": "bu_jian56020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3AHaB273fY",
+          "end": 70,
+          "expanded_url": "https://x.com/bu_jian56020/status/2048769872281440324/photo/1",
+          "media_key": "3_2048769868263297024",
+          "start": 47,
+          "url": "https://t.co/3AHaB273fY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048921905240154495",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 568
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048769872281440324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bu_jian56020: fake eyes, fake mouth\n#furry https://t.co/3AHaB273fY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048769868263297024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6xVyBbkAAO4JQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048769868263297024"
+          ],
+          "media_source_tweet_id": [
+            "2048769872281440324"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2048921905240154495",
+        "created_at": "2026-04-28T00:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048921905240154495"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "furry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1779364790055612417",
+              "start": 3,
+              "username": "bu_jian56020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3AHaB273fY",
+              "end": 70,
+              "expanded_url": "https://x.com/bu_jian56020/status/2048769872281440324/photo/1",
+              "media_key": "3_2048769868263297024",
+              "start": 47,
+              "url": "https://t.co/3AHaB273fY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048921905240154495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 568
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048769872281440324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bu_jian56020: fake eyes, fake mouth\n#furry https://t.co/3AHaB273fY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048769868263297024"
+          ]
+        },
+        "author_id": "1779364790055612417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "2048769872281440324",
+        "created_at": "2026-04-27T14:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048769872281440324"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "furry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3AHaB273fY",
+              "end": 52,
+              "expanded_url": "https://x.com/bu_jian56020/status/2048769872281440324/photo/1",
+              "media_key": "3_2048769868263297024",
+              "start": 29,
+              "url": "https://t.co/3AHaB273fY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048769872281440324",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 723,
+          "impression_count": 59564,
+          "like_count": 12475,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 568
+        },
+        "reply_settings": "everyone",
+        "text": "fake eyes, fake mouth\n#furry https://t.co/3AHaB273fY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2766,
+          "like_count": 6472,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1465
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T04:23:28.000Z",
+        "description": "🇨🇳Chinese/fursuitmaker\nThe next commission will be open around December this year.",
+        "id": "1779364790055612417",
+        "name": "不二茶Bio-cha",
+        "pinned_tweet_id": "1864574762980360629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796483932504113153/Xn1baDYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9208,
+          "following_count": 14,
+          "like_count": 32,
+          "listed_count": 65,
+          "media_count": 68,
+          "tweet_count": 72
+        },
+        "username": "bu_jian56020",
+        "verified": false
+      }
+    ]
+  }
+}

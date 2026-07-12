@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051967953760141312",
+        "3_2051967953739124736",
+        "3_2051967953764339712",
+        "3_2051967953730748416"
+      ],
+      "media_source_tweet_id": [
+        "2051967970696741047",
+        "2051967970696741047",
+        "2051967970696741047",
+        "2051967970696741047"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051991965294838053",
+    "created_at": "2026-05-06T11:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051991965294838053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893209290921672704",
+          "start": 3,
+          "username": "guagua_me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JgqSEVYqJ4",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+          "media_key": "3_2051967953760141312",
+          "start": 15,
+          "url": "https://t.co/JgqSEVYqJ4"
+        },
+        {
+          "display_url": "pic.x.com/JgqSEVYqJ4",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+          "media_key": "3_2051967953739124736",
+          "start": 15,
+          "url": "https://t.co/JgqSEVYqJ4"
+        },
+        {
+          "display_url": "pic.x.com/JgqSEVYqJ4",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+          "media_key": "3_2051967953764339712",
+          "start": 15,
+          "url": "https://t.co/JgqSEVYqJ4"
+        },
+        {
+          "display_url": "pic.x.com/JgqSEVYqJ4",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+          "media_key": "3_2051967953730748416",
+          "start": 15,
+          "url": "https://t.co/JgqSEVYqJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051991965294838053",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051967970696741047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guagua_me: https://t.co/JgqSEVYqJ4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051991965294838053].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051991965294838053",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051991965294838053"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051967953760141312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoN-25bwAAS97a.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2051967953739124736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoN-20bEAAfT7i.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051967953764339712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoN-26b0AAK4ZI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051967953730748416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoN-2ybQAA_yBB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051967953760141312",
+            "3_2051967953739124736",
+            "3_2051967953764339712",
+            "3_2051967953730748416"
+          ]
+        },
+        "author_id": "1893209290921672704",
+        "conversation_id": "2051967970696741047",
+        "created_at": "2026-05-06T10:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051967970696741047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgqSEVYqJ4",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+              "media_key": "3_2051967953760141312",
+              "start": 0,
+              "url": "https://t.co/JgqSEVYqJ4"
+            },
+            {
+              "display_url": "pic.x.com/JgqSEVYqJ4",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+              "media_key": "3_2051967953739124736",
+              "start": 0,
+              "url": "https://t.co/JgqSEVYqJ4"
+            },
+            {
+              "display_url": "pic.x.com/JgqSEVYqJ4",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+              "media_key": "3_2051967953764339712",
+              "start": 0,
+              "url": "https://t.co/JgqSEVYqJ4"
+            },
+            {
+              "display_url": "pic.x.com/JgqSEVYqJ4",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/2051967970696741047/photo/1",
+              "media_key": "3_2051967953730748416",
+              "start": 0,
+              "url": "https://t.co/JgqSEVYqJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051967970696741047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 604,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JgqSEVYqJ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 2894,
+          "like_count": 10612,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2994
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "",
+        "id": "1893209290921672704",
+        "location": "私信只回門檻288 不接置頂不接推廣",
+        "name": "瓜",
+        "pinned_tweet_id": "2029656335013339178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922933433099223040/rOaUlFix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25637,
+          "following_count": 21,
+          "like_count": 1186,
+          "listed_count": 70,
+          "media_count": 36,
+          "tweet_count": 55
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

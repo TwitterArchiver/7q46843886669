@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2064704252023590922",
+    "created_at": "2026-06-10T23:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T00:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064850700816064612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062164542541479936",
+          "start": 0,
+          "username": "pai6676"
+        },
+        {
+          "end": 25,
+          "id": "2047894021457211393",
+          "start": 9,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064850700816064612",
+    "in_reply_to_user_id": "2062164542541479936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064839342644752669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pai6676 @FanQie_QianQian ？！真的嗎別騙我我很好騙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2064704252023590922",
+        "created_at": "2026-06-10T23:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064850700816064612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062164542541479936",
+              "start": 0,
+              "username": "pai6676"
+            },
+            {
+              "end": 25,
+              "id": "2047894021457211393",
+              "start": 9,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064850700816064612",
+        "in_reply_to_user_id": "2062164542541479936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064839342644752669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pai6676 @FanQie_QianQian ？！真的嗎別騙我我很好騙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "conversation_id": "2064704252023590922",
+        "created_at": "2026-06-10T22:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064839342644752669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064839342644752669",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064704252023590922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 那發個給我吧 我是無性戀 如果可以讓你舒服一點的話，我願意接收你的信息😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 3384,
+          "like_count": 18312,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 4979
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "患有边缘性人格 （BPD）（是个贱人）（讨厌转性别者）",
+        "id": "2062164542541479936",
+        "name": "愈美戰士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 125
+        },
+        "username": "pai6676",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 56,
+          "like_count": 1897,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

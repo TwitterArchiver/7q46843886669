@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2056037632493367296"
+      ],
+      "media_source_tweet_id": [
+        "2056037675132743982"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2056281983836459023",
+    "created_at": "2026-05-18T07:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056281983836459023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952805837401202688",
+          "start": 3,
+          "username": "Z9Gsystem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVxBGZYiDk",
+          "end": 52,
+          "expanded_url": "https://x.com/Z9Gsystem/status/2056037675132743982/video/1",
+          "media_key": "7_2056037632493367296",
+          "start": 29,
+          "url": "https://t.co/tVxBGZYiDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056281983836459023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056037675132743982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Z9Gsystem: 从朋友圈偷的 我不行了好帅 https://t.co/tVxBGZYiDk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11912,
+        "height": 1264,
+        "media_key": "7_2056037632493367296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056037632493367296/pu/img/8s097Dzcpuwg---b.jpg",
+        "public_metrics": {
+          "view_count": 92
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056037632493367296/pu/vid/avc1/320x574/bSV3Lvfi-gU1yAdA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056037632493367296/pu/vid/avc1/480x860/4j238Mjuv7pEUoJ0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056037632493367296/pu/vid/avc1/704x1264/8G35YcDTbT8ViPwU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056037632493367296/pu/pl/NEjbKzz036w4f-HD.m3u8?tag=12"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056037632493367296"
+          ],
+          "media_source_tweet_id": [
+            "2056037675132743982"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2056281983836459023",
+        "created_at": "2026-05-18T07:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056281983836459023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952805837401202688",
+              "start": 3,
+              "username": "Z9Gsystem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVxBGZYiDk",
+              "end": 52,
+              "expanded_url": "https://x.com/Z9Gsystem/status/2056037675132743982/video/1",
+              "media_key": "7_2056037632493367296",
+              "start": 29,
+              "url": "https://t.co/tVxBGZYiDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056281983836459023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056037675132743982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Z9Gsystem: 从朋友圈偷的 我不行了好帅 https://t.co/tVxBGZYiDk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056037632493367296"
+          ]
+        },
+        "author_id": "1952805837401202688",
+        "conversation_id": "2056037675132743982",
+        "created_at": "2026-05-17T15:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056037675132743982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVxBGZYiDk",
+              "end": 37,
+              "expanded_url": "https://x.com/Z9Gsystem/status/2056037675132743982/video/1",
+              "media_key": "7_2056037632493367296",
+              "start": 14,
+              "url": "https://t.co/tVxBGZYiDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056037675132743982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 220,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从朋友圈偷的 我不行了好帅 https://t.co/tVxBGZYiDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2981,
+          "like_count": 13259,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4063
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T18:56:30.000Z",
+        "description": "07  四川 男\n成分复杂 OverDoes 女装 友跨🏳️‍⚧️  亚文化🖤后朋🤘🏻 无政府主义爱好者☠️  \n哲学 心理学重度依赖🥺\n全X使命召唤手游最强玩家\n 机车 抑郁 焦虑 BPD \n多意识体系统:李玖钟system\n世界上成分最复杂之人\n期待互fo喵\n座右铭:\n意义由存在的当下赋予",
+        "id": "1952805837401202688",
+        "location": "距离你114514km",
+        "name": "Aliseya",
+        "pinned_tweet_id": "2049564004264362377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960586455530790912/fMX1dRw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 260,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 478
+        },
+        "username": "Z9Gsystem",
+        "verified": false
+      }
+    ]
+  }
+}

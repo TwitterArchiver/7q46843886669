@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048814903419699200"
+      ],
+      "media_source_tweet_id": [
+        "2048814908117278956"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048933932851437621",
+    "created_at": "2026-04-28T01:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048933932851437621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994210634544893953",
+          "start": 3,
+          "username": "0Anow3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qmaewA6cMU",
+          "end": 35,
+          "expanded_url": "https://x.com/0Anow3/status/2048814908117278956/photo/1",
+          "media_key": "3_2048814903419699200",
+          "start": 12,
+          "url": "https://t.co/qmaewA6cMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048933932851437621",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048814908117278956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @0Anow3: https://t.co/qmaewA6cMU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048814903419699200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7aTLDbgAAynb8.jpg",
+        "width": 1652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048814903419699200"
+          ],
+          "media_source_tweet_id": [
+            "2048814908117278956"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048933932851437621",
+        "created_at": "2026-04-28T01:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048933932851437621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994210634544893953",
+              "start": 3,
+              "username": "0Anow3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmaewA6cMU",
+              "end": 35,
+              "expanded_url": "https://x.com/0Anow3/status/2048814908117278956/photo/1",
+              "media_key": "3_2048814903419699200",
+              "start": 12,
+              "url": "https://t.co/qmaewA6cMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048933932851437621",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048814908117278956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @0Anow3: https://t.co/qmaewA6cMU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048814903419699200"
+          ]
+        },
+        "author_id": "1994210634544893953",
+        "conversation_id": "2048814908117278956",
+        "created_at": "2026-04-27T17:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048814908117278956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmaewA6cMU",
+              "end": 23,
+              "expanded_url": "https://x.com/0Anow3/status/2048814908117278956/photo/1",
+              "media_key": "3_2048814903419699200",
+              "start": 0,
+              "url": "https://t.co/qmaewA6cMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048814908117278956",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 20708,
+          "like_count": 3294,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 215
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/qmaewA6cMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2768,
+          "like_count": 6550,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1518
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T01:04:44.000Z",
+        "description": "大穢に",
+        "id": "1994210634544893953",
+        "location": "成人済",
+        "name": "ナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038585125303402496/_UwO-DSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 16,
+          "like_count": 418,
+          "listed_count": 6,
+          "media_count": 24,
+          "tweet_count": 272
+        },
+        "username": "0Anow3",
+        "verified": false
+      }
+    ]
+  }
+}

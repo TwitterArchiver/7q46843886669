@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046422811489804445",
+    "created_at": "2026-04-21T03:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046427597438173352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046427597438173352",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046422811489804445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 摸摸 一切都会好起来的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046422802023215104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZasi7acAAVPUP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046422802010689536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZasi4bUAAcW5y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046422811489804445",
+        "created_at": "2026-04-21T03:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046427597438173352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046427597438173352",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046422811489804445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 摸摸 一切都会好起来的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046422802023215104",
+            "3_2046422802010689536"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2046422811489804445",
+        "created_at": "2026-04-21T02:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046422811489804445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ruEdpFmtd",
+              "end": 29,
+              "expanded_url": "https://x.com/Miiharukawa/status/2046422811489804445/photo/1",
+              "media_key": "3_2046422802023215104",
+              "start": 6,
+              "url": "https://t.co/9ruEdpFmtd"
+            },
+            {
+              "display_url": "pic.x.com/9ruEdpFmtd",
+              "end": 29,
+              "expanded_url": "https://x.com/Miiharukawa/status/2046422811489804445/photo/1",
+              "media_key": "3_2046422802010689536",
+              "start": 6,
+              "url": "https://t.co/9ruEdpFmtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046422811489804445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子有了 https://t.co/9ruEdpFmtd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2643,
+          "like_count": 4379,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 635
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 188,
+          "like_count": 5415,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

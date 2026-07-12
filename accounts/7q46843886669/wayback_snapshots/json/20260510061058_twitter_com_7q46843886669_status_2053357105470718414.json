@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053352307530862750",
+    "created_at": "2026-05-10T06:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053357105470718414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053357105470718414",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053352307530862750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild 那是啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053352307530862750",
+        "created_at": "2026-05-10T06:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053357105470718414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053357105470718414",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053352307530862750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild 那是啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2053352307530862750",
+        "created_at": "2026-05-10T05:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053352307530862750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053352307530862750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午饭吃厚牛堡好幸福。\n自从顺直男打响厚牛堡捞女口号后，每次我吃厚牛堡都觉得自己是在干一些涉案金额重大的进口贸易。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2962,
+          "like_count": 11770,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3405
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，倡导社会契约论，保障公民权利。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5041,
+          "following_count": 190,
+          "like_count": 38577,
+          "listed_count": 18,
+          "media_count": 392,
+          "tweet_count": 8189
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

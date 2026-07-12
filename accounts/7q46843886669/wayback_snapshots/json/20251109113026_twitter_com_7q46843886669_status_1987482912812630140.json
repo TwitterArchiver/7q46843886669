@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987482910711259136"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "1987429505296965936",
+    "created_at": "2025-11-09T11:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987482912812630140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1529723408631595009",
+          "start": 0,
+          "username": "tttdou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IcGNTDIoTD",
+          "end": 31,
+          "expanded_url": "https://x.com/7q46843886669/status/1987482912812630140/photo/1",
+          "media_key": "3_1987482910711259136",
+          "start": 8,
+          "url": "https://t.co/IcGNTDIoTD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987482912812630140",
+    "in_reply_to_user_id": "1529723408631595009",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987429505296965936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tttdou https://t.co/IcGNTDIoTD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1987482910711259136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5T1LVoaoAAZsIV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987482910711259136"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "1987429505296965936",
+        "created_at": "2025-11-09T11:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987482912812630140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1529723408631595009",
+              "start": 0,
+              "username": "tttdou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcGNTDIoTD",
+              "end": 31,
+              "expanded_url": "https://x.com/7q46843886669/status/1987482912812630140/photo/1",
+              "media_key": "3_1987482910711259136",
+              "start": 8,
+              "url": "https://t.co/IcGNTDIoTD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987482912812630140",
+        "in_reply_to_user_id": "1529723408631595009",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987429505296965936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tttdou https://t.co/IcGNTDIoTD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529723408631595009",
+        "conversation_id": "1987429505296965936",
+        "created_at": "2025-11-09T07:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T08:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987429505296965936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987429505296965936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺仔细思考了想要的恋爱状态只会出现在女生和女生当中，男的不管几爱都那样，害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 797,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 60
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T07:17:44.000Z",
+        "description": "4i纯攻/一米五战士/纯爱变态/不喜欢胖胖的身体/泛性恋",
+        "id": "1529723408631595009",
+        "location": "成都",
+        "name": "发芽",
+        "pinned_tweet_id": "1929529191558471682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879923656236957696/R8LhTvKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9021,
+          "following_count": 60,
+          "like_count": 1936,
+          "listed_count": 13,
+          "media_count": 93,
+          "tweet_count": 1134
+        },
+        "username": "tttdou",
+        "verified": false
+      }
+    ]
+  }
+}

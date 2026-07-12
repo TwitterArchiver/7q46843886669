@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049724754991734784"
+      ],
+      "media_source_tweet_id": [
+        "2049724826437435763"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049845573138989251",
+    "created_at": "2026-04-30T13:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049845573138989251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1536879871694999553",
+          "start": 3,
+          "username": "seitenkanna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vIrSNKLvvh",
+          "end": 57,
+          "expanded_url": "https://x.com/seitenkanna/status/2049724826437435763/photo/1",
+          "media_key": "3_2049724754991734784",
+          "start": 34,
+          "url": "https://t.co/vIrSNKLvvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049845573138989251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049724826437435763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seitenkanna: 上位的人不一定會下位的人的事XD https://t.co/vIrSNKLvvh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2049724754991734784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIVzgSbYAAXX42.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049724754991734784"
+          ],
+          "media_source_tweet_id": [
+            "2049724826437435763"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049845573138989251",
+        "created_at": "2026-04-30T13:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049845573138989251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1536879871694999553",
+              "start": 3,
+              "username": "seitenkanna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIrSNKLvvh",
+              "end": 57,
+              "expanded_url": "https://x.com/seitenkanna/status/2049724826437435763/photo/1",
+              "media_key": "3_2049724754991734784",
+              "start": 34,
+              "url": "https://t.co/vIrSNKLvvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049845573138989251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049724826437435763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seitenkanna: 上位的人不一定會下位的人的事XD https://t.co/vIrSNKLvvh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049724754991734784"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2049724826437435763",
+        "created_at": "2026-04-30T05:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049724826437435763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIrSNKLvvh",
+              "end": 40,
+              "expanded_url": "https://x.com/seitenkanna/status/2049724826437435763/photo/1",
+              "media_key": "3_2049724754991734784",
+              "start": 17,
+              "url": "https://t.co/vIrSNKLvvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049724826437435763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 440,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上位的人不一定會下位的人的事XD https://t.co/vIrSNKLvvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2802,
+          "like_count": 7612,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1961
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/slwAtNZxoh\n圖奇:https://t.co/bEsa6u2TFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/slwAtNZxoh"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/bEsa6u2TFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/Sc9o1krf6X"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天神奈@轉貼迷因Vtuber",
+        "pinned_tweet_id": "1713829179014426931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991793225141825536/rU2YpGKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8852,
+          "following_count": 914,
+          "like_count": 21842,
+          "listed_count": 43,
+          "media_count": 3646,
+          "tweet_count": 14731
+        },
+        "url": "https://t.co/Sc9o1krf6X",
+        "username": "seitenkanna",
+        "verified": true
+      }
+    ]
+  }
+}

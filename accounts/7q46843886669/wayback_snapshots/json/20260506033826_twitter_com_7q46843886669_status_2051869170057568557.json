@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051869170057568557",
+    "created_at": "2026-05-06T03:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051869170057568557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900706496121602048",
+          "start": 3,
+          "username": "JIAN89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051869170057568557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051815939092656287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIAN89648964: 什么前额叶 搞片叶子在我前额这不是扯呢吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051869170057568557",
+        "created_at": "2026-05-06T03:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051869170057568557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900706496121602048",
+              "start": 3,
+              "username": "JIAN89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051869170057568557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051815939092656287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIAN89648964: 什么前额叶 搞片叶子在我前额这不是扯呢吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2051815939092656287",
+        "created_at": "2026-05-06T00:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051815939092656287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051815939092656287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1230,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "什么前额叶 搞片叶子在我前额这不是扯呢吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 2893,
+          "like_count": 10576,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2979
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "我是一个龙丽。文案来源网络侵权私信必删🙏\n不主动私信聊骚骚扰女生 皮下男\n看我笑话就好\n@JIAN222100（过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "JIAN222100"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽",
+        "pinned_tweet_id": "2050655719272394843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049059699233017856/xxGUB1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 86,
+          "like_count": 10125,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 3481
+        },
+        "username": "JIAN89648964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053766704375967744"
+      ],
+      "media_source_tweet_id": [
+        "2053766712349315547"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053797308513607788",
+    "created_at": "2026-05-11T11:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053797308513607788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034586230881722368",
+          "start": 3,
+          "username": "hgds03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zYrFubY7xV",
+          "end": 35,
+          "expanded_url": "https://x.com/hgds03/status/2053766712349315547/photo/1",
+          "media_key": "3_2053766704375967744",
+          "start": 12,
+          "url": "https://t.co/zYrFubY7xV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053797308513607788",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053766712349315547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds03: https://t.co/zYrFubY7xV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2053766704375967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBx77HasAA7Hm1.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053766704375967744"
+          ],
+          "media_source_tweet_id": [
+            "2053766712349315547"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053797308513607788",
+        "created_at": "2026-05-11T11:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053797308513607788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034586230881722368",
+              "start": 3,
+              "username": "hgds03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYrFubY7xV",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds03/status/2053766712349315547/photo/1",
+              "media_key": "3_2053766704375967744",
+              "start": 12,
+              "url": "https://t.co/zYrFubY7xV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053797308513607788",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053766712349315547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds03: https://t.co/zYrFubY7xV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053766704375967744"
+          ]
+        },
+        "author_id": "2034586230881722368",
+        "conversation_id": "2053766712349315547",
+        "created_at": "2026-05-11T09:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053766712349315547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYrFubY7xV",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds03/status/2053766712349315547/photo/1",
+              "media_key": "3_2053766704375967744",
+              "start": 0,
+              "url": "https://t.co/zYrFubY7xV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053766712349315547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2983,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zYrFubY7xV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2972,
+          "like_count": 12237,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3610
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2044021776032886975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931,
+          "following_count": 310,
+          "like_count": 2477,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 303
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

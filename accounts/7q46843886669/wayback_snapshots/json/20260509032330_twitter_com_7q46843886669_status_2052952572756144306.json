@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052388597446115331"
+      ],
+      "media_source_tweet_id": [
+        "2052554075775131977"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052952572756144306",
+    "created_at": "2026-05-09T03:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052952572756144306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531754420865728512",
+          "start": 3,
+          "username": "apaginaseria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VsXcymx2m7",
+          "end": 41,
+          "expanded_url": "https://x.com/apaginaseria/status/2052554075775131977/photo/1",
+          "media_key": "3_2052388597446115331",
+          "start": 18,
+          "url": "https://t.co/VsXcymx2m7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052952572756144306",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1362
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052554075775131977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apaginaseria: https://t.co/VsXcymx2m7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1499,
+        "media_key": "3_2052388597446115331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuMjivWgAMmatd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052388597446115331"
+          ],
+          "media_source_tweet_id": [
+            "2052554075775131977"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052952572756144306",
+        "created_at": "2026-05-09T03:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052952572756144306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531754420865728512",
+              "start": 3,
+              "username": "apaginaseria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsXcymx2m7",
+              "end": 41,
+              "expanded_url": "https://x.com/apaginaseria/status/2052554075775131977/photo/1",
+              "media_key": "3_2052388597446115331",
+              "start": 18,
+              "url": "https://t.co/VsXcymx2m7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052952572756144306",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1362
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052554075775131977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apaginaseria: https://t.co/VsXcymx2m7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052388597446115331"
+          ]
+        },
+        "author_id": "1531754420865728512",
+        "conversation_id": "2052554075775131977",
+        "created_at": "2026-05-08T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052554075775131977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsXcymx2m7",
+              "end": 23,
+              "expanded_url": "https://x.com/apaginaseria/status/2052554075775131977/photo/1",
+              "media_key": "3_2052388597446115331",
+              "start": 0,
+              "url": "https://t.co/VsXcymx2m7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052554075775131977",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 836,
+          "impression_count": 448551,
+          "like_count": 53315,
+          "quote_count": 47,
+          "reply_count": 53,
+          "retweet_count": 1362
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VsXcymx2m7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2966,
+          "like_count": 11569,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3323
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T21:48:15.000Z",
+        "description": "serious page, not is a meme | quer anunciar algo? DM | (desculpem os rts pagos) | créditos a r/antimemeBR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chat.whatsapp.com/CE7t49Ed0dF1JB…",
+                "end": 23,
+                "expanded_url": "https://chat.whatsapp.com/CE7t49Ed0dF1JBY3MFiZK6",
+                "start": 0,
+                "url": "https://t.co/kQ2d3i4zQn"
+              }
+            ]
+          }
+        },
+        "id": "1531754420865728512",
+        "location": "Paraná, Brasil",
+        "name": "Página Séria.",
+        "pinned_tweet_id": "2051275641236984210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005037996362387456/HxHqeAyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266082,
+          "following_count": 606,
+          "like_count": 2608,
+          "listed_count": 63,
+          "media_count": 6166,
+          "tweet_count": 9665
+        },
+        "url": "https://t.co/kQ2d3i4zQn",
+        "username": "apaginaseria",
+        "verified": true
+      }
+    ]
+  }
+}

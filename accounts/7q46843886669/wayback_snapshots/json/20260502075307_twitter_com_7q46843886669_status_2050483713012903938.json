@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050133045597163520"
+      ],
+      "media_source_tweet_id": [
+        "2050133055155962094"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050483713012903938",
+    "created_at": "2026-05-02T07:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050483713012903938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEfBTsiX0o",
+          "end": 68,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2050133055155962094/photo/1",
+          "media_key": "3_2050133045597163520",
+          "start": 45,
+          "url": "https://t.co/xEfBTsiX0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050483713012903938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050133055155962094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 20年前的报纸，人口不仅零增长，甚至变成负增长了。 https://t.co/xEfBTsiX0o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_2050133045597163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOJJJUb0AA0XVp.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050133045597163520"
+          ],
+          "media_source_tweet_id": [
+            "2050133055155962094"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050483713012903938",
+        "created_at": "2026-05-02T07:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050483713012903938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEfBTsiX0o",
+              "end": 68,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2050133055155962094/photo/1",
+              "media_key": "3_2050133045597163520",
+              "start": 45,
+              "url": "https://t.co/xEfBTsiX0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050483713012903938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050133055155962094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 20年前的报纸，人口不仅零增长，甚至变成负增长了。 https://t.co/xEfBTsiX0o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050133045597163520"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2050133055155962094",
+        "created_at": "2026-05-01T08:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050133055155962094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEfBTsiX0o",
+              "end": 49,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2050133055155962094/photo/1",
+              "media_key": "3_2050133045597163520",
+              "start": 26,
+              "url": "https://t.co/xEfBTsiX0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050133055155962094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 14212,
+          "like_count": 170,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "20年前的报纸，人口不仅零增长，甚至变成负增长了。 https://t.co/xEfBTsiX0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8641,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2328
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2050197049195594047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 676,
+          "like_count": 6501,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

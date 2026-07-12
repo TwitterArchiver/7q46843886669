@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055229256717004801"
+      ],
+      "media_source_tweet_id": [
+        "2055229271644557516"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055578346009071863",
+    "created_at": "2026-05-16T09:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055578346009071863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1213063104273084419",
+          "start": 3,
+          "username": "toyosama0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lfY4EWAlf8",
+          "end": 45,
+          "expanded_url": "https://x.com/toyosama0/status/2055229271644557516/photo/1",
+          "media_key": "3_2055229256717004801",
+          "start": 22,
+          "url": "https://t.co/lfY4EWAlf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055578346009071863",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 712
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055229271644557516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toyosama0: 本日の太もも https://t.co/lfY4EWAlf8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055229256717004801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWkHrKbcAEyUdI.jpg",
+        "width": 1610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055229256717004801"
+          ],
+          "media_source_tweet_id": [
+            "2055229271644557516"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055578346009071863",
+        "created_at": "2026-05-16T09:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055578346009071863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1213063104273084419",
+              "start": 3,
+              "username": "toyosama0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfY4EWAlf8",
+              "end": 45,
+              "expanded_url": "https://x.com/toyosama0/status/2055229271644557516/photo/1",
+              "media_key": "3_2055229256717004801",
+              "start": 22,
+              "url": "https://t.co/lfY4EWAlf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055578346009071863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 712
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055229271644557516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toyosama0: 本日の太もも https://t.co/lfY4EWAlf8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055229256717004801"
+          ]
+        },
+        "author_id": "1213063104273084419",
+        "conversation_id": "2055229271644557516",
+        "created_at": "2026-05-15T10:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055229271644557516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfY4EWAlf8",
+              "end": 30,
+              "expanded_url": "https://x.com/toyosama0/status/2055229271644557516/photo/1",
+              "media_key": "3_2055229256717004801",
+              "start": 7,
+              "url": "https://t.co/lfY4EWAlf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055229271644557516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4535,
+          "impression_count": 350071,
+          "like_count": 27777,
+          "quote_count": 19,
+          "reply_count": 121,
+          "retweet_count": 712
+        },
+        "reply_settings": "everyone",
+        "text": "本日の太もも https://t.co/lfY4EWAlf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2978,
+          "like_count": 12842,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3864
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-03T11:42:55.000Z",
+        "description": "Cosplayer🍥🩷東京 |女子大生| 衣装コレクター | エナメル・バニー好き🍖 | セーラーマーキュリー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/toyosama",
+                "end": 23,
+                "expanded_url": "https://lit.link/toyosama",
+                "start": 0,
+                "url": "https://t.co/VwSoUksvWS"
+              }
+            ]
+          }
+        },
+        "id": "1213063104273084419",
+        "name": "とよ様",
+        "pinned_tweet_id": "2054867316966638006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882107463320981505/AAYuVJy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194435,
+          "following_count": 262,
+          "like_count": 40645,
+          "listed_count": 859,
+          "media_count": 314,
+          "tweet_count": 19653
+        },
+        "url": "https://t.co/VwSoUksvWS",
+        "username": "toyosama0",
+        "verified": true
+      }
+    ]
+  }
+}

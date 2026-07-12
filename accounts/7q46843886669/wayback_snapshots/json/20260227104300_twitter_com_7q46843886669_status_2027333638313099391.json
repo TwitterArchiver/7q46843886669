@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2027268847951364172",
+    "created_at": "2026-02-27T10:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027333638313099391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672345798070370305",
+          "start": 0,
+          "username": "aurait_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027333638313099391",
+    "in_reply_to_user_id": "1672345798070370305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027268847951364172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aurait_ 🥹咋这么有爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2027268847951364172",
+        "created_at": "2026-02-27T10:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027333638313099391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672345798070370305",
+              "start": 0,
+              "username": "aurait_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027333638313099391",
+        "in_reply_to_user_id": "1672345798070370305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027268847951364172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aurait_ 🥹咋这么有爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672345798070370305",
+        "conversation_id": "2027268847951364172",
+        "created_at": "2026-02-27T06:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027268847951364172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027268847951364172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1668,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要喝可乐，杜宾不让喝，把逼掰开拱在我跟前给我看，问我妈妈能不能不喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 1987,
+          "like_count": 2025,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 250
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T20:48:24.000Z",
+        "description": "🌈第几个一百天 也像刚热恋૮⁔. ̫ .⁔ა . ⁺ . ✦ @komorebi126",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "komorebi126"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=b1AtxaWu",
+                "start": 0,
+                "url": "https://t.co/9zEdogMT9G"
+              }
+            ]
+          }
+        },
+        "id": "1672345798070370305",
+        "name": "微熱",
+        "pinned_tweet_id": "1946952566564344153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022394342728699907/Sc5lS9re_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27140,
+          "following_count": 362,
+          "like_count": 2902,
+          "listed_count": 22,
+          "media_count": 436,
+          "tweet_count": 3558
+        },
+        "url": "https://t.co/9zEdogMT9G",
+        "username": "aurait_",
+        "verified": true
+      }
+    ]
+  }
+}

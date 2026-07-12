@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052969002570326016"
+      ],
+      "media_source_tweet_id": [
+        "2052974341994750462"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2053249393634267163",
+    "created_at": "2026-05-09T23:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T00:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053249393634267163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1696888856669220865",
+          "start": 3,
+          "username": "_mymsg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtYjEXeRsF",
+          "end": 35,
+          "expanded_url": "https://x.com/_mymsg/status/2052974341994750462/photo/1",
+          "media_key": "3_2052969002570326016",
+          "start": 12,
+          "url": "https://t.co/EtYjEXeRsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053249393634267163",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052974341994750462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mymsg: https://t.co/EtYjEXeRsF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2052969002570326016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2cbkUXoAAOcti.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052969002570326016"
+          ],
+          "media_source_tweet_id": [
+            "2052974341994750462"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2053249393634267163",
+        "created_at": "2026-05-09T23:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053249393634267163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1696888856669220865",
+              "start": 3,
+              "username": "_mymsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtYjEXeRsF",
+              "end": 35,
+              "expanded_url": "https://x.com/_mymsg/status/2052974341994750462/photo/1",
+              "media_key": "3_2052969002570326016",
+              "start": 12,
+              "url": "https://t.co/EtYjEXeRsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053249393634267163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052974341994750462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mymsg: https://t.co/EtYjEXeRsF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052969002570326016"
+          ]
+        },
+        "author_id": "1696888856669220865",
+        "conversation_id": "2052974341994750462",
+        "created_at": "2026-05-09T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052974341994750462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtYjEXeRsF",
+              "end": 23,
+              "expanded_url": "https://x.com/_mymsg/status/2052974341994750462/photo/1",
+              "media_key": "3_2052969002570326016",
+              "start": 0,
+              "url": "https://t.co/EtYjEXeRsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052974341994750462",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 785,
+          "impression_count": 124546,
+          "like_count": 7493,
+          "quote_count": 97,
+          "reply_count": 18,
+          "retweet_count": 1219
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EtYjEXeRsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2964,
+          "like_count": 11756,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3388
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T14:14:05.000Z",
+        "description": "my msgs for you ❤️ follow and turn on notifications for 🔔 💌 dm for credit/removal-  credit goes to the original creator of all post.",
+        "id": "1696888856669220865",
+        "name": "my msg.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709856706874769408/ksJg5CgA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103083,
+          "following_count": 4755,
+          "like_count": 41832,
+          "listed_count": 140,
+          "media_count": 46429,
+          "tweet_count": 72268
+        },
+        "username": "_mymsg",
+        "verified": true
+      }
+    ]
+  }
+}

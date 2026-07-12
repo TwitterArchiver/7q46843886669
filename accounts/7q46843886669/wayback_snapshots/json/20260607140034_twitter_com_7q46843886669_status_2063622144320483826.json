@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063608709012758583",
+    "created_at": "2026-06-07T14:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063622144320483826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058204766640234496",
+          "start": 0,
+          "username": "likelt02"
+        },
+        {
+          "end": 21,
+          "id": "2063228399586541568",
+          "start": 10,
+          "username": "_FanQie11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063622144320483826",
+    "in_reply_to_user_id": "2058204766640234496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063619694993822094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@likelt02 @_FanQie11_ 盯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063608709012758583",
+        "created_at": "2026-06-07T14:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063622144320483826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058204766640234496",
+              "start": 0,
+              "username": "likelt02"
+            },
+            {
+              "end": 21,
+              "id": "2063228399586541568",
+              "start": 10,
+              "username": "_FanQie11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063622144320483826",
+        "in_reply_to_user_id": "2058204766640234496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063619694993822094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@likelt02 @_FanQie11_ 盯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058204766640234496",
+        "conversation_id": "2063608709012758583",
+        "created_at": "2026-06-07T13:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063619694993822094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_FanQie11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063619694993822094",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063608709012758583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FanQie11_ 有点诡异。ㅎㅅㅎ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 3365,
+          "like_count": 17366,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 4798
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T15:15:30.000Z",
+        "description": "随风逐流，迎着未来向前行进",
+        "id": "2058204766640234496",
+        "name": "无锡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058205454250180608/Q0dwhUjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 265,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 170
+        },
+        "username": "likelt02",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "操蛋第11世\n寶寶@7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/GHBdAGFG8e"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "location": "看看你身後呢",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2063486029290787151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063229850941579264/ABMYWBep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 80,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/GHBdAGFG8e",
+        "username": "_FanQie11_",
+        "verified": false
+      }
+    ]
+  }
+}

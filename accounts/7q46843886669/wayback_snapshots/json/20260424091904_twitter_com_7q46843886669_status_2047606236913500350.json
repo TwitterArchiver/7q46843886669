@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2047361490773315584"
+      ],
+      "media_source_tweet_id": [
+        "2047361517863973029"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047606236913500350",
+    "created_at": "2026-04-24T09:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047606236913500350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842611263098028032",
+          "start": 3,
+          "username": "CuteAdorableCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mmmrPvfL9M",
+          "end": 57,
+          "expanded_url": "https://x.com/CuteAdorableCat/status/2047361517863973029/video/1",
+          "media_key": "7_2047361490773315584",
+          "start": 34,
+          "url": "https://t.co/mmmrPvfL9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047606236913500350",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1792
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047361517863973029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteAdorableCat: Fairy Kitten https://t.co/mmmrPvfL9M"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15140,
+        "height": 1280,
+        "media_key": "7_2047361490773315584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047361490773315584/pu/img/KvgKT3Di5-vvKVmY.jpg",
+        "public_metrics": {
+          "view_count": 113195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047361490773315584/pu/vid/avc1/320x568/Py-XyhIa-idVLaXi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047361490773315584/pu/vid/avc1/480x852/oRbtoMcL7a_wINW3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047361490773315584/pu/vid/avc1/720x1280/ArDqaj45yir9IBTi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047361490773315584/pu/pl/Mfi5r4wPlhSAGj7g.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047361490773315584"
+          ],
+          "media_source_tweet_id": [
+            "2047361517863973029"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047606236913500350",
+        "created_at": "2026-04-24T09:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047606236913500350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842611263098028032",
+              "start": 3,
+              "username": "CuteAdorableCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmmrPvfL9M",
+              "end": 57,
+              "expanded_url": "https://x.com/CuteAdorableCat/status/2047361517863973029/video/1",
+              "media_key": "7_2047361490773315584",
+              "start": 34,
+              "url": "https://t.co/mmmrPvfL9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047606236913500350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1792
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047361517863973029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteAdorableCat: Fairy Kitten https://t.co/mmmrPvfL9M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047361490773315584"
+          ]
+        },
+        "author_id": "1842611263098028032",
+        "conversation_id": "2047361517863973029",
+        "created_at": "2026-04-23T17:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047361517863973029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmmrPvfL9M",
+              "end": 36,
+              "expanded_url": "https://x.com/CuteAdorableCat/status/2047361517863973029/video/1",
+              "media_key": "7_2047361490773315584",
+              "start": 13,
+              "url": "https://t.co/mmmrPvfL9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047361517863973029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2066,
+          "impression_count": 466971,
+          "like_count": 12068,
+          "quote_count": 222,
+          "reply_count": 122,
+          "retweet_count": 1792
+        },
+        "reply_settings": "everyone",
+        "text": "Fairy Kitten https://t.co/mmmrPvfL9M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2709,
+          "like_count": 5872,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 962
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T17:02:59.000Z",
+        "description": "Follow for daily Cute and Adorable cats 😍😍",
+        "id": "1842611263098028032",
+        "location": "DM for credit or removal",
+        "name": "Cats That Make You Go Awww",
+        "pinned_tweet_id": "1981005119656493235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843711142985662464/U8MZHcte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79542,
+          "following_count": 3102,
+          "like_count": 10088,
+          "listed_count": 188,
+          "media_count": 8650,
+          "tweet_count": 14512
+        },
+        "username": "CuteAdorableCat",
+        "verified": true
+      }
+    ]
+  }
+}

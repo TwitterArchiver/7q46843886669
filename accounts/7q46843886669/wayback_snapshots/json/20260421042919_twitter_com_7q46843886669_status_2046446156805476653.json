@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046289878166671360"
+      ],
+      "media_source_tweet_id": [
+        "2046289883921350919"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046446156805476653",
+    "created_at": "2026-04-21T04:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046446156805476653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1536716629505359872",
+          "start": 3,
+          "username": "cigsafterdrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aYMjZ48FIT",
+          "end": 46,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2046289883921350919/photo/1",
+          "media_key": "3_2046289878166671360",
+          "start": 23,
+          "url": "https://t.co/aYMjZ48FIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046446156805476653",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046289883921350919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cigsafterdrug: 何意味 https://t.co/aYMjZ48FIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2046289878166671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXhzW-aEAAH3PS.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046289878166671360"
+          ],
+          "media_source_tweet_id": [
+            "2046289883921350919"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046446156805476653",
+        "created_at": "2026-04-21T04:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046446156805476653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1536716629505359872",
+              "start": 3,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYMjZ48FIT",
+              "end": 46,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2046289883921350919/photo/1",
+              "media_key": "3_2046289878166671360",
+              "start": 23,
+              "url": "https://t.co/aYMjZ48FIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046446156805476653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046289883921350919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cigsafterdrug: 何意味 https://t.co/aYMjZ48FIT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046289878166671360"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046289883921350919",
+        "created_at": "2026-04-20T18:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046289883921350919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYMjZ48FIT",
+              "end": 27,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2046289883921350919/photo/1",
+              "media_key": "3_2046289878166671360",
+              "start": 4,
+              "url": "https://t.co/aYMjZ48FIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046289883921350919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/aYMjZ48FIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2651,
+          "like_count": 4463,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 655
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 330,
+          "like_count": 21925,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1721
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052275798074163201"
+      ],
+      "media_source_tweet_id": [
+        "2052275817183379552"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052324389853843905",
+    "created_at": "2026-05-07T09:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052324389853843905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "888456526150512640",
+          "start": 3,
+          "username": "xiaotianbing11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dKD3N0DnaE",
+          "end": 107,
+          "expanded_url": "https://x.com/xiaotianbing11/status/2052275817183379552/photo/1",
+          "media_key": "3_2052275798074163201",
+          "start": 84,
+          "url": "https://t.co/dKD3N0DnaE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052324389853843905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052275817183379552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaotianbing11: 看到c我都要尖叫了\n简直噩梦照进现实\n除了分手是我不知好歹提的\n其他都跟我的初恋一模一样\n而我过了很多年才意识到自己错过了什么 https://t.co/dKD3N0DnaE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_2052275798074163201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsl9wVXgAEG6u4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052275798074163201"
+          ],
+          "media_source_tweet_id": [
+            "2052275817183379552"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052324389853843905",
+        "created_at": "2026-05-07T09:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052324389853843905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "888456526150512640",
+              "start": 3,
+              "username": "xiaotianbing11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKD3N0DnaE",
+              "end": 107,
+              "expanded_url": "https://x.com/xiaotianbing11/status/2052275817183379552/photo/1",
+              "media_key": "3_2052275798074163201",
+              "start": 84,
+              "url": "https://t.co/dKD3N0DnaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052324389853843905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052275817183379552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaotianbing11: 看到c我都要尖叫了\n简直噩梦照进现实\n除了分手是我不知好歹提的\n其他都跟我的初恋一模一样\n而我过了很多年才意识到自己错过了什么 https://t.co/dKD3N0DnaE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052275798074163201"
+          ]
+        },
+        "author_id": "888456526150512640",
+        "conversation_id": "2052275817183379552",
+        "created_at": "2026-05-07T06:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052275817183379552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKD3N0DnaE",
+              "end": 87,
+              "expanded_url": "https://x.com/xiaotianbing11/status/2052275817183379552/photo/1",
+              "media_key": "3_2052275798074163201",
+              "start": 64,
+              "url": "https://t.co/dKD3N0DnaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052275817183379552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1193,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看到c我都要尖叫了\n简直噩梦照进现实\n除了分手是我不知好歹提的\n其他都跟我的初恋一模一样\n而我过了很多年才意识到自己错过了什么 https://t.co/dKD3N0DnaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2901,
+          "like_count": 10912,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3111
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-21T17:51:57.000Z",
+        "description": "首先祝你开心 其次都是其次 / 纯4不互 无门槛不提供任何服务 单纯记录和分享 / 感激拥有的一切 好好过日子 / 不喜欢的评论秒隐藏回复➕拉黑 少惹我",
+        "id": "888456526150512640",
+        "name": "Temperance",
+        "pinned_tweet_id": "2029893141801955524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948388780215328768/kcWbsxK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 219,
+          "like_count": 13026,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 5776
+        },
+        "username": "xiaotianbing11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2028576266425635187",
+    "created_at": "2026-03-03T16:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028867709342228880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646433542661115904",
+          "start": 0,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028867709342228880",
+    "in_reply_to_user_id": "1646433542661115904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028576266425635187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanyinwu 我操 好帅的路人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2028576266425635187",
+        "created_at": "2026-03-03T16:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028867709342228880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646433542661115904",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028867709342228880",
+        "in_reply_to_user_id": "1646433542661115904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028576266425635187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 我操 好帅的路人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646433542661115904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2028576266425635187",
+        "created_at": "2026-03-02T21:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028576266425635187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028576266425635187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 48472,
+          "like_count": 520,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐在马路边哭了四五个小时，突然面前停下一辆摩托，戴着全包裹头盔特别摇滚的黑衣小哥问我是不是遇上了什么问题，说看我坐在这里哭了很久。\n我说我没问题，他再三确认后劝我早点回去休息，然后就离开了。他真是个好人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 2060,
+          "like_count": 2268,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 286
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:42:08.000Z",
+        "description": "动物园园长",
+        "id": "1646433542661115904",
+        "name": "盛予",
+        "pinned_tweet_id": "2023435012025299427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945455357427400704/VCxXs25A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28495,
+          "following_count": 8,
+          "like_count": 3594,
+          "listed_count": 57,
+          "media_count": 175,
+          "tweet_count": 2175
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

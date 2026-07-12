@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066879415045218305"
+      ],
+      "media_source_tweet_id": [
+        "2066898596868547016"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2067127411796488609",
+    "created_at": "2026-06-17T06:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067127411796488609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666657380216586240",
+          "start": 3,
+          "username": "de3dsoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k6rcftMjtu",
+          "end": 39,
+          "expanded_url": "https://x.com/de3dsoul/status/2066898596868547016/photo/1",
+          "media_key": "3_2066879415045218305",
+          "start": 16,
+          "url": "https://t.co/k6rcftMjtu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067127411796488609",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066898596868547016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de3dsoul: 😭 https://t.co/k6rcftMjtu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2066879415045218305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8H4I9WYAEqBVD.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066879415045218305"
+          ],
+          "media_source_tweet_id": [
+            "2066898596868547016"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2067127411796488609",
+        "created_at": "2026-06-17T06:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067127411796488609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666657380216586240",
+              "start": 3,
+              "username": "de3dsoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6rcftMjtu",
+              "end": 39,
+              "expanded_url": "https://x.com/de3dsoul/status/2066898596868547016/photo/1",
+              "media_key": "3_2066879415045218305",
+              "start": 16,
+              "url": "https://t.co/k6rcftMjtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067127411796488609",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066898596868547016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de3dsoul: 😭 https://t.co/k6rcftMjtu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066879415045218305"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "conversation_id": "2066898596868547016",
+        "created_at": "2026-06-16T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066898596868547016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6rcftMjtu",
+              "end": 25,
+              "expanded_url": "https://x.com/de3dsoul/status/2066898596868547016/photo/1",
+              "media_key": "3_2066879415045218305",
+              "start": 2,
+              "url": "https://t.co/k6rcftMjtu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066898596868547016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1480,
+          "impression_count": 320117,
+          "like_count": 23832,
+          "quote_count": 21,
+          "reply_count": 89,
+          "retweet_count": 620
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/k6rcftMjtu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 3391,
+          "like_count": 19181,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 5172
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "location": "him",
+        "name": "定",
+        "pinned_tweet_id": "2059596729280856083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134853,
+          "following_count": 51,
+          "like_count": 11392,
+          "listed_count": 249,
+          "media_count": 4558,
+          "tweet_count": 4979
+        },
+        "username": "de3dsoul",
+        "verified": true
+      }
+    ]
+  }
+}

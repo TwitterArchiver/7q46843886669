@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052335811614347265"
+      ],
+      "media_source_tweet_id": [
+        "2052418179100524667"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052634507132768742",
+    "created_at": "2026-05-08T06:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052634507132768742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HTpv57pxS1",
+          "end": 45,
+          "expanded_url": "https://x.com/YongQuan/status/2052418179100524667/photo/1",
+          "media_key": "3_2052335811614347265",
+          "start": 22,
+          "url": "https://t.co/HTpv57pxS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052634507132768742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052418179100524667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 这什么玩意儿？ https://t.co/HTpv57pxS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052335811614347265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtcjAMWEAE5ZR9.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052335811614347265"
+          ],
+          "media_source_tweet_id": [
+            "2052418179100524667"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052634507132768742",
+        "created_at": "2026-05-08T06:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052634507132768742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTpv57pxS1",
+              "end": 45,
+              "expanded_url": "https://x.com/YongQuan/status/2052418179100524667/photo/1",
+              "media_key": "3_2052335811614347265",
+              "start": 22,
+              "url": "https://t.co/HTpv57pxS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052634507132768742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052418179100524667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 这什么玩意儿？ https://t.co/HTpv57pxS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052335811614347265"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2052418179100524667",
+        "created_at": "2026-05-07T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052418179100524667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTpv57pxS1",
+              "end": 31,
+              "expanded_url": "https://x.com/YongQuan/status/2052418179100524667/photo/1",
+              "media_key": "3_2052335811614347265",
+              "start": 8,
+              "url": "https://t.co/HTpv57pxS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052418179100524667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13612,
+          "like_count": 181,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这什么玩意儿？ https://t.co/HTpv57pxS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 2937,
+          "like_count": 11229,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3174
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka\n\n于道各努力 千里自同风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9470,
+          "following_count": 4203,
+          "like_count": 44751,
+          "listed_count": 28,
+          "media_count": 3232,
+          "tweet_count": 11844
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

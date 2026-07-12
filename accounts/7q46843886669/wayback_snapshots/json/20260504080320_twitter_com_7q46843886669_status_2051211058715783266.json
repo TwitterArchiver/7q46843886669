@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051211058715783266",
+    "created_at": "2026-05-04T08:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T09:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051211058715783266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581866298145148928",
+          "start": 3,
+          "username": "Sycamore1937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051211058715783266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050892480368067049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sycamore1937: 你能被操就不错了  还贱兮兮的想着被爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051211058715783266",
+        "created_at": "2026-05-04T08:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051211058715783266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581866298145148928",
+              "start": 3,
+              "username": "Sycamore1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051211058715783266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050892480368067049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sycamore1937: 你能被操就不错了  还贱兮兮的想着被爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581866298145148928",
+        "conversation_id": "2050892480368067049",
+        "created_at": "2026-05-03T10:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050892480368067049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050892480368067049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8002,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你能被操就不错了  还贱兮兮的想着被爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 2870,
+          "like_count": 9674,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2721
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:59.000Z",
+        "description": "每日都苦恼于该如何写自介\n                                             欢迎提问 https://t.co/7EH1Xpk1Xq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chenguang1937",
+                "end": 86,
+                "expanded_url": "https://ngl.link/chenguang1937",
+                "start": 63,
+                "url": "https://t.co/7EH1Xpk1Xq"
+              }
+            ]
+          }
+        },
+        "id": "1581866298145148928",
+        "location": "Haidian，Beijing",
+        "name": "Sycamore",
+        "pinned_tweet_id": "1928779294387417570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007254943468793859/LfzqsrXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 204,
+          "like_count": 5080,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 2983
+        },
+        "username": "Sycamore1937",
+        "verified": false
+      }
+    ]
+  }
+}

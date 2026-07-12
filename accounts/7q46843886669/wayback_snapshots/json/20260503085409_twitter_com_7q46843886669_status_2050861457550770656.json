@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050589337176125440"
+      ],
+      "media_source_tweet_id": [
+        "2050589395322028228"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050861457550770656",
+    "created_at": "2026-05-03T08:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050861457550770656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1255191384207888389",
+          "start": 3,
+          "username": "depressionlesss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8aB5b7oIY",
+          "end": 69,
+          "expanded_url": "https://x.com/depressionlesss/status/2050589395322028228/video/1",
+          "media_key": "13_2050589337176125440",
+          "start": 46,
+          "url": "https://t.co/n8aB5b7oIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050861457550770656",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050589395322028228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depressionlesss: he thinks he’s a leopard https://t.co/n8aB5b7oIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5833,
+        "height": 910,
+        "media_key": "13_2050589337176125440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050589337176125440/img/cfHL8na_J8AuThhh.jpg",
+        "public_metrics": {
+          "view_count": 9544
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050589337176125440/vid/avc1/320x404/tiMQF3EkTO8XTpth.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050589337176125440/vid/avc1/480x606/QiC5LgfhdhRVhhmP.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050589337176125440/vid/avc1/720x910/1aZYiLNw6kCjILyG.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050589337176125440/pl/swHJXFEeFDIDO-8C.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050589337176125440"
+          ],
+          "media_source_tweet_id": [
+            "2050589395322028228"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050861457550770656",
+        "created_at": "2026-05-03T08:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050861457550770656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1255191384207888389",
+              "start": 3,
+              "username": "depressionlesss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8aB5b7oIY",
+              "end": 69,
+              "expanded_url": "https://x.com/depressionlesss/status/2050589395322028228/video/1",
+              "media_key": "13_2050589337176125440",
+              "start": 46,
+              "url": "https://t.co/n8aB5b7oIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050861457550770656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050589395322028228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depressionlesss: he thinks he’s a leopard https://t.co/n8aB5b7oIY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050589337176125440"
+          ]
+        },
+        "author_id": "1255191384207888389",
+        "conversation_id": "2050589395322028228",
+        "created_at": "2026-05-02T14:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050589395322028228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8aB5b7oIY",
+              "end": 48,
+              "expanded_url": "https://x.com/depressionlesss/status/2050589395322028228/video/1",
+              "media_key": "13_2050589337176125440",
+              "start": 25,
+              "url": "https://t.co/n8aB5b7oIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050589395322028228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 25538,
+          "like_count": 3043,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "he thinks he’s a leopard https://t.co/n8aB5b7oIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 2852,
+          "like_count": 9374,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2591
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-28T17:45:33.000Z",
+        "description": "Follow for daily cute content 😺🩶 All copyrights belong to their respective owners. DM for credits/removal/submission.",
+        "id": "1255191384207888389",
+        "name": "Antidepressant Content",
+        "pinned_tweet_id": "2048594230507938178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734564468342796288/QvSbuN-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367450,
+          "following_count": 5586,
+          "like_count": 105231,
+          "listed_count": 809,
+          "media_count": 14958,
+          "tweet_count": 24796
+        },
+        "username": "depressionlesss",
+        "verified": true
+      }
+    ]
+  }
+}

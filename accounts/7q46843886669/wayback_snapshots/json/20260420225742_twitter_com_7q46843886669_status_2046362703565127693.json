@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046226859629912469",
+    "created_at": "2026-04-20T22:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T23:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046362703565127693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        },
+        {
+          "end": 16,
+          "id": "1989965282799226880",
+          "start": 8,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046362703565127693",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046230573178577110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jy6op @DQadopt 开个班吧我跪着学orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046226859629912469",
+        "created_at": "2026-04-20T22:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T23:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046362703565127693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            },
+            {
+              "end": 16,
+              "id": "1989965282799226880",
+              "start": 8,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046362703565127693",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046230573178577110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jy6op @DQadopt 开个班吧我跪着学orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773714073676652544",
+        "conversation_id": "2046226859629912469",
+        "created_at": "2026-04-20T14:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046230573178577110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046230573178577110",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046228719845675384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 她这样说是有点生气了\n你撒娇中问问为什么生气，是不是打扰到她了这样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2632,
+          "like_count": 4304,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 612
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "长发les\n注意力很容易被吸走，说着说着话突然没有了是去玩别的了\np0～0.5\n对不起我抽象是因为我的职业\nenfp\n发现你的帖子有趣的话会私信追问",
+        "id": "1773714073676652544",
+        "location": "所有事情都是我编的，勿联系现实",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2045747217651450352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035885369783406592/ZBJvpGQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 655,
+          "like_count": 8575,
+          "listed_count": 4,
+          "media_count": 1204,
+          "tweet_count": 25239
+        },
+        "username": "9jy6op",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 332,
+          "like_count": 3028,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3627
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

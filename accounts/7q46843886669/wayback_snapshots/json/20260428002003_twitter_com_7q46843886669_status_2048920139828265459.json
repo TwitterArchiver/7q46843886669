@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048666969101279232",
+        "3_2048666969088643072"
+      ],
+      "media_source_tweet_id": [
+        "2048666984624341113",
+        "2048666984624341113"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048920139828265459",
+    "created_at": "2026-04-28T00:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048920139828265459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "393509852",
+          "start": 3,
+          "username": "_bokunou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FfoFU8SZDS",
+          "end": 37,
+          "expanded_url": "https://x.com/_bokunou/status/2048666984624341113/photo/1",
+          "media_key": "3_2048666969101279232",
+          "start": 14,
+          "url": "https://t.co/FfoFU8SZDS"
+        },
+        {
+          "display_url": "pic.x.com/FfoFU8SZDS",
+          "end": 37,
+          "expanded_url": "https://x.com/_bokunou/status/2048666984624341113/photo/1",
+          "media_key": "3_2048666969088643072",
+          "start": 14,
+          "url": "https://t.co/FfoFU8SZDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048920139828265459",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3830
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048666984624341113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_bokunou: https://t.co/FfoFU8SZDS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048666969101279232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5TwQxboAAGP3M.jpg",
+        "width": 1804
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048666969088643072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5TwQua0AAlKw6.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048666969101279232",
+            "3_2048666969088643072"
+          ],
+          "media_source_tweet_id": [
+            "2048666984624341113",
+            "2048666984624341113"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048920139828265459",
+        "created_at": "2026-04-28T00:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048920139828265459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "393509852",
+              "start": 3,
+              "username": "_bokunou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FfoFU8SZDS",
+              "end": 37,
+              "expanded_url": "https://x.com/_bokunou/status/2048666984624341113/photo/1",
+              "media_key": "3_2048666969101279232",
+              "start": 14,
+              "url": "https://t.co/FfoFU8SZDS"
+            },
+            {
+              "display_url": "pic.x.com/FfoFU8SZDS",
+              "end": 37,
+              "expanded_url": "https://x.com/_bokunou/status/2048666984624341113/photo/1",
+              "media_key": "3_2048666969088643072",
+              "start": 14,
+              "url": "https://t.co/FfoFU8SZDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048920139828265459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3830
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048666984624341113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_bokunou: https://t.co/FfoFU8SZDS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048666969101279232",
+            "3_2048666969088643072"
+          ]
+        },
+        "author_id": "393509852",
+        "conversation_id": "2048666984624341113",
+        "created_at": "2026-04-27T07:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048666984624341113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FfoFU8SZDS",
+              "end": 23,
+              "expanded_url": "https://x.com/_bokunou/status/2048666984624341113/photo/1",
+              "media_key": "3_2048666969101279232",
+              "start": 0,
+              "url": "https://t.co/FfoFU8SZDS"
+            },
+            {
+              "display_url": "pic.x.com/FfoFU8SZDS",
+              "end": 23,
+              "expanded_url": "https://x.com/_bokunou/status/2048666984624341113/photo/1",
+              "media_key": "3_2048666969088643072",
+              "start": 0,
+              "url": "https://t.co/FfoFU8SZDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048666984624341113",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1867,
+          "impression_count": 1045225,
+          "like_count": 38272,
+          "quote_count": 255,
+          "reply_count": 92,
+          "retweet_count": 3830
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FfoFU8SZDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 2766,
+          "like_count": 6441,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1446
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-18T16:59:35.000Z",
+        "description": "パフォーマンス/作品制作/構成作家/連絡→bokunou@gmail.com / https://t.co/HZGSE5haYP / https://t.co/tr3NuvxtfX / https://t.co/JGivDc6lnp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bokunou",
+                "end": 64,
+                "expanded_url": "http://instagram.com/bokunou",
+                "start": 41,
+                "url": "https://t.co/HZGSE5haYP"
+              },
+              {
+                "display_url": "youtube.com/channel/UCK5HM…",
+                "end": 90,
+                "expanded_url": "https://www.youtube.com/channel/UCK5HM0r5q6u_oaYpEsjgmiQ",
+                "start": 67,
+                "url": "https://t.co/tr3NuvxtfX"
+              },
+              {
+                "display_url": "note.com/_bokunou",
+                "end": 116,
+                "expanded_url": "https://note.com/_bokunou",
+                "start": 93,
+                "url": "https://t.co/JGivDc6lnp"
+              }
+            ]
+          }
+        },
+        "id": "393509852",
+        "location": "東京",
+        "name": "ぼく脳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905837826761195520/2S66gfQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77820,
+          "following_count": 898,
+          "like_count": 7107,
+          "listed_count": 370,
+          "media_count": 3984,
+          "tweet_count": 13767
+        },
+        "username": "_bokunou",
+        "verified": false
+      }
+    ]
+  }
+}

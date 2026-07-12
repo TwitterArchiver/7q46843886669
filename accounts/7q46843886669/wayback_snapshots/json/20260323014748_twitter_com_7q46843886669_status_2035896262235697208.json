@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2035710732424368444",
+    "created_at": "2026-03-23T01:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035896262235697208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417155588551847937",
+          "start": 0,
+          "username": "JealousDevil9"
+        },
+        {
+          "end": 28,
+          "id": "1491080744508489731",
+          "start": 15,
+          "username": "0308_Sodashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035896262235697208",
+    "in_reply_to_user_id": "1417155588551847937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035829271214817781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JealousDevil9 @0308_Sodashi 我也要🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2035710732424368444",
+        "created_at": "2026-03-23T01:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035896262235697208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417155588551847937",
+              "start": 0,
+              "username": "JealousDevil9"
+            },
+            {
+              "end": 28,
+              "id": "1491080744508489731",
+              "start": 15,
+              "username": "0308_Sodashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035896262235697208",
+        "in_reply_to_user_id": "1417155588551847937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035829271214817781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JealousDevil9 @0308_Sodashi 我也要🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417155588551847937",
+        "conversation_id": "2035710732424368444",
+        "created_at": "2026-03-22T21:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T22:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035829271214817781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491080744508489731",
+              "start": 0,
+              "username": "0308_Sodashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035829271214817781",
+        "in_reply_to_user_id": "1491080744508489731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035710732424368444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0308_Sodashi ？不信，得我來用嘴量一量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 2288,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 392
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T16:13:29.000Z",
+        "description": "乞求歡愉",
+        "id": "1417155588551847937",
+        "location": "Null",
+        "name": "サヤ₂",
+        "pinned_tweet_id": "1873222086057168919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711707302880026624/uOqSDoE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 2799,
+          "like_count": 161943,
+          "listed_count": 11,
+          "media_count": 2095,
+          "tweet_count": 27293
+        },
+        "username": "JealousDevil9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T16:05:39.000Z",
+        "description": "｜德國在住｜鉄道・帝国海軍・競馬が好き｜艦これ 柱島泊地｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whofuckingcares.com",
+                "end": 23,
+                "expanded_url": "http://whofuckingcares.com",
+                "start": 0,
+                "url": "https://t.co/bup4Aua3Sh"
+              }
+            ]
+          }
+        },
+        "id": "1491080744508489731",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "葉",
+        "pinned_tweet_id": "2026320201122554124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021503960805502976/zZTcd3AA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3567,
+          "following_count": 3420,
+          "like_count": 119491,
+          "listed_count": 15,
+          "media_count": 4931,
+          "tweet_count": 32759
+        },
+        "url": "https://t.co/bup4Aua3Sh",
+        "username": "0308_Sodashi",
+        "verified": false
+      }
+    ]
+  }
+}

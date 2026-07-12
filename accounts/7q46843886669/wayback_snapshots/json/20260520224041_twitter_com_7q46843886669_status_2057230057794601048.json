@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057229948830863360"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057230057794601048",
+    "created_at": "2026-05-20T22:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057230057794601048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tBkeJwxcuU",
+          "end": 32,
+          "expanded_url": "https://x.com/7q46843886669/status/2057230057794601048/photo/1",
+          "media_key": "3_2057229948830863360",
+          "start": 9,
+          "url": "https://t.co/tBkeJwxcuU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057230057794601048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拿你號看片咋了。 https://t.co/tBkeJwxcuU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2209,
+        "media_key": "3_2057229948830863360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIy_vSFb0AAE64H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057229948830863360"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057230057794601048",
+        "created_at": "2026-05-20T22:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057230057794601048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBkeJwxcuU",
+              "end": 32,
+              "expanded_url": "https://x.com/7q46843886669/status/2057230057794601048/photo/1",
+              "media_key": "3_2057229948830863360",
+              "start": 9,
+              "url": "https://t.co/tBkeJwxcuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057230057794601048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿你號看片咋了。 https://t.co/tBkeJwxcuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 3009,
+          "like_count": 13960,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 4311
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

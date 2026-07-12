@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2062049804730122423",
+    "created_at": "2026-06-03T05:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062049804730122423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809604484173295620",
+          "start": 3,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062049804730122423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062008467632906741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @for_4ngel: 顺带一提奈普生钠对吸收总量的促进影响很大理论能在此基础上再提升 15% Erowid上给出的是250mgˉ500mg奈普生钠在加巴喷丁服用前半小时服用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2062049804730122423",
+        "created_at": "2026-06-03T05:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062049804730122423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809604484173295620",
+              "start": 3,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062049804730122423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062008467632906741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @for_4ngel: 顺带一提奈普生钠对吸收总量的促进影响很大理论能在此基础上再提升 15% Erowid上给出的是250mgˉ500mg奈普生钠在加巴喷丁服用前半小时服用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2062008467632906741",
+        "created_at": "2026-06-03T03:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062008467632906741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2061654404642807904",
+              "start": 76,
+              "url": "https://t.co/REWohJVoXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062008467632906741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 162,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061654404642807904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺带一提奈普生钠对吸收总量的促进影响很大理论能在此基础上再提升 15% Erowid上给出的是250mgˉ500mg奈普生钠在加巴喷丁服用前半小时服用 https://t.co/REWohJVoXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 3307,
+          "like_count": 16548,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 4633
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 461,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 506
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

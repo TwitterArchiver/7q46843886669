@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049902449683800064"
+      ],
+      "media_source_tweet_id": [
+        "2049902452959543627"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050170643489214772",
+    "created_at": "2026-05-01T11:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050170643489214772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847283804571836416",
+          "start": 3,
+          "username": "House0fSyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6mM34pgHap",
+          "end": 39,
+          "expanded_url": "https://x.com/House0fSyn/status/2049902452959543627/photo/1",
+          "media_key": "3_2049902449683800064",
+          "start": 16,
+          "url": "https://t.co/6mM34pgHap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050170643489214772",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049902452959543627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @House0fSyn: https://t.co/6mM34pgHap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_2049902449683800064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHK3asmbIAA8F2b.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049902449683800064"
+          ],
+          "media_source_tweet_id": [
+            "2049902452959543627"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050170643489214772",
+        "created_at": "2026-05-01T11:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050170643489214772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847283804571836416",
+              "start": 3,
+              "username": "House0fSyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mM34pgHap",
+              "end": 39,
+              "expanded_url": "https://x.com/House0fSyn/status/2049902452959543627/photo/1",
+              "media_key": "3_2049902449683800064",
+              "start": 16,
+              "url": "https://t.co/6mM34pgHap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050170643489214772",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049902452959543627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @House0fSyn: https://t.co/6mM34pgHap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049902449683800064"
+          ]
+        },
+        "author_id": "1847283804571836416",
+        "conversation_id": "2049902452959543627",
+        "created_at": "2026-04-30T17:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049902452959543627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mM34pgHap",
+              "end": 23,
+              "expanded_url": "https://x.com/House0fSyn/status/2049902452959543627/photo/1",
+              "media_key": "3_2049902449683800064",
+              "start": 0,
+              "url": "https://t.co/6mM34pgHap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049902452959543627",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 23446,
+          "like_count": 1585,
+          "quote_count": 14,
+          "reply_count": 20,
+          "retweet_count": 418
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6mM34pgHap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2839,
+          "like_count": 8200,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2137
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T14:29:27.000Z",
+        "description": "❥ ﾒ૦ﾒ૦ ❥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/House0fSyn",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/House0fSyn",
+                "start": 0,
+                "url": "https://t.co/xKZq11AiDn"
+              }
+            ]
+          }
+        },
+        "id": "1847283804571836416",
+        "name": "𝐒⃥𝐲⃥𝐧⃥",
+        "pinned_tweet_id": "2043769156399706566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023501570730827776/UkU1cnhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18773,
+          "following_count": 666,
+          "like_count": 46853,
+          "listed_count": 45,
+          "media_count": 4680,
+          "tweet_count": 40464
+        },
+        "url": "https://t.co/xKZq11AiDn",
+        "username": "House0fSyn",
+        "verified": true
+      }
+    ]
+  }
+}

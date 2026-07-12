@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051307827046887424"
+      ],
+      "media_source_tweet_id": [
+        "2052010494660325531"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052204413008388429",
+    "created_at": "2026-05-07T01:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052204413008388429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YwgkrbVwKo",
+          "end": 48,
+          "expanded_url": "https://x.com/YongQuan/status/2052010494660325531/photo/1",
+          "media_key": "3_2051307827046887424",
+          "start": 25,
+          "url": "https://t.co/YwgkrbVwKo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052204413008388429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052010494660325531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: “广岛没有百年老店” https://t.co/YwgkrbVwKo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2051307827046887424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHe1mbQbsAAZF45.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051307827046887424"
+          ],
+          "media_source_tweet_id": [
+            "2052010494660325531"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052204413008388429",
+        "created_at": "2026-05-07T01:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052204413008388429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwgkrbVwKo",
+              "end": 48,
+              "expanded_url": "https://x.com/YongQuan/status/2052010494660325531/photo/1",
+              "media_key": "3_2051307827046887424",
+              "start": 25,
+              "url": "https://t.co/YwgkrbVwKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052204413008388429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052010494660325531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: “广岛没有百年老店” https://t.co/YwgkrbVwKo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051307827046887424"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052010494660325531",
+        "created_at": "2026-05-06T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052010494660325531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwgkrbVwKo",
+              "end": 34,
+              "expanded_url": "https://x.com/YongQuan/status/2052010494660325531/photo/1",
+              "media_key": "3_2051307827046887424",
+              "start": 11,
+              "url": "https://t.co/YwgkrbVwKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052010494660325531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 84156,
+          "like_count": 858,
+          "quote_count": 0,
+          "reply_count": 122,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "“广岛没有百年老店” https://t.co/YwgkrbVwKo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 2900,
+          "like_count": 10830,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3082
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@yqua_｜@XUEQIUxka｜@0KJ7A｜@Tennoujinyano\n\nBest Gamers in @JDGaming & @BilibiliGaming\n双相｜🏳️‍⚧️Enby🏳️‍🌈｜Esports｜AI/ML在读",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "yqua_"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "username": "0KJ7A"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "JDGaming"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "栓栓铨铨的，好吃😋",
+        "pinned_tweet_id": "2049415816337297897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9456,
+          "following_count": 4203,
+          "like_count": 44552,
+          "listed_count": 29,
+          "media_count": 3198,
+          "tweet_count": 11765
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": false
+      }
+    ]
+  }
+}

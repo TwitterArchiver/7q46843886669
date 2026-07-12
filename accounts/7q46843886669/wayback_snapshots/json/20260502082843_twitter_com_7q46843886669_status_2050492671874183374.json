@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050246884795494400"
+      ],
+      "media_source_tweet_id": [
+        "2050246886653571566"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050492671874183374",
+    "created_at": "2026-05-02T08:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050492671874183374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "36889519",
+          "start": 3,
+          "username": "RaminNasibov"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yShaXOwdF8",
+          "end": 58,
+          "expanded_url": "https://x.com/RaminNasibov/status/2050246886653571566/photo/1",
+          "media_key": "3_2050246884795494400",
+          "start": 35,
+          "url": "https://t.co/yShaXOwdF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050492671874183374",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 482
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050246886653571566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaminNasibov: pencil sharpener https://t.co/yShaXOwdF8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2050246884795494400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPwrdYWMAAmoIN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050246884795494400"
+          ],
+          "media_source_tweet_id": [
+            "2050246886653571566"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050492671874183374",
+        "created_at": "2026-05-02T08:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050492671874183374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "36889519",
+              "start": 3,
+              "username": "RaminNasibov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yShaXOwdF8",
+              "end": 58,
+              "expanded_url": "https://x.com/RaminNasibov/status/2050246886653571566/photo/1",
+              "media_key": "3_2050246884795494400",
+              "start": 35,
+              "url": "https://t.co/yShaXOwdF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050492671874183374",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 482
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050246886653571566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaminNasibov: pencil sharpener https://t.co/yShaXOwdF8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050246884795494400"
+          ]
+        },
+        "author_id": "36889519",
+        "conversation_id": "2050246886653571566",
+        "created_at": "2026-05-01T16:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050246886653571566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yShaXOwdF8",
+              "end": 40,
+              "expanded_url": "https://x.com/RaminNasibov/status/2050246886653571566/photo/1",
+              "media_key": "3_2050246884795494400",
+              "start": 17,
+              "url": "https://t.co/yShaXOwdF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050246886653571566",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 61158,
+          "like_count": 6637,
+          "quote_count": 24,
+          "reply_count": 19,
+          "retweet_count": 482
+        },
+        "reply_settings": "everyone",
+        "text": "pencil sharpener https://t.co/yShaXOwdF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2846,
+          "like_count": 8723,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2355
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T05:13:30.000Z",
+        "description": "Branding & Visual Identity Designer ✦ Available for new projects: ramin@nasibov.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasibov.me",
+                "end": 23,
+                "expanded_url": "https://www.nasibov.me",
+                "start": 0,
+                "url": "https://t.co/iCqDSJzjlc"
+              }
+            ]
+          }
+        },
+        "id": "36889519",
+        "location": "Book a project →",
+        "name": "Ramin Nasibov",
+        "pinned_tweet_id": "2050326069773775238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006792793650323456/WI88G3rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848816,
+          "following_count": 347195,
+          "like_count": 908878,
+          "listed_count": 3885,
+          "media_count": 74019,
+          "tweet_count": 89449
+        },
+        "url": "https://t.co/iCqDSJzjlc",
+        "username": "RaminNasibov",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052064795613167829",
+    "created_at": "2026-05-07T09:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052322393411256544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041512979766890496",
+          "start": 0,
+          "username": "Xxxyyyy2xbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052322393411256544",
+    "in_reply_to_user_id": "2041512979766890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052064795613167829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxyyyy2xbc 福福防御就上了他的当了吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_2052064785752363008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpmDOLbkAABfkq.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052064795613167829",
+        "created_at": "2026-05-07T09:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052322393411256544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041512979766890496",
+              "start": 0,
+              "username": "Xxxyyyy2xbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052322393411256544",
+        "in_reply_to_user_id": "2041512979766890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052064795613167829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxyyyy2xbc 福福防御就上了他的当了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052064785752363008"
+          ]
+        },
+        "author_id": "2041512979766890496",
+        "conversation_id": "2052064795613167829",
+        "created_at": "2026-05-06T16:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052064795613167829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcQjpXzRW9",
+              "end": 30,
+              "expanded_url": "https://x.com/Xxxyyyy2xbc/status/2052064795613167829/photo/1",
+              "media_key": "3_2052064785752363008",
+              "start": 7,
+              "url": "https://t.co/pcQjpXzRW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052064795613167829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12760,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "半夜笑死了。 https://t.co/pcQjpXzRW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2901,
+          "like_count": 10891,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3103
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T13:47:59.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子",
+        "id": "2041512979766890496",
+        "name": "那年与你邂逅的薇薇",
+        "pinned_tweet_id": "2048776218158534746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045463585825177600/emeNmlsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 27,
+          "like_count": 483,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 323
+        },
+        "username": "Xxxyyyy2xbc",
+        "verified": false
+      }
+    ]
+  }
+}

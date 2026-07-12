@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048711105758023680"
+      ],
+      "media_source_tweet_id": [
+        "2048711116914872427"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048743866946474021",
+    "created_at": "2026-04-27T12:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048743866946474021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981352257355710464",
+          "start": 3,
+          "username": "X1aoYu_QAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qTGHOYgIb",
+          "end": 43,
+          "expanded_url": "https://x.com/X1aoYu_QAQ/status/2048711116914872427/photo/1",
+          "media_key": "3_2048711105758023680",
+          "start": 20,
+          "url": "https://t.co/7qTGHOYgIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048743866946474021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048711116914872427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1aoYu_QAQ: 我每天 https://t.co/7qTGHOYgIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1545,
+        "media_key": "3_2048711105758023680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG575Woa0AA31KP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048711105758023680"
+          ],
+          "media_source_tweet_id": [
+            "2048711116914872427"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048743866946474021",
+        "created_at": "2026-04-27T12:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048743866946474021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981352257355710464",
+              "start": 3,
+              "username": "X1aoYu_QAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qTGHOYgIb",
+              "end": 43,
+              "expanded_url": "https://x.com/X1aoYu_QAQ/status/2048711116914872427/photo/1",
+              "media_key": "3_2048711105758023680",
+              "start": 20,
+              "url": "https://t.co/7qTGHOYgIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048743866946474021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048711116914872427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X1aoYu_QAQ: 我每天 https://t.co/7qTGHOYgIb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048711105758023680"
+          ]
+        },
+        "author_id": "1981352257355710464",
+        "conversation_id": "2048711116914872427",
+        "created_at": "2026-04-27T10:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048711116914872427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qTGHOYgIb",
+              "end": 27,
+              "expanded_url": "https://x.com/X1aoYu_QAQ/status/2048711116914872427/photo/1",
+              "media_key": "3_2048711105758023680",
+              "start": 4,
+              "url": "https://t.co/7qTGHOYgIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048711116914872427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我每天 https://t.co/7qTGHOYgIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2748,
+          "like_count": 6369,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1410
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T13:29:33.000Z",
+        "description": "我叫小雨｜天秤｜ISFP｜SWITCH｜偷盗存图替我挡灾｜废话日常｜纯绿🚪52｜打瓦厉害的带带我｜关评帖为推广真假请自辨｜YUuuu8k粉大号飞升版@X1aoYuQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "X1aoYuQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1981352257355710464",
+        "location": "除🚪不闲聊 看心情回复",
+        "name": "YUuuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021257681810620418/0nm4Ew01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 276,
+          "like_count": 908,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 368
+        },
+        "username": "X1aoYu_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055279968570232832"
+      ],
+      "media_source_tweet_id": [
+        "2055287085397913957"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055308570967871549",
+    "created_at": "2026-05-15T15:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055308570967871549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qqN6ihU2Vj",
+          "end": 44,
+          "expanded_url": "https://x.com/youy1qwq/status/2055287085397913957/photo/1",
+          "media_key": "3_2055279968570232832",
+          "start": 21,
+          "url": "https://t.co/qqN6ihU2Vj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055308570967871549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055287085397913957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 读过最绝望的 https://t.co/qqN6ihU2Vj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_2055279968570232832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXSPfia0AAn3To.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055279968570232832"
+          ],
+          "media_source_tweet_id": [
+            "2055287085397913957"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055308570967871549",
+        "created_at": "2026-05-15T15:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055308570967871549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqN6ihU2Vj",
+              "end": 44,
+              "expanded_url": "https://x.com/youy1qwq/status/2055287085397913957/photo/1",
+              "media_key": "3_2055279968570232832",
+              "start": 21,
+              "url": "https://t.co/qqN6ihU2Vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055308570967871549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055287085397913957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 读过最绝望的 https://t.co/qqN6ihU2Vj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055279968570232832"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2055287085397913957",
+        "created_at": "2026-05-15T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055287085397913957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqN6ihU2Vj",
+              "end": 30,
+              "expanded_url": "https://x.com/youy1qwq/status/2055287085397913957/photo/1",
+              "media_key": "3_2055279968570232832",
+              "start": 7,
+              "url": "https://t.co/qqN6ihU2Vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055287085397913957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 940,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "读过最绝望的 https://t.co/qqN6ihU2Vj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 2981,
+          "like_count": 12771,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3837
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13055,
+          "following_count": 1800,
+          "like_count": 4141,
+          "listed_count": 20,
+          "media_count": 1755,
+          "tweet_count": 2275
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

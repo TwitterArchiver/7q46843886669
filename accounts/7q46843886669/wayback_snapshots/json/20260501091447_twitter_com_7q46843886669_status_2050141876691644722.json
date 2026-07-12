@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049938152563847168"
+      ],
+      "media_source_tweet_id": [
+        "2049938155319513531"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050141876691644722",
+    "created_at": "2026-05-01T09:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050141876691644722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1416059462113284100",
+          "start": 3,
+          "username": "GeneralFoxxxy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/84hoqLYCq8",
+          "end": 42,
+          "expanded_url": "https://x.com/GeneralFoxxxy/status/2049938155319513531/photo/1",
+          "media_key": "3_2049938152563847168",
+          "start": 19,
+          "url": "https://t.co/84hoqLYCq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050141876691644722",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049938155319513531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeneralFoxxxy: https://t.co/84hoqLYCq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2049938152563847168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLX44MWsAAFF1e.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049938152563847168"
+          ],
+          "media_source_tweet_id": [
+            "2049938155319513531"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050141876691644722",
+        "created_at": "2026-05-01T09:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050141876691644722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1416059462113284100",
+              "start": 3,
+              "username": "GeneralFoxxxy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/84hoqLYCq8",
+              "end": 42,
+              "expanded_url": "https://x.com/GeneralFoxxxy/status/2049938155319513531/photo/1",
+              "media_key": "3_2049938152563847168",
+              "start": 19,
+              "url": "https://t.co/84hoqLYCq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050141876691644722",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049938155319513531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeneralFoxxxy: https://t.co/84hoqLYCq8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049938152563847168"
+          ]
+        },
+        "author_id": "1416059462113284100",
+        "conversation_id": "2049938155319513531",
+        "created_at": "2026-04-30T19:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049938155319513531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84hoqLYCq8",
+              "end": 23,
+              "expanded_url": "https://x.com/GeneralFoxxxy/status/2049938155319513531/photo/1",
+              "media_key": "3_2049938152563847168",
+              "start": 0,
+              "url": "https://t.co/84hoqLYCq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049938155319513531",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 51312,
+          "like_count": 4095,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 217
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/84hoqLYCq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2833,
+          "like_count": 8179,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2130
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-16T15:37:47.000Z",
+        "description": "I'm Faith.\nHer Royal Cuteness.\nBnuuy Girl.\n\n25. BPD coded trans girl.\n\nYour daughter has probably moaned my name.\n\nMDNI\n\n16/04/23 💉\n\npriv @ramblesoffaith",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 138,
+                "username": "ramblesoffaith"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/generalvalkyrie",
+                "end": 23,
+                "expanded_url": "https://throne.com/generalvalkyrie",
+                "start": 0,
+                "url": "https://t.co/WCtKmHDU9C"
+              }
+            ]
+          }
+        },
+        "id": "1416059462113284100",
+        "location": "A deluded pseudo reality.",
+        "name": "Faith🐇 🏳️‍🌈 🔞 18+",
+        "pinned_tweet_id": "2049608482236551519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933548458880741376/t9XYLQN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 420,
+          "like_count": 20443,
+          "listed_count": 6,
+          "media_count": 726,
+          "tweet_count": 7528
+        },
+        "url": "https://t.co/WCtKmHDU9C",
+        "username": "GeneralFoxxxy",
+        "verified": false
+      }
+    ]
+  }
+}

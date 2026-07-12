@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1971104012692045943",
+    "created_at": "2025-09-26T22:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T23:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971703148143321088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofumofuyewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971703148143321088",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971104012692045943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofumofuyewo 其实男娘们怎么不算是被大家利用缺爱心理哄骗穿上女装的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1971104012692045943",
+        "created_at": "2025-09-26T22:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T23:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971703148143321088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofumofuyewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971703148143321088",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971104012692045943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofumofuyewo 其实男娘们怎么不算是被大家利用缺爱心理哄骗穿上女装的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "1971104012692045943",
+        "created_at": "2025-09-25T06:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T07:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971104012692045943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971104012692045943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 186077,
+          "like_count": 1226,
+          "quote_count": 12,
+          "reply_count": 65,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "某些喜欢男娘的，再利用某些小男孩的缺爱心理哄骗他穿女装给你草试试呢？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 568,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜碎碎念自留地｜魔怔人勿扰｜账号发言非常恶俗｜你喜欢腋窝，腋窝也喜欢你",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1883144822237860206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883135457296617472/4AOpR5zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 479,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 620
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

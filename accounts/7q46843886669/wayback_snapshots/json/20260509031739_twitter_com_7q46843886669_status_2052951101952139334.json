@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052706815914147840"
+      ],
+      "media_source_tweet_id": [
+        "2052706832552997300"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052951101952139334",
+    "created_at": "2026-05-09T03:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052951101952139334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1137440925343506432",
+          "start": 3,
+          "username": "DevGwardo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SX68fP2a10",
+          "end": 38,
+          "expanded_url": "https://x.com/DevGwardo/status/2052706832552997300/photo/1",
+          "media_key": "3_2052706815914147840",
+          "start": 15,
+          "url": "https://t.co/SX68fP2a10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052951101952139334",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052706832552997300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DevGwardo: https://t.co/SX68fP2a10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2052706815914147840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyt-S6WAAAh4z-.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706815914147840"
+          ],
+          "media_source_tweet_id": [
+            "2052706832552997300"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052951101952139334",
+        "created_at": "2026-05-09T03:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052951101952139334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1137440925343506432",
+              "start": 3,
+              "username": "DevGwardo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SX68fP2a10",
+              "end": 38,
+              "expanded_url": "https://x.com/DevGwardo/status/2052706832552997300/photo/1",
+              "media_key": "3_2052706815914147840",
+              "start": 15,
+              "url": "https://t.co/SX68fP2a10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052951101952139334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052706832552997300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DevGwardo: https://t.co/SX68fP2a10"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706815914147840"
+          ]
+        },
+        "author_id": "1137440925343506432",
+        "conversation_id": "2052706832552997300",
+        "created_at": "2026-05-08T11:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052706832552997300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SX68fP2a10",
+              "end": 23,
+              "expanded_url": "https://x.com/DevGwardo/status/2052706832552997300/photo/1",
+              "media_key": "3_2052706815914147840",
+              "start": 0,
+              "url": "https://t.co/SX68fP2a10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052706832552997300",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 47091,
+          "like_count": 3045,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SX68fP2a10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2965,
+          "like_count": 11563,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3318
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-08T19:27:04.000Z",
+        "description": "i dev things\nnew project coming soon\nalien @nubcat enjoyer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "nubcat"
+              }
+            ]
+          }
+        },
+        "id": "1137440925343506432",
+        "name": "DevGwardo",
+        "pinned_tweet_id": "1933713690739589443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012920239239905280/UH4UqRpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19982,
+          "following_count": 786,
+          "like_count": 54878,
+          "listed_count": 61,
+          "media_count": 5105,
+          "tweet_count": 286465
+        },
+        "username": "DevGwardo",
+        "verified": true
+      }
+    ]
+  }
+}

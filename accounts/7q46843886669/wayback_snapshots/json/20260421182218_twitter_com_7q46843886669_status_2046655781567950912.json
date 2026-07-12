@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046490854282711040"
+      ],
+      "media_source_tweet_id": [
+        "2046490857055072634"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046655781567950912",
+    "created_at": "2026-04-21T18:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046655781567950912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1804587925805596672",
+          "start": 3,
+          "username": "OverSpring_wiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vow70Zai16",
+          "end": 93,
+          "expanded_url": "https://x.com/OverSpring_wiki/status/2046490857055072634/photo/1",
+          "media_key": "3_2046490854282711040",
+          "start": 70,
+          "url": "https://t.co/vow70Zai16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046655781567950912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046490857055072634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpring_wiki: 通报一下，pdd的愈美和pr都在下架，然而这个「疑似」（咱也没买过咱也不知道）日本单方dxm还在 https://t.co/vow70Zai16"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2046490854282711040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaYltWbUAAWZFJ.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046490854282711040"
+          ],
+          "media_source_tweet_id": [
+            "2046490857055072634"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046655781567950912",
+        "created_at": "2026-04-21T18:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046655781567950912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1804587925805596672",
+              "start": 3,
+              "username": "OverSpring_wiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vow70Zai16",
+              "end": 93,
+              "expanded_url": "https://x.com/OverSpring_wiki/status/2046490857055072634/photo/1",
+              "media_key": "3_2046490854282711040",
+              "start": 70,
+              "url": "https://t.co/vow70Zai16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046655781567950912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046490857055072634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpring_wiki: 通报一下，pdd的愈美和pr都在下架，然而这个「疑似」（咱也没买过咱也不知道）日本单方dxm还在 https://t.co/vow70Zai16"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046490854282711040"
+          ]
+        },
+        "author_id": "1804587925805596672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046490857055072634",
+        "created_at": "2026-04-21T07:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046490857055072634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vow70Zai16",
+              "end": 72,
+              "expanded_url": "https://x.com/OverSpring_wiki/status/2046490857055072634/photo/1",
+              "media_key": "3_2046490854282711040",
+              "start": 49,
+              "url": "https://t.co/vow70Zai16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046490857055072634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4852,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "通报一下，pdd的愈美和pr都在下架，然而这个「疑似」（咱也没买过咱也不知道）日本单方dxm还在 https://t.co/vow70Zai16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 2655,
+          "like_count": 4557,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 674
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuyamu.com",
+                "end": 23,
+                "expanded_url": "https://xuyamu.com/",
+                "start": 0,
+                "url": "https://t.co/9RfFlFZcqo"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki (AnH+/acc)🏴",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 943,
+          "like_count": 31810,
+          "listed_count": 11,
+          "media_count": 498,
+          "tweet_count": 7223
+        },
+        "url": "https://t.co/9RfFlFZcqo",
+        "username": "OverSpring_wiki",
+        "verified": true
+      }
+    ]
+  }
+}

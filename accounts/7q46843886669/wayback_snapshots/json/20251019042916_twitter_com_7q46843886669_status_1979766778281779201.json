@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1951252934123049085",
+    "created_at": "2025-10-19T04:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979766778281779201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1347014115223425027",
+          "start": 0,
+          "username": "BananaChristoph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979766778281779201",
+    "in_reply_to_user_id": "1347014115223425027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951252934123049085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BananaChristoph 这是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1951252934123049085",
+        "created_at": "2025-10-19T04:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979766778281779201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1347014115223425027",
+              "start": 0,
+              "username": "BananaChristoph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979766778281779201",
+        "in_reply_to_user_id": "1347014115223425027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951252934123049085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BananaChristoph 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347014115223425027",
+        "conversation_id": "1951252934123049085",
+        "created_at": "2025-08-01T12:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T13:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951252934123049085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951252934123049085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2617,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些女的噢，用母猪来形容真不为过，居然都用上Ghibi AI老红头表情包了\n\n你说不谐世事吧，Ghibi filter，AI和老红头一件事没落下\n\n你说懂人话吧，老红头把驴子的价值和尊严和爱情按在地上当拖把擦她还乐呵乐呵贴上去，她贴上去啊我的妈，驴子有这么低的男属底线我都不敢想她还能干出什么来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 694,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T02:56:16.000Z",
+        "description": "创造一个无需跪拜的天堂",
+        "id": "1347014115223425027",
+        "name": "Christopher Banana ▽",
+        "pinned_tweet_id": "1528349541212495876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410426772856786944/rYGVEojt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16972,
+          "following_count": 465,
+          "like_count": 74249,
+          "listed_count": 57,
+          "media_count": 1014,
+          "tweet_count": 14860
+        },
+        "username": "BananaChristoph",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048001655288078336"
+      ],
+      "media_source_tweet_id": [
+        "2048001808006799795"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048025355177623562",
+    "created_at": "2026-04-25T13:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048025355177623562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2035311545484521472",
+          "start": 3,
+          "username": "sumi_m1nase"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7NVwwvDY3",
+          "end": 53,
+          "expanded_url": "https://x.com/sumi_m1nase/status/2048001808006799795/video/1",
+          "media_key": "13_2048001655288078336",
+          "start": 30,
+          "url": "https://t.co/m7NVwwvDY3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048025355177623562",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048001808006799795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sumi_m1nase: Metamorphose https://t.co/m7NVwwvDY3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9825,
+        "height": 3840,
+        "media_key": "13_2048001655288078336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048001655288078336/img/jqnKnDAwfcsHAfP3.jpg",
+        "public_metrics": {
+          "view_count": 250
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048001655288078336/vid/avc1/1080x1920/bAlJ7YIZhdmUQyjQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048001655288078336/vid/avc1/480x852/tSUe-luxwuD1r-NY.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048001655288078336/vid/avc1/2160x3840/E2kdLy282l5fEICN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048001655288078336/pl/i5qsuBKCIYIpyPG4.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048001655288078336/vid/avc1/320x568/l2uP45SWl4M8FUbc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048001655288078336/vid/avc1/720x1280/UgPevmeFeOTSMfoV.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048001655288078336"
+          ],
+          "media_source_tweet_id": [
+            "2048001808006799795"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048025355177623562",
+        "created_at": "2026-04-25T13:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048025355177623562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2035311545484521472",
+              "start": 3,
+              "username": "sumi_m1nase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7NVwwvDY3",
+              "end": 53,
+              "expanded_url": "https://x.com/sumi_m1nase/status/2048001808006799795/video/1",
+              "media_key": "13_2048001655288078336",
+              "start": 30,
+              "url": "https://t.co/m7NVwwvDY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048025355177623562",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048001808006799795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sumi_m1nase: Metamorphose https://t.co/m7NVwwvDY3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048001655288078336"
+          ]
+        },
+        "author_id": "2035311545484521472",
+        "conversation_id": "2048001808006799795",
+        "created_at": "2026-04-25T11:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048001808006799795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7NVwwvDY3",
+              "end": 36,
+              "expanded_url": "https://x.com/sumi_m1nase/status/2048001808006799795/video/1",
+              "media_key": "13_2048001655288078336",
+              "start": 13,
+              "url": "https://t.co/m7NVwwvDY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048001808006799795",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 781,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Metamorphose https://t.co/m7NVwwvDY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 2718,
+          "like_count": 6007,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1093
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T11:04:32.000Z",
+        "description": "みなせすみと申します。色んなところに絵を書きます。普通に紙にも書きます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gl1tch_m1nase?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gl1tch_m1nase?igsh=Y3puZG16ZWhkNmMx&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/lFJQkN5gh0"
+              }
+            ]
+          }
+        },
+        "id": "2035311545484521472",
+        "location": "東京 豊島区",
+        "name": "水瀬 澄_GL1TCH",
+        "pinned_tweet_id": "2047278814410293561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039674593850589186/su_GxQYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 98,
+          "like_count": 1283,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/lFJQkN5gh0",
+        "username": "sumi_m1nase",
+        "verified": true
+      }
+    ]
+  }
+}

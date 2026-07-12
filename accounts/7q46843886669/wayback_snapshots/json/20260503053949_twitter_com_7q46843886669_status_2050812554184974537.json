@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050567051522215936"
+      ],
+      "media_source_tweet_id": [
+        "2050567054886101146"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050812554184974537",
+    "created_at": "2026-05-03T05:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050812554184974537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833297075456643073",
+          "start": 3,
+          "username": "MX_XYB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZC5Oyu2Ll5",
+          "end": 35,
+          "expanded_url": "https://x.com/MX_XYB/status/2050567054886101146/photo/1",
+          "media_key": "3_2050567051522215936",
+          "start": 12,
+          "url": "https://t.co/ZC5Oyu2Ll5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050812554184974537",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050567054886101146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MX_XYB: https://t.co/ZC5Oyu2Ll5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_2050567051522215936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUT3nYaEAArTtR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050567051522215936"
+          ],
+          "media_source_tweet_id": [
+            "2050567054886101146"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050812554184974537",
+        "created_at": "2026-05-03T05:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050812554184974537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833297075456643073",
+              "start": 3,
+              "username": "MX_XYB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZC5Oyu2Ll5",
+              "end": 35,
+              "expanded_url": "https://x.com/MX_XYB/status/2050567054886101146/photo/1",
+              "media_key": "3_2050567051522215936",
+              "start": 12,
+              "url": "https://t.co/ZC5Oyu2Ll5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050812554184974537",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050567054886101146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MX_XYB: https://t.co/ZC5Oyu2Ll5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050567051522215936"
+          ]
+        },
+        "author_id": "1833297075456643073",
+        "conversation_id": "2050567054886101146",
+        "created_at": "2026-05-02T13:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050567054886101146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZC5Oyu2Ll5",
+              "end": 23,
+              "expanded_url": "https://x.com/MX_XYB/status/2050567054886101146/photo/1",
+              "media_key": "3_2050567051522215936",
+              "start": 0,
+              "url": "https://t.co/ZC5Oyu2Ll5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050567054886101146",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2301,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZC5Oyu2Ll5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2848,
+          "like_count": 8978,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2472
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T00:11:52.000Z",
+        "description": "交易/写作/好好生活",
+        "id": "1833297075456643073",
+        "name": "淮水",
+        "pinned_tweet_id": "2047602783617228886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048912016551931904/DcOHO13G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13103,
+          "following_count": 327,
+          "like_count": 6231,
+          "listed_count": 168,
+          "media_count": 1386,
+          "tweet_count": 5149
+        },
+        "username": "MX_XYB",
+        "verified": false
+      }
+    ]
+  }
+}

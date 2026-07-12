@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051604171242242457",
+    "created_at": "2026-05-05T10:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051604171242242457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900706496121602048",
+          "start": 3,
+          "username": "JIAN89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051604171242242457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051584774251405678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIAN89648964: 宝贝你快管管你男朋友吧我在人机评论下面看到他扣111了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051604171242242457",
+        "created_at": "2026-05-05T10:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051604171242242457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900706496121602048",
+              "start": 3,
+              "username": "JIAN89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051604171242242457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051584774251405678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIAN89648964: 宝贝你快管管你男朋友吧我在人机评论下面看到他扣111了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2051584774251405678",
+        "created_at": "2026-05-05T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051584774251405678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051584774251405678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 979,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝你快管管你男朋友吧我在人机评论下面看到他扣111了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2880,
+          "like_count": 10018,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2823
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "我是一个龙丽。文案来源网络侵权私信必删🙏\n不主动私信聊骚骚扰女生 皮下男\n看我笑话就好\n@JIAN222100（过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "JIAN222100"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽",
+        "pinned_tweet_id": "2050655719272394843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049059699233017856/xxGUB1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 86,
+          "like_count": 9985,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 3427
+        },
+        "username": "JIAN89648964",
+        "verified": false
+      }
+    ]
+  }
+}

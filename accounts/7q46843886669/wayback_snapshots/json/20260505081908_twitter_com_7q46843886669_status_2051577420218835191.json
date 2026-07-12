@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051260133192413184"
+      ],
+      "media_source_tweet_id": [
+        "2051260140004012056"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051577420218835191",
+    "created_at": "2026-05-05T08:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051577420218835191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1636596318268436481",
+          "start": 3,
+          "username": "AcgSiow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uP2chYq1rZ",
+          "end": 36,
+          "expanded_url": "https://x.com/AcgSiow/status/2051260140004012056/photo/1",
+          "media_key": "3_2051260133192413184",
+          "start": 13,
+          "url": "https://t.co/uP2chYq1rZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051577420218835191",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051260140004012056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcgSiow: https://t.co/uP2chYq1rZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_2051260133192413184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeKORzasAAZ0R9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051260133192413184"
+          ],
+          "media_source_tweet_id": [
+            "2051260140004012056"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051577420218835191",
+        "created_at": "2026-05-05T08:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051577420218835191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1636596318268436481",
+              "start": 3,
+              "username": "AcgSiow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uP2chYq1rZ",
+              "end": 36,
+              "expanded_url": "https://x.com/AcgSiow/status/2051260140004012056/photo/1",
+              "media_key": "3_2051260133192413184",
+              "start": 13,
+              "url": "https://t.co/uP2chYq1rZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051577420218835191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051260140004012056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcgSiow: https://t.co/uP2chYq1rZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051260133192413184"
+          ]
+        },
+        "author_id": "1636596318268436481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051260140004012056",
+        "created_at": "2026-05-04T11:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051260140004012056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uP2chYq1rZ",
+              "end": 23,
+              "expanded_url": "https://x.com/AcgSiow/status/2051260140004012056/photo/1",
+              "media_key": "3_2051260133192413184",
+              "start": 0,
+              "url": "https://t.co/uP2chYq1rZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051260140004012056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7259,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uP2chYq1rZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 2877,
+          "like_count": 9918,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2792
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T05:13:10.000Z",
+        "description": "",
+        "id": "1636596318268436481",
+        "name": "春日影警察局",
+        "pinned_tweet_id": "1654870167019728897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030191723461365763/WeHi_j8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23010,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 20,
+          "media_count": 1543,
+          "tweet_count": 1571
+        },
+        "username": "AcgSiow",
+        "verified": false
+      }
+    ]
+  }
+}

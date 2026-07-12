@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2005995607199211758",
+    "created_at": "2025-12-30T16:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T17:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006038375287943601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1320148942613610497",
+          "start": 0,
+          "username": "onlybaby1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006038375287943601",
+    "in_reply_to_user_id": "1320148942613610497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005995607199211758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onlybaby1225 细说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2005995607199211758",
+        "created_at": "2025-12-30T16:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T17:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006038375287943601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1320148942613610497",
+              "start": 0,
+              "username": "onlybaby1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006038375287943601",
+        "in_reply_to_user_id": "1320148942613610497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005995607199211758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onlybaby1225 细说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320148942613610497",
+        "conversation_id": "2005995607199211758",
+        "created_at": "2025-12-30T13:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T14:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005995607199211758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005995607199211758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩推之后才知道闲鱼上面那么乱啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1244,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-24T23:43:40.000Z",
+        "description": "22｜原味｜双｜日常碎碎念｜不关注不回私信｜纯馋人😋｜盗图的替我挡灾｜推广真假自辨",
+        "id": "1320148942613610497",
+        "location": "5km",
+        "name": "Mangni",
+        "pinned_tweet_id": "1994220057023390020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939338009813417984/jIcQDekv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 32,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 86
+        },
+        "username": "onlybaby1225",
+        "verified": false
+      }
+    ]
+  }
+}

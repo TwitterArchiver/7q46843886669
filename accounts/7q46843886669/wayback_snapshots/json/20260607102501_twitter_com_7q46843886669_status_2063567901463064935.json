@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063523922289803518",
+    "created_at": "2026-06-07T10:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063567901463064935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1569987131178885120",
+          "start": 0,
+          "username": "szc055555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063567901463064935",
+    "in_reply_to_user_id": "1569987131178885120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063523922289803518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szc055555 啊啊啊我繃住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063523922289803518",
+        "created_at": "2026-06-07T10:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063567901463064935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1569987131178885120",
+              "start": 0,
+              "username": "szc055555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063567901463064935",
+        "in_reply_to_user_id": "1569987131178885120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063523922289803518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szc055555 啊啊啊我繃住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569987131178885120",
+        "conversation_id": "2063523922289803518",
+        "created_at": "2026-06-07T07:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063523922289803518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063523922289803518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "家人们谁懂把牢妹年龄记错以为是高二问她早起干嘛的尴尬感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 3367,
+          "like_count": 17353,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 4782
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T09:51:26.000Z",
+        "description": "",
+        "id": "1569987131178885120",
+        "name": "林格晓晓",
+        "pinned_tweet_id": "1950427007495417950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900561371332554752/RLwb2kLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 425,
+          "like_count": 25132,
+          "listed_count": 5,
+          "media_count": 655,
+          "tweet_count": 10265
+        },
+        "username": "szc055555",
+        "verified": false
+      }
+    ]
+  }
+}

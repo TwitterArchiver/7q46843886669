@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049819704030601216"
+      ],
+      "media_source_tweet_id": [
+        "2049819713031528720"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049898023510278343",
+    "created_at": "2026-04-30T17:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049898023510278343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1716325928479903744",
+          "start": 3,
+          "username": "qiu_song60259"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AfHHMwGp5x",
+          "end": 42,
+          "expanded_url": "https://x.com/qiu_song60259/status/2049819713031528720/photo/1",
+          "media_key": "3_2049819704030601216",
+          "start": 19,
+          "url": "https://t.co/AfHHMwGp5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049898023510278343",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049819713031528720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiu_song60259: https://t.co/AfHHMwGp5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2049819704030601216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJsKRBXIAAt4a7.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049819704030601216"
+          ],
+          "media_source_tweet_id": [
+            "2049819713031528720"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049898023510278343",
+        "created_at": "2026-04-30T17:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049898023510278343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1716325928479903744",
+              "start": 3,
+              "username": "qiu_song60259"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfHHMwGp5x",
+              "end": 42,
+              "expanded_url": "https://x.com/qiu_song60259/status/2049819713031528720/photo/1",
+              "media_key": "3_2049819704030601216",
+              "start": 19,
+              "url": "https://t.co/AfHHMwGp5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049898023510278343",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049819713031528720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiu_song60259: https://t.co/AfHHMwGp5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049819704030601216"
+          ]
+        },
+        "author_id": "1716325928479903744",
+        "conversation_id": "2049819713031528720",
+        "created_at": "2026-04-30T11:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049819713031528720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfHHMwGp5x",
+              "end": 23,
+              "expanded_url": "https://x.com/qiu_song60259/status/2049819713031528720/photo/1",
+              "media_key": "3_2049819704030601216",
+              "start": 0,
+              "url": "https://t.co/AfHHMwGp5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049819713031528720",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AfHHMwGp5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2818,
+          "like_count": 8061,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2077
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "我只是在自说自话TvT丨09苦逼美术生丨hello你们好我是苦瓜/小咪咪（别忘记我我喜欢改头像和名字TωT）|小号闭关只过互关熟人@Kuguadawang6677 新开一个玩以后用作主号@o65518kuguagua 我很吵介意可以直接双取^w^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "o65518kuguagua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcv4VK"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "该用户已关机     匿名→",
+        "name": "擦去你眼角的泪",
+        "pinned_tweet_id": "2047719676860624989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035213801264689152/oBVhKu4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4177,
+          "following_count": 1497,
+          "like_count": 16006,
+          "listed_count": 7,
+          "media_count": 450,
+          "tweet_count": 8527
+        },
+        "url": "https://t.co/YLzBwcv4VK",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

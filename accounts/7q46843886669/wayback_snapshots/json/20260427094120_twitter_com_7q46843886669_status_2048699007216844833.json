@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048251007977795584",
+        "3_2048251007956881408"
+      ],
+      "media_source_tweet_id": [
+        "2048251058733056276",
+        "2048251058733056276"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048699007216844833",
+    "created_at": "2026-04-27T09:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048699007216844833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "393509852",
+          "start": 3,
+          "username": "_bokunou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpfauhABJn",
+          "end": 64,
+          "expanded_url": "https://x.com/_bokunou/status/2048251058733056276/photo/1",
+          "media_key": "3_2048251007977795584",
+          "start": 41,
+          "url": "https://t.co/FpfauhABJn"
+        },
+        {
+          "display_url": "pic.x.com/FpfauhABJn",
+          "end": 64,
+          "expanded_url": "https://x.com/_bokunou/status/2048251058733056276/photo/1",
+          "media_key": "3_2048251007956881408",
+          "start": 41,
+          "url": "https://t.co/FpfauhABJn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048699007216844833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048251058733056276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_bokunou: タグを見ようとする人の指を血まみれにするカミソリタグ https://t.co/FpfauhABJn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048251007977795584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzZcI1aMAAu5mW.jpg",
+        "width": 1756
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048251007956881408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzZcIwbEAAEeTh.jpg",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048251007977795584",
+            "3_2048251007956881408"
+          ],
+          "media_source_tweet_id": [
+            "2048251058733056276",
+            "2048251058733056276"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048699007216844833",
+        "created_at": "2026-04-27T09:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048699007216844833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "393509852",
+              "start": 3,
+              "username": "_bokunou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpfauhABJn",
+              "end": 64,
+              "expanded_url": "https://x.com/_bokunou/status/2048251058733056276/photo/1",
+              "media_key": "3_2048251007977795584",
+              "start": 41,
+              "url": "https://t.co/FpfauhABJn"
+            },
+            {
+              "display_url": "pic.x.com/FpfauhABJn",
+              "end": 64,
+              "expanded_url": "https://x.com/_bokunou/status/2048251058733056276/photo/1",
+              "media_key": "3_2048251007956881408",
+              "start": 41,
+              "url": "https://t.co/FpfauhABJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048699007216844833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048251058733056276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_bokunou: タグを見ようとする人の指を血まみれにするカミソリタグ https://t.co/FpfauhABJn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048251007977795584",
+            "3_2048251007956881408"
+          ]
+        },
+        "author_id": "393509852",
+        "conversation_id": "2048251058733056276",
+        "created_at": "2026-04-26T04:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048251058733056276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpfauhABJn",
+              "end": 50,
+              "expanded_url": "https://x.com/_bokunou/status/2048251058733056276/photo/1",
+              "media_key": "3_2048251007977795584",
+              "start": 27,
+              "url": "https://t.co/FpfauhABJn"
+            },
+            {
+              "display_url": "pic.x.com/FpfauhABJn",
+              "end": 50,
+              "expanded_url": "https://x.com/_bokunou/status/2048251058733056276/photo/1",
+              "media_key": "3_2048251007956881408",
+              "start": 27,
+              "url": "https://t.co/FpfauhABJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048251058733056276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13627,
+          "impression_count": 21677593,
+          "like_count": 186746,
+          "quote_count": 418,
+          "reply_count": 2219,
+          "retweet_count": 5474
+        },
+        "reply_settings": "everyone",
+        "text": "タグを見ようとする人の指を血まみれにするカミソリタグ https://t.co/FpfauhABJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2741,
+          "like_count": 6238,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1317
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-18T16:59:35.000Z",
+        "description": "パフォーマンス/作品制作/構成作家/連絡→bokunou@gmail.com / https://t.co/HZGSE5haYP / https://t.co/tr3NuvxtfX / https://t.co/JGivDc6lnp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bokunou",
+                "end": 64,
+                "expanded_url": "http://instagram.com/bokunou",
+                "start": 41,
+                "url": "https://t.co/HZGSE5haYP"
+              },
+              {
+                "display_url": "youtube.com/channel/UCK5HM…",
+                "end": 90,
+                "expanded_url": "https://www.youtube.com/channel/UCK5HM0r5q6u_oaYpEsjgmiQ",
+                "start": 67,
+                "url": "https://t.co/tr3NuvxtfX"
+              },
+              {
+                "display_url": "note.com/_bokunou",
+                "end": 116,
+                "expanded_url": "https://note.com/_bokunou",
+                "start": 93,
+                "url": "https://t.co/JGivDc6lnp"
+              }
+            ]
+          }
+        },
+        "id": "393509852",
+        "location": "東京",
+        "name": "ぼく脳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905837826761195520/2S66gfQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77686,
+          "following_count": 898,
+          "like_count": 7107,
+          "listed_count": 370,
+          "media_count": 3983,
+          "tweet_count": 13766
+        },
+        "username": "_bokunou",
+        "verified": false
+      }
+    ]
+  }
+}

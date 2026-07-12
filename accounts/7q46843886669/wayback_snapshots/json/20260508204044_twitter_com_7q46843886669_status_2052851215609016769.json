@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052688754033438720"
+      ],
+      "media_source_tweet_id": [
+        "2052688763927908519"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052851215609016769",
+    "created_at": "2026-05-08T20:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T21:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052851215609016769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858186854526562304",
+          "start": 3,
+          "username": "meiyujijie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UQU4OsjkCa",
+          "end": 95,
+          "expanded_url": "https://x.com/meiyujijie/status/2052688763927908519/photo/1",
+          "media_key": "3_2052688754033438720",
+          "start": 72,
+          "url": "https://t.co/UQU4OsjkCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052851215609016769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052688763927908519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyujijie: 为了防止爸妈给我生弟弟妹妹和我分遗产\n我给我爸妈的饭里下了避孕药\n长大了才知道我哥也做过同样的事\n看来他失败了 https://t.co/UQU4OsjkCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052688754033438720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHydi9KaMAAYNye.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052688754033438720"
+          ],
+          "media_source_tweet_id": [
+            "2052688763927908519"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052851215609016769",
+        "created_at": "2026-05-08T20:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052851215609016769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858186854526562304",
+              "start": 3,
+              "username": "meiyujijie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQU4OsjkCa",
+              "end": 95,
+              "expanded_url": "https://x.com/meiyujijie/status/2052688763927908519/photo/1",
+              "media_key": "3_2052688754033438720",
+              "start": 72,
+              "url": "https://t.co/UQU4OsjkCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052851215609016769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052688763927908519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiyujijie: 为了防止爸妈给我生弟弟妹妹和我分遗产\n我给我爸妈的饭里下了避孕药\n长大了才知道我哥也做过同样的事\n看来他失败了 https://t.co/UQU4OsjkCa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052688754033438720"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "2052688763927908519",
+        "created_at": "2026-05-08T09:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052688763927908519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQU4OsjkCa",
+              "end": 79,
+              "expanded_url": "https://x.com/meiyujijie/status/2052688763927908519/photo/1",
+              "media_key": "3_2052688754033438720",
+              "start": 56,
+              "url": "https://t.co/UQU4OsjkCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052688763927908519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 23761,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为了防止爸妈给我生弟弟妹妹和我分遗产\n我给我爸妈的饭里下了避孕药\n长大了才知道我哥也做过同样的事\n看来他失败了 https://t.co/UQU4OsjkCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2950,
+          "like_count": 11424,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3253
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004432853254524931/PltAt9t5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88471,
+          "following_count": 128,
+          "like_count": 1680,
+          "listed_count": 200,
+          "media_count": 345,
+          "tweet_count": 744
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058980132799365120"
+      ],
+      "media_source_tweet_id": [
+        "2058980136750375189"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2059228347318870223",
+    "created_at": "2026-05-26T11:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059228347318870223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "501937343",
+          "start": 3,
+          "username": "EuroWynner"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tuwKglXYCR",
+          "end": 39,
+          "expanded_url": "https://x.com/EuroWynner/status/2058980136750375189/photo/1",
+          "media_key": "3_2058980132799365120",
+          "start": 16,
+          "url": "https://t.co/tuwKglXYCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059228347318870223",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4813
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058980136750375189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EuroWynner: https://t.co/tuwKglXYCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2058980132799365120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJL3hZcXwAAGpFn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058980132799365120"
+          ],
+          "media_source_tweet_id": [
+            "2058980136750375189"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2059228347318870223",
+        "created_at": "2026-05-26T11:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059228347318870223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "501937343",
+              "start": 3,
+              "username": "EuroWynner"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuwKglXYCR",
+              "end": 39,
+              "expanded_url": "https://x.com/EuroWynner/status/2058980136750375189/photo/1",
+              "media_key": "3_2058980132799365120",
+              "start": 16,
+              "url": "https://t.co/tuwKglXYCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059228347318870223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4813
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058980136750375189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EuroWynner: https://t.co/tuwKglXYCR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058980132799365120"
+          ]
+        },
+        "author_id": "501937343",
+        "conversation_id": "2058980136750375189",
+        "created_at": "2026-05-25T18:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058980136750375189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuwKglXYCR",
+              "end": 23,
+              "expanded_url": "https://x.com/EuroWynner/status/2058980136750375189/photo/1",
+              "media_key": "3_2058980132799365120",
+              "start": 0,
+              "url": "https://t.co/tuwKglXYCR"
+            },
+            {
+              "display_url": "x.com/classicalsocde…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/classicalsocdem/status/2058967252460831163",
+              "start": 24,
+              "url": "https://t.co/T7WKvEUTFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058980136750375189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1477,
+          "impression_count": 959262,
+          "like_count": 46594,
+          "quote_count": 120,
+          "reply_count": 87,
+          "retweet_count": 4813
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058967252460831163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/tuwKglXYCR https://t.co/T7WKvEUTFh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 3147,
+          "like_count": 15225,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4481
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-24T16:45:15.000Z",
+        "description": "Leader of the patriotic German center-left | 29 | @altwynner",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "altwynner"
+              }
+            ]
+          }
+        },
+        "id": "501937343",
+        "location": "Vienna, Austria",
+        "name": "Wynner 🇩🇪🇦🇹🇪🇺",
+        "pinned_tweet_id": "2013679660463251494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009636484446388224/vBAFrboP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4733,
+          "following_count": 447,
+          "like_count": 35701,
+          "listed_count": 32,
+          "media_count": 4351,
+          "tweet_count": 31077
+        },
+        "username": "EuroWynner",
+        "verified": true
+      }
+    ]
+  }
+}

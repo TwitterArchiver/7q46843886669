@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2064574035930095980",
+    "created_at": "2026-06-10T05:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064574035930095980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761226584621744128",
+          "start": 3,
+          "username": "Tommmmm10564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064574035930095980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064514357447602480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tommmmm10564: 当大家在吵性同意年龄的时候再次发现男同性恋无法被选中😁😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2064574035930095980",
+        "created_at": "2026-06-10T05:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064574035930095980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761226584621744128",
+              "start": 3,
+              "username": "Tommmmm10564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064574035930095980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064514357447602480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tommmmm10564: 当大家在吵性同意年龄的时候再次发现男同性恋无法被选中😁😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761226584621744128",
+        "conversation_id": "2064514357447602480",
+        "created_at": "2026-06-10T01:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064514357447602480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064514357447602480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12787,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "当大家在吵性同意年龄的时候再次发现男同性恋无法被选中😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 3386,
+          "like_count": 18157,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4955
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T03:08:58.000Z",
+        "description": "我是哆啦A梦",
+        "id": "1761226584621744128",
+        "location": "北京中南海",
+        "name": "Samaleman（1m白袜男大叮当猫）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842395296405520384/f2SHX8lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 228,
+          "like_count": 4819,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 5232
+        },
+        "username": "Tommmmm10564",
+        "verified": false
+      }
+    ]
+  }
+}

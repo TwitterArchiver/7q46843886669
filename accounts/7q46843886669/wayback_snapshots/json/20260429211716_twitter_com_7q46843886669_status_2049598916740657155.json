@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049441666029993984",
+        "13_2049441666092994560"
+      ],
+      "media_source_tweet_id": [
+        "2049441743071047875",
+        "2049441743071047875"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049598916740657155",
+    "created_at": "2026-04-29T21:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T22:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049598916740657155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964207797509509122",
+          "start": 3,
+          "username": "NIA_____chu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wP7bjzpev6",
+          "end": 49,
+          "expanded_url": "https://x.com/NIA_____chu/status/2049441743071047875/video/1",
+          "media_key": "13_2049441666029993984",
+          "start": 26,
+          "url": "https://t.co/wP7bjzpev6"
+        },
+        {
+          "display_url": "pic.x.com/wP7bjzpev6",
+          "end": 49,
+          "expanded_url": "https://x.com/NIA_____chu/status/2049441743071047875/video/1",
+          "media_key": "13_2049441666092994560",
+          "start": 26,
+          "url": "https://t.co/wP7bjzpev6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049598916740657155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049441743071047875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NIA_____chu: 今はなき、舌ピ😞 https://t.co/wP7bjzpev6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31151,
+        "height": 750,
+        "media_key": "13_2049441666029993984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049441666029993984/img/nWk6Et1I5JWuGkgn.jpg",
+        "public_metrics": {
+          "view_count": 9258
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049441666029993984/vid/avc1/320x320/zMF7JX7VOVEAuoIc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049441666029993984/vid/avc1/540x540/LvvMCKJHr4Z85SKZ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049441666029993984/vid/avc1/750x750/KLovF5yvyj5vzM31.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049441666029993984/pl/bHwj6dVRIDiMIVrO.m3u8"
+          }
+        ],
+        "width": 750
+      },
+      {
+        "duration_ms": 9500,
+        "height": 716,
+        "media_key": "13_2049441666092994560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049441666092994560/img/dBeu5PyDLeem3wRT.jpg",
+        "public_metrics": {
+          "view_count": 904
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049441666092994560/vid/avc1/320x320/Wo7B_59fA6Mn3U_G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049441666092994560/vid/avc1/540x540/6LZKsulXJMKqXMjU.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049441666092994560/vid/avc1/716x716/PtpIkWMUBrqwQQ-S.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049441666092994560/pl/o33DTqBPlPTMZGWR.m3u8"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049441666029993984",
+            "13_2049441666092994560"
+          ],
+          "media_source_tweet_id": [
+            "2049441743071047875",
+            "2049441743071047875"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049598916740657155",
+        "created_at": "2026-04-29T21:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T22:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049598916740657155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964207797509509122",
+              "start": 3,
+              "username": "NIA_____chu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wP7bjzpev6",
+              "end": 49,
+              "expanded_url": "https://x.com/NIA_____chu/status/2049441743071047875/video/1",
+              "media_key": "13_2049441666029993984",
+              "start": 26,
+              "url": "https://t.co/wP7bjzpev6"
+            },
+            {
+              "display_url": "pic.x.com/wP7bjzpev6",
+              "end": 49,
+              "expanded_url": "https://x.com/NIA_____chu/status/2049441743071047875/video/1",
+              "media_key": "13_2049441666092994560",
+              "start": 26,
+              "url": "https://t.co/wP7bjzpev6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049598916740657155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049441743071047875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NIA_____chu: 今はなき、舌ピ😞 https://t.co/wP7bjzpev6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049441666029993984",
+            "13_2049441666092994560"
+          ]
+        },
+        "author_id": "1964207797509509122",
+        "conversation_id": "2049441743071047875",
+        "created_at": "2026-04-29T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049441743071047875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wP7bjzpev6",
+              "end": 32,
+              "expanded_url": "https://x.com/NIA_____chu/status/2049441743071047875/video/1",
+              "media_key": "13_2049441666029993984",
+              "start": 9,
+              "url": "https://t.co/wP7bjzpev6"
+            },
+            {
+              "display_url": "pic.x.com/wP7bjzpev6",
+              "end": 32,
+              "expanded_url": "https://x.com/NIA_____chu/status/2049441743071047875/video/1",
+              "media_key": "13_2049441666092994560",
+              "start": 9,
+              "url": "https://t.co/wP7bjzpev6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049441743071047875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 20306,
+          "like_count": 1405,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "今はなき、舌ピ😞 https://t.co/wP7bjzpev6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2791,
+          "like_count": 7209,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1807
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T06:03:37.000Z",
+        "description": "躁鬱ジェットコースターに乗りながら一生懸命生きてる自認猫。すぷら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/NIA_____chu/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/NIA_____chu/",
+                "start": 0,
+                "url": "https://t.co/fueaQNPHmL"
+              }
+            ]
+          }
+        },
+        "id": "1964207797509509122",
+        "location": "関東",
+        "name": "それいけ！ねこﾁｬﾝ！@いきる",
+        "pinned_tweet_id": "2048366807678153008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048545011462213632/YSF0tP8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11332,
+          "following_count": 44,
+          "like_count": 7114,
+          "listed_count": 29,
+          "media_count": 605,
+          "tweet_count": 7919
+        },
+        "url": "https://t.co/fueaQNPHmL",
+        "username": "NIA_____chu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050552538186096640"
+      ],
+      "media_source_tweet_id": [
+        "2050552541914763547"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050812884247302252",
+    "created_at": "2026-05-03T05:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050812884247302252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683218035602255872",
+          "start": 3,
+          "username": "jlxc2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Mluuan41A",
+          "end": 40,
+          "expanded_url": "https://x.com/jlxc2001/status/2050552541914763547/photo/1",
+          "media_key": "3_2050552538186096640",
+          "start": 17,
+          "url": "https://t.co/0Mluuan41A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050812884247302252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050552541914763547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jlxc2001: 憋笑 https://t.co/0Mluuan41A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2050552538186096640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUGq0_boAAwSGP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050552538186096640"
+          ],
+          "media_source_tweet_id": [
+            "2050552541914763547"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050812884247302252",
+        "created_at": "2026-05-03T05:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050812884247302252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683218035602255872",
+              "start": 3,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Mluuan41A",
+              "end": 40,
+              "expanded_url": "https://x.com/jlxc2001/status/2050552541914763547/photo/1",
+              "media_key": "3_2050552538186096640",
+              "start": 17,
+              "url": "https://t.co/0Mluuan41A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050812884247302252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050552541914763547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jlxc2001: 憋笑 https://t.co/0Mluuan41A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050552538186096640"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2050552541914763547",
+        "created_at": "2026-05-02T12:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050552541914763547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Mluuan41A",
+              "end": 26,
+              "expanded_url": "https://x.com/jlxc2001/status/2050552541914763547/photo/1",
+              "media_key": "3_2050552538186096640",
+              "start": 3,
+              "url": "https://t.co/0Mluuan41A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050552541914763547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 84837,
+          "like_count": 1237,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "憋笑 https://t.co/0Mluuan41A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2848,
+          "like_count": 8985,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2478
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15877,
+          "following_count": 204,
+          "like_count": 523,
+          "listed_count": 37,
+          "media_count": 971,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

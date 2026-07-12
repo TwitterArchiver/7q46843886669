@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049889109800263680"
+      ],
+      "media_source_tweet_id": [
+        "2049889112170135564"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050024208785424574",
+    "created_at": "2026-05-01T01:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050024208785424574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1371328580635009025",
+          "start": 3,
+          "username": "GimmickSlop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ewWMVDz3K",
+          "end": 40,
+          "expanded_url": "https://x.com/GimmickSlop/status/2049889112170135564/photo/1",
+          "media_key": "3_2049889109800263680",
+          "start": 17,
+          "url": "https://t.co/8ewWMVDz3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050024208785424574",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049889112170135564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GimmickSlop: https://t.co/8ewWMVDz3K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2049889109800263680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKrSNqWIAABdy7.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049889109800263680"
+          ],
+          "media_source_tweet_id": [
+            "2049889112170135564"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050024208785424574",
+        "created_at": "2026-05-01T01:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050024208785424574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1371328580635009025",
+              "start": 3,
+              "username": "GimmickSlop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ewWMVDz3K",
+              "end": 40,
+              "expanded_url": "https://x.com/GimmickSlop/status/2049889112170135564/photo/1",
+              "media_key": "3_2049889109800263680",
+              "start": 17,
+              "url": "https://t.co/8ewWMVDz3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050024208785424574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049889112170135564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GimmickSlop: https://t.co/8ewWMVDz3K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049889109800263680"
+          ]
+        },
+        "author_id": "1371328580635009025",
+        "conversation_id": "2049889112170135564",
+        "created_at": "2026-04-30T16:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049889112170135564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ewWMVDz3K",
+              "end": 23,
+              "expanded_url": "https://x.com/GimmickSlop/status/2049889112170135564/photo/1",
+              "media_key": "3_2049889109800263680",
+              "start": 0,
+              "url": "https://t.co/8ewWMVDz3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049889112170135564",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 43057,
+          "like_count": 5947,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8ewWMVDz3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2831,
+          "like_count": 8141,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2114
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T05:13:11.000Z",
+        "description": "The worst slop to ever be posted (DM submissions)",
+        "id": "1371328580635009025",
+        "name": "Internet Slop",
+        "pinned_tweet_id": "1631428263196196864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736448630628745216/5lC675-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196157,
+          "following_count": 330,
+          "like_count": 1532,
+          "listed_count": 329,
+          "media_count": 4600,
+          "tweet_count": 4785
+        },
+        "username": "GimmickSlop",
+        "verified": true
+      }
+    ]
+  }
+}

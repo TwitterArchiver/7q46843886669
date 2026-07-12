@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2059933754337173899",
+    "created_at": "2026-05-28T10:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059946088636014966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1226126253893341184",
+          "start": 0,
+          "username": "konosuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059946088636014966",
+    "in_reply_to_user_id": "1226126253893341184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059933754337173899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konosuz 小米粥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2059933754337173899",
+        "created_at": "2026-05-28T10:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059946088636014966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1226126253893341184",
+              "start": 0,
+              "username": "konosuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059946088636014966",
+        "in_reply_to_user_id": "1226126253893341184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059933754337173899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konosuz 小米粥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226126253893341184",
+        "conversation_id": "2059933754337173899",
+        "created_at": "2026-05-28T09:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059933754337173899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059933754337173899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺你们能和我做朋友吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 3187,
+          "like_count": 15747,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 4520
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T12:51:19.000Z",
+        "description": "中国人冷静一下💦💦",
+        "id": "1226126253893341184",
+        "name": "小米粥",
+        "pinned_tweet_id": "1773027026632376702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579858919891128321/LWk3IQDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 290,
+          "like_count": 3038,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1343
+        },
+        "username": "konosuz",
+        "verified": false
+      }
+    ]
+  }
+}

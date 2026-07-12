@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049373112660004905",
+    "created_at": "2026-04-29T07:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049396022980514129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049396022980514129",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049373112660004905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunJiu 是了 我也爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2049215678746644480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHBGzXfa0AAx8nk.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049373112660004905",
+        "created_at": "2026-04-29T07:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049396022980514129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049396022980514129",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049373112660004905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 是了 我也爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049215678746644480"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049373112660004905",
+        "created_at": "2026-04-29T06:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049373112660004905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YShr9Oyzw",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2049373112660004905/photo/1",
+              "media_key": "3_2049215678746644480",
+              "start": 0,
+              "url": "https://t.co/2YShr9Oyzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049373112660004905",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1385,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2YShr9Oyzw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2780,
+          "like_count": 7062,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1740
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103569,
+          "following_count": 768,
+          "like_count": 36542,
+          "listed_count": 292,
+          "media_count": 18078,
+          "tweet_count": 25959
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

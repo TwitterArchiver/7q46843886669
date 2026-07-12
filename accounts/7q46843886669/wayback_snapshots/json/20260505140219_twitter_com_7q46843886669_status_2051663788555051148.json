@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051515312907124736"
+      ],
+      "media_source_tweet_id": [
+        "2051515325460672688"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051663788555051148",
+    "created_at": "2026-05-05T14:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051663788555051148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1017986178794979328",
+          "start": 3,
+          "username": "SwnaOrdulfs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GCj6boyyZp",
+          "end": 59,
+          "expanded_url": "https://x.com/SwnaOrdulfs/status/2051515325460672688/photo/1",
+          "media_key": "3_2051515312907124736",
+          "start": 36,
+          "url": "https://t.co/GCj6boyyZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051663788555051148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051515325460672688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SwnaOrdulfs: 😁消失的黑话，麦当劳又给我找回来了。 https://t.co/GCj6boyyZp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_2051515312907124736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhyTsUagAAwpI9.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051515312907124736"
+          ],
+          "media_source_tweet_id": [
+            "2051515325460672688"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051663788555051148",
+        "created_at": "2026-05-05T14:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051663788555051148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1017986178794979328",
+              "start": 3,
+              "username": "SwnaOrdulfs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCj6boyyZp",
+              "end": 59,
+              "expanded_url": "https://x.com/SwnaOrdulfs/status/2051515325460672688/photo/1",
+              "media_key": "3_2051515312907124736",
+              "start": 36,
+              "url": "https://t.co/GCj6boyyZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051663788555051148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051515325460672688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SwnaOrdulfs: 😁消失的黑话，麦当劳又给我找回来了。 https://t.co/GCj6boyyZp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051515312907124736"
+          ]
+        },
+        "author_id": "1017986178794979328",
+        "conversation_id": "2051515325460672688",
+        "created_at": "2026-05-05T04:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051515325460672688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GCj6boyyZp",
+              "end": 42,
+              "expanded_url": "https://x.com/SwnaOrdulfs/status/2051515325460672688/photo/1",
+              "media_key": "3_2051515312907124736",
+              "start": 19,
+              "url": "https://t.co/GCj6boyyZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051515325460672688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "😁消失的黑话，麦当劳又给我找回来了。 https://t.co/GCj6boyyZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2884,
+          "like_count": 10276,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2906
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-14T04:16:33.000Z",
+        "description": "Thank you for your support occasionally.🌎\n感谢你的偶尔支持。🌏\n🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2Xh8E_zBhO85O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2Xh8E_zBhO85OTMx",
+                "start": 0,
+                "url": "https://t.co/zqnVSI1OsI"
+              }
+            ]
+          }
+        },
+        "id": "1017986178794979328",
+        "name": "OcO",
+        "pinned_tweet_id": "2018628746836942876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921266251147423744/EQXg1t1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 786,
+          "like_count": 469257,
+          "listed_count": 12,
+          "media_count": 2108,
+          "tweet_count": 25084
+        },
+        "url": "https://t.co/zqnVSI1OsI",
+        "username": "SwnaOrdulfs",
+        "verified": false
+      }
+    ]
+  }
+}

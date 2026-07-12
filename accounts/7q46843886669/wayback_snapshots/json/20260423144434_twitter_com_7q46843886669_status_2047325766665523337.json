@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047325766665523337",
+    "created_at": "2026-04-23T14:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047325766665523337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047325766665523337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047325232235794936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 他喜欢橘子，不管那个橘子是烂的还是好的，他都会喜欢，但是你是最好的那个苹果，所以你不必因为他自卑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047325766665523337",
+        "created_at": "2026-04-23T14:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047325766665523337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047325766665523337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047325232235794936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 他喜欢橘子，不管那个橘子是烂的还是好的，他都会喜欢，但是你是最好的那个苹果，所以你不必因为他自卑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2047325232235794936",
+        "created_at": "2026-04-23T14:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047325232235794936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047325232235794936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他喜欢橘子，不管那个橘子是烂的还是好的，他都会喜欢，但是你是最好的那个苹果，所以你不必因为他自卑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2702,
+          "like_count": 5718,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 894
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6086,
+          "following_count": 58,
+          "like_count": 6253,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1533
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

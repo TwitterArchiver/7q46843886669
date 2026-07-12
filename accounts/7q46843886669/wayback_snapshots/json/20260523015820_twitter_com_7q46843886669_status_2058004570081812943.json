@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057690920292962405",
+    "created_at": "2026-05-23T01:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058004570081812943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2048744079211540480",
+          "start": 0,
+          "username": "q4egz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058004570081812943",
+    "in_reply_to_user_id": "2048744079211540480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057974788254237145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q4egz 去把令堂挖出来倒个模明天都有用不完的嘴穴😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057690920292962405",
+        "created_at": "2026-05-23T01:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058004570081812943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2048744079211540480",
+              "start": 0,
+              "username": "q4egz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058004570081812943",
+        "in_reply_to_user_id": "2048744079211540480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057974788254237145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q4egz 去把令堂挖出来倒个模明天都有用不完的嘴穴😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048744079211540480",
+        "conversation_id": "2057690920292962405",
+        "created_at": "2026-05-22T23:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057974788254237145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057974788254237145",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057690920292962405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 想射你嘴里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 3058,
+          "like_count": 14529,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 4401
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T12:40:48.000Z",
+        "description": "陈冠希",
+        "id": "2048744079211540480",
+        "name": "陈冠希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048869734519902208/0FfW6_Mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "q4egz",
+        "verified": false
+      }
+    ]
+  }
+}

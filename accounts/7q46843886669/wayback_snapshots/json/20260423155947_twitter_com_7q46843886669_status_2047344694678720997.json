@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047344694678720997",
+    "created_at": "2026-04-23T15:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047344694678720997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skysakura3/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/skysakura3/status/2047297968311849142",
+          "start": 4,
+          "url": "https://t.co/nCKeyg0lgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047344694678720997",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047297968311849142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "onp https://t.co/nCKeyg0lgG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110720,
+        "height": 1300,
+        "media_key": "13_2047268883799912448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047268883799912448/img/TTOIz5csIHrw5cAx.jpg",
+        "public_metrics": {
+          "view_count": 24205
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047268883799912448/vid/avc1/382x270/DSwEqr3FmsK2w5FN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047268883799912448/vid/avc1/510x360/0oLwVBWlAtd8QrwH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047268883799912448/vid/avc1/1022x720/feHo05j553FjpcsZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047268883799912448/pl/MxsmCvQZxlxdjCSA.m3u8?tag=14"
+          }
+        ],
+        "width": 1846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047344694678720997",
+        "created_at": "2026-04-23T15:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047344694678720997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skysakura3/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/skysakura3/status/2047297968311849142",
+              "start": 4,
+              "url": "https://t.co/nCKeyg0lgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344694678720997",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047297968311849142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "onp https://t.co/nCKeyg0lgG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047268883799912448"
+          ]
+        },
+        "author_id": "1081688986152648704",
+        "conversation_id": "2047297968311849142",
+        "created_at": "2026-04-23T12:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047297968311849142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 35,
+              "tag": "slaythespire"
+            },
+            {
+              "end": 63,
+              "start": 49,
+              "tag": "slaythespire2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECMp86bpr3",
+              "end": 87,
+              "expanded_url": "https://x.com/skysakura3/status/2047297968311849142/video/1",
+              "media_key": "13_2047268883799912448",
+              "start": 64,
+              "url": "https://t.co/ECMp86bpr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047297968311849142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3542,
+          "impression_count": 65442,
+          "like_count": 6923,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 529
+        },
+        "reply_settings": "everyone",
+        "text": "四蛆兄弟&amp;寂靜獵手(? #2\n完全寂靜不下來\n歐齁歐齁歐齁齁\n#slaythespire #slaythespire2 https://t.co/ECMp86bpr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 2701,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 905
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-05T23:08:45.000Z",
+        "description": "最喜歡機娘  人外娘!~~\n委託接受中 \nfanbox :https://t.co/jeO9jGlB9G\nwork : https://t.co/koxabD1zIx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d3879012.fanbox.cc",
+                "end": 52,
+                "expanded_url": "http://d3879012.fanbox.cc",
+                "start": 29,
+                "url": "https://t.co/jeO9jGlB9G"
+              },
+              {
+                "display_url": "pixiv.net/users/30526825",
+                "end": 83,
+                "expanded_url": "http://pixiv.net/users/30526825",
+                "start": 60,
+                "url": "https://t.co/koxabD1zIx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=30526825",
+                "start": 0,
+                "url": "https://t.co/GlxS1X6loQ"
+              }
+            ]
+          }
+        },
+        "id": "1081688986152648704",
+        "location": "台灣",
+        "name": "空さくら --委託接受中--",
+        "pinned_tweet_id": "2033501844820181495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802845871769608192/6zG3Udpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35933,
+          "following_count": 1603,
+          "like_count": 3529,
+          "listed_count": 146,
+          "media_count": 831,
+          "tweet_count": 2547
+        },
+        "url": "https://t.co/GlxS1X6loQ",
+        "username": "skysakura3",
+        "verified": false
+      }
+    ]
+  }
+}

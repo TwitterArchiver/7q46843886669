@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060281940721463296"
+      ],
+      "media_source_tweet_id": [
+        "2060281957297332683"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2060440372703285483",
+    "created_at": "2026-05-29T19:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060440372703285483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aVMWhNEVBZ",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2060281957297332683/photo/1",
+          "media_key": "3_2060281940721463296",
+          "start": 11,
+          "url": "https://t.co/aVMWhNEVBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060440372703285483",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060281957297332683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/aVMWhNEVBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2060281940721463296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeXgl3a8AAX4dd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060281940721463296"
+          ],
+          "media_source_tweet_id": [
+            "2060281957297332683"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2060440372703285483",
+        "created_at": "2026-05-29T19:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060440372703285483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVMWhNEVBZ",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2060281957297332683/photo/1",
+              "media_key": "3_2060281940721463296",
+              "start": 11,
+              "url": "https://t.co/aVMWhNEVBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060440372703285483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060281957297332683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/aVMWhNEVBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060281940721463296"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2060281957297332683",
+        "created_at": "2026-05-29T08:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060281957297332683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVMWhNEVBZ",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2060281957297332683/photo/1",
+              "media_key": "3_2060281940721463296",
+              "start": 0,
+              "url": "https://t.co/aVMWhNEVBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060281957297332683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 9213,
+          "like_count": 148,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aVMWhNEVBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 3241,
+          "like_count": 16077,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4558
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97616,
+          "following_count": 2449,
+          "like_count": 44453,
+          "listed_count": 145,
+          "media_count": 4269,
+          "tweet_count": 8672
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

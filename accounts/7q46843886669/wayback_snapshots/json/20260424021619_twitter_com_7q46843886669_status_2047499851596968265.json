@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2047499851596968265",
+    "created_at": "2026-04-24T02:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047499851596968265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047499851596968265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047251701812617621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 我以前真的很喜欢吃omakase。现在想到主厨用打过飞机的手给我捏寿司。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2047499851596968265",
+        "created_at": "2026-04-24T02:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047499851596968265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047499851596968265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047251701812617621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 我以前真的很喜欢吃omakase。现在想到主厨用打过飞机的手给我捏寿司。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2047251701812617621",
+        "created_at": "2026-04-23T09:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047251701812617621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047251701812617621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 139826,
+          "like_count": 960,
+          "quote_count": 22,
+          "reply_count": 465,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我以前真的很喜欢吃omakase。现在想到主厨用打过飞机的手给我捏寿司。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 2707,
+          "like_count": 5804,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 919
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你",
+        "id": "1581937806435573760",
+        "location": "不要骚扰我 不接广告",
+        "name": "呆呆",
+        "pinned_tweet_id": "2046397450181849146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4153,
+          "following_count": 29,
+          "like_count": 410,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 357
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

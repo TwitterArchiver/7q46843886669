@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2050560800096428032"
+      ],
+      "media_source_tweet_id": [
+        "2050560817515335770"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050719354812289242",
+    "created_at": "2026-05-02T23:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T00:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050719354812289242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790176519521808384",
+          "start": 3,
+          "username": "softsquishypaws"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1RxcNFhZ4R",
+          "end": 44,
+          "expanded_url": "https://x.com/softsquishypaws/status/2050560817515335770/photo/1",
+          "media_key": "16_2050560800096428032",
+          "start": 21,
+          "url": "https://t.co/1RxcNFhZ4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050719354812289242",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1253
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050560817515335770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @softsquishypaws: https://t.co/1RxcNFhZ4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "16_2050560800096428032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHUOLvAWoAAyzpa.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHUOLvAWoAAyzpa.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2050560800096428032"
+          ],
+          "media_source_tweet_id": [
+            "2050560817515335770"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050719354812289242",
+        "created_at": "2026-05-02T23:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050719354812289242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1790176519521808384",
+              "start": 3,
+              "username": "softsquishypaws"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RxcNFhZ4R",
+              "end": 44,
+              "expanded_url": "https://x.com/softsquishypaws/status/2050560817515335770/photo/1",
+              "media_key": "16_2050560800096428032",
+              "start": 21,
+              "url": "https://t.co/1RxcNFhZ4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050719354812289242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050560817515335770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @softsquishypaws: https://t.co/1RxcNFhZ4R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2050560800096428032"
+          ]
+        },
+        "author_id": "1790176519521808384",
+        "conversation_id": "2050560817515335770",
+        "created_at": "2026-05-02T12:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050560817515335770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RxcNFhZ4R",
+              "end": 23,
+              "expanded_url": "https://x.com/softsquishypaws/status/2050560817515335770/photo/1",
+              "media_key": "16_2050560800096428032",
+              "start": 0,
+              "url": "https://t.co/1RxcNFhZ4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050560817515335770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1154,
+          "impression_count": 142278,
+          "like_count": 12560,
+          "quote_count": 28,
+          "reply_count": 4,
+          "retweet_count": 1253
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1RxcNFhZ4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2845,
+          "like_count": 8863,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2405
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T00:25:29.000Z",
+        "description": "⋆. 𐙚 ˚ avery ✦ she / any 🏳️‍🌈 shitposts NSFW accounts DNI pls my backup: @averypawss suggestive",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "averypawss"
+              }
+            ]
+          }
+        },
+        "id": "1790176519521808384",
+        "location": " 🐾 pfp & banner : NOT mine",
+        "name": "𑣲⋆ avery 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049537508447506432/Nya3Dz6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3238,
+          "following_count": 115,
+          "like_count": 223,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 430
+        },
+        "username": "softsquishypaws",
+        "verified": false
+      }
+    ]
+  }
+}

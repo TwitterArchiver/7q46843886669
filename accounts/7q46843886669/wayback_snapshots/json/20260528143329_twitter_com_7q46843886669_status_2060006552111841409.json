@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2059861113035174297",
+    "created_at": "2026-05-28T14:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060006552111841409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987151911376805888",
+          "start": 0,
+          "username": "likonghan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060006552111841409",
+    "in_reply_to_user_id": "1987151911376805888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059861113035174297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@likonghan 小心"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6366,
+        "height": 1280,
+        "media_key": "7_2059861067157970944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059861067157970944/pu/img/8XyWpGAYzJe5E2Ft.jpg",
+        "public_metrics": {
+          "view_count": 2589
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059861067157970944/pu/vid/avc1/320x568/9HJq-VQ8OPNn1_Wf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059861067157970944/pu/vid/avc1/480x852/IlUWaaxmrZVRJrFD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059861067157970944/pu/vid/avc1/720x1280/9p1aj2Kx4Dpx33DW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059861067157970944/pu/pl/fFyJupkeQh73_XQ7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059861074078547968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYYu7cbQAAB4Yo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1245,
+        "media_key": "3_2059861072505647104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYYu1lasAAZx8N.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2059861113035174297",
+        "created_at": "2026-05-28T14:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060006552111841409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987151911376805888",
+              "start": 0,
+              "username": "likonghan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060006552111841409",
+        "in_reply_to_user_id": "1987151911376805888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059861113035174297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@likonghan 小心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059861067157970944",
+            "3_2059861074078547968",
+            "3_2059861072505647104"
+          ]
+        },
+        "author_id": "1987151911376805888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059861113035174297",
+        "created_at": "2026-05-28T04:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059861113035174297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vcey9vCuVE",
+              "end": 42,
+              "expanded_url": "https://x.com/likonghan/status/2059861113035174297/video/1",
+              "media_key": "7_2059861067157970944",
+              "start": 19,
+              "url": "https://t.co/Vcey9vCuVE"
+            },
+            {
+              "display_url": "pic.x.com/Vcey9vCuVE",
+              "end": 42,
+              "expanded_url": "https://x.com/likonghan/status/2059861113035174297/video/1",
+              "media_key": "3_2059861074078547968",
+              "start": 19,
+              "url": "https://t.co/Vcey9vCuVE"
+            },
+            {
+              "display_url": "pic.x.com/Vcey9vCuVE",
+              "end": 42,
+              "expanded_url": "https://x.com/likonghan/status/2059861113035174297/video/1",
+              "media_key": "3_2059861072505647104",
+              "start": 19,
+              "url": "https://t.co/Vcey9vCuVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059861113035174297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5770,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说想抓我？我可是强壮的雄性诶嘿嘿嘿 https://t.co/Vcey9vCuVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 3211,
+          "like_count": 15869,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 4543
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T13:35:19.000Z",
+        "description": "07无证含糖mtf一枚 ｜ 精神状态极度不稳定 ｜ 智齿友好交流 | 并非🚪 | 传统意义上的精神病药娘",
+        "id": "1987151911376805888",
+        "location": "雌二醇星球🪐",
+        "name": "李空函🍀🇨🇳🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987204895544647685/5WIZwnYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 129,
+          "like_count": 382,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 162
+        },
+        "username": "likonghan",
+        "verified": false
+      }
+    ]
+  }
+}

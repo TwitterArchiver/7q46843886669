@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057690920292962405",
+    "created_at": "2026-05-23T01:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058004168988840298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844702322892406800",
+          "start": 0,
+          "username": "pk_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058004168988840298",
+    "in_reply_to_user_id": "1844702322892406800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057932949866090858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pk_886 太涨了可以戳穿放一下气😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057690920292962405",
+        "created_at": "2026-05-23T01:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058004168988840298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844702322892406800",
+              "start": 0,
+              "username": "pk_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058004168988840298",
+        "in_reply_to_user_id": "1844702322892406800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057932949866090858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pk_886 太涨了可以戳穿放一下气😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844702322892406800",
+        "conversation_id": "2057690920292962405",
+        "created_at": "2026-05-22T21:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057932949866090858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057932949866090858",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057690920292962405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 有个大痘还是挺可爱的，不知道是我这会看了十分钟推特太涨了影响审美还是真的很可爱哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 3058,
+          "like_count": 14529,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 4400
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T11:31:35.000Z",
+        "description": "交朋友呀交朋友",
+        "id": "1844702322892406800",
+        "name": "粉色心情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844783954164949009/XfaXyQC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "pk_886",
+        "verified": false
+      }
+    ]
+  }
+}

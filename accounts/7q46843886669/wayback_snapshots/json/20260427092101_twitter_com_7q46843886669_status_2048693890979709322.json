@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048595439071752192"
+      ],
+      "media_source_tweet_id": [
+        "2048595441722560994"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048693890979709322",
+    "created_at": "2026-04-27T09:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048693890979709322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochicqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0yW3ktkunX",
+          "end": 50,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2048595441722560994/photo/1",
+          "media_key": "3_2048595439071752192",
+          "start": 27,
+          "url": "https://t.co/0yW3ktkunX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048693890979709322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048595441722560994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochicqwq: 为什么不说F键? https://t.co/0yW3ktkunX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2048595439071752192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4SsqpbcAACWoN.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048595439071752192"
+          ],
+          "media_source_tweet_id": [
+            "2048595441722560994"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048693890979709322",
+        "created_at": "2026-04-27T09:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048693890979709322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yW3ktkunX",
+              "end": 50,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2048595441722560994/photo/1",
+              "media_key": "3_2048595439071752192",
+              "start": 27,
+              "url": "https://t.co/0yW3ktkunX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048693890979709322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048595441722560994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochicqwq: 为什么不说F键? https://t.co/0yW3ktkunX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048595439071752192"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048595441722560994",
+        "created_at": "2026-04-27T02:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048595441722560994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yW3ktkunX",
+              "end": 32,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2048595441722560994/photo/1",
+              "media_key": "3_2048595439071752192",
+              "start": 9,
+              "url": "https://t.co/0yW3ktkunX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048595441722560994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14952,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么不说F键? https://t.co/0yW3ktkunX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2740,
+          "like_count": 6224,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1290
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "#蓝v互关｜小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 133,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 110,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 1313,
+          "like_count": 3358,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2064182860840686072",
+    "created_at": "2026-06-09T06:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064237108999635454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064237108999635454",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064182860840686072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian 回去！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2064182854721171456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVzXq8bcAA16xO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2064182860840686072",
+        "created_at": "2026-06-09T06:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064237108999635454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064237108999635454",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064182860840686072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 回去！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064182854721171456"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2064182860840686072",
+        "created_at": "2026-06-09T03:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064182860840686072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIfaEx50uv",
+              "end": 28,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2064182860840686072/photo/1",
+              "media_key": "3_2064182854721171456",
+              "start": 5,
+              "url": "https://t.co/VIfaEx50uv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064182860840686072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們咋了 https://t.co/VIfaEx50uv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 3371,
+          "like_count": 17771,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 4910
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 46,
+          "like_count": 1543,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

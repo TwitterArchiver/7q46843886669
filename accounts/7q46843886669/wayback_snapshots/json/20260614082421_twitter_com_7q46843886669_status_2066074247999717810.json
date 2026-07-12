@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2065940948685930666",
+    "created_at": "2026-06-14T08:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066074247999717810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066074247999717810",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065940948685930666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xEcuUp3Sf61887 咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065940942599999489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuyV2qb0AExGhb.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065940939609391104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuyVrhawAABKZ9.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065940936908324864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuyVhdbwAAoY51.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2065940948685930666",
+        "created_at": "2026-06-14T08:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066074247999717810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066074247999717810",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065940948685930666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065940942599999489",
+            "3_2065940939609391104",
+            "3_2065940936908324864"
+          ]
+        },
+        "author_id": "2039986041218592768",
+        "conversation_id": "2065940948685930666",
+        "created_at": "2026-06-13T23:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065940948685930666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlUauzFvaO",
+              "end": 33,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2065940948685930666/photo/1",
+              "media_key": "3_2065940942599999489",
+              "start": 10,
+              "url": "https://t.co/XlUauzFvaO"
+            },
+            {
+              "display_url": "pic.x.com/XlUauzFvaO",
+              "end": 33,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2065940948685930666/photo/1",
+              "media_key": "3_2065940939609391104",
+              "start": 10,
+              "url": "https://t.co/XlUauzFvaO"
+            },
+            {
+              "display_url": "pic.x.com/XlUauzFvaO",
+              "end": 33,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2065940948685930666/photo/1",
+              "media_key": "3_2065940936908324864",
+              "start": 10,
+              "url": "https://t.co/XlUauzFvaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065940948685930666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的媽。。好噁心。 https://t.co/XlUauzFvaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 3380,
+          "like_count": 18709,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 5085
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○｜另一個我@heikininaru_hbk（中文/日本語/English）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "heikininaru_hbk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2065354331919106099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 94,
+          "like_count": 4773,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

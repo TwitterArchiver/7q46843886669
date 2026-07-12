@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969267091363463168"
+      ],
+      "media_source_tweet_id": [
+        "1969267181771804999"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2028390002519065075",
+    "created_at": "2026-03-02T08:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028390002519065075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABvO3u7yh5",
+          "end": 42,
+          "expanded_url": "https://x.com/looolzaozimin/status/1969267181771804999/video/1",
+          "media_key": "13_1969267091363463168",
+          "start": 19,
+          "url": "https://t.co/ABvO3u7yh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028390002519065075",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13295
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969267181771804999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: https://t.co/ABvO3u7yh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22483,
+        "height": 960,
+        "media_key": "13_1969267091363463168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969267091363463168/img/rZAsKxUxy89j7hWt.jpg",
+        "public_metrics": {
+          "view_count": 7166244
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/320x426/eNTWQ4UanW9BNruV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/480x640/qbJmo-McsCEbB9Ps.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/720x960/XRJ-BAXWDAIvP7BD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/pl/O7nSs6DJpiapeSAI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 22483,
+        "height": 960,
+        "media_key": "13_1969267091363463168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969267091363463168/img/rZAsKxUxy89j7hWt.jpg",
+        "public_metrics": {
+          "view_count": 7166252
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/320x426/eNTWQ4UanW9BNruV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/480x640/qbJmo-McsCEbB9Ps.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/vid/avc1/720x960/XRJ-BAXWDAIvP7BD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969267091363463168/pl/O7nSs6DJpiapeSAI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969267091363463168"
+          ],
+          "media_source_tweet_id": [
+            "1969267181771804999"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2028390002519065075",
+        "created_at": "2026-03-02T08:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028390002519065075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABvO3u7yh5",
+              "end": 42,
+              "expanded_url": "https://x.com/looolzaozimin/status/1969267181771804999/video/1",
+              "media_key": "13_1969267091363463168",
+              "start": 19,
+              "url": "https://t.co/ABvO3u7yh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028390002519065075",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13295
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969267181771804999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: https://t.co/ABvO3u7yh5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969267091363463168"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1969267181771804999",
+        "created_at": "2025-09-20T05:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969267181771804999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABvO3u7yh5",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1969267181771804999/video/1",
+              "media_key": "13_1969267091363463168",
+              "start": 0,
+              "url": "https://t.co/ABvO3u7yh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969267181771804999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71647,
+          "impression_count": 16082659,
+          "like_count": 191418,
+          "quote_count": 2565,
+          "reply_count": 618,
+          "retweet_count": 13295
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ABvO3u7yh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 2014,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 269
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "第二人格@songbansha6606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "songbansha6606"
+              }
+            ]
+          }
+        },
+        "id": "1960389326258495492",
+        "location": "門288 28888",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23863,
+          "following_count": 42,
+          "like_count": 127,
+          "listed_count": 24,
+          "media_count": 78,
+          "tweet_count": 189
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

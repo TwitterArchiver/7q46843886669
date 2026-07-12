@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049632753399013545",
+    "created_at": "2026-04-29T23:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049632753399013545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2024812886699474944",
+          "start": 3,
+          "username": "Chasjjxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049632753399013545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049430614563299473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chasjjxw: 如果想要长期恋爱关系的话，接触对方不要目的性太强。。。都能看出来你心里的小算盘💦\n最好是先做朋友，互相了解很长一段时间后再谈💦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049632753399013545",
+        "created_at": "2026-04-29T23:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049632753399013545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2024812886699474944",
+              "start": 3,
+              "username": "Chasjjxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049632753399013545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049430614563299473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chasjjxw: 如果想要长期恋爱关系的话，接触对方不要目的性太强。。。都能看出来你心里的小算盘💦\n最好是先做朋友，互相了解很长一段时间后再谈💦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024812886699474944",
+        "conversation_id": "2049430614563299473",
+        "created_at": "2026-04-29T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049430614563299473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049430614563299473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11001,
+          "like_count": 191,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果想要长期恋爱关系的话，接触对方不要目的性太强。。。都能看出来你心里的小算盘💦\n最好是先做朋友，互相了解很长一段时间后再谈💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2796,
+          "like_count": 7447,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1891
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T11:47:00.000Z",
+        "description": "常驻北京，欢迎来找我玩//是🏳️‍🌈，将来去🇦🇺读书//不要在网上吵架哦～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/autumeeb5y1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/autumeeb5y1",
+                "start": 0,
+                "url": "https://t.co/KBWVqi2cAR"
+              }
+            ]
+          }
+        },
+        "id": "2024812886699474944",
+        "location": "北京",
+        "name": "Josh单身版",
+        "pinned_tweet_id": "2033830719320134112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027731164430274563/HsbTsoRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 405,
+          "like_count": 4538,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/KBWVqi2cAR",
+        "username": "Chasjjxw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048734301358026752"
+      ],
+      "media_source_tweet_id": [
+        "2048734308186354052"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048937543161557498",
+    "created_at": "2026-04-28T01:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048937543161557498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704678798816673793",
+          "start": 3,
+          "username": "PAKIRUCHANG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4obHfnBVQh",
+          "end": 40,
+          "expanded_url": "https://x.com/PAKIRUCHANG/status/2048734308186354052/photo/1",
+          "media_key": "3_2048734301358026752",
+          "start": 17,
+          "url": "https://t.co/4obHfnBVQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048937543161557498",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048734308186354052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PAKIRUCHANG: https://t.co/4obHfnBVQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048734301358026752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6Q_g-acAAnIZL.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048734301358026752"
+          ],
+          "media_source_tweet_id": [
+            "2048734308186354052"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048937543161557498",
+        "created_at": "2026-04-28T01:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048937543161557498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704678798816673793",
+              "start": 3,
+              "username": "PAKIRUCHANG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4obHfnBVQh",
+              "end": 40,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2048734308186354052/photo/1",
+              "media_key": "3_2048734301358026752",
+              "start": 17,
+              "url": "https://t.co/4obHfnBVQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048937543161557498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048734308186354052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PAKIRUCHANG: https://t.co/4obHfnBVQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048734301358026752"
+          ]
+        },
+        "author_id": "1704678798816673793",
+        "conversation_id": "2048734308186354052",
+        "created_at": "2026-04-27T12:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048734308186354052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4obHfnBVQh",
+              "end": 23,
+              "expanded_url": "https://x.com/PAKIRUCHANG/status/2048734308186354052/photo/1",
+              "media_key": "3_2048734301358026752",
+              "start": 0,
+              "url": "https://t.co/4obHfnBVQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048734308186354052",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 11411,
+          "like_count": 1589,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4obHfnBVQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2770,
+          "like_count": 6587,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1538
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T02:08:20.000Z",
+        "description": "HP♡https://t.co/1bZH3lGe3d skeb募集中♡https://t.co/amJLrtih8P ✉️→PAKIRUCHANG@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "piku.page/@NOUMENCHANG/N…",
+                "end": 26,
+                "expanded_url": "https://piku.page/@NOUMENCHANG/NJDHOME",
+                "start": 3,
+                "url": "https://t.co/1bZH3lGe3d"
+              },
+              {
+                "display_url": "skeb.jp/@PAKIRUCHANG",
+                "end": 58,
+                "expanded_url": "https://skeb.jp/@PAKIRUCHANG",
+                "start": 35,
+                "url": "https://t.co/amJLrtih8P"
+              }
+            ]
+          }
+        },
+        "id": "1704678798816673793",
+        "location": "🇯🇵",
+        "name": "猫浄土@COMITIA156 S31b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038512817008152576/M3SA7ztI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17867,
+          "following_count": 150,
+          "like_count": 14802,
+          "listed_count": 82,
+          "media_count": 292,
+          "tweet_count": 5108
+        },
+        "username": "PAKIRUCHANG",
+        "verified": false
+      }
+    ]
+  }
+}

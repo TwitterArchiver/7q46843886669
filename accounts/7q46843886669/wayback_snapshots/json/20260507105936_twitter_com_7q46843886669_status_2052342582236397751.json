@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2052340851356086636",
+    "created_at": "2026-05-07T10:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052342582236397751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024195400442531841",
+          "start": 0,
+          "username": "Xjiajiaouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052342582236397751",
+    "in_reply_to_user_id": "2024195400442531841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052340851356086636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Xjiajiaouo 不早说。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2428,
+        "media_key": "3_2052340790454804480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHthEz0aYAAmEVb.jpg",
+        "width": 1592
+      },
+      {
+        "duration_ms": 6333,
+        "height": 1280,
+        "media_key": "13_2052340790459076608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052340790459076608/img/qOF_VwNTQCLLyhWG.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052340790459076608/vid/avc1/320x568/LUCSlWv564qaSsjg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052340790459076608/vid/avc1/480x852/02naJL4tAEsgcZz4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052340790459076608/vid/avc1/720x1280/op-7MYliot5vhVBT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052340790459076608/pl/cLNNYtisHZ4smNoP.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2052340790438027264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHthEzwaYAAnvAj.jpg",
+        "width": 3024
+      },
+      {
+        "height": 846,
+        "media_key": "3_2052340790480064513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHthEz6b0AEkOIQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2052340851356086636",
+        "created_at": "2026-05-07T10:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052342582236397751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024195400442531841",
+              "start": 0,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052342582236397751",
+        "in_reply_to_user_id": "2024195400442531841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052340851356086636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Xjiajiaouo 不早说。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052340790454804480",
+            "13_2052340790459076608",
+            "3_2052340790438027264",
+            "3_2052340790480064513"
+          ]
+        },
+        "author_id": "2024195400442531841",
+        "conversation_id": "2052340851356086636",
+        "created_at": "2026-05-07T10:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052340851356086636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7aVy0UXUE",
+              "end": 28,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2052340851356086636/video/1",
+              "media_key": "3_2052340790454804480",
+              "start": 5,
+              "url": "https://t.co/Z7aVy0UXUE"
+            },
+            {
+              "display_url": "pic.x.com/Z7aVy0UXUE",
+              "end": 28,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2052340851356086636/video/1",
+              "media_key": "13_2052340790459076608",
+              "start": 5,
+              "url": "https://t.co/Z7aVy0UXUE"
+            },
+            {
+              "display_url": "pic.x.com/Z7aVy0UXUE",
+              "end": 28,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2052340851356086636/video/1",
+              "media_key": "3_2052340790438027264",
+              "start": 5,
+              "url": "https://t.co/Z7aVy0UXUE"
+            },
+            {
+              "display_url": "pic.x.com/Z7aVy0UXUE",
+              "end": 28,
+              "expanded_url": "https://x.com/Xjiajiaouo/status/2052340851356086636/video/1",
+              "media_key": "3_2052340790480064513",
+              "start": 5,
+              "url": "https://t.co/Z7aVy0UXUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052340851356086636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "炒冷饭。 https://t.co/Z7aVy0UXUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2906,
+          "like_count": 11028,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3133
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "",
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2050414030091894884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050410500119576576/n2MSxxmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 435,
+          "like_count": 10121,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2750
+        },
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

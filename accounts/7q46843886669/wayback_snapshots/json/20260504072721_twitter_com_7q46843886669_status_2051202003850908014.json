@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050933989305651200"
+      ],
+      "media_source_tweet_id": [
+        "2050933995773235683"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051202003850908014",
+    "created_at": "2026-05-04T07:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051202003850908014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486171494229045252",
+          "start": 3,
+          "username": "abrokensouI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pqtsvykb1l",
+          "end": 40,
+          "expanded_url": "https://x.com/abrokensouI/status/2050933995773235683/photo/1",
+          "media_key": "3_2050933989305651200",
+          "start": 17,
+          "url": "https://t.co/Pqtsvykb1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051202003850908014",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1528
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050933995773235683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abrokensouI: https://t.co/Pqtsvykb1l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2050933989305651200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZhmNJWkAAVOhk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050933989305651200"
+          ],
+          "media_source_tweet_id": [
+            "2050933995773235683"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051202003850908014",
+        "created_at": "2026-05-04T07:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051202003850908014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486171494229045252",
+              "start": 3,
+              "username": "abrokensouI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pqtsvykb1l",
+              "end": 40,
+              "expanded_url": "https://x.com/abrokensouI/status/2050933995773235683/photo/1",
+              "media_key": "3_2050933989305651200",
+              "start": 17,
+              "url": "https://t.co/Pqtsvykb1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051202003850908014",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1528
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050933995773235683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abrokensouI: https://t.co/Pqtsvykb1l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050933989305651200"
+          ]
+        },
+        "author_id": "1486171494229045252",
+        "conversation_id": "2050933995773235683",
+        "created_at": "2026-05-03T13:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050933995773235683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pqtsvykb1l",
+              "end": 23,
+              "expanded_url": "https://x.com/abrokensouI/status/2050933995773235683/photo/1",
+              "media_key": "3_2050933989305651200",
+              "start": 0,
+              "url": "https://t.co/Pqtsvykb1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050933995773235683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 64432,
+          "like_count": 6019,
+          "quote_count": 29,
+          "reply_count": 7,
+          "retweet_count": 1528
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Pqtsvykb1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 2858,
+          "like_count": 9614,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2702
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T02:58:07.000Z",
+        "description": "sad girls collective",
+        "id": "1486171494229045252",
+        "location": "omw 50k",
+        "name": "a broken soul",
+        "pinned_tweet_id": "2050933995773235683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945583955324854272/_mFp5_rY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42206,
+          "following_count": 5110,
+          "like_count": 40604,
+          "listed_count": 64,
+          "media_count": 2978,
+          "tweet_count": 5042
+        },
+        "username": "abrokensouI",
+        "verified": true
+      }
+    ]
+  }
+}

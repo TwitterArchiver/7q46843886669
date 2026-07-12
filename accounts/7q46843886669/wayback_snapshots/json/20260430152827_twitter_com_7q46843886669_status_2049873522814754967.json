@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049515584031981568"
+      ],
+      "media_source_tweet_id": [
+        "2049515659126534458"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049873522814754967",
+    "created_at": "2026-04-30T15:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049873522814754967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010417524526260224",
+          "start": 3,
+          "username": "liminalins"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pXHQe1RJrK",
+          "end": 51,
+          "expanded_url": "https://x.com/liminalins/status/2049515659126534458/video/1",
+          "media_key": "13_2049515584031981568",
+          "start": 28,
+          "url": "https://t.co/pXHQe1RJrK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049873522814754967",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049515659126534458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liminalins: no computer https://t.co/pXHQe1RJrK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10041,
+        "height": 1440,
+        "media_key": "13_2049515584031981568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049515584031981568/img/OhAbm5PucH_JJV2q.jpg",
+        "public_metrics": {
+          "view_count": 13739
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049515584031981568/vid/avc1/1080x1080/-XLpR82pBfPDvNks.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049515584031981568/vid/avc1/320x320/Hv0ElyHFdAUdKqY3.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049515584031981568/vid/avc1/720x720/Av3KrfjZS-OEQbOQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049515584031981568/pl/-PQNc1L1bB-MC8ge.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049515584031981568/vid/avc1/540x540/oTwHkQiWKHkUxxEW.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049515584031981568"
+          ],
+          "media_source_tweet_id": [
+            "2049515659126534458"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049873522814754967",
+        "created_at": "2026-04-30T15:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049873522814754967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010417524526260224",
+              "start": 3,
+              "username": "liminalins"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXHQe1RJrK",
+              "end": 51,
+              "expanded_url": "https://x.com/liminalins/status/2049515659126534458/video/1",
+              "media_key": "13_2049515584031981568",
+              "start": 28,
+              "url": "https://t.co/pXHQe1RJrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049873522814754967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049515659126534458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liminalins: no computer https://t.co/pXHQe1RJrK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049515584031981568"
+          ]
+        },
+        "author_id": "2010417524526260224",
+        "conversation_id": "2049515659126534458",
+        "created_at": "2026-04-29T15:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049515659126534458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXHQe1RJrK",
+              "end": 35,
+              "expanded_url": "https://x.com/liminalins/status/2049515659126534458/video/1",
+              "media_key": "13_2049515584031981568",
+              "start": 12,
+              "url": "https://t.co/pXHQe1RJrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049515659126534458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 397,
+          "impression_count": 45042,
+          "like_count": 2545,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "no computer https://t.co/pXHQe1RJrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2803,
+          "like_count": 7822,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1992
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:24:35.000Z",
+        "description": "I make things with AI",
+        "id": "2010417524526260224",
+        "name": "liminalins",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049437261436203008/Q2MSYzrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28058,
+          "following_count": 20,
+          "like_count": 679,
+          "listed_count": 59,
+          "media_count": 7,
+          "tweet_count": 7
+        },
+        "username": "liminalins",
+        "verified": true
+      }
+    ]
+  }
+}

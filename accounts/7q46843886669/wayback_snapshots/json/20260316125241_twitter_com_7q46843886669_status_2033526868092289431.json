@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2030970192839455125",
+    "created_at": "2026-03-16T12:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033526868092289431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033526868092289431",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030970192839455125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 电锯人2已经似了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 267517,
+        "height": 360,
+        "media_key": "7_2030970099423948800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030970099423948800/pu/img/plcUR6PsNnqA_Knj.jpg",
+        "public_metrics": {
+          "view_count": 495
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030970099423948800/pu/vid/avc1/480x270/-5BAnry6Sl0mKHZF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030970099423948800/pu/vid/avc1/640x360/B1TSOeHozIkgoYe_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030970099423948800/pu/pl/FnsgyzT_RLzkszk1.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2030970192839455125",
+        "created_at": "2026-03-16T12:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033526868092289431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033526868092289431",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030970192839455125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 电锯人2已经似了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030970099423948800"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "2030970192839455125",
+        "created_at": "2026-03-09T11:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030970192839455125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArTXEX41O1",
+              "end": 58,
+              "expanded_url": "https://x.com/y0zarashi/status/2030970192839455125/video/1",
+              "media_key": "7_2030970099423948800",
+              "start": 35,
+              "url": "https://t.co/ArTXEX41O1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030970192839455125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1128,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是我亲自做的电锯人2动漫版，花了我一个多月的时间，大家看看怎么样 https://t.co/ArTXEX41O1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 2300,
+          "like_count": 2844,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 375
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "定时禁言已生效，禁言时段为22:00-次日08:00，每天重复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0zarashi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0zarashi",
+                "start": 0,
+                "url": "https://t.co/YWqrMoB9vO"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "🚪30正常人形态把你当家人  🚪100以上天天骚扰你",
+        "name": "yozarashi",
+        "pinned_tweet_id": "2030970192839455125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032212856289067008/deuHawu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 212,
+          "like_count": 104,
+          "listed_count": 6,
+          "media_count": 590,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/YWqrMoB9vO",
+        "username": "y0zarashi",
+        "verified": true
+      }
+    ]
+  }
+}

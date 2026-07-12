@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2056205269261033472"
+      ],
+      "media_source_tweet_id": [
+        "2056205299015385422"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+          "id": "109",
+          "name": "Reoccurring Trends"
+        },
+        "entity": {
+          "description": "#Sextou",
+          "id": "913836488353132544",
+          "name": "#Sextou"
+        }
+      }
+    ],
+    "conversation_id": "2058110116956938427",
+    "created_at": "2026-05-23T08:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058110116956938427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1451353874112057350",
+          "start": 3,
+          "username": "_yhenryz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFzEVbON6H",
+          "end": 66,
+          "expanded_url": "https://x.com/MemesDeCadeia3/status/2056205299015385422/video/1",
+          "media_key": "7_2056205269261033472",
+          "start": 43,
+          "url": "https://t.co/cFzEVbON6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058110116956938427",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057857408509092187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yhenryz: sextou naquele modelo xucro  https://t.co/cFzEVbON6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22221,
+        "height": 720,
+        "media_key": "7_2056205269261033472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056205269261033472/pu/img/LgXGFe2TxD_uzdFq.jpg",
+        "public_metrics": {
+          "view_count": 152037
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056205269261033472/pu/vid/avc1/360x270/5HMWoIQGabI9Jamd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056205269261033472/pu/vid/avc1/480x360/E0xUQWhqJZXs03yR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056205269261033472/pu/vid/avc1/960x720/W5rnwCc0bamHBQCI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056205269261033472/pu/pl/aeZW6sCykdqk32R9.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056205269261033472"
+          ],
+          "media_source_tweet_id": [
+            "2056205299015385422"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "description": "#Sextou",
+              "id": "913836488353132544",
+              "name": "#Sextou"
+            }
+          }
+        ],
+        "conversation_id": "2058110116956938427",
+        "created_at": "2026-05-23T08:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058110116956938427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1451353874112057350",
+              "start": 3,
+              "username": "_yhenryz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFzEVbON6H",
+              "end": 66,
+              "expanded_url": "https://x.com/MemesDeCadeia3/status/2056205299015385422/video/1",
+              "media_key": "7_2056205269261033472",
+              "start": 43,
+              "url": "https://t.co/cFzEVbON6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058110116956938427",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057857408509092187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yhenryz: sextou naquele modelo xucro  https://t.co/cFzEVbON6H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056205269261033472"
+          ],
+          "media_source_tweet_id": [
+            "2056205299015385422"
+          ]
+        },
+        "author_id": "1451353874112057350",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "description": "#Sextou",
+              "id": "913836488353132544",
+              "name": "#Sextou"
+            }
+          }
+        ],
+        "conversation_id": "2057857408509092187",
+        "created_at": "2026-05-22T16:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057857408509092187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFzEVbON6H",
+              "end": 52,
+              "expanded_url": "https://x.com/MemesDeCadeia3/status/2056205299015385422/video/1",
+              "media_key": "7_2056205269261033472",
+              "start": 29,
+              "url": "https://t.co/cFzEVbON6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057857408509092187",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1155,
+          "impression_count": 334069,
+          "like_count": 6615,
+          "quote_count": 84,
+          "reply_count": 66,
+          "retweet_count": 1147
+        },
+        "reply_settings": "everyone",
+        "text": "sextou naquele modelo xucro  https://t.co/cFzEVbON6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 3104,
+          "like_count": 14801,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4470
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T01:05:26.000Z",
+        "description": "",
+        "id": "1451353874112057350",
+        "location": "͏͏͏͏͏͏͏͏͏              ",
+        "name": "Ⓓ",
+        "pinned_tweet_id": "1801226260577726767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715384928940032/mB4uoDDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 520,
+          "like_count": 16066,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 594
+        },
+        "username": "_yhenryz",
+        "verified": false
+      }
+    ]
+  }
+}

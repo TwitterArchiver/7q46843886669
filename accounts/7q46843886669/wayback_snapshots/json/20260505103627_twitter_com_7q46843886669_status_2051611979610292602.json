@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051266736323018752",
+        "3_2051266737056940032"
+      ],
+      "media_source_tweet_id": [
+        "2051266744975851905",
+        "2051266744975851905"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051611979610292602",
+    "created_at": "2026-05-05T10:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051611979610292602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochicqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Ph6zLz8BK",
+          "end": 66,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2051266744975851905/photo/1",
+          "media_key": "3_2051266736323018752",
+          "start": 43,
+          "url": "https://t.co/3Ph6zLz8BK"
+        },
+        {
+          "display_url": "pic.x.com/3Ph6zLz8BK",
+          "end": 66,
+          "expanded_url": "https://x.com/Shioochicqwq/status/2051266744975851905/photo/1",
+          "media_key": "3_2051266737056940032",
+          "start": 43,
+          "url": "https://t.co/3Ph6zLz8BK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051611979610292602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051266744975851905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochicqwq: 666学校校园墙爆了\n有人在高三自习室拉屎🤮🤮🤮 https://t.co/3Ph6zLz8BK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2051266736323018752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeQOoYbwAAC09U.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051266737056940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHeQOrHagAAFcBy.jpg",
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051266736323018752",
+            "3_2051266737056940032"
+          ],
+          "media_source_tweet_id": [
+            "2051266744975851905",
+            "2051266744975851905"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051611979610292602",
+        "created_at": "2026-05-05T10:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051611979610292602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochicqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ph6zLz8BK",
+              "end": 66,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2051266744975851905/photo/1",
+              "media_key": "3_2051266736323018752",
+              "start": 43,
+              "url": "https://t.co/3Ph6zLz8BK"
+            },
+            {
+              "display_url": "pic.x.com/3Ph6zLz8BK",
+              "end": 66,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2051266744975851905/photo/1",
+              "media_key": "3_2051266737056940032",
+              "start": 43,
+              "url": "https://t.co/3Ph6zLz8BK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051611979610292602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051266744975851905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochicqwq: 666学校校园墙爆了\n有人在高三自习室拉屎🤮🤮🤮 https://t.co/3Ph6zLz8BK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051266736323018752",
+            "3_2051266737056940032"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051266744975851905",
+        "created_at": "2026-05-04T11:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051266744975851905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ph6zLz8BK",
+              "end": 48,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2051266744975851905/photo/1",
+              "media_key": "3_2051266736323018752",
+              "start": 25,
+              "url": "https://t.co/3Ph6zLz8BK"
+            },
+            {
+              "display_url": "pic.x.com/3Ph6zLz8BK",
+              "end": 48,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2051266744975851905/photo/1",
+              "media_key": "3_2051266737056940032",
+              "start": 25,
+              "url": "https://t.co/3Ph6zLz8BK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051266744975851905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 70011,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "666学校校园墙爆了\n有人在高三自习室拉屎🤮🤮🤮 https://t.co/3Ph6zLz8BK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2883,
+          "like_count": 10063,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2838
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 127,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 104,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 1595,
+          "like_count": 4507,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

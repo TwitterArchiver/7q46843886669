@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049685139802955820",
+    "created_at": "2026-04-30T02:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049685139802955820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999471092898156544",
+          "start": 3,
+          "username": "RileyYote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049685139802955820",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3806
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049597464819175509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RileyYote: *bites you* hey\n*bites you* hey you\n*bites you* give me attention\n*bites you* hey\n*bites you* hey you attention https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18451,
+        "height": 1280,
+        "media_key": "13_2049597125001170944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049597125001170944/img/OK4t3WTvY0zYrXHf.jpg",
+        "public_metrics": {
+          "view_count": 165169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049597125001170944/vid/avc1/320x568/tL3KsBHR1qwf9j8O.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049597125001170944/vid/avc1/480x852/UdDhN8N89geEcxVf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049597125001170944/vid/avc1/720x1280/5N72zlcMSahNKeBJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049597125001170944/pl/uwXQtVbjdrDcazPy.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049685139802955820",
+        "created_at": "2026-04-30T02:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049685139802955820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999471092898156544",
+              "start": 3,
+              "username": "RileyYote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049685139802955820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3806
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049597464819175509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RileyYote: *bites you* hey\n*bites you* hey you\n*bites you* give me attention\n*bites you* hey\n*bites you* hey you attention https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049597125001170944"
+          ]
+        },
+        "author_id": "1999471092898156544",
+        "conversation_id": "2049597464819175509",
+        "created_at": "2026-04-29T21:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T22:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049597464819175509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vjUO9CsrI",
+              "end": 135,
+              "expanded_url": "https://x.com/RileyYote/status/2049597464819175509/video/1",
+              "media_key": "13_2049597125001170944",
+              "start": 112,
+              "url": "https://t.co/2vjUO9CsrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049597464819175509",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3371,
+          "impression_count": 452102,
+          "like_count": 24891,
+          "quote_count": 361,
+          "reply_count": 59,
+          "retweet_count": 3806
+        },
+        "reply_settings": "everyone",
+        "text": "*bites you* hey\n*bites you* hey you\n*bites you* give me attention\n*bites you* hey\n*bites you* hey you attention https://t.co/2vjUO9CsrI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2799,
+          "like_count": 7501,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1912
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T13:27:25.000Z",
+        "description": "30 | Bi | 🔞 | Yappin Yote | DM's open | Pfp by @ROCKABILLYGHOST",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "ROCKABILLYGHOST"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/rileyyote",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/rileyyote",
+                "start": 0,
+                "url": "https://t.co/H7VMdst33w"
+              }
+            ]
+          }
+        },
+        "id": "1999471092898156544",
+        "location": "New England",
+        "name": "Riley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035445175560884224/qw0ofx46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 128,
+          "like_count": 1462,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/H7VMdst33w",
+        "username": "RileyYote",
+        "verified": false
+      }
+    ]
+  }
+}

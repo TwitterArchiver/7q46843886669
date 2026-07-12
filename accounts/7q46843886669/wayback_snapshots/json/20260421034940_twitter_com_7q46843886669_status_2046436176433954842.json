@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046336689795432448"
+      ],
+      "media_source_tweet_id": [
+        "2046336693024719118"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2046436176433954842",
+    "created_at": "2026-04-21T03:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046436176433954842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677017804262760458",
+          "start": 3,
+          "username": "ferixzs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txUfNyfNCZ",
+          "end": 51,
+          "expanded_url": "https://x.com/ferixzs/status/2046336693024719118/photo/1",
+          "media_key": "3_2046336689795432448",
+          "start": 28,
+          "url": "https://t.co/txUfNyfNCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046436176433954842",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046336693024719118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ferixzs: a quarta graça https://t.co/txUfNyfNCZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2046336689795432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYMYJ4bAAADjUf.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046336689795432448"
+          ],
+          "media_source_tweet_id": [
+            "2046336693024719118"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2046436176433954842",
+        "created_at": "2026-04-21T03:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046436176433954842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677017804262760458",
+              "start": 3,
+              "username": "ferixzs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txUfNyfNCZ",
+              "end": 51,
+              "expanded_url": "https://x.com/ferixzs/status/2046336693024719118/photo/1",
+              "media_key": "3_2046336689795432448",
+              "start": 28,
+              "url": "https://t.co/txUfNyfNCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046436176433954842",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046336693024719118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ferixzs: a quarta graça https://t.co/txUfNyfNCZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046336689795432448"
+          ]
+        },
+        "author_id": "1677017804262760458",
+        "conversation_id": "2046336693024719118",
+        "created_at": "2026-04-20T21:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046336693024719118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txUfNyfNCZ",
+              "end": 38,
+              "expanded_url": "https://x.com/ferixzs/status/2046336693024719118/photo/1",
+              "media_key": "3_2046336689795432448",
+              "start": 15,
+              "url": "https://t.co/txUfNyfNCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046336693024719118",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3137,
+          "impression_count": 565377,
+          "like_count": 21729,
+          "quote_count": 287,
+          "reply_count": 183,
+          "retweet_count": 1247
+        },
+        "reply_settings": "everyone",
+        "text": "a quarta graça https://t.co/txUfNyfNCZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 2645,
+          "like_count": 4420,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 648
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T18:13:18.000Z",
+        "description": "somos pessoas bonitas com problemas bonitos",
+        "id": "1677017804262760458",
+        "name": "paulo sampaio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242575168028672/_YeWTGkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11848,
+          "following_count": 1531,
+          "like_count": 31376,
+          "listed_count": 6,
+          "media_count": 10544,
+          "tweet_count": 25293
+        },
+        "username": "ferixzs",
+        "verified": true
+      }
+    ]
+  }
+}

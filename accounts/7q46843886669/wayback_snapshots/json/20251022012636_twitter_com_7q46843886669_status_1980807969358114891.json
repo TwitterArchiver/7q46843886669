@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "1980548901540360411",
+    "created_at": "2025-10-22T01:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T02:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980807969358114891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513898402366439427",
+          "start": 0,
+          "username": "lllll_l_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980807969358114891",
+    "in_reply_to_user_id": "1513898402366439427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980548901540360411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lllll_l_love 他都说了人这一辈子到底该图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "1980548901540360411",
+        "created_at": "2025-10-22T01:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T02:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980807969358114891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "lllll_l_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980807969358114891",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980548901540360411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lllll_l_love 他都说了人这一辈子到底该图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513898402366439427",
+        "conversation_id": "1980548901540360411",
+        "created_at": "2025-10-21T08:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980548901540360411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/techbruneth/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/techbruneth/status/1980088342629998993",
+              "start": 15,
+              "url": "https://t.co/IN37bexLHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980548901540360411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980088342629998993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有世界上所有人都该死主义 https://t.co/IN37bexLHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 727,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "我有精神病别惹我谢谢 私信瞎发吊全价私晚",
+        "id": "1513898402366439427",
+        "name": "烦烦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920041044265078785/Cub8hAdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 248,
+          "like_count": 1343,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 210
+        },
+        "username": "lllll_l_love",
+        "verified": false
+      }
+    ]
+  }
+}

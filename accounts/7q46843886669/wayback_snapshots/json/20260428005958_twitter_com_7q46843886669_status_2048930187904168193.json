@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048725135964966912"
+      ],
+      "media_source_tweet_id": [
+        "2048725142197633305"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048930187904168193",
+    "created_at": "2026-04-28T00:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048930187904168193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1704131394992218113",
+          "start": 3,
+          "username": "secondhand9280"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJxOoTUjNF",
+          "end": 43,
+          "expanded_url": "https://x.com/secondhand9280/status/2048725142197633305/photo/1",
+          "media_key": "3_2048725135964966912",
+          "start": 20,
+          "url": "https://t.co/IJxOoTUjNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048930187904168193",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048725142197633305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @secondhand9280: https://t.co/IJxOoTUjNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2048725135964966912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6IqBObEAAl2ds.png",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048725135964966912"
+          ],
+          "media_source_tweet_id": [
+            "2048725142197633305"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048930187904168193",
+        "created_at": "2026-04-28T00:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048930187904168193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1704131394992218113",
+              "start": 3,
+              "username": "secondhand9280"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJxOoTUjNF",
+              "end": 43,
+              "expanded_url": "https://x.com/secondhand9280/status/2048725142197633305/photo/1",
+              "media_key": "3_2048725135964966912",
+              "start": 20,
+              "url": "https://t.co/IJxOoTUjNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048930187904168193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048725142197633305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @secondhand9280: https://t.co/IJxOoTUjNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048725135964966912"
+          ]
+        },
+        "author_id": "1704131394992218113",
+        "conversation_id": "2048725142197633305",
+        "created_at": "2026-04-27T11:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048725142197633305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJxOoTUjNF",
+              "end": 23,
+              "expanded_url": "https://x.com/secondhand9280/status/2048725142197633305/photo/1",
+              "media_key": "3_2048725135964966912",
+              "start": 0,
+              "url": "https://t.co/IJxOoTUjNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048725142197633305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 465,
+          "impression_count": 24422,
+          "like_count": 3515,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IJxOoTUjNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2768,
+          "like_count": 6521,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1502
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-19T13:52:55.000Z",
+        "description": "絵師  /🚫AI\nContact : a76678100@gmail.com\n문의 DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/ranivan",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/ranivan",
+                "start": 0,
+                "url": "https://t.co/1aemN6FmyH"
+              }
+            ]
+          }
+        },
+        "id": "1704131394992218113",
+        "name": "ラニバン/Ranivan/라니반",
+        "pinned_tweet_id": "2048732729177706854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875126055188729857/1_36W-0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16236,
+          "following_count": 347,
+          "like_count": 3809,
+          "listed_count": 55,
+          "media_count": 378,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/1aemN6FmyH",
+        "username": "secondhand9280",
+        "verified": false
+      }
+    ]
+  }
+}

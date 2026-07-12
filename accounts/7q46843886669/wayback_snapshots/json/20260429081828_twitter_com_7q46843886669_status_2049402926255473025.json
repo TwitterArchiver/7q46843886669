@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049401202417524764",
+    "created_at": "2026-04-29T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049402926255473025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529654419213541376",
+          "start": 0,
+          "username": "3LifeStrongWine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049402926255473025",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049401202417524764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3LifeStrongWine 哎哟这酒蒙子还挺有文采说是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049401202417524764",
+        "created_at": "2026-04-29T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049402926255473025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049402926255473025",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049401202417524764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 哎哟这酒蒙子还挺有文采说是（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2049401202417524764",
+        "created_at": "2026-04-29T08:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049401202417524764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049401202417524764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你的感性是滥用的抗生素，点滴着输入静脉才终于明白恨就是稀释过的爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2782,
+          "like_count": 7097,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1759
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 115,
+          "like_count": 6907,
+          "listed_count": 13,
+          "media_count": 3586,
+          "tweet_count": 14115
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

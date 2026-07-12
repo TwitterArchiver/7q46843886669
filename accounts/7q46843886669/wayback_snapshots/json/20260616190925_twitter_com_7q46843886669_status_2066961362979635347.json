@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066917132944785408"
+      ],
+      "media_source_tweet_id": [
+        "2066917144126783713"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2066961362979635347",
+    "created_at": "2026-06-16T19:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T20:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066961362979635347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027373195901480960",
+          "start": 3,
+          "username": "Nimmmaiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YeGI1Oov6E",
+          "end": 38,
+          "expanded_url": "https://x.com/Nimmmaiii/status/2066917144126783713/photo/1",
+          "media_key": "3_2066917132944785408",
+          "start": 15,
+          "url": "https://t.co/YeGI1Oov6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066961362979635347",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066917144126783713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nimmmaiii: https://t.co/YeGI1Oov6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2066917132944785408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8qLnFXwAAW67-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066917132944785408"
+          ],
+          "media_source_tweet_id": [
+            "2066917144126783713"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2066961362979635347",
+        "created_at": "2026-06-16T19:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066961362979635347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027373195901480960",
+              "start": 3,
+              "username": "Nimmmaiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeGI1Oov6E",
+              "end": 38,
+              "expanded_url": "https://x.com/Nimmmaiii/status/2066917144126783713/photo/1",
+              "media_key": "3_2066917132944785408",
+              "start": 15,
+              "url": "https://t.co/YeGI1Oov6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066961362979635347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066917144126783713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nimmmaiii: https://t.co/YeGI1Oov6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066917132944785408"
+          ]
+        },
+        "author_id": "2027373195901480960",
+        "conversation_id": "2066917144126783713",
+        "created_at": "2026-06-16T16:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066917144126783713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeGI1Oov6E",
+              "end": 23,
+              "expanded_url": "https://x.com/Nimmmaiii/status/2066917144126783713/photo/1",
+              "media_key": "3_2066917132944785408",
+              "start": 0,
+              "url": "https://t.co/YeGI1Oov6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066917144126783713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2617,
+          "like_count": 175,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YeGI1Oov6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065790293577027896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 3389,
+          "like_count": 19152,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 5165
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T13:20:20.000Z",
+        "description": "推广自辨",
+        "id": "2027373195901480960",
+        "location": "没门没门没门 不加不加不加 不打不打不打",
+        "name": "我不要",
+        "pinned_tweet_id": "2066863267755024470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027374208909742080/DUyEzwVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4914,
+          "following_count": 58,
+          "like_count": 1769,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 497
+        },
+        "username": "Nimmmaiii",
+        "verified": false
+      }
+    ]
+  }
+}

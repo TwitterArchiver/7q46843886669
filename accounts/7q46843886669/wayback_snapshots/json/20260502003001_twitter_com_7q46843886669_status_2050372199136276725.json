@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050129642799939584"
+      ],
+      "media_source_tweet_id": [
+        "2050129754469155017"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2050372199136276725",
+    "created_at": "2026-05-02T00:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T01:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050372199136276725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1270079156466958341",
+          "start": 3,
+          "username": "gunfanatics1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ze9UNuE1w3",
+          "end": 41,
+          "expanded_url": "https://x.com/gunfanatics1/status/2050129754469155017/video/1",
+          "media_key": "7_2050129642799939584",
+          "start": 18,
+          "url": "https://t.co/ze9UNuE1w3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050372199136276725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050129754469155017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gunfanatics1: https://t.co/ze9UNuE1w3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22778,
+        "height": 1280,
+        "media_key": "7_2050129642799939584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050129642799939584/pu/img/RIyDCCNvvuB6PW1n.jpg",
+        "public_metrics": {
+          "view_count": 4064
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050129642799939584/pu/vid/avc1/320x568/NFyDsTcMnA63D0DL.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050129642799939584/pu/vid/avc1/480x852/s7jgM8BeYiuvtKi-.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050129642799939584/pu/vid/avc1/720x1280/M5yNFSHLAZCsyGFG.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050129642799939584/pu/pl/wo7SE_vTvpXhjNqC.m3u8?tag=25&v=8c3"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050129642799939584"
+          ],
+          "media_source_tweet_id": [
+            "2050129754469155017"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050372199136276725",
+        "created_at": "2026-05-02T00:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T01:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050372199136276725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1270079156466958341",
+              "start": 3,
+              "username": "gunfanatics1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze9UNuE1w3",
+              "end": 41,
+              "expanded_url": "https://x.com/gunfanatics1/status/2050129754469155017/video/1",
+              "media_key": "7_2050129642799939584",
+              "start": 18,
+              "url": "https://t.co/ze9UNuE1w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050372199136276725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050129754469155017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gunfanatics1: https://t.co/ze9UNuE1w3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050129642799939584"
+          ]
+        },
+        "author_id": "1270079156466958341",
+        "conversation_id": "2050129754469155017",
+        "created_at": "2026-05-01T08:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050129754469155017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze9UNuE1w3",
+              "end": 23,
+              "expanded_url": "https://x.com/gunfanatics1/status/2050129754469155017/video/1",
+              "media_key": "7_2050129642799939584",
+              "start": 0,
+              "url": "https://t.co/ze9UNuE1w3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050129754469155017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 9697,
+          "like_count": 422,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ze9UNuE1w3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 2843,
+          "like_count": 8463,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2245
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T19:44:21.000Z",
+        "description": "Shooter @GunsFanatics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "GunsFanatics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3oLGoRv",
+                "end": 23,
+                "expanded_url": "https://bit.ly/3oLGoRv",
+                "start": 0,
+                "url": "https://t.co/H9gUXrlVzP"
+              }
+            ]
+          }
+        },
+        "id": "1270079156466958341",
+        "name": "Gun Fanatics",
+        "pinned_tweet_id": "2049404251869270306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923684513470636032/8U5zOkxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66468,
+          "following_count": 15930,
+          "like_count": 15886,
+          "listed_count": 64,
+          "media_count": 5258,
+          "tweet_count": 10381
+        },
+        "url": "https://t.co/H9gUXrlVzP",
+        "username": "gunfanatics1",
+        "verified": true
+      }
+    ]
+  }
+}

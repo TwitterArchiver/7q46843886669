@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053243702227734534"
+      ],
+      "media_source_tweet_id": [
+        "2053243707072139565"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053380748154151122",
+    "created_at": "2026-05-10T07:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053380748154151122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973886992891981824",
+          "start": 3,
+          "username": "KryaWanii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lTZckpkQeo",
+          "end": 38,
+          "expanded_url": "https://x.com/KryaWanii/status/2053243707072139565/photo/1",
+          "media_key": "3_2053243702227734534",
+          "start": 15,
+          "url": "https://t.co/lTZckpkQeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053380748154151122",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053243707072139565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KryaWanii: https://t.co/lTZckpkQeo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_2053243702227734534",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6WRMSXkAYWdYg.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053243702227734534"
+          ],
+          "media_source_tweet_id": [
+            "2053243707072139565"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053380748154151122",
+        "created_at": "2026-05-10T07:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053380748154151122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973886992891981824",
+              "start": 3,
+              "username": "KryaWanii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTZckpkQeo",
+              "end": 38,
+              "expanded_url": "https://x.com/KryaWanii/status/2053243707072139565/photo/1",
+              "media_key": "3_2053243702227734534",
+              "start": 15,
+              "url": "https://t.co/lTZckpkQeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053380748154151122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053243707072139565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KryaWanii: https://t.co/lTZckpkQeo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053243702227734534"
+          ]
+        },
+        "author_id": "1973886992891981824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053243707072139565",
+        "created_at": "2026-05-09T22:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053243707072139565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTZckpkQeo",
+              "end": 23,
+              "expanded_url": "https://x.com/KryaWanii/status/2053243707072139565/photo/1",
+              "media_key": "3_2053243702227734534",
+              "start": 0,
+              "url": "https://t.co/lTZckpkQeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053243707072139565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 10332,
+          "like_count": 1484,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lTZckpkQeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2962,
+          "like_count": 11819,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3436
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T23:05:16.000Z",
+        "description": "she/her - 22\njust a good girl trying her best! 👑💊\nVRC + Nightcore Lover\n(I use ai for fun)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/kyrawann",
+                "end": 23,
+                "expanded_url": "https://throne.com/kyrawann",
+                "start": 0,
+                "url": "https://t.co/uACH5T7qeP"
+              }
+            ]
+          }
+        },
+        "id": "1973886992891981824",
+        "name": "Kyra💕",
+        "pinned_tweet_id": "2044526379979387142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052159966098718722/MeFLz-Fj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5516,
+          "following_count": 19,
+          "like_count": 1382,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/uACH5T7qeP",
+        "username": "KryaWanii",
+        "verified": false
+      }
+    ]
+  }
+}

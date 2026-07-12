@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051636755065954308"
+      ],
+      "media_source_tweet_id": [
+        "2051636770693931016"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051994068583133691",
+    "created_at": "2026-05-06T11:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051994068583133691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1067676495504658432",
+          "start": 3,
+          "username": "cutecorestar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zdn9E99EjS",
+          "end": 47,
+          "expanded_url": "https://x.com/cutecorestar/status/2051636770693931016/photo/1",
+          "media_key": "3_2051636755065954308",
+          "start": 24,
+          "url": "https://t.co/Zdn9E99EjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051994068583133691",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051636770693931016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutecorestar: &lt;3 https://t.co/Zdn9E99EjS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2051636755065954308",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjgwjnXYAQoYeS.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051636755065954308"
+          ],
+          "media_source_tweet_id": [
+            "2051636770693931016"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051994068583133691",
+        "created_at": "2026-05-06T11:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051994068583133691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1067676495504658432",
+              "start": 3,
+              "username": "cutecorestar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zdn9E99EjS",
+              "end": 47,
+              "expanded_url": "https://x.com/cutecorestar/status/2051636770693931016/photo/1",
+              "media_key": "3_2051636755065954308",
+              "start": 24,
+              "url": "https://t.co/Zdn9E99EjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051994068583133691",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051636770693931016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutecorestar: &lt;3 https://t.co/Zdn9E99EjS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051636755065954308"
+          ]
+        },
+        "author_id": "1067676495504658432",
+        "conversation_id": "2051636770693931016",
+        "created_at": "2026-05-05T12:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051636770693931016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zdn9E99EjS",
+              "end": 29,
+              "expanded_url": "https://x.com/cutecorestar/status/2051636770693931016/photo/1",
+              "media_key": "3_2051636755065954308",
+              "start": 6,
+              "url": "https://t.co/Zdn9E99EjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051636770693931016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 28469,
+          "like_count": 3876,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;3 https://t.co/Zdn9E99EjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 2893,
+          "like_count": 10632,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 3008
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T07:08:07.000Z",
+        "description": "🎀 cute, sanrio, kawaii & art inspo 🎀 turn on notifications",
+        "id": "1067676495504658432",
+        "location": "♡ DM for features /submissions",
+        "name": "Cute",
+        "pinned_tweet_id": "1929170548619104660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550457031986929665/R0YiNtsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116434,
+          "following_count": 19753,
+          "like_count": 15228,
+          "listed_count": 227,
+          "media_count": 3147,
+          "tweet_count": 3501
+        },
+        "username": "cutecorestar",
+        "verified": true
+      }
+    ]
+  }
+}

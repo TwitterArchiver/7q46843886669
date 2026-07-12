@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055895753672011776"
+      ],
+      "media_source_tweet_id": [
+        "2055895755823694217"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2056155914823258518",
+    "created_at": "2026-05-17T23:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056155914823258518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471640417519030275",
+          "start": 3,
+          "username": "TopGyaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zjMKnxcwDq",
+          "end": 37,
+          "expanded_url": "https://x.com/TopGyaru/status/2055895755823694217/photo/1",
+          "media_key": "3_2055895753672011776",
+          "start": 14,
+          "url": "https://t.co/zjMKnxcwDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056155914823258518",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 789
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055895755823694217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TopGyaru: https://t.co/zjMKnxcwDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2055895753672011776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgCS5zasAAjkUR.jpg",
+        "width": 513
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055895753672011776"
+          ],
+          "media_source_tweet_id": [
+            "2055895755823694217"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056155914823258518",
+        "created_at": "2026-05-17T23:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056155914823258518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471640417519030275",
+              "start": 3,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjMKnxcwDq",
+              "end": 37,
+              "expanded_url": "https://x.com/TopGyaru/status/2055895755823694217/photo/1",
+              "media_key": "3_2055895753672011776",
+              "start": 14,
+              "url": "https://t.co/zjMKnxcwDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056155914823258518",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 789
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055895755823694217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TopGyaru: https://t.co/zjMKnxcwDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055895753672011776"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055895755823694217",
+        "created_at": "2026-05-17T06:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055895755823694217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjMKnxcwDq",
+              "end": 23,
+              "expanded_url": "https://x.com/TopGyaru/status/2055895755823694217/photo/1",
+              "media_key": "3_2055895753672011776",
+              "start": 0,
+              "url": "https://t.co/zjMKnxcwDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055895755823694217",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1257,
+          "impression_count": 254682,
+          "like_count": 23773,
+          "quote_count": 38,
+          "reply_count": 108,
+          "retweet_count": 789
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zjMKnxcwDq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2980,
+          "like_count": 13160,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 4017
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277192,
+          "following_count": 1415,
+          "like_count": 143570,
+          "listed_count": 506,
+          "media_count": 10175,
+          "tweet_count": 27791
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

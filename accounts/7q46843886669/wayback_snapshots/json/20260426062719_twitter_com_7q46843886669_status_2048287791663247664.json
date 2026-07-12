@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2048287791663247664",
+    "created_at": "2026-04-26T06:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048287791663247664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044355126517727232",
+          "start": 3,
+          "username": "Overdose_HPD"
+        },
+        {
+          "end": 30,
+          "id": "1505596113813876736",
+          "start": 18,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048287791663247664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048263185275465743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_HPD: @chrorine_17 越危险的关系越亲密"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2048287791663247664",
+        "created_at": "2026-04-26T06:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048287791663247664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044355126517727232",
+              "start": 3,
+              "username": "Overdose_HPD"
+            },
+            {
+              "end": 30,
+              "id": "1505596113813876736",
+              "start": 18,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048287791663247664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048263185275465743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_HPD: @chrorine_17 越危险的关系越亲密"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044355126517727232",
+        "conversation_id": "2048193440161435661",
+        "created_at": "2026-04-26T04:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048263185275465743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505596113813876736",
+              "start": 0,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048263185275465743",
+        "in_reply_to_user_id": "1505596113813876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048193440161435661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chrorine_17 越危险的关系越亲密"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2722,
+          "like_count": 6109,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1170
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T10:00:27.000Z",
+        "description": "Spring风的附庸。药物滥用的内容相关会转发到@Overdose_DBD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "Overdose_DBD"
+              }
+            ]
+          }
+        },
+        "id": "2044355126517727232",
+        "location": "前人未至之地，前人未竟之事",
+        "name": "超级春春春风#蒼い惑星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355818687279104/VCbkAyqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 80,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 204
+        },
+        "username": "Overdose_HPD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FUsQ5cO10AA2Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FUsQ5cO10AA2YTQ9",
+                "start": 0,
+                "url": "https://t.co/ilHsoNt8HW"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984829376392044544/-Bz5LJl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 240,
+          "like_count": 17530,
+          "listed_count": 7,
+          "media_count": 247,
+          "tweet_count": 6266
+        },
+        "url": "https://t.co/ilHsoNt8HW",
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

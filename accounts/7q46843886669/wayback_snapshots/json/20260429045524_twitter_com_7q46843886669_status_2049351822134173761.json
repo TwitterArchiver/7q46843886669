@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2049094191842722071",
+    "created_at": "2026-04-29T04:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049351822134173761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529654419213541376",
+          "start": 0,
+          "username": "3LifeStrongWine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049351822134173761",
+    "in_reply_to_user_id": "1529654419213541376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049351690256785764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3LifeStrongWine 好好玩喝威士忌到底喝的是什么！我每次喝都只觉得酒精味噩噩噩噩噩噩噩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2049094191842722071",
+        "created_at": "2026-04-29T04:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049351822134173761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529654419213541376",
+              "start": 0,
+              "username": "3LifeStrongWine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049351822134173761",
+        "in_reply_to_user_id": "1529654419213541376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049351690256785764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3LifeStrongWine 好好玩喝威士忌到底喝的是什么！我每次喝都只觉得酒精味噩噩噩噩噩噩噩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529654419213541376",
+        "conversation_id": "2049094191842722071",
+        "created_at": "2026-04-29T04:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049351690256785764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049351690256785764",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049351426393145796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "我\n说话",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.5389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2775,
+          "like_count": 6999,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1713
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T02:43:47.000Z",
+        "description": "桃花潭水深千尺  不及汪伦送我情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cherryluo5289?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cherryluo5289?igsh=NTkxYXo5bDgxNWpl&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3g5y5VovBM"
+              }
+            ]
+          }
+        },
+        "id": "1529654419213541376",
+        "location": "我想带你看我走到过的每一个地方",
+        "name": "三生醇醪",
+        "pinned_tweet_id": "2044103176128000050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041201989183586304/h5o7dZlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 115,
+          "like_count": 6906,
+          "listed_count": 13,
+          "media_count": 3583,
+          "tweet_count": 14106
+        },
+        "url": "https://t.co/3g5y5VovBM",
+        "username": "3LifeStrongWine",
+        "verified": false
+      }
+    ]
+  }
+}

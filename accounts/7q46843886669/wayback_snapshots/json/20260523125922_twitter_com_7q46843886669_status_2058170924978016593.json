@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058105312305963008"
+      ],
+      "media_source_tweet_id": [
+        "2058105315975991722"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2058170924978016593",
+    "created_at": "2026-05-23T12:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058170924978016593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869744763718533120",
+          "start": 3,
+          "username": "ArtSwarog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INeIHBKFrj",
+          "end": 38,
+          "expanded_url": "https://x.com/ArtSwarog/status/2058105315975991722/photo/1",
+          "media_key": "3_2058105312305963008",
+          "start": 15,
+          "url": "https://t.co/INeIHBKFrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058170924978016593",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058105315975991722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArtSwarog: https://t.co/INeIHBKFrj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2058105312305963008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_b4JJXYAAV7FA.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058105312305963008"
+          ],
+          "media_source_tweet_id": [
+            "2058105315975991722"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2058170924978016593",
+        "created_at": "2026-05-23T12:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058170924978016593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869744763718533120",
+              "start": 3,
+              "username": "ArtSwarog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INeIHBKFrj",
+              "end": 38,
+              "expanded_url": "https://x.com/ArtSwarog/status/2058105315975991722/photo/1",
+              "media_key": "3_2058105312305963008",
+              "start": 15,
+              "url": "https://t.co/INeIHBKFrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058170924978016593",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058105315975991722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArtSwarog: https://t.co/INeIHBKFrj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058105312305963008"
+          ]
+        },
+        "author_id": "1869744763718533120",
+        "conversation_id": "2058105315975991722",
+        "created_at": "2026-05-23T08:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058105315975991722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INeIHBKFrj",
+              "end": 23,
+              "expanded_url": "https://x.com/ArtSwarog/status/2058105315975991722/photo/1",
+              "media_key": "3_2058105312305963008",
+              "start": 0,
+              "url": "https://t.co/INeIHBKFrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058105315975991722",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/INeIHBKFrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 3104,
+          "like_count": 14825,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4447
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T14:02:29.000Z",
+        "description": "Memes, Mary Jane & joints 🌿💨",
+        "id": "1869744763718533120",
+        "location": "Polska",
+        "name": "Artek Swaróg🌿💨🇵🇱",
+        "pinned_tweet_id": "2058124181892448684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041733082626322433/QNnCFUN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8577,
+          "following_count": 1161,
+          "like_count": 104862,
+          "listed_count": 11,
+          "media_count": 5150,
+          "tweet_count": 12085
+        },
+        "username": "ArtSwarog",
+        "verified": false
+      }
+    ]
+  }
+}

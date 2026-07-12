@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051324645563928576"
+      ],
+      "media_source_tweet_id": [
+        "2051324650387276044"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051615794254246099",
+    "created_at": "2026-05-05T10:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051615794254246099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529080754902384641",
+          "start": 3,
+          "username": "adricazoorla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4YrtpyJi2g",
+          "end": 61,
+          "expanded_url": "https://x.com/adricazoorla/status/2051324650387276044/photo/1",
+          "media_key": "3_2051324645563928576",
+          "start": 38,
+          "url": "https://t.co/4YrtpyJi2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051615794254246099",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051324650387276044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adricazoorla: el ciclo de la vida https://t.co/4YrtpyJi2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_2051324645563928576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfE5ZHXkAAnG75.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051324645563928576"
+          ],
+          "media_source_tweet_id": [
+            "2051324650387276044"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051615794254246099",
+        "created_at": "2026-05-05T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051615794254246099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529080754902384641",
+              "start": 3,
+              "username": "adricazoorla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YrtpyJi2g",
+              "end": 61,
+              "expanded_url": "https://x.com/adricazoorla/status/2051324650387276044/photo/1",
+              "media_key": "3_2051324645563928576",
+              "start": 38,
+              "url": "https://t.co/4YrtpyJi2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051615794254246099",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051324650387276044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adricazoorla: el ciclo de la vida https://t.co/4YrtpyJi2g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051324645563928576"
+          ]
+        },
+        "author_id": "1529080754902384641",
+        "conversation_id": "2051324650387276044",
+        "created_at": "2026-05-04T15:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051324650387276044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4YrtpyJi2g",
+              "end": 43,
+              "expanded_url": "https://x.com/adricazoorla/status/2051324650387276044/photo/1",
+              "media_key": "3_2051324645563928576",
+              "start": 20,
+              "url": "https://t.co/4YrtpyJi2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051324650387276044",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 5097,
+          "like_count": 875,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "el ciclo de la vida https://t.co/4YrtpyJi2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2883,
+          "like_count": 10186,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2873
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T12:44:03.000Z",
+        "description": "Creador de contenido. PROMOS Y COLABOS DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/adricazoorla?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/adricazoorla?igsh=MWEzOGgxNnVxczd3OA==",
+                "start": 0,
+                "url": "https://t.co/XYMp7hC4I7"
+              }
+            ]
+          }
+        },
+        "id": "1529080754902384641",
+        "location": "jaen /npcg",
+        "name": "adri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954145762402615296/o_iDH5pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15797,
+          "following_count": 1871,
+          "like_count": 56543,
+          "listed_count": 19,
+          "media_count": 888,
+          "tweet_count": 18122
+        },
+        "url": "https://t.co/XYMp7hC4I7",
+        "username": "adricazoorla",
+        "verified": true
+      }
+    ]
+  }
+}

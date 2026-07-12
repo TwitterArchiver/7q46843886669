@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063651843780304896"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063651850948374971",
+    "created_at": "2026-06-07T15:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063651850948374971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5TbhCmP7cM",
+          "end": 25,
+          "expanded_url": "https://x.com/7q46843886669/status/2063651850948374971/photo/1",
+          "media_key": "3_2063651843780304896",
+          "start": 2,
+          "url": "https://t.co/5TbhCmP7cM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063651850948374971",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/5TbhCmP7cM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2063651843780304896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOQaxCa4AAq_5q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063651843780304896"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063651850948374971",
+        "created_at": "2026-06-07T15:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063651850948374971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TbhCmP7cM",
+              "end": 25,
+              "expanded_url": "https://x.com/7q46843886669/status/2063651850948374971/photo/1",
+              "media_key": "3_2063651843780304896",
+              "start": 2,
+              "url": "https://t.co/5TbhCmP7cM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063651850948374971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/5TbhCmP7cM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 3367,
+          "like_count": 17382,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 4811
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

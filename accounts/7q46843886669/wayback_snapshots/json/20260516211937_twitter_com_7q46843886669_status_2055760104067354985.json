@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055576904674295808",
+        "3_2055576929982717952"
+      ],
+      "media_source_tweet_id": [
+        "2055577006780358789",
+        "2055577006780358789"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055760104067354985",
+    "created_at": "2026-05-16T21:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055760104067354985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1809730383472390149",
+          "start": 3,
+          "username": "sorapi_chan3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LhIBYDoktG",
+          "end": 43,
+          "expanded_url": "https://x.com/sorapi_chan3/status/2055577006780358789/photo/1",
+          "media_key": "3_2055576904674295808",
+          "start": 20,
+          "url": "https://t.co/LhIBYDoktG"
+        },
+        {
+          "display_url": "pic.x.com/LhIBYDoktG",
+          "end": 43,
+          "expanded_url": "https://x.com/sorapi_chan3/status/2055577006780358789/photo/1",
+          "media_key": "3_2055576929982717952",
+          "start": 20,
+          "url": "https://t.co/LhIBYDoktG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055760104067354985",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055577006780358789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @sorapi_chan3: 😙 https://t.co/LhIBYDoktG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2055576904674295808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbgTcubwAAR8Bd.png",
+        "width": 775
+      },
+      {
+        "height": 766,
+        "media_key": "3_2055576929982717952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbgU7AboAALqPX.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055576904674295808",
+            "3_2055576929982717952"
+          ],
+          "media_source_tweet_id": [
+            "2055577006780358789",
+            "2055577006780358789"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055760104067354985",
+        "created_at": "2026-05-16T21:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055760104067354985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809730383472390149",
+              "start": 3,
+              "username": "sorapi_chan3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhIBYDoktG",
+              "end": 43,
+              "expanded_url": "https://x.com/sorapi_chan3/status/2055577006780358789/photo/1",
+              "media_key": "3_2055576904674295808",
+              "start": 20,
+              "url": "https://t.co/LhIBYDoktG"
+            },
+            {
+              "display_url": "pic.x.com/LhIBYDoktG",
+              "end": 43,
+              "expanded_url": "https://x.com/sorapi_chan3/status/2055577006780358789/photo/1",
+              "media_key": "3_2055576929982717952",
+              "start": 20,
+              "url": "https://t.co/LhIBYDoktG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055760104067354985",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055577006780358789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @sorapi_chan3: 😙 https://t.co/LhIBYDoktG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055576904674295808",
+            "3_2055576929982717952"
+          ]
+        },
+        "author_id": "1809730383472390149",
+        "conversation_id": "2055577006780358789",
+        "created_at": "2026-05-16T09:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055577006780358789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhIBYDoktG",
+              "end": 25,
+              "expanded_url": "https://x.com/sorapi_chan3/status/2055577006780358789/photo/1",
+              "media_key": "3_2055576904674295808",
+              "start": 2,
+              "url": "https://t.co/LhIBYDoktG"
+            },
+            {
+              "display_url": "pic.x.com/LhIBYDoktG",
+              "end": 25,
+              "expanded_url": "https://x.com/sorapi_chan3/status/2055577006780358789/photo/1",
+              "media_key": "3_2055576929982717952",
+              "start": 2,
+              "url": "https://t.co/LhIBYDoktG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055577006780358789",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1108,
+          "impression_count": 132824,
+          "like_count": 6067,
+          "quote_count": 43,
+          "reply_count": 8,
+          "retweet_count": 543
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "😙 https://t.co/LhIBYDoktG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2979,
+          "like_count": 12882,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3901
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T23:25:46.000Z",
+        "description": "ダンジョーです\n本垢→@skyw315\n\ni.h/@S_hiro0021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "skyw315"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "S_hiro0021"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/63owft4rzzz849…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/63owft4rzzz849g?t=W3pUoL&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Lku1DeLx2Q"
+              }
+            ]
+          }
+        },
+        "id": "1809730383472390149",
+        "name": "ソラ",
+        "pinned_tweet_id": "1963853788764115008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963524982241464323/dnn8SbP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 197,
+          "like_count": 2749,
+          "listed_count": 20,
+          "media_count": 1570,
+          "tweet_count": 8598
+        },
+        "url": "https://t.co/Lku1DeLx2Q",
+        "username": "sorapi_chan3",
+        "verified": false
+      }
+    ]
+  }
+}

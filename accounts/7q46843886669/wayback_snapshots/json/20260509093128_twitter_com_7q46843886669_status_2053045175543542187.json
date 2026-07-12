@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052647506627198976"
+      ],
+      "media_source_tweet_id": [
+        "2052647509088944543"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053045175543542187",
+    "created_at": "2026-05-09T09:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053045175543542187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2019201936533155840",
+          "start": 3,
+          "username": "liminal__dreams"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2acrf4uYoT",
+          "end": 44,
+          "expanded_url": "https://x.com/liminal__dreams/status/2052647509088944543/photo/1",
+          "media_key": "3_2052647506627198976",
+          "start": 21,
+          "url": "https://t.co/2acrf4uYoT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053045175543542187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052647509088944543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liminal__dreams: https://t.co/2acrf4uYoT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052647506627198976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx4CCmbAAAH9Dg.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052647506627198976"
+          ],
+          "media_source_tweet_id": [
+            "2052647509088944543"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053045175543542187",
+        "created_at": "2026-05-09T09:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053045175543542187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2019201936533155840",
+              "start": 3,
+              "username": "liminal__dreams"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2acrf4uYoT",
+              "end": 44,
+              "expanded_url": "https://x.com/liminal__dreams/status/2052647509088944543/photo/1",
+              "media_key": "3_2052647506627198976",
+              "start": 21,
+              "url": "https://t.co/2acrf4uYoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053045175543542187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052647509088944543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liminal__dreams: https://t.co/2acrf4uYoT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052647506627198976"
+          ]
+        },
+        "author_id": "2019201936533155840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052647509088944543",
+        "created_at": "2026-05-08T07:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052647509088944543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2acrf4uYoT",
+              "end": 23,
+              "expanded_url": "https://x.com/liminal__dreams/status/2052647509088944543/photo/1",
+              "media_key": "3_2052647506627198976",
+              "start": 0,
+              "url": "https://t.co/2acrf4uYoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052647509088944543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 39294,
+          "like_count": 3016,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2acrf4uYoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2970,
+          "like_count": 11667,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3358
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T00:10:52.000Z",
+        "description": "Liminal Space & Dreamcore ✧",
+        "id": "2019201936533155840",
+        "location": "?",
+        "name": "Liminal Dreams",
+        "pinned_tweet_id": "2051934958663479538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019203634924294144/XwjB4ByZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53696,
+          "following_count": 0,
+          "like_count": 375,
+          "listed_count": 121,
+          "media_count": 2477,
+          "tweet_count": 2492
+        },
+        "username": "liminal__dreams",
+        "verified": true
+      }
+    ]
+  }
+}

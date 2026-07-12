@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057845144150532277",
+    "created_at": "2026-05-23T07:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058089776457380337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515724003268493312",
+          "start": 0,
+          "username": "boringbaby78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058089776457380337",
+    "in_reply_to_user_id": "1515724003268493312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057845144150532277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boringbaby78 新世界将把我们留在原地♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057845144150532277",
+        "created_at": "2026-05-23T07:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058089776457380337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1515724003268493312",
+              "start": 0,
+              "username": "boringbaby78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058089776457380337",
+        "in_reply_to_user_id": "1515724003268493312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057845144150532277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boringbaby78 新世界将把我们留在原地♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515724003268493312",
+        "conversation_id": "2057845144150532277",
+        "created_at": "2026-05-22T15:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057845144150532277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057845144150532277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20592,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 130,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在感觉都是小孩在玩\n全是05后了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 3099,
+          "like_count": 14780,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4451
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T16:09:11.000Z",
+        "description": "天天开心",
+        "id": "1515724003268493312",
+        "name": "七七八八",
+        "pinned_tweet_id": "2051702843934187998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515745141289414656/zidpJ4kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 14,
+          "like_count": 37,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 236
+        },
+        "username": "boringbaby78",
+        "verified": false
+      }
+    ]
+  }
+}

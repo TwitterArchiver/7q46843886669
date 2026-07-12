@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2051792472037323142",
+    "created_at": "2026-05-05T22:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051792472037323142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917047326990094336",
+          "start": 3,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051792472037323142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051601428486189549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0TwT012: 开心消消乐的反义词是悲伤积积痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2051792472037323142",
+        "created_at": "2026-05-05T22:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051792472037323142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917047326990094336",
+              "start": 3,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051792472037323142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051601428486189549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0TwT012: 开心消消乐的反义词是悲伤积积痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2051601428486189549",
+        "created_at": "2026-05-05T09:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051601428486189549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051601428486189549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3543,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开心消消乐的反义词是悲伤积积痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 2892,
+          "like_count": 10518,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2961
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2767,
+          "following_count": 200,
+          "like_count": 1130,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

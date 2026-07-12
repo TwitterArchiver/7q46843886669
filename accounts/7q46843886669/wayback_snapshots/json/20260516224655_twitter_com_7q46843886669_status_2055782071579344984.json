@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2055782071579344984",
+    "created_at": "2026-05-16T22:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T23:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055782071579344984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900706496121602048",
+          "start": 3,
+          "username": "JIAN89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055782071579344984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055639094794088534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIAN89648964: 后来我才明白 傻人有傻福的意思是每个傻傻的心地善良的人 都会碰到数不清的傻福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2055782071579344984",
+        "created_at": "2026-05-16T22:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055782071579344984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900706496121602048",
+              "start": 3,
+              "username": "JIAN89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055782071579344984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055639094794088534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIAN89648964: 后来我才明白 傻人有傻福的意思是每个傻傻的心地善良的人 都会碰到数不清的傻福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2055639094794088534",
+        "created_at": "2026-05-16T13:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055639094794088534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055639094794088534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8048,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "后来我才明白 傻人有傻福的意思是每个傻傻的心地善良的人 都会碰到数不清的傻福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 2978,
+          "like_count": 12895,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 3909
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好\n文案来源网络侵权私信必删🙏\n不主动私信聊骚骚扰女生 皮下男\n@JIAN222100（忧郁小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "JIAN222100"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽",
+        "pinned_tweet_id": "2054805625373376642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049059699233017856/xxGUB1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2732,
+          "following_count": 43,
+          "like_count": 11262,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 4040
+        },
+        "username": "JIAN89648964",
+        "verified": false
+      }
+    ]
+  }
+}

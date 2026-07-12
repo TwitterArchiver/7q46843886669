@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057059271364546769",
+    "created_at": "2026-05-20T17:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057148713651610069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957730266514092032",
+          "start": 0,
+          "username": "artemisu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057148713651610069",
+    "in_reply_to_user_id": "1957730266514092032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057068069122662421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artemisu22 我是xx的飛機杯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057059271364546769",
+        "created_at": "2026-05-20T17:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057148713651610069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957730266514092032",
+              "start": 0,
+              "username": "artemisu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057148713651610069",
+        "in_reply_to_user_id": "1957730266514092032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057068069122662421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artemisu22 我是xx的飛機杯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957730266514092032",
+        "conversation_id": "2057059271364546769",
+        "created_at": "2026-05-20T11:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057068069122662421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057068069122662421",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057059271364546769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 屁眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 3006,
+          "like_count": 13884,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 4297
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T09:04:10.000Z",
+        "description": "韩国香港两边走的苦命女孩\n我的threads被meta炸了23个号了\n现在我会低调转战推特分享生活\nNCT RIIZE ITZY🫶🏽💗",
+        "id": "1957730266514092032",
+        "name": "铃音Miko🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057126022982889472/3vuPLTIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 48,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 202
+        },
+        "username": "artemisu22",
+        "verified": false
+      }
+    ]
+  }
+}

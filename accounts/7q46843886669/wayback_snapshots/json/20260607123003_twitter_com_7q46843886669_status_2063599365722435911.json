@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2063577219755364743",
+    "created_at": "2026-06-07T12:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063599365722435911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063599365722435911",
+    "in_reply_to_user_id": "1922574083348414464",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063577219755364743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063577219755364743",
+        "created_at": "2026-06-07T12:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063599365722435911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063599365722435911",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063577219755364743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063577219755364743",
+        "created_at": "2026-06-07T11:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063577219755364743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liujiayi1111/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/liujiayi1111/status/2063475665203060755",
+              "start": 4,
+              "url": "https://t.co/efaqmGUTsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063577219755364743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063475665203060755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起 https://t.co/efaqmGUTsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 3365,
+          "like_count": 17364,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 4791
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

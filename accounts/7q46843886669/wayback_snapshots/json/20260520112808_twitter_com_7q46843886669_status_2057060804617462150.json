@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056838453908877312"
+      ],
+      "media_source_tweet_id": [
+        "2056838457805484145"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2057060804617462150",
+    "created_at": "2026-05-20T11:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057060804617462150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1274804078321610752",
+          "start": 3,
+          "username": "maruon22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lo59Pe06EJ",
+          "end": 43,
+          "expanded_url": "https://x.com/maruon22/status/2056838457805484145/photo/1",
+          "media_key": "3_2056838453908877312",
+          "start": 20,
+          "url": "https://t.co/lo59Pe06EJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057060804617462150",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056838457805484145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maruon22: 眼精疲労に https://t.co/lo59Pe06EJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056838453908877312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItbrR2aMAAFLvE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056838453908877312"
+          ],
+          "media_source_tweet_id": [
+            "2056838457805484145"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2057060804617462150",
+        "created_at": "2026-05-20T11:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057060804617462150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1274804078321610752",
+              "start": 3,
+              "username": "maruon22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lo59Pe06EJ",
+              "end": 43,
+              "expanded_url": "https://x.com/maruon22/status/2056838457805484145/photo/1",
+              "media_key": "3_2056838453908877312",
+              "start": 20,
+              "url": "https://t.co/lo59Pe06EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057060804617462150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056838457805484145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maruon22: 眼精疲労に https://t.co/lo59Pe06EJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056838453908877312"
+          ]
+        },
+        "author_id": "1274804078321610752",
+        "conversation_id": "2056838457805484145",
+        "created_at": "2026-05-19T20:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T21:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056838457805484145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lo59Pe06EJ",
+              "end": 29,
+              "expanded_url": "https://x.com/maruon22/status/2056838457805484145/photo/1",
+              "media_key": "3_2056838453908877312",
+              "start": 6,
+              "url": "https://t.co/lo59Pe06EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056838457805484145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8945,
+          "impression_count": 2677800,
+          "like_count": 125038,
+          "quote_count": 1166,
+          "reply_count": 675,
+          "retweet_count": 20205
+        },
+        "reply_settings": "everyone",
+        "text": "眼精疲労に https://t.co/lo59Pe06EJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 2999,
+          "like_count": 13773,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 4289
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T20:39:37.000Z",
+        "description": "犬猫大好き。キャンプ大好き。スイカ大好き。裸の銃を持つ男。反日は大嫌いです。太陽光発電・風力発電は環境破壊装置。Grokで遊んでます。誤字脱字が多いです。",
+        "id": "1274804078321610752",
+        "name": "まるお2号🇯🇵（羊の皮を被った猫）",
+        "pinned_tweet_id": "1919926998815932533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974244152255922176/HE7U3aa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40128,
+          "following_count": 15535,
+          "like_count": 559611,
+          "listed_count": 211,
+          "media_count": 30506,
+          "tweet_count": 171254
+        },
+        "username": "maruon22",
+        "verified": true
+      }
+    ]
+  }
+}
