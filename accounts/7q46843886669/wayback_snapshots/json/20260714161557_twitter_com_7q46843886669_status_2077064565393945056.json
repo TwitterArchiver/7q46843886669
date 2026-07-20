@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077064553347870720",
+        "3_2077064553813467136"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2077064565393945056",
+    "created_at": "2026-07-14T16:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077064565393945056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g4YYykIuDB",
+          "end": 44,
+          "expanded_url": "https://x.com/7q46843886669/status/2077064565393945056/photo/1",
+          "media_key": "3_2077064553347870720",
+          "start": 21,
+          "url": "https://t.co/g4YYykIuDB"
+        },
+        {
+          "display_url": "pic.x.com/g4YYykIuDB",
+          "end": 44,
+          "expanded_url": "https://x.com/7q46843886669/status/2077064565393945056/photo/1",
+          "media_key": "3_2077064553813467136",
+          "start": 21,
+          "url": "https://t.co/g4YYykIuDB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077064565393945056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好我是操蛋 我又被封了牙 這次是6天。 https://t.co/g4YYykIuDB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2077064553347870720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM3NN3a8AABKqo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2077064553813467136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM3NPmbYAAKILQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077064553347870720",
+            "3_2077064553813467136"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2077064565393945056",
+        "created_at": "2026-07-14T16:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077064565393945056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4YYykIuDB",
+              "end": 44,
+              "expanded_url": "https://x.com/7q46843886669/status/2077064565393945056/photo/1",
+              "media_key": "3_2077064553347870720",
+              "start": 21,
+              "url": "https://t.co/g4YYykIuDB"
+            },
+            {
+              "display_url": "pic.x.com/g4YYykIuDB",
+              "end": 44,
+              "expanded_url": "https://x.com/7q46843886669/status/2077064565393945056/photo/1",
+              "media_key": "3_2077064553813467136",
+              "start": 21,
+              "url": "https://t.co/g4YYykIuDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077064565393945056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是操蛋 我又被封了牙 這次是6天。 https://t.co/g4YYykIuDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n@QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 3399,
+          "like_count": 20736,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 5432
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

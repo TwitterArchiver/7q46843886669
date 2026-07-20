@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076974524847849472"
+      ],
+      "media_source_tweet_id": [
+        "2076974540932919302"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2077134791200342378",
+    "created_at": "2026-07-14T20:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077134791200342378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692075579850563584",
+          "start": 3,
+          "username": "10Lystra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yFpOLLZ2dD",
+          "end": 65,
+          "expanded_url": "https://x.com/10Lystra/status/2076974540932919302/photo/1",
+          "media_key": "3_2076974524847849472",
+          "start": 42,
+          "url": "https://t.co/yFpOLLZ2dD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077134791200342378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076974540932919302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Lystra: 所以你们精神状态不好的跨儿去餐饮供应链就是很糟糕的事情 https://t.co/yFpOLLZ2dD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2076974524847849472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLlU3kXgAADhq7.jpg",
+        "width": 651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076974524847849472"
+          ],
+          "media_source_tweet_id": [
+            "2076974540932919302"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2077134791200342378",
+        "created_at": "2026-07-14T20:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077134791200342378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692075579850563584",
+              "start": 3,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFpOLLZ2dD",
+              "end": 65,
+              "expanded_url": "https://x.com/10Lystra/status/2076974540932919302/photo/1",
+              "media_key": "3_2076974524847849472",
+              "start": 42,
+              "url": "https://t.co/yFpOLLZ2dD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077134791200342378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076974540932919302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Lystra: 所以你们精神状态不好的跨儿去餐饮供应链就是很糟糕的事情 https://t.co/yFpOLLZ2dD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076974524847849472"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2076974540932919302",
+        "created_at": "2026-07-14T10:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076974540932919302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFpOLLZ2dD",
+              "end": 51,
+              "expanded_url": "https://x.com/10Lystra/status/2076974540932919302/photo/1",
+              "media_key": "3_2076974524847849472",
+              "start": 28,
+              "url": "https://t.co/yFpOLLZ2dD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076974540932919302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3635,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以你们精神状态不好的跨儿去餐饮供应链就是很糟糕的事情 https://t.co/yFpOLLZ2dD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n@QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 3401,
+          "like_count": 20750,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 5438
+        },
+        "url": "",
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1075,
+          "like_count": 2688,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 9334
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      }
+    ]
+  }
+}
